@@ -36,11 +36,11 @@ export const NormalizedOpportunitySchema = z.object({
     state: z.string().nullable().default(null),
     city: z.string().nullable().default(null),
     zip: z.string().nullable().default(null),
-  }).default({ state: null, city: null, zip: null }),
+  }).default(() => ({ state: null, city: null, zip: null })),
   posted_at: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
   due_at: z.string().nullable().default(null),
   due_at_source: z.string().nullable().default(null),
-  archive_at: z.string().nullable().default(null),
+  archive_at: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).nullable().default(null),
   solicitation_number: z.string().nullable().default(null),
   naics: z.array(z.string()).default([]),
   psc: z.string().nullable().default(null),
@@ -84,7 +84,7 @@ export const OpportunitySchema = NormalizedOpportunitySchema.extend({
   digest: z.object({
     sent_in: z.array(z.string()).default([]),
     sent_hash: z.string().nullable().default(null),
-  }).default({ sent_in: [], sent_hash: null }),
+  }).default(() => ({ sent_in: [], sent_hash: null })),
 });
 export type Opportunity = z.infer<typeof OpportunitySchema>;
 

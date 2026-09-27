@@ -37,5 +37,15 @@ describe("opportunity model", () => {
 
   it("rejects an unknown notice type", () => {
     expect(() => sampleNormalized({ notice_type: "rfq" as never })).toThrow();
+    expect(() => sampleNormalized({ archive_at: "2026-09-15T00:00:00.000" })).toThrow();
+  });
+
+  it("gives each record its own digest and place objects", () => {
+    const a = newOpportunity(sampleNormalized({ id: "crol:1", source_id: "1", place: undefined as never }), "2026-09-27T11:00:00Z");
+    const b = newOpportunity(sampleNormalized({ id: "crol:2", source_id: "2", place: undefined as never }), "2026-09-27T11:00:00Z");
+    a.digest.sent_in.push("2026-09-28");
+    a.place.state = "NJ";
+    expect(b.digest.sent_in).toEqual([]);
+    expect(b.place.state).toBeNull();
   });
 });

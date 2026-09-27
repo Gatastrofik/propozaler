@@ -208,7 +208,7 @@ interface FetchContext {
 }
 interface FetchResult {
   records: NormalizedOpportunity[];   // everything except pipeline fields
-  checkpoint: Checkpoint;             // written only if the run reaches the commit step
+  checkpoint: Checkpoint;             // written by `pre` when the adapter was not partial; an unpushed run leaves no trace, so this is safe
   stats: { requests: number; fetched: number; normalized: number; skipped: number; errors: string[] };
   partial: boolean;                   // true if a page or secondary fetch failed; checkpoint must then not advance past the failure
 }
@@ -588,7 +588,7 @@ Ordered by the 2026-12-31 go/no-go. The sources where our buyers post (state and
 
 Shortest path to a real email of real solicitations, with monitoring, and no LLM in the loop yet.
 
-1. `git clone https://github.com/Gatastrofik/propozaler` (the local directory is not a clone yet); TypeScript, Node 22 (`engines`), `npm`, dependencies limited to `zod`, `yaml`, and an HTML-to-text helper. `npm test` runs offline.
+1. The repo is cloned and pushed. TypeScript, Node 22 (`engines`), `npm`, runtime dependencies limited to `zod`, `yaml`, `html-to-text`, and `nodemailer`; dev dependencies `typescript`, `vitest`, and type packages. `npm test` runs offline.
 2. `Opportunity` type and zod schema; store read/write; `content_hash`; `changes[]`.
 3. CROL adapter with a recorded fixture and tests for paging, overlap, HTML stripping, the column-drift check, and the checkpoint rule.
 4. `select` with `filters.yaml` and tests, including word-boundary and case-sensitivity cases from section 4.4. In milestone 1 the digest threshold is on `net_score`, not `fit_score`, and `summary` is the first 200 characters of `description_text`.

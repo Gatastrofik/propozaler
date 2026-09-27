@@ -24,8 +24,8 @@ when a decision changes. Go/no-go on the business is 2026-12-31; the build plan 
 - Deterministic things live in code with offline tests. The routine agent gets a numbered procedure
   (`ROUTINE.md`), not a goal. If the agent keeps improvising a step, move that step into the CLI.
 - Boring tech. Node 22 (the cloud environment's default; local may be newer), npm, strict TypeScript, ESM.
-  Dependencies are kept to `zod`, `yaml`, an HTML-to-text helper, and dev tooling. No framework, no ORM,
-  no native modules (they will not build in the sandbox).
+  Runtime dependencies are `zod`, `yaml`, `html-to-text`, and `nodemailer`; dev tooling is `typescript`,
+  `vitest`, and type packages. No framework, no ORM, no native modules (they will not build in the sandbox).
 - Secrets only in environment variables. Never in `data/`, `config/`, fixtures, or logs. `ctx.http` redacts
   `api_key` and tokens from anything it logs.
 - Sources are used within their terms. Public APIs and our own alert emails only. No scraping of BidNet,

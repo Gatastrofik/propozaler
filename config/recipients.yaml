@@ -4,6 +4,6 @@ to:
   - partner@example.com        # REPLACE with the partner's real address before the first real run
 send_days: [Mon, Tue, Wed, Thu, Fri]
 cap: 10
-min_net_score: 3          # milestone 1 threshold on prefilter net_score; milestone 2 switches to fit_score
+min_net_score: 4          # a watch-list-only match (police_detail weight 1 + home bonus 2) must not reach the digest until fit_score exists
 sheet_url: null           # milestone 2
 subject_prefix: propozaler

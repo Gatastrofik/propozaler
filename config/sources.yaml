@@ -3,6 +3,6 @@ crol:
   base_url: https://data.cityofnewyork.us/resource/dg92-zbpx.json
   columns_url: https://data.cityofnewyork.us/api/views/dg92-zbpx/columns.json
   limit: 1000
-  overlap_days: 2
+  overlap_days: 14              # City Record publishes in batches that can arrive out of date order; 14 days keeps the window under one request
   default_from: "2026-09-01"     # first run fetches from here; the checkpoint takes over after that
   max_checkpoint_age_days: 14    # City Record publishes in batches; an 11-day gap was observed on 2026-09-27

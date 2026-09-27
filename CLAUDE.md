@@ -76,8 +76,8 @@ propozaler eval prepare | eval compare DIR | report disagreements | export csv |
   "per City Record; confirm in PASSPort" label because the City Record does not track addenda.
 - Scoring batches are files: `work/pending/NN.json` with at most 10 items each. The CLI enforces the batch
   size and the per-run cap, not the agent. A pending id missing from the scores is a warning and carries over.
-- IDs: `${source}:${source_id}`. Digest entry ids: `YYYY-MM-DD-NN`. Criteria and prompt versions: first 12 hex
-  chars of the file's sha256, stored on every score.
+- IDs: `${source}:${source_id}`. Digest ids: `YYYY-MM-DD` plus a letter for a same-day repeat; entry ids:
+  `<digest id>-NN`. Criteria and prompt versions: first 12 hex chars of the file's sha256, stored on every score.
 - Dates are ISO strings. Source-local dates without a zone are America/New_York.
 - Tests are fixture-based and run in under ten seconds. Record a fixture from the real source once, commit it,
   never hit the network in tests.

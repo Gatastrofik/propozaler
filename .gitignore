@@ -15,3 +15,6 @@ npm-debug.log*
 # editor / os
 .DS_Store
 .claude/
+
+# subagent-driven-development scratch (ledger, briefs, review packages)
+.superpowers/

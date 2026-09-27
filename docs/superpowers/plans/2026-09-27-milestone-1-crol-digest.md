@@ -1803,7 +1803,7 @@ crol:
 from: propozaler.digest@gmail.com
 to:
   - anthony.olivence@gmail.com
-  - REPLACE-WITH-PARTNER-ADDRESS
+  - partner@example.com        # REPLACE with the partner's real address before the first real run
 send_days: [Mon, Tue, Wed, Thu, Fri]
 cap: 10
 min_net_score: 3          # milestone 1 threshold on prefilter net_score; milestone 2 switches to fit_score
@@ -1891,8 +1891,6 @@ export function loadConfig(configDir: string): AppConfig {
   };
 }
 ```
-
-Note: `recipients.yaml` contains `REPLACE-WITH-PARTNER-ADDRESS`, which fails `z.string().email()`. For the test to pass, put a syntactically valid placeholder such as `partner@example.com` and change it before the first real run. Keep the comment in the file saying so.
 
 - [ ] **Step 5: Run to verify pass**
 
@@ -3200,7 +3198,8 @@ describe("cli", () => {
   it("runs pre, post --no-send, sent, check end to end", async () => {
     const dir = project();
     const out: string[] = [];
-    const io = { stdout: (s: string) => out.push(s), fetchImpl: fakeFetch, now: () => new Date("2026-09-28T11:00:00Z") };
+    // Fixture rows are posted 2026-09-15/16, so "now" is the following Thursday; a later date would trip the stale-checkpoint check.
+    const io = { stdout: (s: string) => out.push(s), fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
 
     expect(await main(["pre"], {}, dir, io)).toBe(0);
     expect(existsSync(join(dir, "work", "run.json"))).toBe(true);
@@ -3209,11 +3208,11 @@ describe("cli", () => {
     expect(await main(["post", "--no-send"], {}, dir, io)).toBe(0);
     const meta = JSON.parse(readFileSync(join(dir, "work", "digest.meta.json"), "utf8"));
     expect(meta.pending_send).toBe(true);
-    expect(meta.digest_id).toBe("2026-09-28");
+    expect(meta.digest_id).toBe("2026-09-17");
 
-    expect(await main(["sent", "--digest-id", "2026-09-28", "--message-id", "<x>"], {}, dir, io)).toBe(0);
+    expect(await main(["sent", "--digest-id", "2026-09-17", "--message-id", "<x>"], {}, dir, io)).toBe(0);
     const digests = readFileSync(join(dir, "data", "digests.jsonl"), "utf8");
-    expect(digests).toContain('"digest_id":"2026-09-28"');
+    expect(digests).toContain('"digest_id":"2026-09-17"');
 
     expect(await main(["check"], {}, dir, io)).toBe(0);
     const runs = readFileSync(join(dir, "data", "runs.jsonl"), "utf8").trim().split("\n");
@@ -3223,7 +3222,7 @@ describe("cli", () => {
 
   it("check exits 1 when the digest was expected and not sent", async () => {
     const dir = project();
-    const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-28T11:00:00Z") };
+    const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
     await main(["pre"], {}, dir, io);
     await main(["post"], { SMTP_USER: "u", SMTP_APP_PASSWORD: "p" }, dir, { ...io, mailerFactory: () => ({ async send() { throw new Error("smtp down"); } }) });
     expect(await main(["check"], {}, dir, io)).toBe(1);
@@ -3240,7 +3239,7 @@ describe("cli", () => {
 
   it("export csv writes a file", async () => {
     const dir = project();
-    const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-28T11:00:00Z") };
+    const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
     await main(["pre"], {}, dir, io);
     expect(await main(["export", "csv"], {}, dir, io)).toBe(0);
     expect(readFileSync(join(dir, "work", "opportunities.csv"), "utf8")).toContain("crol:20260909003");

@@ -69,6 +69,11 @@ export class Store {
     appendFileSync(join(this.dataDir, `${name}.jsonl`), JSON.stringify(obj) + "\n");
   }
 
+  rewriteJsonl(name: string, rows: unknown[]): void {
+    const body = rows.map((r) => JSON.stringify(r)).join("\n");
+    writeFileSync(join(this.dataDir, `${name}.jsonl`), rows.length > 0 ? `${body}\n` : "");
+  }
+
   readJsonl<T>(name: string): T[] {
     const p = join(this.dataDir, `${name}.jsonl`);
     if (!existsSync(p)) return [];

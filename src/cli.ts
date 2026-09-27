@@ -48,7 +48,9 @@ function parseFlags(args: string[]): { positional: string[]; flags: Record<strin
 }
 
 function gitSha(cwd: string): string | null {
-  try { return execFileSync("git", ["rev-parse", "--short", "HEAD"], { cwd, encoding: "utf8" }).trim(); } catch { return null; }
+  try {
+    return execFileSync("git", ["rev-parse", "--short", "HEAD"], { cwd, encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim();
+  } catch { return null; }
 }
 
 const ADAPTERS = [crolAdapter];
@@ -100,7 +102,13 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
         const config = loadConfig(configDir);
         const store = new Store(dataDir);
         const state = readRunState(workDir);
-        const previousRuns = store.readJsonl<RunState>("runs");
+        let previousRuns = store.readJsonl<RunState>("runs");
+        if (previousRuns.length > 0 && previousRuns[previousRuns.length - 1]!.run_id === state.run_id) {
+          // check was already run for this run_id (a re-run); drop the stale line so the evaluation
+          // window and runs.jsonl both end up with exactly one entry per run.
+          previousRuns = previousRuns.slice(0, -1);
+          store.rewriteJsonl("runs", previousRuns);
+        }
         const result = evaluateChecks({ state, previousRuns, today: todayNewYork(now), weekday: config.recipients.send_days.includes(weekdayNewYork(now)), sources: config.sources });
         state.check = result;
         state.finished_at = now.toISOString();

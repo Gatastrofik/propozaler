@@ -40,6 +40,11 @@ describe("opportunity model", () => {
     expect(() => sampleNormalized({ archive_at: "2026-09-15T00:00:00.000" })).toThrow();
   });
 
+  it("rejects a source_id that would escape the opportunities directory", () => {
+    expect(() => sampleNormalized({ source_id: "../../etc/passwd" })).toThrow();
+    expect(() => sampleNormalized({ source_id: "a/b" })).toThrow();
+  });
+
   it("gives each record its own digest and place objects", () => {
     const a = newOpportunity(sampleNormalized({ id: "crol:1", source_id: "1", place: undefined as never }), "2026-09-27T11:00:00Z");
     const b = newOpportunity(sampleNormalized({ id: "crol:2", source_id: "2", place: undefined as never }), "2026-09-27T11:00:00Z");

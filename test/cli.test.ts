@@ -46,6 +46,20 @@ describe("cli", () => {
     expect(JSON.parse(runs[0]!).check.ok).toBe(true);
   });
 
+  it("running check twice after one cycle leaves exactly one runs.jsonl line", async () => {
+    const dir = project();
+    const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
+    await main(["pre"], {}, dir, io);
+    await main(["post", "--no-send"], {}, dir, io);
+    const meta = JSON.parse(readFileSync(join(dir, "work", "digest.meta.json"), "utf8"));
+    await main(["sent", "--digest-id", meta.digest_id, "--message-id", "<x>"], {}, dir, io);
+
+    expect(await main(["check"], {}, dir, io)).toBe(0);
+    expect(await main(["check"], {}, dir, io)).toBe(0);
+    const runs = readFileSync(join(dir, "data", "runs.jsonl"), "utf8").trim().split("\n");
+    expect(runs).toHaveLength(1);
+  });
+
   it("check exits 1 when the digest was expected and not sent", async () => {
     const dir = project();
     const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };

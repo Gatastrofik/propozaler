@@ -42,6 +42,7 @@ export function evaluateChecks(input: CheckInput): CheckResult {
 
   const d = input.state.digest;
   if (d && d.send_expected && !d.sent) failures.push(`digest expected but not sent: ${d.error ?? "unknown error"}`);
+  if (input.weekday && d === null) failures.push("digest step did not run");
 
   if (input.state.scoring.status.startsWith("rejected")) failures.push(`scoring ${input.state.scoring.status}`);
   if (input.state.scoring.carried_over > 0) warnings.push(`scoring partial: ${input.state.scoring.carried_over} carried over`);

@@ -40,8 +40,8 @@ describe("runPre", () => {
     d0.store.writeCheckpoint("crol", { posted_from: "2026-09-10", updated_at: "x" });
     const a = adapter({ records: [sampleNormalized()], checkpoint: { posted_from: "2026-09-10", updated_at: "x" }, stats: { requests: 1, fetched: 1, normalized: 1, skipped: 0, errors: ["page 1 failed"] }, partial: true });
     const state = await runPre(deps(dir, a));
-    expect(state.sources.crol.partial).toBe(true);
-    expect(state.sources.crol.errors).toEqual(["page 1 failed"]);
+    expect(state.sources.crol!.partial).toBe(true);
+    expect(state.sources.crol!.errors).toEqual(["page 1 failed"]);
     expect(d0.store.readCheckpoint("crol")?.posted_from).toBe("2026-09-10");
     expect(d0.store.list()).toHaveLength(1);
   });
@@ -49,9 +49,9 @@ describe("runPre", () => {
   it("survives an adapter that throws", async () => {
     const dir = mkdtempSync(join(tmpdir(), "propozaler-pre-"));
     const state = await runPre(deps(dir, adapter(new Error("network down"))));
-    expect(state.sources.crol.partial).toBe(true);
-    expect(state.sources.crol.errors[0]).toMatch(/network down/);
-    expect(state.sources.crol.fetched).toBe(0);
+    expect(state.sources.crol!.partial).toBe(true);
+    expect(state.sources.crol!.errors[0]).toMatch(/network down/);
+    expect(state.sources.crol!.fetched).toBe(0);
   });
 
   it("skips disabled sources", async () => {

@@ -17,6 +17,15 @@ export interface PostDeps {
 export interface PostResult {
   send_expected: boolean; sent: boolean; digest_id: string | null; entries: number; overflow: number;
   subject: string; message_id: string | null; error: string | null; html_path: string; text_path: string;
+  note: string | null;
+}
+
+// Keeps a raw error (which can carry a URL, a stack fragment, or newlines) out of the subject line:
+// the text before the first ":" if that is under 40 characters, else the first 40 characters.
+export function shortNote(s: string): string {
+  const idx = s.indexOf(":");
+  const head = idx >= 0 && idx < 40 ? s.slice(0, idx) : s.slice(0, 40);
+  return head.replace(/[\r\n]+/g, " ").trim();
 }
 
 export function nextDigestId(existing: string[], today: string): string {
@@ -32,8 +41,8 @@ function healthFrom(state: RunState, weekday: boolean, now: Date): HealthSummary
   const sources: SourceHealth[] = Object.entries(state.sources).map(([name, s]) => {
     let status: SourceHealth["status"] = "ok";
     let note: string | undefined;
-    if (s.partial && s.errors.length > 0) { status = "fail"; note = s.errors[0]; }
-    else if (s.errors.length > 0) { status = "warn"; note = s.errors[0]; }
+    if (s.partial && s.errors.length > 0) { status = "fail"; note = shortNote(s.errors[0]!); }
+    else if (s.errors.length > 0) { status = "warn"; note = shortNote(s.errors[0]!); }
     else if (s.fetched === 0 && weekday) { status = "warn"; note = "0 fetched"; }
     return { name, fetched: s.fetched, candidates: s.candidates, scored: 0, new: s.new, status, ...(note ? { note } : {}) };
   });
@@ -45,7 +54,7 @@ export async function runPost(deps: PostDeps): Promise<PostResult> {
   const state = readRunState(deps.workDir);
   const today = todayNewYork(deps.now);
   const weekday = deps.recipients.send_days.includes(weekdayNewYork(deps.now));
-  const sendExpected = deps.forceSend === true || weekday;
+  let sendExpected = deps.forceSend === true || weekday;
   const records = deps.store.list();
 
   const { entries, overflow } = selectDigestEntries(records, {
@@ -58,6 +67,11 @@ export async function runPost(deps: PostDeps): Promise<PostResult> {
   });
 
   const existingIds = deps.store.readJsonl<{ digest_id: string }>("digests").map((d) => d.digest_id);
+  let note: string | null = null;
+  if (sendExpected && !deps.forceSend && existingIds.some((id) => id.startsWith(today))) {
+    sendExpected = false;
+    note = "already sent today; use --force-send to send again";
+  }
   const digestId = sendExpected ? nextDigestId(existingIds, today) : null;
   const digestEntries: DigestEntry[] = entries.map((record, i) => ({
     entryId: `${digestId ?? today}-${String(i + 1).padStart(2, "0")}`, record,
@@ -95,13 +109,17 @@ export async function runPost(deps: PostDeps): Promise<PostResult> {
   writeFileSync(join(deps.workDir, "digest.meta.json"), JSON.stringify({
     digest_id: digestId, subject: rendered.subject, to: deps.recipients.to, from: deps.recipients.from,
     send_expected: sendExpected, sent, pending_send: sendExpected && !sent && !error && deps.mailer === null,
-    entries: entryRefs, overflow, error,
+    entries: entryRefs, overflow, error, note,
   }, null, 2) + "\n");
 
-  state.digest = { digest_id: digestId, sent, send_expected: sendExpected, entries: entries.length, overflow, message_id: messageId, error };
-  writeRunState(deps.workDir, state);
+  if (note === null) {
+    // Only update the run-state digest block for an actual attempt this call; the already-sent-today
+    // guard above must leave a prior `sent: true` block untouched rather than clobber it with `false`.
+    state.digest = { digest_id: digestId, sent, send_expected: sendExpected, entries: entries.length, overflow, message_id: messageId, error };
+    writeRunState(deps.workDir, state);
+  }
 
-  return { send_expected: sendExpected, sent, digest_id: digestId, entries: entries.length, overflow, subject: rendered.subject, message_id: messageId, error, html_path: htmlPath, text_path: textPath };
+  return { send_expected: sendExpected, sent, digest_id: digestId, entries: entries.length, overflow, subject: rendered.subject, message_id: messageId, error, html_path: htmlPath, text_path: textPath, note };
 }
 
 export function markSent(store: Store, digestId: string, entries: DigestEntry[], subject: string, messageId: string, sentAt: string): void {

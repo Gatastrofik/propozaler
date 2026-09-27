@@ -117,4 +117,30 @@ describe("runPost", () => {
     expect(text).not.toContain("Pursued but not soon");
     expect(text).toMatch(/run 0s/); // started_at equals the injected now, so the duration is zero, not wall-clock garbage
   });
+
+  it("shortens a long error before it reaches the subject line", async () => {
+    const { store, workDir } = setup();
+    const longError = "request failed for https://data.cityofnewyork.us/resource/dg92-zbpx.json?$limit=1000&$offset=0: socket hang up\nand then some more trailing detail that goes on and on and on";
+    writeRunState(workDir, {
+      ...readRunState(workDir),
+      sources: { crol: { requests: 1, fetched: 0, normalized: 0, skipped: 0, new: 0, changed: 0, candidates: 0, errors: [longError], partial: true, checkpoint_posted_from: "2026-09-27", http_log: [] } },
+    });
+    const mailer = capturingMailer();
+    const res = await runPost({ store, recipients, filters, now: monday, workDir, mailer });
+    expect(res.subject.length).toBeLessThan(120);
+    expect(res.subject).not.toContain("\n");
+    expect(res.subject).not.toContain(longError);
+  });
+
+  it("does not send a second digest the same day without --force-send", async () => {
+    const { store, workDir } = setup();
+    const mailer = capturingMailer();
+    const first = await runPost({ store, recipients, filters, now: monday, workDir, mailer });
+    expect(first.sent).toBe(true);
+    const second = await runPost({ store, recipients, filters, now: monday, workDir, mailer });
+    expect(second.sent).toBe(false);
+    expect(second.note).toBe("already sent today; use --force-send to send again");
+    expect(mailer.sent).toHaveLength(1);
+    expect(readRunState(workDir).digest?.sent).toBe(true);
+  });
 });

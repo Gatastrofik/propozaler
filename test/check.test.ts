@@ -60,6 +60,13 @@ describe("evaluateChecks", () => {
       .toEqual(["crol: checkpoint stale (none)"]);
   });
 
+  it("fails when the digest step did not run on a send day", () => {
+    const noDigest = evaluateChecks({ ...base, state: run({ digest: null }), previousRuns: [] });
+    expect(noDigest.failures).toContain("digest step did not run");
+    const notASendDay = evaluateChecks({ ...base, weekday: false, state: run({ digest: null }), previousRuns: [] });
+    expect(notASendDay.failures).toEqual([]);
+  });
+
   it("treats scoring status", () => {
     expect(evaluateChecks({ ...base, state: run({ scoring: { status: "rejected: schema", imported: 0, carried_over: 0, rejected: 1 } }), previousRuns: [] }).failures)
       .toEqual(["scoring rejected: schema"]);

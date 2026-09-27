@@ -24,7 +24,7 @@ export const AttachmentSchema = z.object({ url: z.string(), name: z.string().opt
 export const NormalizedOpportunitySchema = z.object({
   id: z.string().regex(/^[a-z_]+:.+$/),
   source: z.string(),
-  source_id: z.string(),
+  source_id: z.string().regex(/^[A-Za-z0-9._-]+$/),
   source_url: z.string().url(),
   title: z.string().min(1),
   notice_type: NoticeTypeSchema,
@@ -102,7 +102,7 @@ export function contentHash(n: Pick<NormalizedOpportunity, (typeof HASH_FIELDS)[
 }
 
 export function idToFilename(id: string): string {
-  return `${id.replace(":", "__")}.json`;
+  return `${id.replaceAll(":", "__")}.json`;
 }
 
 export function newOpportunity(n: NormalizedOpportunity, now: string): Opportunity {

@@ -70,6 +70,18 @@ describe("Store logs and checkpoints", () => {
     expect(s.readJsonl("missing")).toEqual([]);
   });
 
+  it("rewrites a JSONL file from scratch", () => {
+    const s = new Store(dir);
+    s.appendJsonl("runs", { a: 1 });
+    s.appendJsonl("runs", { a: 2 });
+    s.appendJsonl("runs", { a: 3 });
+    s.rewriteJsonl("runs", [{ a: 1 }, { a: 3 }]);
+    expect(s.readJsonl<{ a: number }>("runs")).toEqual([{ a: 1 }, { a: 3 }]);
+    expect(readFileSync(join(dir, "runs.jsonl"), "utf8").endsWith("\n")).toBe(true);
+    s.rewriteJsonl("runs", []);
+    expect(s.readJsonl("runs")).toEqual([]);
+  });
+
   it("round-trips a checkpoint", () => {
     const s = new Store(dir);
     expect(s.readCheckpoint("crol")).toBeNull();

@@ -100,4 +100,21 @@ describe("runPost", () => {
     expect(res.sent).toBe(true);
     expect(mailer.sent[0]?.text).toContain("Nothing new today.");
   });
+
+  it("lists pursued items due within five days and reports a sane duration", async () => {
+    const { store, workDir } = setup();
+    const soon = store.upsert(sampleNormalized({ id: "crol:soon", source_id: "soon", title: "Pursued and due soon", due_at: "2026-10-01T16:00:00-04:00" }), "2026-09-27T11:00:00Z").record;
+    soon.feedback = { decision: "pursued", at: "2026-09-27T12:00:00Z", by: "sheet" };
+    store.save(soon);
+    const later = store.upsert(sampleNormalized({ id: "crol:later", source_id: "later", title: "Pursued but not soon", due_at: "2026-10-20T16:00:00-04:00" }), "2026-09-27T11:00:00Z").record;
+    later.feedback = { decision: "pursued", at: "2026-09-27T12:00:00Z", by: "sheet" };
+    store.save(later);
+    const mailer = capturingMailer();
+    await runPost({ store, recipients, filters, now: monday, workDir, mailer });
+    const text = mailer.sent[0]?.text ?? "";
+    expect(text).toContain("Due soon (pursued):");
+    expect(text).toContain("Pursued and due soon");
+    expect(text).not.toContain("Pursued but not soon");
+    expect(text).toMatch(/run 0s/); // started_at equals the injected now, so the duration is zero, not wall-clock garbage
+  });
 });

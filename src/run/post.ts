@@ -28,7 +28,7 @@ export function nextDigestId(existing: string[], today: string): string {
   throw new Error(`too many digests on ${today}`);
 }
 
-function healthFrom(state: RunState, weekday: boolean): HealthSummary {
+function healthFrom(state: RunState, weekday: boolean, now: Date): HealthSummary {
   const sources: SourceHealth[] = Object.entries(state.sources).map(([name, s]) => {
     let status: SourceHealth["status"] = "ok";
     let note: string | undefined;
@@ -37,7 +37,7 @@ function healthFrom(state: RunState, weekday: boolean): HealthSummary {
     else if (s.fetched === 0 && weekday) { status = "warn"; note = "0 fetched"; }
     return { name, fetched: s.fetched, candidates: s.candidates, scored: 0, new: s.new, status, ...(note ? { note } : {}) };
   });
-  const durationMs = Date.parse(state.started_at) ? Date.now() - Date.parse(state.started_at) : 0;
+  const durationMs = Date.parse(state.started_at) ? Math.max(0, now.getTime() - Date.parse(state.started_at)) : 0;
   return { sources, scoring: state.scoring.status, durationMs, criteriaVersion: null };
 }
 
@@ -64,7 +64,7 @@ export async function runPost(deps: PostDeps): Promise<PostResult> {
   }));
   const model: DigestModel = {
     date: today, subjectPrefix: deps.recipients.subject_prefix, sheetUrl: deps.recipients.sheet_url,
-    entries: digestEntries, overflow, dueSoon, health: healthFrom(state, weekday), minScore: deps.recipients.min_net_score,
+    entries: digestEntries, overflow, dueSoon, health: healthFrom(state, weekday, deps.now), minScore: deps.recipients.min_net_score,
   };
   const rendered = renderDigest(model);
 

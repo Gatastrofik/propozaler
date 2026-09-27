@@ -1796,7 +1796,16 @@ crol:
   limit: 1000
   overlap_days: 2
   default_from: "2026-09-01"     # first run fetches from here; the checkpoint takes over after that
+  max_checkpoint_age_days: 14    # City Record publishes in batches; an 11-day gap was observed on 2026-09-27
 ```
+
+Also add the field to `CrolConfigSchema` in `src/sources/crol.ts` (this task owns the config surface):
+
+```ts
+  max_checkpoint_age_days: z.number().int().min(1).default(14),
+```
+
+The adapter does not read it; `check` (Task 13) does.
 
 `config/recipients.yaml` (replace the addresses before the first real run):
 ```yaml
@@ -1828,6 +1837,7 @@ describe("loadConfig", () => {
     expect(c.filters.version).toBe(2);
     expect(c.sources.crol.limit).toBe(1000);
     expect(c.sources.crol.default_from).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+    expect(c.sources.crol.max_checkpoint_age_days).toBe(14);
     expect(c.recipients.cap).toBe(10);
     expect(c.recipients.send_days).toContain("Mon");
     expect(c.recipients.to.length).toBeGreaterThan(0);
@@ -1900,7 +1910,7 @@ Expected: 2 passed.
 - [ ] **Step 6: Commit**
 
 ```bash
-git add src/config.ts config/sources.yaml config/recipients.yaml test/config.test.ts
+git add src/config.ts src/sources/crol.ts config/sources.yaml config/recipients.yaml test/config.test.ts
 git commit -m "Add config loading for sources and recipients"
 ```
 
@@ -2949,7 +2959,7 @@ git commit -m "Add the post step: select, render, send, record digest"
   - source `candidates === 0` while `fetched > 0`, for this and the previous 6 runs → warning `"<src>: no candidates in 7 runs"`.
   - `state.digest?.send_expected && !state.digest.sent` → failure `"digest expected but not sent: <error>"`.
   - `state.scoring.status` starts with `"rejected"` → failure; `state.scoring.carried_over > 0` → warning (both are milestone 2 inputs; wire them now).
-  - for each enabled source, `checkpoint_posted_from` older than `addDays(today, -3)` → failure `"<src>: checkpoint stale (<date>)"`. A missing checkpoint on the very first run (no previous runs) is not a failure.
+  - for each enabled source, `checkpoint_posted_from` older than `addDays(today, -maxAge)` → failure `"<src>: checkpoint stale (<date>)"`, where `maxAge` is that source's `max_checkpoint_age_days` from `sources.yaml` (default 3 when absent). CROL uses 14 because the City Record publishes in batches. A missing checkpoint on the very first run (no previous runs) is not a failure.
   - `ok` is `failures.length === 0`.
 
 - [ ] **Step 1: Write the failing tests**
@@ -2960,7 +2970,7 @@ import { describe, it, expect } from "vitest";
 import { evaluateChecks } from "../src/check/check.js";
 import type { RunState, SourceRunStats } from "../src/run/state.js";
 
-const sources = { crol: { enabled: true, base_url: "https://x", columns_url: "https://x", limit: 1000, overlap_days: 2, default_from: "2026-09-01" } };
+const sources = { crol: { enabled: true, base_url: "https://x", columns_url: "https://x", limit: 1000, overlap_days: 2, default_from: "2026-09-01", max_checkpoint_age_days: 3 } };
 
 function src(over: Partial<SourceRunStats> = {}): SourceRunStats {
   return { requests: 1, fetched: 5, normalized: 5, skipped: 0, new: 1, changed: 0, candidates: 1, errors: [], partial: false, checkpoint_posted_from: "2026-09-27", http_log: [], ...over };
@@ -3011,6 +3021,8 @@ describe("evaluateChecks", () => {
   it("fails on a stale checkpoint but not on a first run without one", () => {
     expect(evaluateChecks({ ...base, state: run({}, { checkpoint_posted_from: "2026-09-20" }), previousRuns: [] }).failures)
       .toEqual(["crol: checkpoint stale (2026-09-20)"]);
+    const lenient = { crol: { ...sources.crol, max_checkpoint_age_days: 14 } };
+    expect(evaluateChecks({ ...base, sources: lenient, state: run({}, { checkpoint_posted_from: "2026-09-20" }), previousRuns: [] }).failures).toEqual([]);
     expect(evaluateChecks({ ...base, state: run({}, { checkpoint_posted_from: null }), previousRuns: [] }).failures).toEqual([]);
     expect(evaluateChecks({ ...base, state: run({}, { checkpoint_posted_from: null }), previousRuns: [run()] }).failures)
       .toEqual(["crol: checkpoint stale (none)"]);
@@ -3049,7 +3061,6 @@ export function evaluateChecks(input: CheckInput): CheckResult {
   const warnings: string[] = [];
   const failures: string[] = [];
   const prev = [...input.previousRuns].reverse(); // prev[0] is the most recent previous run
-  const staleBefore = addDays(input.today, -3);
 
   for (const [name, s] of Object.entries(input.state.sources)) {
     if (trouble(s)) {
@@ -3065,8 +3076,10 @@ export function evaluateChecks(input: CheckInput): CheckResult {
       const dry = prev.slice(0, 6).filter((r) => (r.sources[name]?.fetched ?? 0) > 0 && r.sources[name]?.candidates === 0).length;
       if (dry === 6) warnings.push(`${name}: no candidates in 7 runs`);
     }
-    const enabled = (input.sources as Record<string, { enabled: boolean }>)[name]?.enabled ?? true;
+    const cfg = (input.sources as Record<string, { enabled: boolean; max_checkpoint_age_days?: number }>)[name];
+    const enabled = cfg?.enabled ?? true;
     if (enabled) {
+      const staleBefore = addDays(input.today, -(cfg?.max_checkpoint_age_days ?? 3));
       if (s.checkpoint_posted_from === null) {
         if (input.previousRuns.length > 0) failures.push(`${name}: checkpoint stale (none)`);
       } else if (s.checkpoint_posted_from < staleBefore) {

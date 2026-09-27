@@ -11,6 +11,11 @@ describe("time", () => {
     expect(fromNewYorkLocal("2026-09-15T00:00:00.000")).toBe("2026-09-15T00:00:00-04:00");
     expect(fromNewYorkLocal("2026-10-05T16:00:00.000")).toBe("2026-10-05T16:00:00-04:00");
     expect(fromNewYorkLocal("2026-12-01")).toBe("2026-12-01T00:00:00-05:00");
+    // Transition days: hours after the switch must carry the new offset.
+    expect(fromNewYorkLocal("2026-03-08T03:30:00")).toBe("2026-03-08T03:30:00-04:00");
+    expect(fromNewYorkLocal("2026-03-08T06:00:00")).toBe("2026-03-08T06:00:00-04:00");
+    expect(fromNewYorkLocal("2026-11-01T03:30:00")).toBe("2026-11-01T03:30:00-05:00");
+    expect(fromNewYorkLocal("2026-11-01T00:30:00")).toBe("2026-11-01T00:30:00-04:00");
   });
 
   it("rejects garbage", () => {

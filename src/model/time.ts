@@ -11,14 +11,25 @@ export function newYorkOffset(at: Date): string {
 
 const LOCAL_RE = /^(\d{4})-(\d{2})-(\d{2})(?:T(\d{2}):(\d{2})(?::(\d{2}))?)?/;
 
+function offsetToMs(off: string): number {
+  const m = /^([+-])(\d{2}):(\d{2})$/.exec(off);
+  if (!m) return 0;
+  const sign = m[1] === "-" ? -1 : 1;
+  return sign * (Number(m[2]) * 60 + Number(m[3])) * 60 * 1000;
+}
+
 export function fromNewYorkLocal(local: string): string {
   const m = LOCAL_RE.exec(local);
   if (!m) throw new Error(`bad local datetime: ${local}`);
   const [, y, mo, d, h = "00", mi = "00", s = "00"] = m;
-  // Approximate the instant by reading the wall-clock time as UTC, then ask for the offset there.
-  // Only wrong inside the one repeated hour in November, which no due date lands on.
-  const approx = new Date(Date.UTC(Number(y), Number(mo) - 1, Number(d), Number(h), Number(mi), Number(s)));
-  return `${y}-${mo}-${d}T${h}:${mi}:${s}${newYorkOffset(approx)}`;
+  const wallAsUtc = Date.UTC(Number(y), Number(mo) - 1, Number(d), Number(h), Number(mi), Number(s));
+  // First pass: offset at the wall-clock digits read as UTC (up to 5h early). Second pass: shift
+  // by that offset to land on the real instant and read the offset there. This is exact except
+  // inside the nonexistent hour in March and the repeated hour in November, where it picks one.
+  const first = newYorkOffset(new Date(wallAsUtc));
+  const instant = wallAsUtc - offsetToMs(first);
+  const off = newYorkOffset(new Date(instant));
+  return `${y}-${mo}-${d}T${h}:${mi}:${s}${off}`;
 }
 
 export function datePart(s: string): string {

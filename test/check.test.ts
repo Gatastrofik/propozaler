@@ -65,5 +65,8 @@ describe("evaluateChecks", () => {
       .toEqual(["scoring rejected: schema"]);
     expect(evaluateChecks({ ...base, state: run({ scoring: { status: "partial", imported: 5, carried_over: 3, rejected: 0 } }), previousRuns: [] }).warnings)
       .toEqual(["scoring partial: 3 carried over"]);
+    const both = evaluateChecks({ ...base, state: run({ scoring: { status: "rejected: schema", imported: 0, carried_over: 4, rejected: 1 } }), previousRuns: [] });
+    expect(both.failures).toEqual(["scoring rejected: schema"]);
+    expect(both.warnings).toEqual(["scoring partial: 4 carried over"]);
   });
 });

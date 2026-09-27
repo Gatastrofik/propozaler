@@ -44,7 +44,7 @@ export function evaluateChecks(input: CheckInput): CheckResult {
   if (d && d.send_expected && !d.sent) failures.push(`digest expected but not sent: ${d.error ?? "unknown error"}`);
 
   if (input.state.scoring.status.startsWith("rejected")) failures.push(`scoring ${input.state.scoring.status}`);
-  else if (input.state.scoring.carried_over > 0) warnings.push(`scoring partial: ${input.state.scoring.carried_over} carried over`);
+  if (input.state.scoring.carried_over > 0) warnings.push(`scoring partial: ${input.state.scoring.carried_over} carried over`);
 
   return { ok: failures.length === 0, warnings, failures };
 }

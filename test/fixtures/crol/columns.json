@@ -1,0 +1,22 @@
+[
+  {"fieldName": "request_id", "dataTypeName": "number"},
+  {"fieldName": "start_date", "dataTypeName": "calendar_date"},
+  {"fieldName": "end_date", "dataTypeName": "calendar_date"},
+  {"fieldName": "agency_name", "dataTypeName": "text"},
+  {"fieldName": "type_of_notice_description", "dataTypeName": "text"},
+  {"fieldName": "category_description", "dataTypeName": "text"},
+  {"fieldName": "short_title", "dataTypeName": "text"},
+  {"fieldName": "selection_method_description", "dataTypeName": "text"},
+  {"fieldName": "section_name", "dataTypeName": "text"},
+  {"fieldName": "special_case_reason_description", "dataTypeName": "text"},
+  {"fieldName": "pin", "dataTypeName": "text"},
+  {"fieldName": "due_date", "dataTypeName": "calendar_date"},
+  {"fieldName": "address_to_request", "dataTypeName": "text"},
+  {"fieldName": "contact_name", "dataTypeName": "text"},
+  {"fieldName": "contact_phone", "dataTypeName": "text"},
+  {"fieldName": "email", "dataTypeName": "text"},
+  {"fieldName": "contract_amount", "dataTypeName": "number"},
+  {"fieldName": "contact_fax", "dataTypeName": "text"},
+  {"fieldName": "additional_description_1", "dataTypeName": "text"},
+  {"fieldName": "additional_description_2", "dataTypeName": "text"}
+]

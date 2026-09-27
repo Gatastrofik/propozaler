@@ -1,0 +1,17 @@
+# secrets and local env
+.env
+.env.*
+service-account*.json
+token.json
+
+# per-run scratch: raw fetches, handoff files, rendered digest
+work/
+
+# node
+node_modules/
+dist/
+npm-debug.log*
+
+# editor / os
+.DS_Store
+.claude/

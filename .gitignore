@@ -1,6 +1,7 @@
 # secrets and local env
 .env
 .env.*
+!.env.example
 service-account*.json
 token.json
 

@@ -1,0 +1,28 @@
+{
+  "name": "propozaler",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Internal government bid finder: daily digest of relevant solicitations",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "bin": { "propozaler": "dist/cli.js" },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "propozaler": "node dist/cli.js"
+  },
+  "dependencies": {
+    "html-to-text": "^10.0.1",
+    "nodemailer": "^10.0.11",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/html-to-text": "^9.0.4",
+    "@types/node": "^22.0.0",
+    "@types/nodemailer": "^6.4.17",
+    "typescript": "^5.6.0",
+    "vitest": "^5.0.2"
+  }
+}

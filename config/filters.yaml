@@ -1,0 +1,47 @@
+version: 2
+notice_types_for_digest: [solicitation, presolicitation, sources_sought, combined_synopsis]
+hard_exclude:
+  categories_raw: ["Construction/Construction Services", "Construction Related Services", "Human Services/Client Services"]
+  title_terms: ["janitorial", "asbestos", "paving", "HVAC", "roof", "roofing", "demolition", "towing", "uniforms",
+                "ammunition", "vehicles", "staffing agency", "temporary personnel"]
+  set_asides: []          # add set-asides we cannot claim once known, e.g. "8(a)"
+ordering:                 # bonuses only; none of these can make a record a candidate
+  home_states: [NY, NJ, CT]
+  home_bonus: 2
+  federal_penalty: -1
+  code_bonus: 2           # SAM only, any NAICS or PSC match
+  software_signal_bonus: 1   # per matched signal, max 2
+categories:
+  fire_ems_scheduling:
+    weight: 3
+    strong: ["shift scheduling", "staff scheduling", "crew scheduling", "personnel scheduling", "scheduling software",
+             "scheduling system", "workforce management", "time and attendance", "minimum staffing"]
+    weak:   ["roster", "rostering", "overtime management", "callback", "call-back"]   # need a context term too
+    vendors: ["Telestaff", "TeleStaff", "UKG", "Kronos", "Aladtec", "Vector Scheduling", "CrewSense", "InTime", "PlanIt", "ESO"]
+    context: ["fire", "EMS", "ambulance", "paramedic", "firefighter", "dispatch", "public safety", "911"]
+  parks_rec:
+    weight: 3
+    strong: ["recreation management", "recreation software", "activity registration", "program registration",
+             "facility reservation", "facility booking", "permit and reservation", "membership management",
+             "league management", "camp registration"]
+    weak:   ["point of sale", "registration system", "reservation system"]
+    vendors: ["ActiveNet", "RecTrac", "CivicRec", "PerfectMind", "Xplor", "Sportsman", "MyRec", "eTrak", "Amilia",
+              "CommunityPass", "RecDesk", "Daxko"]
+    context: ["parks", "recreation", "community center", "aquatics", "pool", "camp", "athletic fields"]
+  fitness_testing:
+    weight: 3
+    strong: ["physical fitness test", "physical agility test", "physical ability test", "fitness assessment",
+             "fitness standards", "CPAT", "Cooper test", "Cooper standards"]
+    weak:   ["wellness program", "fit for duty", "annual physical"]
+    vendors: []
+    context: ["police", "fire", "corrections", "academy", "recruit", "cadet", "sheriff", "public safety"]
+  police_detail:          # watch list: candidates are logged; emailed only if fit_score >= 80
+    weight: 1
+    strong: ["off-duty detail", "off duty detail", "extra duty", "secondary employment", "paid detail", "detail management"]
+    weak:   ["off-duty", "off duty"]
+    vendors: ["PowerDetails", "RollKall", "Off Duty Management", "Detail Kommander"]
+    context: ["police", "sheriff", "officer"]
+software_signals: ["software", "SaaS", "subscription", "cloud-based", "web-based", "platform", "module", "license", "licensing"]
+codes:                    # SAM only
+  naics: ["513210", "511210", "518210", "541511", "541512", "541519"]
+  psc:   ["DA01", "DA10", "7030", "DJ01", "DG01"]   # verify against the current PSC manual in milestone 4

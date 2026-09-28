@@ -1,7 +1,6 @@
 from: jobdigest0@gmail.com
-to:
+to:                       # add the partner's address here when ready
   - anthony.olivence@gmail.com
-  - partner@example.com        # REPLACE with the partner's real address before the first real run
 send_days: [Mon, Tue, Wed, Thu, Fri]
 cap: 10
 min_net_score: 4          # a watch-list-only match (police_detail weight 1 + home bonus 2) must not reach the digest until fit_score exists

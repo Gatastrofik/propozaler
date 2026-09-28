@@ -3586,3 +3586,368 @@ git push origin main
 - Spec coverage for milestone 1: adapter interface and CROL rules (Tasks 4–6), pre-filter (Task 7), storage layout and JSONL logs (Task 4), digest selection, cap, ordering, escaping, CROL date label, health footer (Task 9), SMTP delivery (Tasks 10, 12), weekend no-allocate rule (Task 12), run record and check invariants (Tasks 11, 13), CSV on demand (Task 14), routine procedure, secrets, dead-man's switch, proof steps (Task 15). Sheet feedback, scoring, and `work/pending` contents are milestone 2 and are only stubbed (empty `pending/` directory, `scoring` block in run state, `--scores` flag accepted).
 - Type names used across tasks: `NormalizedOpportunity`, `Opportunity`, `Prefilter`, `Checkpoint`, `HttpClient`, `SourceAdapter`, `FetchContext`, `FetchResult`, `FiltersConfig`, `SourcesConfig`, `RecipientsConfig`, `RunState`, `SourceRunStats`, `DigestModel`, `DigestEntry`, `HealthSummary`, `Mailer`, `MailMessage`, `PostResult`, `CheckResult`.
 - `sampleNormalized` and `NOW` live in `test/helpers.ts` (Task 3) and are imported by later tests.
+
+---
+
+## Addendum (2026-09-27 evening): Gmail REST API delivery
+
+The Task 15 probe showed the routine sandbox blocks raw TCP to Gmail on ports 465 and 993, while HTTPS to Google APIs is allowed once the host is allowlisted. Decision: the CLI sends through the Gmail REST API over HTTPS as `jobdigest0@gmail.com`, authenticated with an OAuth refresh token. SMTP stays as the local development path. Milestone 3's alert reading will use the same client with a read scope, subject to the open question in SPEC.md section 9 about Google's restricted-scope verification.
+
+Additional constraints for these tasks:
+- No new dependencies. OAuth token refresh and the Gmail send call use the global `fetch`; the MIME body is built with nodemailer's bundled `MailComposer` (`nodemailer/lib/mail-composer/index.js`), which is part of the already-installed package.
+- New environment variables: `GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`. Never printed, never logged, never in an error message.
+- Hosts the routine environment must allowlist: `oauth2.googleapis.com`, `gmail.googleapis.com` (plus `data.cityofnewyork.us` and `hc-ping.com`, already added).
+- The refresh token is obtained once, locally, by `propozaler gmail-auth`, printed to the terminal for the engineer to paste into the environment, and never written to disk by the CLI.
+
+### Task 16: Gmail API mailer and the one-time consent flow
+
+**Files:**
+- Create: `src/digest/gmail.ts`, `src/digest/gmail-auth.ts`
+- Test: `test/gmail.test.ts`, `test/gmail-auth.test.ts`
+
+**Interfaces:**
+- Consumes: `Mailer`, `MailMessage` (Task 10).
+- Produces (`gmail.ts`):
+  ```ts
+  export const GMAIL_SEND_SCOPE = "https://www.googleapis.com/auth/gmail.send";
+  export interface GmailCredentials { clientId: string; clientSecret: string; refreshToken: string }
+  export function gmailCredentialsFromEnv(env: NodeJS.ProcessEnv): GmailCredentials   // throws "missing GMAIL_CLIENT_ID" etc.
+  export async function fetchAccessToken(creds: GmailCredentials, fetchImpl?: typeof fetch): Promise<string>
+  export async function buildRawMessage(msg: MailMessage): Promise<string>   // RFC 2822 via MailComposer, base64url
+  export function createGmailApiMailer(env: NodeJS.ProcessEnv, fetchImpl?: typeof fetch): Mailer   // messageId = "gmail:<id>"
+  ```
+- Produces (`gmail-auth.ts`):
+  ```ts
+  export function consentUrl(clientId: string, redirectUri: string, scopes: string[]): string
+  export async function exchangeCode(creds: { clientId: string; clientSecret: string }, code: string, redirectUri: string, fetchImpl?: typeof fetch): Promise<{ refresh_token: string }>
+  export async function runGmailAuth(opts: { clientId: string; clientSecret: string; scopes: string[]; fetchImpl?: typeof fetch; out: (s: string) => void; port?: number }): Promise<string>
+  ```
+  `runGmailAuth` starts an HTTP server on `127.0.0.1` (port 0 unless given), prints the consent URL through `out`, waits for `GET /?code=...`, exchanges the code, answers the browser with a plain "You can close this tab.", closes the server, and resolves the refresh token. `GET /?error=...` rejects with the error text. Nothing is written to disk.
+
+Token endpoint: `POST https://oauth2.googleapis.com/token`, body `application/x-www-form-urlencoded`. Refresh: `client_id, client_secret, refresh_token, grant_type=refresh_token` → `{ access_token }`. Exchange: `client_id, client_secret, code, redirect_uri, grant_type=authorization_code` → `{ refresh_token, access_token }`. A non-2xx response throws `gmail token request failed: HTTP <status> <error field from the JSON body if any>`; the body is never echoed whole.
+Send endpoint: `POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send`, header `Authorization: Bearer <access_token>`, JSON body `{ "raw": <base64url> }` → `{ id, threadId }`. Non-2xx throws `gmail send failed: HTTP <status> <error.message if any>`.
+Consent URL: `https://accounts.google.com/o/oauth2/v2/auth` with `client_id, redirect_uri, response_type=code, scope=<space-joined>, access_type=offline, prompt=consent`.
+
+- [ ] **Step 1: Write the failing tests**
+
+`test/gmail.test.ts`:
+```ts
+import { describe, it, expect } from "vitest";
+import { gmailCredentialsFromEnv, fetchAccessToken, buildRawMessage, createGmailApiMailer, GMAIL_SEND_SCOPE } from "../src/digest/gmail.js";
+
+const env = { GMAIL_CLIENT_ID: "cid", GMAIL_CLIENT_SECRET: "csec", GMAIL_REFRESH_TOKEN: "rtok" };
+const msg = { from: "jobdigest0@gmail.com", to: ["a@example.com", "b@example.com"], subject: "Sübject", text: "plain", html: "<p>plain</p>" };
+
+function fakeFetch(handler: (url: string, init: RequestInit) => { status: number; body: unknown }) {
+  const calls: Array<{ url: string; init: RequestInit }> = [];
+  const impl = (async (input: string | URL | Request, init?: RequestInit) => {
+    const url = String(input); calls.push({ url, init: init ?? {} });
+    const r = handler(url, init ?? {});
+    return new Response(JSON.stringify(r.body), { status: r.status, headers: { "content-type": "application/json" } });
+  }) as typeof fetch;
+  return { impl, calls };
+}
+
+describe("gmailCredentialsFromEnv", () => {
+  it("requires all three variables, naming the first missing one", () => {
+    expect(() => gmailCredentialsFromEnv({})).toThrow(/missing GMAIL_CLIENT_ID/);
+    expect(() => gmailCredentialsFromEnv({ GMAIL_CLIENT_ID: "x" })).toThrow(/missing GMAIL_CLIENT_SECRET/);
+    expect(() => gmailCredentialsFromEnv({ GMAIL_CLIENT_ID: "x", GMAIL_CLIENT_SECRET: "y" })).toThrow(/missing GMAIL_REFRESH_TOKEN/);
+    expect(gmailCredentialsFromEnv(env)).toEqual({ clientId: "cid", clientSecret: "csec", refreshToken: "rtok" });
+  });
+});
+
+describe("fetchAccessToken", () => {
+  it("posts a form-encoded refresh grant and returns the access token", async () => {
+    const f = fakeFetch(() => ({ status: 200, body: { access_token: "AT", expires_in: 3599 } }));
+    expect(await fetchAccessToken(gmailCredentialsFromEnv(env), f.impl)).toBe("AT");
+    const call = f.calls[0]!;
+    expect(call.url).toBe("https://oauth2.googleapis.com/token");
+    expect(call.init.method).toBe("POST");
+    const body = new URLSearchParams(String(call.init.body));
+    expect(body.get("grant_type")).toBe("refresh_token");
+    expect(body.get("refresh_token")).toBe("rtok");
+    expect(body.get("client_id")).toBe("cid");
+  });
+  it("throws a status-only error without echoing secrets", async () => {
+    const f = fakeFetch(() => ({ status: 400, body: { error: "invalid_grant", error_description: "Token has been expired or revoked." } }));
+    await expect(fetchAccessToken(gmailCredentialsFromEnv(env), f.impl)).rejects.toThrow(/gmail token request failed: HTTP 400 invalid_grant/);
+    await expect(fetchAccessToken(gmailCredentialsFromEnv(env), f.impl)).rejects.not.toThrow(/rtok|csec/);
+  });
+});
+
+describe("buildRawMessage", () => {
+  it("produces base64url MIME with both parts and the headers", async () => {
+    const raw = await buildRawMessage(msg);
+    expect(raw).toMatch(/^[A-Za-z0-9_-]+$/);
+    const decoded = Buffer.from(raw, "base64url").toString("utf8");
+    expect(decoded).toMatch(/^From: jobdigest0@gmail.com/m);
+    expect(decoded).toMatch(/^To: a@example.com, b@example.com/m);
+    expect(decoded).toMatch(/^Subject: =\?UTF-8\?/m); // non-ASCII subject is RFC 2047 encoded
+    expect(decoded).toContain("multipart/alternative");
+    expect(decoded).toContain("text/plain");
+    expect(decoded).toContain("text/html");
+  });
+});
+
+describe("createGmailApiMailer", () => {
+  it("refreshes, then sends with a bearer token, and returns the gmail id", async () => {
+    const f = fakeFetch((url) => url.includes("oauth2") ? { status: 200, body: { access_token: "AT" } } : { status: 200, body: { id: "18f1abc", threadId: "18f1abc" } });
+    const res = await createGmailApiMailer(env, f.impl).send(msg);
+    expect(res.messageId).toBe("gmail:18f1abc");
+    const send = f.calls[1]!;
+    expect(send.url).toBe("https://gmail.googleapis.com/gmail/v1/users/me/messages/send");
+    expect((send.init.headers as Record<string, string>).Authorization).toBe("Bearer AT");
+    expect(JSON.parse(String(send.init.body)).raw).toMatch(/^[A-Za-z0-9_-]+$/);
+  });
+  it("throws on a send failure without the token in the message", async () => {
+    const f = fakeFetch((url) => url.includes("oauth2") ? { status: 200, body: { access_token: "SECRET-AT" } } : { status: 403, body: { error: { code: 403, message: "Request had insufficient authentication scopes." } } });
+    const p = createGmailApiMailer(env, f.impl).send(msg);
+    await expect(p).rejects.toThrow(/gmail send failed: HTTP 403 Request had insufficient authentication scopes/);
+    await expect(createGmailApiMailer(env, f.impl).send(msg)).rejects.not.toThrow(/SECRET-AT/);
+  });
+  it("validates env before any network call", () => {
+    expect(() => createGmailApiMailer({}, fakeFetch(() => ({ status: 200, body: {} })).impl)).toThrow(/missing GMAIL_CLIENT_ID/);
+  });
+  it("exports the send scope", () => {
+    expect(GMAIL_SEND_SCOPE).toBe("https://www.googleapis.com/auth/gmail.send");
+  });
+});
+```
+
+`test/gmail-auth.test.ts`:
+```ts
+import { describe, it, expect } from "vitest";
+import { consentUrl, exchangeCode, runGmailAuth } from "../src/digest/gmail-auth.js";
+
+function fakeFetch(body: unknown, status = 200) {
+  const calls: Array<{ url: string; body: string }> = [];
+  const impl = (async (input: string | URL | Request, init?: RequestInit) => {
+    calls.push({ url: String(input), body: String(init?.body ?? "") });
+    return new Response(JSON.stringify(body), { status, headers: { "content-type": "application/json" } });
+  }) as typeof fetch;
+  return { impl, calls };
+}
+
+describe("consentUrl", () => {
+  it("builds the offline consent URL", () => {
+    const u = new URL(consentUrl("cid", "http://127.0.0.1:4321/", ["https://www.googleapis.com/auth/gmail.send"]));
+    expect(u.origin + u.pathname).toBe("https://accounts.google.com/o/oauth2/v2/auth");
+    expect(u.searchParams.get("client_id")).toBe("cid");
+    expect(u.searchParams.get("redirect_uri")).toBe("http://127.0.0.1:4321/");
+    expect(u.searchParams.get("response_type")).toBe("code");
+    expect(u.searchParams.get("access_type")).toBe("offline");
+    expect(u.searchParams.get("prompt")).toBe("consent");
+    expect(u.searchParams.get("scope")).toBe("https://www.googleapis.com/auth/gmail.send");
+  });
+});
+
+describe("exchangeCode", () => {
+  it("posts the authorization code and returns the refresh token", async () => {
+    const f = fakeFetch({ access_token: "AT", refresh_token: "RT" });
+    const r = await exchangeCode({ clientId: "cid", clientSecret: "csec" }, "thecode", "http://127.0.0.1:1/", f.impl);
+    expect(r.refresh_token).toBe("RT");
+    const body = new URLSearchParams(f.calls[0]!.body);
+    expect(body.get("grant_type")).toBe("authorization_code");
+    expect(body.get("code")).toBe("thecode");
+    expect(body.get("redirect_uri")).toBe("http://127.0.0.1:1/");
+  });
+  it("fails clearly when Google returns no refresh token", async () => {
+    const f = fakeFetch({ access_token: "AT" });
+    await expect(exchangeCode({ clientId: "cid", clientSecret: "csec" }, "c", "http://127.0.0.1:1/", f.impl)).rejects.toThrow(/no refresh_token in response/);
+  });
+});
+
+describe("runGmailAuth", () => {
+  it("prints the consent URL, accepts the loopback callback, and resolves the refresh token", async () => {
+    const printed: string[] = [];
+    const f = fakeFetch({ access_token: "AT", refresh_token: "RT-from-flow" });
+    const pending = runGmailAuth({ clientId: "cid", clientSecret: "csec", scopes: ["s1"], fetchImpl: f.impl, out: (s) => printed.push(s) });
+    // wait for the server to announce its URL
+    let url = "";
+    for (let i = 0; i < 50 && !url; i += 1) { await new Promise((r) => setTimeout(r, 10)); url = printed.join("\n").match(/redirect_uri=([^&\s]+)/)?.[1] ?? ""; }
+    const redirect = decodeURIComponent(url);
+    expect(redirect).toMatch(/^http:\/\/127\.0\.0\.1:\d+\/$/);
+    const res = await fetch(`${redirect}?code=abc123`);
+    expect(res.status).toBe(200);
+    expect(await res.text()).toContain("You can close this tab");
+    expect(await pending).toBe("RT-from-flow");
+    expect(printed.join("\n")).not.toContain("RT-from-flow"); // the token is returned, not printed by the flow itself
+  });
+  it("rejects when the callback carries an error", async () => {
+    const printed: string[] = [];
+    const pending = runGmailAuth({ clientId: "cid", clientSecret: "csec", scopes: ["s1"], fetchImpl: fakeFetch({}).impl, out: (s) => printed.push(s) });
+    let url = "";
+    for (let i = 0; i < 50 && !url; i += 1) { await new Promise((r) => setTimeout(r, 10)); url = printed.join("\n").match(/redirect_uri=([^&\s]+)/)?.[1] ?? ""; }
+    await fetch(`${decodeURIComponent(url)}?error=access_denied`);
+    await expect(pending).rejects.toThrow(/access_denied/);
+  });
+});
+```
+
+- [ ] **Step 2: Run to verify failure** — `npx vitest run test/gmail.test.ts test/gmail-auth.test.ts` → module not found.
+
+- [ ] **Step 3: Implement `src/digest/gmail.ts`**
+
+```ts
+import MailComposer from "nodemailer/lib/mail-composer/index.js";
+import type { MailMessage, Mailer } from "./mailer.js";
+
+export const GMAIL_SEND_SCOPE = "https://www.googleapis.com/auth/gmail.send";
+const TOKEN_URL = "https://oauth2.googleapis.com/token";
+const SEND_URL = "https://gmail.googleapis.com/gmail/v1/users/me/messages/send";
+
+export interface GmailCredentials { clientId: string; clientSecret: string; refreshToken: string }
+
+export function gmailCredentialsFromEnv(env: NodeJS.ProcessEnv): GmailCredentials {
+  const clientId = env.GMAIL_CLIENT_ID;
+  const clientSecret = env.GMAIL_CLIENT_SECRET;
+  const refreshToken = env.GMAIL_REFRESH_TOKEN;
+  if (!clientId) throw new Error("missing GMAIL_CLIENT_ID");
+  if (!clientSecret) throw new Error("missing GMAIL_CLIENT_SECRET");
+  if (!refreshToken) throw new Error("missing GMAIL_REFRESH_TOKEN");
+  return { clientId, clientSecret, refreshToken };
+}
+
+async function errorField(res: Response): Promise<string> {
+  try {
+    const j = (await res.json()) as { error?: string | { message?: string } };
+    if (typeof j.error === "string") return j.error;
+    if (j.error && typeof j.error.message === "string") return j.error.message;
+  } catch { /* not JSON */ }
+  return "";
+}
+
+export async function fetchAccessToken(creds: GmailCredentials, fetchImpl: typeof fetch = fetch): Promise<string> {
+  const body = new URLSearchParams({
+    client_id: creds.clientId, client_secret: creds.clientSecret, refresh_token: creds.refreshToken, grant_type: "refresh_token",
+  });
+  const res = await fetchImpl(TOKEN_URL, { method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body: body.toString() });
+  if (!res.ok) throw new Error(`gmail token request failed: HTTP ${res.status} ${await errorField(res)}`.trim());
+  const j = (await res.json()) as { access_token?: string };
+  if (!j.access_token) throw new Error("gmail token request failed: no access_token in response");
+  return j.access_token;
+}
+
+export async function buildRawMessage(msg: MailMessage): Promise<string> {
+  const mail = new MailComposer({ from: msg.from, to: msg.to.join(", "), subject: msg.subject, text: msg.text, html: msg.html });
+  const buf: Buffer = await mail.compile().build();
+  return buf.toString("base64url");
+}
+
+export function createGmailApiMailer(env: NodeJS.ProcessEnv, fetchImpl: typeof fetch = fetch): Mailer {
+  const creds = gmailCredentialsFromEnv(env);
+  return {
+    async send(msg) {
+      const token = await fetchAccessToken(creds, fetchImpl);
+      const raw = await buildRawMessage(msg);
+      const res = await fetchImpl(SEND_URL, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}`, "content-type": "application/json" },
+        body: JSON.stringify({ raw }),
+      });
+      if (!res.ok) throw new Error(`gmail send failed: HTTP ${res.status} ${await errorField(res)}`.trim());
+      const j = (await res.json()) as { id?: string };
+      return { messageId: `gmail:${j.id ?? "unknown"}` };
+    },
+  };
+}
+```
+
+If `MailComposer`'s `build()` is callback-style in the installed version, wrap it: `await new Promise<Buffer>((resolve, reject) => mail.compile().build((err, b) => err ? reject(err) : resolve(b)))`. If the default import lacks types, declare a local minimal type or use `// @ts-expect-error` with a one-line justification; report which.
+
+- [ ] **Step 4: Implement `src/digest/gmail-auth.ts`**
+
+```ts
+import { createServer } from "node:http";
+
+const AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth";
+const TOKEN_URL = "https://oauth2.googleapis.com/token";
+
+export function consentUrl(clientId: string, redirectUri: string, scopes: string[]): string {
+  const u = new URL(AUTH_URL);
+  u.searchParams.set("client_id", clientId);
+  u.searchParams.set("redirect_uri", redirectUri);
+  u.searchParams.set("response_type", "code");
+  u.searchParams.set("scope", scopes.join(" "));
+  u.searchParams.set("access_type", "offline");
+  u.searchParams.set("prompt", "consent");
+  return u.toString();
+}
+
+export async function exchangeCode(
+  creds: { clientId: string; clientSecret: string }, code: string, redirectUri: string, fetchImpl: typeof fetch = fetch,
+): Promise<{ refresh_token: string }> {
+  const body = new URLSearchParams({
+    client_id: creds.clientId, client_secret: creds.clientSecret, code, redirect_uri: redirectUri, grant_type: "authorization_code",
+  });
+  const res = await fetchImpl(TOKEN_URL, { method: "POST", headers: { "content-type": "application/x-www-form-urlencoded" }, body: body.toString() });
+  if (!res.ok) throw new Error(`gmail code exchange failed: HTTP ${res.status}`);
+  const j = (await res.json()) as { refresh_token?: string };
+  if (!j.refresh_token) throw new Error("gmail code exchange failed: no refresh_token in response (was prompt=consent and access_type=offline set?)");
+  return { refresh_token: j.refresh_token };
+}
+
+export async function runGmailAuth(opts: {
+  clientId: string; clientSecret: string; scopes: string[]; fetchImpl?: typeof fetch; out: (s: string) => void; port?: number;
+}): Promise<string> {
+  const fetchImpl = opts.fetchImpl ?? fetch;
+  return new Promise<string>((resolve, reject) => {
+    const server = createServer(async (req, res) => {
+      const url = new URL(req.url ?? "/", "http://127.0.0.1");
+      const err = url.searchParams.get("error");
+      const code = url.searchParams.get("code");
+      if (err) {
+        res.writeHead(400, { "content-type": "text/plain" }); res.end(`Consent failed: ${err}`);
+        server.close(); reject(new Error(`gmail consent failed: ${err}`)); return;
+      }
+      if (!code) { res.writeHead(404); res.end(); return; }
+      try {
+        const addr = server.address();
+        const port = typeof addr === "object" && addr ? addr.port : 0;
+        const { refresh_token } = await exchangeCode(opts, code, `http://127.0.0.1:${port}/`, fetchImpl);
+        res.writeHead(200, { "content-type": "text/plain" }); res.end("You can close this tab.");
+        server.close(); resolve(refresh_token);
+      } catch (e) {
+        res.writeHead(500, { "content-type": "text/plain" }); res.end("Token exchange failed; see the terminal.");
+        server.close(); reject(e instanceof Error ? e : new Error(String(e)));
+      }
+    });
+    server.listen(opts.port ?? 0, "127.0.0.1", () => {
+      const addr = server.address();
+      const port = typeof addr === "object" && addr ? addr.port : 0;
+      const redirect = `http://127.0.0.1:${port}/`;
+      opts.out(`Open this URL in a browser signed in as the sending account:\n${consentUrl(opts.clientId, redirect, opts.scopes)}\n`);
+    });
+  });
+}
+```
+
+- [ ] **Step 5: Run to verify pass** — both test files; then `npm test` and `npm run typecheck`.
+- [ ] **Step 6: Commit** — `git add src/digest/gmail.ts src/digest/gmail-auth.ts test/gmail.test.ts test/gmail-auth.test.ts` / "Add Gmail API mailer and one-time consent flow".
+
+### Task 17: Wire the transport choice, `gmail-auth`, docs
+
+**Files:**
+- Modify: `src/config.ts` (`transport`), `src/cli.ts` (mailer factory, `gmail-auth`, `check-env`), `config/recipients.yaml`, `.env.example`, `README.md`, `ROUTINE.md`, `SPEC.md`, `CLAUDE.md`
+- Test: `test/config.test.ts`, `test/cli.test.ts`
+
+**Changes:**
+1. `RecipientsConfigSchema` gains `transport: z.enum(["gmail_api", "smtp"]).default("gmail_api")`. `config/recipients.yaml` gets `transport: gmail_api   # smtp is the local fallback; the routine sandbox blocks port 465`. Test: `expect(c.recipients.transport).toBe("gmail_api")`.
+2. `src/cli.ts`: `CliIo.mailerFactory` becomes `(env: NodeJS.ProcessEnv, transport: "gmail_api" | "smtp") => Mailer`; the default is `transport === "smtp" ? createSmtpMailer(env) : createGmailApiMailer(env)`. `post` and `notify-failure` pass `config.recipients.transport`. Existing CLI tests that inject `mailerFactory` keep working (extra argument ignored).
+3. `check-env`: load config; the names printed are `HEALTHCHECKS_URL`, `SOCRATA_APP_TOKEN`, and the selected transport's variables (`GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN` for gmail_api; `SMTP_USER`, `SMTP_APP_PASSWORD` for smtp); exit 1 if any of the transport's variables is missing. Update the existing check-env test: with `transport: gmail_api` in the copied config, `{ SMTP_USER, SMTP_APP_PASSWORD }` alone now exits 1 and the three Gmail names appear; add a case where the three Gmail variables are set and the exit is 0; keep the assertion that no value is printed.
+4. New subcommand `gmail-auth`: reads `GMAIL_CLIENT_ID` and `GMAIL_CLIENT_SECRET` from env (exit 2 with a one-line message if missing), calls `runGmailAuth` with `[GMAIL_SEND_SCOPE]`, prints `GMAIL_REFRESH_TOKEN=<token>` once followed by the line `Paste that into the routine environment and your local .env; it is not saved anywhere by this tool.` Add to `USAGE`. Not covered by the CLI test (it opens a server and needs a browser); `runGmailAuth` itself is tested in Task 16.
+5. Docs:
+   - `.env.example`: add the three Gmail variables above the SMTP pair, with a comment that SMTP is only for `transport: smtp`.
+   - `README.md` "Routine" section: environment variables list becomes `GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`, `HEALTHCHECKS_URL`, optional `SOCRATA_APP_TOKEN`; add "Network allowlist on the environment: `data.cityofnewyork.us`, `hc-ping.com`, `oauth2.googleapis.com`, `gmail.googleapis.com`"; add a "One-time Gmail consent" subsection: `set -a; source .env; set +a; npm run propozaler -- gmail-auth`, sign in as `jobdigest0@gmail.com`, copy the printed token.
+   - `ROUTINE.md`: delete the connector-fallback branch (SMTP is no longer the routine's path) and leave the rest unchanged.
+   - `SPEC.md` 2.5: choice becomes "the CLI sends through the Gmail REST API over HTTPS as the dedicated account, authenticated by an OAuth refresh token; SMTP remains the local development transport"; rationale adds "the routine sandbox blocks outbound 465 and 993 (probe, 2026-09-27) while HTTPS to allowlisted Google hosts works"; rejected alternative adds the Gmail connector (agent-driven send from the personal account). 7.5: replace the SMTP bullet with the three Gmail variables plus SMTP-only-when-transport-smtp; add the four allowlist hosts. 9 risks: replace the "Outbound SMTP and IMAP from the sandbox" bullet with "Resolved 2026-09-27: both blocked; delivery moved to the Gmail REST API." 9 open questions: add "Milestone 3 alert reading needs a Gmail read scope, which Google classifies as restricted; an unverified external OAuth app may be limited to test users with 7-day refresh tokens. Options: publish and verify, forward alerts into a Sheet via a Gmail filter plus Apps Script, or a Workspace account. Decide before milestone 3."
+   - `CLAUDE.md`: secrets line lists the Gmail variables; "All mail I/O is CLI code" sentence mentions the Gmail REST API over HTTPS with SMTP as the local fallback.
+6. `npm test`, `npm run typecheck`, commit "Send through the Gmail API; add gmail-auth and transport config".
+
+### Task 18 (operational, engineer): consent, variables, allowlist, first cloud run
+
+1. In GCP project `jobs-504814`: enable the Gmail API; OAuth consent screen: add the `gmail.send` scope, and set publishing status to In production (a Testing-status app issues refresh tokens that expire after 7 days). The unverified-app warning during consent is expected and acceptable for a single internal account.
+2. Locally: put `GMAIL_CLIENT_ID` and `GMAIL_CLIENT_SECRET` from the Desktop client in `.env`; run `npm run propozaler -- gmail-auth`; sign in as `jobdigest0@gmail.com`; paste the printed `GMAIL_REFRESH_TOKEN` into `.env` and into the Default environment's variables; add `oauth2.googleapis.com` and `gmail.googleapis.com` to the environment's network allowlist.
+3. Local proof: `node dist/cli.js post --force-send` in a scratch copy → a real email via the API.
+4. Then Task 15 steps 5 to 9 as written (create `propozaler-daily`, run now, break test, two mornings), with the push-to-`main` question answered by the first real run now that the GitHub App is installed.

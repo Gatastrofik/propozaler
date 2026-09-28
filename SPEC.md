@@ -528,7 +528,7 @@ Checked into the repo and pasted into the routine verbatim. It is a numbered pro
 10. If step 8 exited 0 and step 9 succeeded, ping `$HEALTHCHECKS_URL`. Otherwise ping `$HEALTHCHECKS_URL/fail` with the check output and the git error as the body.
 11. On any unrecoverable failure: still attempt steps 8 to 10, then run `propozaler notify-failure --step N --log work/run.log`, which sends a short plain-text failure email through the configured transport, and stop.
 
-The prompt also says what the agent must not do: no code edits, no criteria edits, no fetching sources by hand, no sending mail itself except the documented connector fallback, no retrying SAM after a 429.
+The prompt also says what the agent must not do: no code edits, no criteria edits, no fetching sources by hand, no sending mail itself, no retrying SAM after a 429.
 
 ### 7.3 Logging
 
@@ -597,7 +597,7 @@ Shortest path to a real email of real solicitations, with monitoring, and no LLM
 4. `select` with `filters.yaml` and tests, including word-boundary and case-sensitivity cases from section 4.4. In milestone 1 the digest threshold is on `net_score`, not `fit_score`, and `summary` is the first 200 characters of `description_text`.
 5. `digest` renderer with escaping, the CROL date label, the health footer, and the cap. `digests.jsonl`.
 6. `pre`, `post`, `sent`, `check`, `export csv` subcommands; `runs.jsonl`.
-7. SMTP sender and Sheets append/read with offline tests against recorded responses. `ROUTINE.md`; create the routine with the repo attached, no connectors; environment variables. Prove, in this order: the routine can clone, run `npm ci`, reach `smtp.gmail.com:465` and `sheets.googleapis.com` from the sandbox, push the state branch (or `main`), send a multipart HTML plus plain-text message that renders on a phone, append a sheet row, and ping healthchecks. If SMTP is blocked, enable the Gmail connector fallback from section 7.2 step 7 and note it here. Confirm whether pushing to `main` is allowed and simplify if so.
+7. SMTP sender and Sheets append/read with offline tests against recorded responses. `ROUTINE.md`; create the routine with the repo attached, no connectors; environment variables. Prove, in this order: the routine can clone, run `npm ci`, reach `smtp.gmail.com:465` and `sheets.googleapis.com` from the sandbox, push the state branch (or `main`), send a multipart HTML plus plain-text message that renders on a phone, append a sheet row, and ping healthchecks. Result 2026-09-27: SMTP and IMAP are blocked from the sandbox; delivery moved to the Gmail REST API (see the addendum in the plan and SPEC 2.5). Confirm whether pushing to `main` is allowed and simplify if so.
 8. First real run, on demand. Then daily.
 
 Done when: two mornings in a row, both inboxes receive a digest built by the routine from live CROL data, and a deliberately broken run (wrong env var) produces a healthchecks alert.

@@ -55,7 +55,7 @@ ROUTINE.md the routine's prompt, verbatim
 npm test                      offline; fixtures only, no network, no secrets
 propozaler pre                read sheet decisions, ingest all enabled sources, select, write work/pending/NN.json
 propozaler post --scores DIR  import scores, render digest, send through the Gmail API, append sheet rows, write run record
-propozaler sent --digest-id ID   only in the connector-fallback path
+propozaler sent --digest-id ID   marks a digest sent when post ran with --no-send and the mail was sent by hand
 propozaler notify-failure --step N --log F
 propozaler check              post-run invariants; exit code drives the healthchecks ping
 propozaler ingest <source> [--from DATE]   one adapter, used for backfills and debugging

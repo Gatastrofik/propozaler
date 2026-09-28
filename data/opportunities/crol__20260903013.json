@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260903013",
+  "source": "crol",
+  "source_id": "20260903013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903013",
+  "title": "COMPASS Programs in Public Schools - Elementary",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-10",
+  "solicitation_number": "26026P0003205",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 52203600,
+  "contacts": [
+    {
+      "name": "Latrell Johnson",
+      "email": "latjohnson@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Brooklyn 03 - P.S. 309 The George E. Wibecan Preparatory Academy\nBrooklyn 05 - Brooklyn Scholars Charter School\nBrooklyn 14 - School of Science & Technology\nBrooklyn 14 - P.S. 193 Gil Hodges\nBrooklyn 14 - P.S. 217 Colonel David Marcus School\nBrooklyn 14 - P.S. 249 The Caton\n\nDYCD has determined that Competitive Sealed Bidding is neither practicable nor advantageous to the City because this procurement necessitates the exercise of judgment in evaluating competing proposals and requires a balancing of price, quality, and programmatic factors to achieve the best outcomes. COMPASS programs are a critical part of the City\u001as effort to support working families by providing free, high-quality afterschool and summer childcare services. They offer a wide range of enrichment activities that help students in Kindergarten through Grade 8 develop academically, socially, and emotionally, both in and out of the classroom. Given the complex nature of this work requiring cultural competency, deep community engagement, and tailored programming to meet the diverse needs of NYC youth a proposal-based evaluation is essential. This approach allows DYCD to select providers not only based on cost, but also on their demonstrated experience, organizational capacity, staffing approach, and commitment to equitable service delivery. Therefore, the use of an RFP, rather than Competitive Sealed Bidding, is the most appropriate method to ensure the highest quality of services are delivered in alignment with the City\u001as goals for youth development and family support.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "76094273fb68ac32b9617b155a89599d33cb3f7fd75f52f806fa1a66c4b50c4a",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

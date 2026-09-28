@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825007",
+  "source": "crol",
+  "source_id": "20260825007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825007",
+  "title": "STI and Sexual Health Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "81626P0006003",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 624998,
+  "contacts": [
+    {
+      "name": "Damaris Sanders",
+      "email": "dsanders@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Bureau of Hepatitis, HIV and Sexually Transmitted Infections (BHHS) works to improve the lives of New Yorkers by ending transmission, illness, stigma, and inequities related to viral hepatitis, HIV and STIs using an approach that is strengths-based, community-driven, and intersectional. Ensuring that New Yorkers have equitable access to STI services, including STI screening and treatment, is essential to this mission, and particularly important in light of recent increases in reported STI cases in NYC, and the slow resumption of STI care-seeking practices following the COVID-19 pandemic. With anticipated funding from the Centers for Disease Control and Prevention (CDC)\u001as successor grant to Strengthening STD Prevention and Control for Health Departments (STD PCHD) (19-1901), BHHS STI Program seeks up to three contractors to provide STI services for uninsured New Yorkers (including those electing to self-pay) who reside in neighborhoods with the highest chlamydia, gonorrhea, or syphilis case rates.\n\nThis is a competitive human/client service procurement. Pursuant to PPB Rule 3-16, the appropriate method is competitive sealed proposal, issued to a prequalified list of vendors. This procurement is being issued through PASSPort, successor system to HHS Accelerator.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "cd2482a661b3568041bc1e0fbf64784b8b2606261d7f19264c6e61b3077a7667",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

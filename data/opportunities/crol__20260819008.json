@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260819008",
+  "source": "crol",
+  "source_id": "20260819008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819008",
+  "title": "Respect & Responsibility Services Program Comp Pool BK, SI",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-25",
+  "solicitation_number": "06925P0012002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 2081250,
+  "contacts": [
+    {
+      "name": "Cornelia Branzan",
+      "email": "branzanc@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Respect and Responsibility is a key component of a larger Interrupting Violence at Home initiative, which was launched in 2018 and focuses on addressing intergenerational cycles of abuse through non-mandated community-based programming for people who cause harm. It is one of the first programs of its kind in the country and reflects the culmination of years of work led by ENDGBV, with City agencies, survivors, experts, and advocates and its partner agencies to develop new pathways to hold harm doers accountable. Working with people who cause harm is a critical component in New York City efforts to interrupt intimate partner violence, support survivors, and foster equitable, peaceful, and consent-driven relationships and communities. Recognizing the need for diverse and effective programming for this population, in 2018, the City launched the Interrupting Violence at Home initiative. A central part of this Initiative is the non-mandated, community-based programming for people causing harm in their relationships \u001a the Respect and Responsibility program. Respect and Responsibility will be administered by the Mayor Office to End Domestic and Gender-Based Violence (ENDGBV) in partnership with the New York City Department of Social Services/Human Resources Administration (DSS/HRA). This includes the 25% Allowance. Competition Pool (3) Brooklyn & Staten Island.\n\nJudgment is required in evaluating competing proposals, and it is in the best interest of the City to require a balancing of price, quality and other factors.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "0612f7a60e6f9b4ddedf180eaf285386a73bbcda91f289b8de3016ac3e3a3acf",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

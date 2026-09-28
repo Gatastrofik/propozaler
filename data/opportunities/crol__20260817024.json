@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260817024",
+  "source": "crol",
+  "source_id": "20260817024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817024",
+  "title": "FY27 Staten Island BSC NAE - Educational Data Systems Inc.",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-24",
+  "due_at": "2026-08-28T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-24",
+  "solicitation_number": "80126N0021",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kelly Taylor",
+      "email": "procurementhelpdesk@sbs.nyc.gov",
+      "phone": "(212) 513-9273"
+    }
+  ],
+  "submit_to": "1 Liberty Plaza, New York, NY 10006",
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a negotiated acquisition extension contract with Educational Data Systems Inc. to continue Business Solution Center services in Staten Island, to reinforce the City's efforts to support businesses of any size and at any stage, by responding to current and evolving needs while providing the conditions and resources to enable them to further grow and advance. The contract term will be from 7/1/2026 to 6/30/2027, in the amount of $291,414.00.\n\nThe negotiated acquisition extension will allow the agency adequate time to release a new solicitation for this program and enable the current BSC provider to continue to deliver a suite of business services white the Agency finalizes the RFP and award.\n\nVendors interested in responding to this or other future solicitations for these types of services should contact Kelly Taylor at Procurementhelpdesk@sbs.nyc.gov.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "81b15c09a1fe978bf30219eded1915b2a774045ad838de449ab8d2cb6d6cb7ee",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

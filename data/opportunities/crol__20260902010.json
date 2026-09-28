@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260902010",
+  "source": "crol",
+  "source_id": "20260902010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902010",
+  "title": "Xrays with Interpretations",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Sanitation",
+  "agency_path": "City of New York > Sanitation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-09",
+  "solicitation_number": "82726B0006001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 900000,
+  "contacts": [
+    {
+      "name": "Julianne DeGirolarmo",
+      "email": "jdegirolarmo@dsny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Sanitation (\u001aDSNY\u001a) Health Care Facility is an occupational health facility with a medical staff that evaluates the medical condition(s) of its uniform and non-uniform employees. Evaluations include fitness for duty, safety, return-to-work, and pre-employment evaluations. DSNY is looking to hire a Contractor that can provide X-rays with Interpretations for DSNY\u001as pre-employment screening program. This screening process is essential for candidates applying for the Sanitation Worker position, as it involves a thorough medical evaluation. During this evaluation, candidates are interviewed, and objective medical evidence, including X-rays, is required. The purpose of obtaining these X-rays is to assist the Medical Director and/or the designated medical team in determining whether the candidate meets the necessary qualifications to work for DSNY.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "364e3e31f4a51091eea3a392d9dceba3a71f0ef77b0ac8bc4e801b7e154afb78",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

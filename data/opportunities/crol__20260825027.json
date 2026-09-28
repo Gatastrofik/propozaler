@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260825027",
+  "source": "crol",
+  "source_id": "20260825027",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825027",
+  "title": "85726B0068-2600087- GRP: MACK TRUCKS",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-10-01T10:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "85726B0068",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Please see the solicitation documents on PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881# United States, New York City. Phone conference ID: 148 484 881#\n\nBid opening Location - 1 Centre Street, New York, NY 10007.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "3fd1e9a6d4b99ce103583abcf9a5ae7548f9241dcfd429b781d9a5e1e0ef6539",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

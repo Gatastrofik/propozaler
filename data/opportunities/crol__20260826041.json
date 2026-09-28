@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260826041",
+  "source": "crol",
+  "source_id": "20260826041",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826041",
+  "title": "operation of a mobile truck at St. Mary's Park",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-02",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-02",
+  "solicitation_number": "X45-MT",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 19200,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The concession, which was solicited by a Request for Bids, will operate pursuant to a permit agreement for one (1) five (5) year term. Compensation to the City will be as follows: Year 1: $3,000; Year 2: $3,750; Year 3: $4,0500; Year 4: $4,150; Year 5: $4,250.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "e054d382e117bd2288cbaad62522b2838479ed7ab2a54cfac879b7b4515d52da",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

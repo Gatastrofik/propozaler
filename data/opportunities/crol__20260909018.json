@@ -1,0 +1,54 @@
+{
+  "id": "crol:20260909018",
+  "source": "crol",
+  "source_id": "20260909018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909018",
+  "title": "Elations Software subscription and support",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-09-25T18:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": "80626N0004",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(i)(C),(D) and (ii) of the Procurement Policy Board Rules, the Department of Housing Preservation and Development (HPD) intends to enter into a Negotiated Acquisition contract with Elation Systems Inc., located at 104 Congress Street, Suite 304 Portsmouth, New Hampshire 03801. This contract is for the provision of Core Product Subscription Service and ongoing user support, live phone support during standard business hours, with the ability to schedule a support appointment and callback. The contract term is 01/1/2026 - 12/31/2027 with one renewal for up to two (2) years. The ePIN for this award is 80626N0004 and the proposed budget is $300,000.  \n\nTHIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY. Vendors can express interest in responding to a future procurement to provide these services by sending such request via email to channang@hpd.nyc.gov.\n\nFor continuity of service as the awarded vendor for this service, the owner passed away, and the company did not have the finances to pay the manufacturer, Elations.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "fd45ce3fa93a573e13b6c4883b70d7b3b09e0d7bf62f26123041fb790f5c14cf",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:subscription",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

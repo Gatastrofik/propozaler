@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260902025",
+  "source": "crol",
+  "source_id": "20260902025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902025",
+  "title": "2026371 Varonis Interceptor Subscription Service Renewal",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Investigation",
+  "agency_path": "City of New York > Investigation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-10",
+  "solicitation_number": "03227W0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 64008,
+  "contacts": [
+    {
+      "name": "Igor lyutin",
+      "email": "ilyutin@doi.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This solicitation is being made pursuant to the M/WBE Small Purchase Method, Section 3-08 of the New York City Procurement Policy Board (PPB) Rules, this procurement is exclusively for the New York City Certified Minority and Woman Owned Business (M/WBEs). Contracts awarded under this method may not exceed $1,500,000, inclusive of any and all change orders, overruns, amendments, renewals and extensions. Annual license/support for the Varonis Interceptor For Email SaaS Subscription for Varonis for Microsoft 365. Varonis is a Data Security Platform designed to detect cyber threats from various sources by analyzing data, account activity, and user behavior. Varonis Interceptor Software Support and Maintenance for Email Saas Subscription (QTY: 560) The coverage term is from 12/12/2025 - 07/31/2027. This is a cloud based procurement. Annual billing.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "66b938ae67cfdae09318343cc5fadc0f6e2c2586367ffd8c7306711524a3c5fb",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:SaaS",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825025",
+  "source": "crol",
+  "source_id": "20260825025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825025",
+  "title": "Exagrid Backup Infrastructure Solution",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - Bronx County",
+  "agency_path": "City of New York > District Attorney - Bronx County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-09-10T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "90227N8002KX",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "BXDA Contracts",
+      "email": "contractsbxda@bronxda.nyc.gov",
+      "phone": "(718) 664-1255"
+    }
+  ],
+  "submit_to": "198 East 161st Street, 9th Floor, Bronx, NY 10451",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(i)(D) of the Procurement Policy Board Rules, the Bronx District Attorney\u001as Office (BXDA) intends to enter into a Negotiated Acquisition contract with SHI International Corp. The contract term will be from 11/02/2026 through 11/01/2029. The proposed budget is $1,933,710.73.\n\nTHIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY. Vendors can express interest in responding to a future procurement to provide these services by sending such request via email to ContractsBXDA@bronxda.nyc.gov.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "d491d94bfbdb8f0bb8d6791e1169145bac790a82e415e63598660a508cad4f9e",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

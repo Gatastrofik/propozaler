@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260827005",
+  "source": "crol",
+  "source_id": "20260827005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827005",
+  "title": "82626P0008-BEDC-NR-107-: Construction Management Services for the North River Wastewater Resource Recovery Facility Underdeck Structural and Marine Improvements",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-02",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-02",
+  "solicitation_number": "82626P0008001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": 18348344,
+  "contacts": [
+    {
+      "name": "Vanessa Soto",
+      "email": "vsoto@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "58d6e670aa425b999ada0aec71a9dcaa0cd2ae35a4a5d0cd3eadda42777232b1",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

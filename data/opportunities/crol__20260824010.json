@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260824010",
+  "source": "crol",
+  "source_id": "20260824010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824010",
+  "title": "Construction site safety training in Brooklyn",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-28",
+  "solicitation_number": "80126N0018001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 337322,
+  "contacts": [
+    {
+      "name": "Marielis Martinez",
+      "email": "mmartinez@sbs.nyc.gov",
+      "phone": "(801)"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Local Law 196 (2017) establishes site safety training (\u001aSST\u001a) requirements for workers at most construction sites and requires workers to undergo between 40-55 hours of Site Safety Training. The New York City Department of Small Business Services (SBS) has been designated to provide such a training program as a course provider approved by the NYC Department of Buildings (\u001aDOB\u001a) to day laborers.\n\nThe Department of Small Business Services is exercising a Negotiated Acquisition Extension in accordance to Section 3-04 (b)(2)(iii) of the Procurement Policy Board Rules.\n\nThe negotiated acquisition extension will allow the agency adequate time to release a new solicitation for this program and enable the current Construction Site Safety provider to continue to provide a training program to ensure that these essential safety standards are in place to protect the lives of construction workers and the public consistent with the requirements outlined in the local law.\n\nThe Services required under this contract are required to maintain the level of services required to be provided to construction site safety day laborer individuals until a new solicitation can be released and a new contract awarded. The agency is currently finalizing the RFP to solicit for new awards and is exercising an NAE as per PPB Rule Section 3-04 (b) (2)(iii)",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "d3d32b93374ce69d05fbc8a7bdaefc0afe6c173e63454438463c620bbfb60418",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

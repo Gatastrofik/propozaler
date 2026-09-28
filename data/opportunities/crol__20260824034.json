@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260824034",
+  "source": "crol",
+  "source_id": "20260824034",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824034",
+  "title": "HWS2026Q - PRIOR NOTICE SIDEWALKS, QUEENS",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": "2026-09-23T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-28",
+  "solicitation_number": "85027B0015",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Karen General",
+      "email": "csb_projectinquiries@ddc.nyc.gov",
+      "phone": "(718) 391-2410"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "Responses to this CSB must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. Click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN (85027B0015) into the Keywords search field. Please note, this link is only for NON-PQL projects. For PQL projects, only certified vendors will receive the solicitations.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "526ea7dd478641385e5af1bb7dbceb84fdce310277a38e0169b07c97de303afc",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

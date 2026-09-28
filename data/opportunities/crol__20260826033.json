@@ -1,0 +1,60 @@
+{
+  "id": "crol:20260826033",
+  "source": "crol",
+  "source_id": "20260826033",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826033",
+  "title": "Brooklyn College - Ingersoll Hall HVAC Upgrades",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "City University",
+  "agency_path": "City of New York > City University",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": "2026-10-05T23:59:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-31",
+  "solicitation_number": "BC-CUCF-19-26",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "CUNY/CUCF Procurement Services",
+      "email": "cuny.builds@cuny.edu",
+      "phone": "(646) 664-2700"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "To view and download the documents for this solicitation, please visit the CUNY Builds' website at www.cuny.edu/cunybuilds.\n\nPursuant to State Finance Law § 139-j and § 139-k, this solicitation includes and imposes certain restrictions on communications between CUCF and a Proposer during the procurement process. Further information about these requirements can be found on the New York State Office of General Services (OGS) website at www.ogs.ny.gov/acpl/.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "99bd8ba50653d3e0f5632dfe01122c532d163bef2a8f2e64668af6199ef24edc",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "exclude:title:HVAC",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

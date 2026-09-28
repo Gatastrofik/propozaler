@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260904008",
+  "source": "crol",
+  "source_id": "20260904008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904008",
+  "title": "84127Y0885 \u001a Request for Information (RFI) Regarding Electric Vehicle Charging Incentive Program",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": "2026-10-14T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-14",
+  "solicitation_number": "84127Y0885",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "David Maco",
+      "email": "dmaco@dot.nyc.gov",
+      "phone": "(212) 839-9400"
+    }
+  ],
+  "submit_to": "55 Water Street, 8th Floor, New York, NY 10041",
+  "attachments": [],
+  "description_text": "The New York City Department of Transportation (NYC DOT) is releasing this Request for Information (RFI) in response to the commitment outlined by the Triborough Bridge and Tunnel Authority (TBTA) in the Congestion Relief Zone Tolling Program Final Mitigation Plan to direct $7 million for electric vehicle charging infrastructure in three specific mitigation communities in the Bronx. These communities include:\n\n * The Crotona-Tremont community including the Bathgate Industrial Business Zone (IBZ)\n * The Northeast Bronx community including the Eastchester IBZ\n * The Pelham-Throgs Neck community including the Zerega IBZ\n\nThis RFI seeks to gather information for and assess interest in a potential new EV Charging Incentive (EVCI) Program run by NYC DOT and funded by TBTA. The new EVCI Program would complement the New York City Clean Trucks Program (NYCCTP) (at https://www.nycctp.com) and would provide financial assistance to fleets adopting battery electric vehicles (BEVs) through NYCCTP, covering eligible costs associated with private or public truck charging infrastructure. Fleets must be either located within these communities or conduct a significant portion of their business and travel within these communities.\n\nThis RFI is released through PASSPort, New York City\u001as online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned \u001aProcurement Navigator,\u001a whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 84127Y0885, into the Keyword search field, then click search. In order to respond to the RFI, vendors must create an account within the PASSPort system if they have not already done so. Responses to this RFI should be submitted by 5:00 pm on 10/14/26, the response due time/date. Any inquiries concerning this RFI should be directed by e-mail under the subject line \u001aEV Charging Infrastructure RFI\u001a to the email address of the Authorized Agency Contact, David Maco, at dmaco@dot.nyc.gov .",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "91d7104a62fce026e7d110b059a097160ffc5190d279c77cc86595f651cc83f8",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

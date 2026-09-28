@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260824028",
+  "source": "crol",
+  "source_id": "20260824028",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824028",
+  "title": "AutoCAD Software Support",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "06827W0007001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 75198,
+  "contacts": [
+    {
+      "name": "Joyce Caballero",
+      "email": "joyce.caballero@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "ead3bbd3155f5afcaffdf5468fbc89eb13e48e172a90d5a661fd1bc1ba1b6564",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

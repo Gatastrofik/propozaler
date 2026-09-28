@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260812025",
+  "source": "crol",
+  "source_id": "20260812025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260812025",
+  "title": "NORC SERVICES",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Aging",
+  "agency_path": "City of New York > Aging",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-19",
+  "solicitation_number": "12521P0019001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 1116110,
+  "contacts": [
+    {
+      "name": "Erkan Solak",
+      "email": "esolak@aging.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NYC AGING ID: M74\nNaturally Occurring Retirement Communities (NORCs) provide an outlet aimed at socialization for community-dwelling older adults and prevent them from being isolated and disenfranchised. Residents engage in various programs to receive case management or assistance for help with social services, speak with a healthcare professional on issues of concern, participate in health and wellness activities, learn ways to better manage chronic health conditions, and to enjoy an educational or recreational afternoon with neighbors. \n\nYMYWHA of Bronx: Riverdale Y NORC (Amalgamated Park-Reservoir NORC)  5625 Arlington Ave, Bronx, NY 10471",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a7119eab2e7e12714f2f0fc750ffc55956700447d47c838f911ba2f165421711",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260826026",
+  "source": "crol",
+  "source_id": "20260826026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826026",
+  "title": "ancillary medical services for 5 months",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-01",
+  "solicitation_number": "06821P0332001R005",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 506138,
+  "contacts": [
+    {
+      "name": "Annie Kuo",
+      "email": "annie.kuo@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To renew The Floating Hospital's Medical and Dental contract for an additional 5 months at a reduced level. The vendor is not interested in a full three-year renewal and H+H was contracted to takeover services on 12/1. However, there are some ancillary services H+H is still working on securing. This contract contains OTPS only for certain items like Client's supplies & medication, and contracted services that are to be extended such as radiology, and optical services, among others.\n\nSpecial Case Determination not required because procurement is for Client/Human Services and is the preferred method under PPB Rule 3-01 (c).",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "723dffb210d9cad6491f468400c7527f5dcc773b1807a5ee51a437f6e9197b38",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

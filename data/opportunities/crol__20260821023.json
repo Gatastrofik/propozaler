@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260821023",
+  "source": "crol",
+  "source_id": "20260821023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821023",
+  "title": "84126P0016-In-Process Fabrication Inspection of Precast and Prestressed Concrete in the United States and Canada",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": "2026-10-01T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-31",
+  "solicitation_number": "84126P0016",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The services to be procured are the In-Process Fabrication Inspection of Precast and Prestressed Concrete in the United States and Canada. This Procurement is subject to participation goals for Minority-Owned Business Enterprises (MBEs) as required by Section 6-129 of the New York Administrative Code. The MWBE goal for this project is 30%. A Pre-Proposal Conference (Optional) has been scheduled for September 14,2026, Time: 10:00 AM through Zoom. Proposers who wish to attend the Zoom Conference meeting can access by using the Zoom Link provided in the 'Prepare RFX' Section - SETUP Tab - Pre-Proposal/Pre-Bid Conference Section in PASSPort. This Request for Proposals (RFP) is released through PASSPort, New York City\u001as online procurement portal. Responses to this RFP must be submitted via PASSPort. To access the RFP, vendors should visit the PASSPort public Portal at https://a0333-passportpublic.nyc.gov/rfx.html go to the PASSPort page and click on PASSPort Public-agree to the Disclaimer-press submit-Browse Solicitations. Doing so will take one to the public portal of all procurements in the PASSPort system. To quickly locate the RFP, insert the EPIN: 84126P0016 into the Keyword search field. In order to respond to the RFP, vendors must create an account within the PASSPort system if they have not already done so.\n\nPre bid conference location -Pre-Proposal Conference Zoom Link: https://zoom.us/j/97231287951?pwd=caQwxWnodjS0PxgdbTjMMyr6tb1Mb1.1 Meeting ID: 972 3128 7951; Passcode: 555154; One Tap mobile: +19292056099,,97231287951#,,,,*555154# US (New York); +16465189805,,97231287951#,,,,*555154# US (New York) Mandatory: noDate/Time - 2026-09-14 10:00:00",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "bab09c6dd567f0d8f8b309fe2bf89b921602a1695005a663c7f6020974f45e15",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

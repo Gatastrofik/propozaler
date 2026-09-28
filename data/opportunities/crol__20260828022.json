@@ -1,0 +1,60 @@
+{
+  "id": "crol:20260828022",
+  "source": "crol",
+  "source_id": "20260828022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828022",
+  "title": "SOFTGENETICS SOFTWARE LICENSE UPGRADES - 25ME032",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Chief Medical Examiner",
+  "agency_path": "City of New York > Chief Medical Examiner",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-08",
+  "due_at": "2026-09-17T00:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-08",
+  "solicitation_number": "81625Y0683",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tasmeya Hafiz",
+      "email": "thafiz@ocme.nyc.gov",
+      "phone": "(212) 323-1732"
+    }
+  ],
+  "submit_to": "421 East 26th Street,10th Floor, New York, NY 10016",
+  "attachments": [],
+  "description_text": "The Office of Chief Medical Examiner (OCME) intends to enter into a sole source contract with SoftGenetics, LLC to provide continued software maintenance for the following licenses:\n\n 1. Mutation Surveyor\n 2. NextGENe\n 3. GeneMarkerHTS\n 4. Geneticist Assistant\n 5. GeneMarkerHID\n\nAny other vendor who is capable of providing this service to the NYC Office of Chief Medical Examiner may express their interest in doing so by completing their response in PASSPort in the Manage Responses tab of Sourcing EPIN #81625Y0683.\n\nNeed help or have a question? Submit an inquiry to the MOCS Service Desk! https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "4f094bcdea4d1e75ea99142f2e00198708af687ecba70e105ec0b300835d52c1",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

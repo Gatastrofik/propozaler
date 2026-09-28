@@ -1,0 +1,54 @@
+{
+  "id": "crol:20260904022",
+  "source": "crol",
+  "source_id": "20260904022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904022",
+  "title": "81627Y0857-BRANAGH INFORMATION GROUP INC. _ Sole Source _ Technical Assistance (TA) Module 01 software data system",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-11",
+  "due_at": "2026-09-25T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-11",
+  "solicitation_number": "81627Y0857",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the Department of Health and Mental Hygiene (DOHMH) intends to enter into negotiations for a five-year agreement with Branagh Information Group, Inc. for the purchase of a remote online access to the Technical Assistance (TA) Module 01 software data system, which enables users to categorize childcare program needs identified in quality improvement plans across facilities, identify local trends, and assist in planning for future resources. Additionally, users could conduct pre- and post- assessment analysis to demonstrate improvement over a period. The web-based analytics tools would use monitoring data and the assessment process in real time. The software licenses and training would allow DOHMH EI-Early Childhood Education Consultants to assess early childhood settings and classroom environments using the Environment Rating Scale (ERS) software, which includes Early Childhood Environment Rating Scale (ECERS), Infant/Toddler Environment Rating Scale (ITERS), and Family Child Care Environment Rating Scale (FCCERS).\n\nDOHMH has determined that Branagh Information Group, Inc., is the only viable vendor to provide these services because Branagh Information Group, Inc. is currently the only software vendor authorized to provide ECERS-R, ECERS-3, ITERS-R, ITERS-3, SACERS, FCCERS-R, or FCCERS-3 data collection software.\n\nAny vendor that believes it can legally provide these services is invited to submit an Expression of Interest directly to this RFI- EPIN 81627Y0857 by the due date and time.\n\nIf you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "7aaf8b57e034e74055026e76c467c2fd279cffe107798c2cca7c6ef0c7014e31",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:web-based",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

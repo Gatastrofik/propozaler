@@ -1,0 +1,54 @@
+{
+  "id": "crol:20260902007",
+  "source": "crol",
+  "source_id": "20260902007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902007",
+  "title": "Develop, Deploy, Support and Maintain Existing and Future Citywide Transit Signal Priority (TSP)",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-10-19T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": "84126P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Transportation (\u001athe Agency\u001a) seeks a qualified vendor to develop, deploy, support, and maintain existing and future Transit Signal Priority (TSP) corridors. The Agency has successfully deployed a centralized Transit Signal Priority (TSP) System within the City\u001as five boroughs. Central TSP leverages the existing ITS infrastructure, including a new Traffic Safety Network (TSN), centralized Traffic Control Systems, and on-board bus equipment to lower costs and to facilitate rapid implementation. This minimized the hardware and software required to make the TSP System operational. Existing and future bus corridors on the TSP System span approximately 200 miles and include about 3,500 signalized traffic intersections. Additionally, more corridors are planned/deployed over the next few years. This Request for Proposals (RFP)/RFx is released through PASSPort, New York City\u001as online procurement portal. Responses to this RFP/RFx must be submitted via PASSPort. To access the RFP/RFx, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned \u001aProcurement Navigator,\u001a whereupon you will arrive at the Portal. To quickly locate the RFP/RFx, insert the following EPIN, 84126P0001, into the Keyword search field, then click search. In order to respond to the RFP/RFx, vendors must create an account within the PASSPort system if they have not already done so. A pre-proposal conference via Microsoft TEAMS is scheduled for 9/28/26 at 11:00 a.m. Those wishing to attend must request the Microsoft TEAMS link from the Authorized Agency Contact by no later than 5:00 p.m. on 9/25/26. The deadline for the submission of questions is 9/30/26 by 5:00 p.m. The proposal due date (submission via PASSPort) is 10/19/26 by 2:00 p.m. This procurement is subject to participation goals for New York State\u001as Disadvantaged Business Enterprise (DBE) program, as required by FHWA; there is a 0% goal for this project.\n\nPre bid conference location -Via Microsoft TEAMS Mandatory: noDate/Time - 2026-09-28 11:00:00For the agency to evaluate the services and solution provided, it is in the City's interest to evaluate the proposer's quality of experience, demonstrated organizational capability and proposed approach and determine that the offered price is fair and reasonable.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "f86ffb4b3b8f8841dd6380d9bae63242d24a4bad79ea051ac74512f447e539d5",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

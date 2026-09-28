@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260831013",
+  "source": "crol",
+  "source_id": "20260831013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831013",
+  "title": "COMPASS School- Based NAQ",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-04",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-04",
+  "solicitation_number": "26026N0133006",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 1556100,
+  "contacts": [
+    {
+      "name": "Renise Ferguson",
+      "email": "referguson@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(i)(A) of the New York City Procurement Policy Board (PPB) Rules, the Department of Youth and Community Development (DYCD) requests approval to enter into a noncompetitive Negotiated Acquisition with the seven (8) providers to provide programming at 12 middle school locations listed in Attachment A. This procurement maintains critical, uninterrupted Comprehensive After-School System (COMPASS) programming across eleven (12) NYC public schools. These specific school sites were not awarded a contract under the recently concluded competitive solicitation, COMPASS Programs in Public Schools RFP (EPIN: 26026P0003). However, the eleven providers selected for this Negotiated Acquisition are the incumbent contractors at these exact schools. They possess proven track records of satisfactory performance, have built deep roots within their respective school communities, and are uniquely positioned to prevent a lapse in critical student services.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "5f4bcbaa66f7916ea3f57b417309b052e0412f989a3ddf44f1b10a2508734fb9",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

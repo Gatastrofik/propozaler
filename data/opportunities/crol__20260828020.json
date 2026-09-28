@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260828020",
+  "source": "crol",
+  "source_id": "20260828020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828020",
+  "title": "Community Violence Intervention and Prevention (CVIP) Strategy and Procurement Development RFP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Mayor's Fund to Advance New York City",
+  "agency_path": "City of New York > Mayor's Fund to Advance New York City",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-09-16T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "202608",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Sean Kim",
+      "email": "mayorsfundtoadvancenyc@mayorsfund.nyc.gov",
+      "phone": "(212) 788-7792"
+    }
+  ],
+  "submit_to": "253 Broadway, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Under the direction of the Deputy Mayor for Community Safety (DMCS), the Office of Community Safety (OCS) develops citywide community safety strategies and coordinates the work of the Office of Crime Victim Services (OCVS), Office of Neighborhood Safety (ONS), Office to End Domestic and Gender-Based Violence (ENDGBV), Office for the Prevention of Hate Crimes (OPHC), and the Office of Community Mental Health (OCMH). OCS focuses on strengthening the social fabric that keeps communities safe, streamlining and expanding evidence-based and common-sense safety interventions, and strengthening wraparound services so no New Yorker is left behind. The creation of OCS is the first step toward fulfilling Mayor Mamdani\u001as pledge to create a Department of Community Safety, a city agency that advances a whole-of-government approach to building safer communities for all New Yorkers.\n\nNew York City is at a crossroads regarding its community violence intervention and prevention (CVIP) ecosystem investments and strategies. Over 10 years ago, NYC was one of the first cities in the country to invest in community-based violence interruption, adopting the Cure Violence model as its primary approach. With an FY27 investment of over $92 million and a new RFP to be released in FY28, the City\u001as CVIP approaches require distinct attention and care.\n\nThis moment presents an opportunity not only to assess the City's existing CVIP investments, but also to examine how they can be strengthened through closer alignment with complementary community safety strategies, including behavioral health, gender-based violence prevention and response, precision intervention strategies, and other evidence-based approaches. The resulting CVIP approach should preserve and build on the strengths of New York City\u001as community violence field while identifying opportunities for greater coordination, stronger connections across areas of need, shared learning and improvement practices, and holistic responses to the complex factors that contribute to violence.\n\nTo support this work, the DMCS and OCS seek a strategic planning partner to support the development of the Office of Community Safety\u001as Community Violence Intervention and Prevention Strategy and Procurement, ensuring that future investments are informed by evidence, community expertise, and OCS's broader vision for community safety.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "77fdbe48b1659f59691d8cdeaacd8cbdd3160e287077ab68457b06c3e04ce7fe",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

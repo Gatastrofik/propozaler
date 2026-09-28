@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260818007",
+  "source": "crol",
+  "source_id": "20260818007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818007",
+  "title": "Challenged Based Procurement - Venture Forward",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-24",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-24",
+  "solicitation_number": "80126D0002002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Demonstration Project",
+  "set_aside": null,
+  "estimated_value": 475000,
+  "contacts": [
+    {
+      "name": "Marquelle Manns",
+      "email": "mmanns@sbs.nyc.gov",
+      "phone": "(212) 618-8840"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Although street vending provides critical services to millions and is a primary source of income for many New York City families, limited access to legal vending opportunities is a significant and long-standing challenge. Through the Challenge-Based Solicitation process, we are endeavoring to support the economic stability of street vendors who seek legal work, while balancing the needs of stakeholders that intersect with the street vending ecosystem. We are seeking program partners to identify and pilot immediately accessible interventions that: \u001a Create equitable tools to navigate the current street vending regulatory environment. \u001a Facilitate the expansion of existing opportunities and creation of new opportunities to support the economic stability of street vendors seeking legal work",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "38a58077c81550a7c7e16aee9e86989ed9b28a06c79d714b05dd712fa6962f0f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

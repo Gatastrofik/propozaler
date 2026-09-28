@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260828010",
+  "source": "crol",
+  "source_id": "20260828010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828010",
+  "title": "05727Y0652-Pin # 353 - EMS Academy 3D Anatomy Tables",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-09-15T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "05727Y0652",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Fire Department (FDNY) is seeking price quotes on EMS Academy 3D Anatomy Tables.  Please note that further information can be found in the Item, Questionnaire, and Documents tab in PASSPort.\n\nAny vendor besides Anatomage Inc. that believes they can supply EMS Academy 3D Anatomy Tables is invited to express their interest by submitting a response in PASSPort. Please complete the Acknowledgement tab and submit a response in the Manage Responses Questionnaire tab. If you have questions about the details of the RFx please submit them through the Discussion with buyer tab.\n\nInstructions on how to submit your responses in PASSPort can be found at the link below:\nhttps://www.nyc.gov/site/mocs/passport/articles/respond-opportunities.page\n\nIf you need additional assistance, please contact MOCS Service desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 for your questions or issues.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "9dd430dfdab606217da8ba42a8a7721c2b5e957e333123e5fb2b957f24f298c9",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

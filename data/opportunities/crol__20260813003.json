@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260813003",
+  "source": "crol",
+  "source_id": "20260813003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813003",
+  "title": "84126MBSI733 - Elevator, Escalator and Miscellaneous Lift Equipment Maintenance",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-19",
+  "solicitation_number": "84126O0003001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 4930986,
+  "contacts": [
+    {
+      "name": "Ereny Hanna",
+      "email": "ehanna@dot.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "f985bdc06025ecf1fba0f6cd4d1a17e0e8435243fd123df471487b6791f69746",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

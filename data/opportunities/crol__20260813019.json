@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260813019",
+  "source": "crol",
+  "source_id": "20260813019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813019",
+  "title": "Specialty Lube Oil, Marine Chemicals, & Accessories",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-19",
+  "solicitation_number": "84126W0083001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 500000,
+  "contacts": [
+    {
+      "name": "Matthew Drucker",
+      "email": "mdrucker@dot.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Specialty Lube Oil, Marine Chemicals, & Accessories",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "21e5202f49d1bd2ebfd40e92bb198affbb358ad44d52cd04383182d0f4850124",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

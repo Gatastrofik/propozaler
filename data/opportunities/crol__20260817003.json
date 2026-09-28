@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260817003",
+  "source": "crol",
+  "source_id": "20260817003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817003",
+  "title": "1618-DISP: Dispersant Polymer",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-21",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-21",
+  "solicitation_number": "82626B0024001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 15329250,
+  "contacts": [
+    {
+      "name": "Fabian Heras",
+      "email": "fheras@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "BWT-1618-DISP: to manufacture and deliver a non-hazardous Dispersant Polymer to inhibit struvite formation at the various New York City Department of Environmental Protection (DEP) Wastewater Resource Recovery Facilities (WRRFs). The Dispersant Polymer must not fall under hazardous classification under 6 NYCRR Part 597 Hazardous Substances Identification, Release Prohibition, and Release Reporting.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "ac77ca42e25dae16c6b0fe33edd412acba23c8eb0c8a52b869dc93fdacc916d8",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

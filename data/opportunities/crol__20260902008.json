@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260902008",
+  "source": "crol",
+  "source_id": "20260902008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902008",
+  "title": "BROOKLYN SOUTH INDUSTRIAL BUSINESS SOLUTIONS PROVIDER NEGOTIATED ACQUISITION EXTENSION CONTRACT",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": "2026-09-23T19:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-09",
+  "solicitation_number": "80127N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a Negotiated Acquisition Extension contract with Southwest Brooklyn Industrial Development Corporation, to continue Industrial Business Solutions Provider (IBSP) services in South Brooklyn to reinforce the City\u001as efforts to support the industrial and manufacturing sector by responding to current and evolving needs while providing the conditions and resources to enable the sector to further grow and advance. The contract term will be from 7/1/2026 to 6/30/2027, in the amount of $170,000.00, EPIN: 80127N0001. \n\nAny entity with experience in providing such services may submit an expression of interest with its qualifications for future solicitations for these types of services should indicate their interest to: procurementhelpdesk@sbs.nyc.gov with subject line: 'EPIN:80127N0001 South Brooklyn IBSP' must be received no later than September 23, 2026, 3:00 P.M",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "0a2a888b9a21da9526111b5a310d14cb884239222a58df37bb064b48ab000a38",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

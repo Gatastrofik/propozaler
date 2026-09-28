@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260813026",
+  "source": "crol",
+  "source_id": "20260813026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813026",
+  "title": "BKOPS-Jumbo Toilet Paper for Brooklyn Operations",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-20",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-20",
+  "solicitation_number": "84627W0003001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 335107,
+  "contacts": [
+    {
+      "name": "Yisqueiry maldonado",
+      "email": "y.maldonado@parks.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Purchasing Agent/contact: Yisqueiry Maldonado\n212-830-7958\nY.maldonado@parks.nyc.gov\n\nRequester/contact: Queshawnda Pou\n718-965-8959\nQueshawnda.pou@parks.nyc.gov\n\nReceiver: Tatiana Delice\n718-965-7779\nTatiana Delice@parks.nyc.gov\n\nAdditional Receiver: Renee Hamer\n718-965-7781\nRenee Hamer@parks.nyc.gov\n\nDelivery Location: \nBrooklyn Storehouse\nProspect Park West & 7th Street, Brooklyn, NY 11215.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "62bb153c6c145e08dff564435def443841b24fb62179ad2b0ec7e8fbaaa85840",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

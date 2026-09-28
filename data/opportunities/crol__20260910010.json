@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260910010",
+  "source": "crol",
+  "source_id": "20260910010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260910010",
+  "title": "COMPASS Center Based - Bronx 02, 05, Mn 10, & Qn 12 Middle",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-16",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-16",
+  "solicitation_number": "26026P0004007",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 6364440,
+  "contacts": [
+    {
+      "name": "Michele Cuesta",
+      "email": "micuesta@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "COMPASS and SONYC is one of DYCD's largest programs, with over 820 programs collectively throughout the five boroughs. Families rely on these programs to provide elementary and middle school students, during after school hours, summer and on holidays, programing which includes educational support, recreation, enrichment, and cultural activities to support and strengthen the overall development of our youth. Programs are offered at no cost to youth and are purposefully located in public and private schools, community centers, religious institutions, public housing and parks recreational facilities throughout the City to help families find a place that best fits their youth's needs. Awarded for COMPASS Center-Based - Bronx -CD 2 -991 Longwood Avenue, Bronx, NY 10459, Bronx CD-5 - 2255 Webster Avenue, Bronx, NY 10457 - Manhattan CD-10 - 441 Manhattan Avenue, New York, NY 10026 - Queens CD-12 -116-25 Guy R Brewer Boulvard Queens, NY 11434\n\nDYCD has determined that Competitive Sealed Bidding is neither practicable nor advantageous to the City because this procurement necessitates the exercise of judgment in evaluating competing proposals and requires a balancing of price, quality, and programmatic factors to achieve the best outcomes. DYCD is seeking pre-qualified Health and Human Services (HHS) providers to operate COMPASS programs. These programs are located in New York City Public School (NYCPS) sites and charter schools housed within NYCPS buildings and serve elementary and middle school students across all five boroughs. COMPASS programs are a critical part of the City\u001as effort to support working families by providing free, high-quality afterschool and summer childcare services. They offer a wide range of enrichment activities that help students in Kindergarten through Grade 8 develop academically, socially, and emotionally, both in and out of the classroom. Given the complex nature of this work\u001arequiring cultural competency, deep community engagement, and tailored programming to meet the diverse needs of NYC youth a proposal-based evaluation is essential. This approach allows DYCD to select providers not only based on cost, but also on their demonstrated experience, organizational capacity, staffing approach, and commitment to equitable service delivery. Therefore, the use of an RFP, rather than Competitive Sealed Bidding, is the most appropriate method to ensure the highest quality of services are delivered in alignment with the City\u001as goals for youth development and family support.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "3437fd8be5e4c0161f1c06727c632a6c471d85400530fdcc4d48adaf012f3556",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

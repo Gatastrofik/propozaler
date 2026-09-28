@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260818014",
+  "source": "crol",
+  "source_id": "20260818014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818014",
+  "title": "Emergency Shelter services at Liberty House",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-24",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-24",
+  "solicitation_number": "06926P0008011",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 18384654,
+  "contacts": [
+    {
+      "name": "Cornelia Branzan",
+      "email": "branzanc@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "These beds and services will be provided to survivors of domestic violence.\n\nThis is an open-ended Human Services RFP for Emergency Shelter beds and Support Services.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "eee8b62f54d04139185118ad54a870aa3748525f895bd1626a9c7d5440516cab",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

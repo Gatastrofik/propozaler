@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260824057",
+  "source": "crol",
+  "source_id": "20260824057",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824057",
+  "title": "85727B0014 - DOC - Portion Control",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-10-02T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "85727B0014",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Mailynn Lewis",
+      "email": "malewis@dcas.nyc.gov",
+      "phone": "(212) 386-5362"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka \u001aProcurement Navigator\u001a) at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the \u001akeyword\u001a search field to locate the solicitation for 'DOC - Portion Control\u001a. You may also search using the EPIN 85727B0014. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp.\n\nBid opening and Pre-Bid Conferences will be held virtually via Microsoft TEAMS, please see links to register in PASSPort.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a460c17e72579d96dd6115ad618c15bcc82bbdfec66cc300bfe5d55d2f382b65",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

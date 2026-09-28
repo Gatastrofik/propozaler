@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260903016",
+  "source": "crol",
+  "source_id": "20260903016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903016",
+  "title": "5 SMART Boards & Wall Brackets w/5-Yr Warranty",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-10",
+  "solicitation_number": "06926W0049001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 22359,
+  "contacts": [
+    {
+      "name": "Michael Russell",
+      "email": "russellmich@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "DSS/ITS is requesting 5 SMART Boards & Wall Brackets with 5-Years Warranty. AR224886/SO7668R: OCSS (BC 9424) is requesting the purchase of the 'SMART Board RX286 Collaboration Display and SMART 2 Year Assure warranty extension.' SMART Boards in the 2 OCSS Training Rooms are outdated, not working consistently, and have reached end of life. Furthermore, there is no current service contract that can provide tech support should these devices have issues. New SMART Boards will facilitate better training sessions for staff. REQ0205638/SO0001012: Security Administration (BC 9175, 9470) is requesting the purchase of SMART Board RX075 series interactive display with iQ and Large Clean Wall Bundle (Wall Brackets). The DHS Police Training Academy urgently requests approval to replace the classrooms\u001a Smart Board, which became inoperable last week. This equipment is mission-critical for delivering DCJS mandated instruction, interactive scenario-based training, and multimedia coursework required for all Peace Officer recruits. A new Basic Peace Officer Academy class is scheduled to begin on Monday, February 2, 2026. The Smart Board is the primary instructional tool used to deliver core lessons, legal modules, use-of-force scenarios, and standardized testing content. Without a functioning board, instructors cannot meet required training standards, and the Academy cannot proceed with the scheduled class.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "fec8944feee2913edd2e67a8837a734e8299a4b27c55d06bf495e567f86273cf",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

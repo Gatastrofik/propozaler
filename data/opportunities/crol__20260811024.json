@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260811024",
+  "source": "crol",
+  "source_id": "20260811024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811024",
+  "title": "Microsoft 365 Copilot Pre-Rollout Security Readiness Assessment",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Teachers' Retirement System",
+  "agency_path": "City of New York > Teachers' Retirement System",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": "2026-09-15T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-19",
+  "solicitation_number": "2130",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Request for Quote",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tariq Wahdat",
+      "email": "twahdat@trs.nyc.ny.us",
+      "phone": "(212) 612-5969"
+    }
+  ],
+  "submit_to": "55 Water Street, New York, NY 10038",
+  "attachments": [],
+  "description_text": "TRS seeks an independent vendor to perform a focused, risk-based security assessment before Copilot licenses are activated for end users.\n\nThe engagement is limited to assessment and recommendations. The vendor will not change production configurations or implement remediation.\n\n * Validate the security controls protecting the pilot.\n * Identify material conditions that could expose TRS information.\n * Identify required pre-rollout remediation.\n * Provide a clear readiness determination.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "9f27d677c5a5702d7d3a441f18693d70ead6b4fe3d060b6236006be9400ba162",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

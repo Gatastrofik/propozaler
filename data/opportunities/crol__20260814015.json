@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260814015",
+  "source": "crol",
+  "source_id": "20260814015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260814015",
+  "title": "81627Y0862-Panasonic Toughbook FZ-G2NZ- 10BM units",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-21",
+  "due_at": "2026-08-31T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-21",
+  "solicitation_number": "81627Y0862",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Shamecka L Williams",
+      "email": "swillia9@health.nyc.gov",
+      "phone": "(347) 396-6656"
+    }
+  ],
+  "submit_to": "42-09 28th Street, LIC, NY 11101",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the Department of Health and Mental Hygiene (DOHMH) intends to enter into negotiations for a five-year agreement with Panasonic Corporation of North America to procure 170 Panasonic Toughbook FZ-G2NZ- 10BM units. These rugged Toughbook devices are critical to the bureau's field operations, as they will provide food safety inspectors with the most up-to-date, durable, and reliable technology available. \n\nDOHMH has determined that Panasonic Corporation of North America is the sole authorized provider of the Panasonic TOUGHBOOK® As-a-Service (TaaS) subscription program. No distributers, resellers, or third-party vendors are either licensed or permitted to offer TOUGHBOOK As-a-Service technology subscription services.\n\nAny firm that believes it can legally provide these services, is invited to submit an Expression of Interest directly to this RFI- EPIN 81627Y0862 no later than 8/31/2026 by 2:00 P.M.\n\nIf you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2f754c5aa8629050eedd61baf137f9f9f52dff73a7c70a22c69bc5b520c0ee78",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:subscription",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

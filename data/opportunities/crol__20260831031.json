@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260831031",
+  "source": "crol",
+  "source_id": "20260831031",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831031",
+  "title": "DISCRETIONARY FUNDING SOFTWARE APPLICATION",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "City Council",
+  "agency_path": "City of New York > City Council",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": "2026-09-15T13:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-09",
+  "solicitation_number": "10220270003784",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jenna Baldwin",
+      "email": "jbaldwin@council.nyc.gov",
+      "phone": "(212) 482-5131"
+    }
+  ],
+  "submit_to": "250 Broadway, 16th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Pursuant to Council Procurement Procedures Section 3-04 (b)(i)(D), the Council is making a negotiated acquisition because it is not practicable or advantageous to award the contract by a competitive process because there is a compelling need for the services which cannot be met otherwise. It is in the best interest of the city to enter into this contract with the vendor to continue services.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "c60f16e94d9be3d6f2ae2ce30c5408e6506edfd60e10fba8c7b8ac9bca3b64ca",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

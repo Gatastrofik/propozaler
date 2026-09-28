@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260831025",
+  "source": "crol",
+  "source_id": "20260831025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831025",
+  "title": "84125P0014-ESA, Roadway Eng, Data Coll, Design, Inspect & Related Srvs",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": "2026-10-09T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-09",
+  "solicitation_number": "84125P0014",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Roadway Repair & Maintenance (RRM) division of the Department of Transportation is seeking appropriately qualified vendors to provide Roadway Engineering, Data Collection, Design, Inspection, and Related Services to assist the Department in its daily workflow and to assist in the development of projects to improve roadway pavement and drainage, to conduct studies to allow the initiation of capital projects to improve elements of the limited access arterial system; to evaluate materials and equipment proposed for Agency use; to support DOT facilities\u001a environmental and legal compliance; and other purposes as exemplified in the typlical tasks. This Procurement is subject to participation goals for New York State\u001as Disadvantaged Business Enterprise (DBE) as required by FHWA; however, there is no DBE goal set for this project. A Pre-Proposal Conference has been scheduled for September 17, 2026, at 10:00 AM through the Microsoft Teams link. Proposers who wish to attend the Conference meeting can access it by using the Link provided in the 'Prepare RFX' Section - SETUP Tab - Pre-Proposal/Pre-Bid Conference Section in PASSPort. This Request for Proposals (RFP) is released through PASSPort, New York City's online procurement portal. Responses to this RFP must be submitted via PASSPort. To access the RFP, vendors should visit the PASSPort public Portal at https://a0333-passportpublic.nyc.gov/rfx.html Read the DISCLAIMER and Click on LOG IN link provided within the DISCLAIMER instructions to respond to a Released solicitation (RFx), Log in to PASSPort, go to the RFx tab, and choose Browse My RFx Responses or Browse Public RFx to locate the RFx to which you are looking to respond. Enter the EPIN or Procurement Name in the keywords search to find the RFx. Then, click the pencil icon next to the procurement Name of the RFx you are interested in viewing\n\nPre bid conference location -Teams Link: https://teams.microsoft.com/meet/258864562590715?p=YzDAiCprL9MGYo3rtM Meeting ID: 258 864 562 590 715 Passcode: XP3fU6Aw Mandatory: noDate/Time - 2026-09-17 10:00:00",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "c35f2a326f8df22809869dd4b59b169335c44f970d7a3f5c6f225873e33d1c99",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

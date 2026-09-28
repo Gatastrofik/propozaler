@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260901018",
+  "source": "crol",
+  "source_id": "20260901018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901018",
+  "title": "Leveraging Ground-Scanning Technology to Build Understanding of Underground Infrastructure in New York City",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Information Technology and Telecommunications",
+  "agency_path": "City of New York > Information Technology and Telecommunications",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": "2026-11-16T23:45:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-14",
+  "solicitation_number": "85827Y1399",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Nikita Podlednov",
+      "email": "3durfi@oti.nyc.gov",
+      "phone": "(718) 403-4185"
+    }
+  ],
+  "submit_to": "15 MetroTech Center, 18th Floor, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "The New York City Office of Technology & Innovation (\u001aOTI\u001a) and Mayor\u001as Office of Operations (\u001aOperations\u001a) invite submissions in response to this Request for Information (\u001aRFI\u001a) to help determine the feasibility of leveraging emergent technology, particularly ground-scanning technologies, to build a more complete and accurate picture of built underground infrastructure in New York City. \n\nThe goal of this RFI is to collect information to support the goals of the 3D Underground program (\u001a3DU\u001a) - https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces--10-million-platform-to-map-new-york-city-, a cutting-edge program to develop a highly secure, 3D-data-sharing platform for New York City\u001as underground built and natural environment. The platform will help government agencies and utility companies securely share and access information about what lies below New Yorkers\u001a feet, such as water and sewer pipes, gas lines, electrical conduits, fiber optic cables, and soil composition.\n\nThis RFI is released through PASSPort, New York City\u001as online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal.  To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned \u001aProcurement Navigator,\u001a whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 85827Y1399, into the Keyword search field, then click search.\n\nAll inquiries regarding this RFI, as well as submissions, should be made through PASSPort. If you do not have a PASSPort account, you may submit your response and inquiries via email. Please use the subject line \u001aLeveraging Ground-Scanning Technology to Build Understanding of Underground Infrastructure in New York City RFI\u001a and direct your message to the Authorized Agency Email at 3DURFI@oti.nyc.gov.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "8b3543f3433c41d337c9b1decc7990fde74f450674007b042702ef1ccf7c657f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:platform",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

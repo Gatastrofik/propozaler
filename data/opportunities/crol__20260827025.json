@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260827025",
+  "source": "crol",
+  "source_id": "20260827025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827025",
+  "title": "Bid 2600063 - Salt Stockpile Coverings - DSNY",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-10-06T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "85727B0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka 'Procurement Navigator') at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the 'keyword' search field to locate the solicitation for 'BID 2600063 - Salt Stockpile Coverings - DSNY'. You may also search using the EPIN 85727B0001. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp\n\nBid opening Location - Bid Opening will be held Virtually via Microsoft TEAMS. Please see link to register in PASSPort. Pre-Bid Conference - Virtual Pre-Bid Conference will be held via Microsoft TEAMS, please see link to register in PASSPort.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "48c7eadfd29b7760c5f18e12c2ce0345f902dcf3622df60d2c2e101b97a9b1a8",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

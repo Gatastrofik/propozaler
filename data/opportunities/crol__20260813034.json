@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260813034",
+  "source": "crol",
+  "source_id": "20260813034",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813034",
+  "title": "Bus Stop Shelter Real Time Passenger Information (RTPI)",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": "2026-08-26T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-19",
+  "solicitation_number": "84126Y0833",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kathy Cornwall-Wilson",
+      "email": "kcornwallwilson@dot.nyc.gov",
+      "phone": "(212) 839-9276"
+    }
+  ],
+  "submit_to": "55 Water Street, New York, NY 10044",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the New York City Department of Transportation (NYCDOT) intends to enter into sole source negotiations with JCDecaux Street Furniture New York, LLC (JCDecaux) for an agreement to install Real Time Information Displays at 1446 bus stop shelters citywide for a term of 1763 calendar days.\n\nJCDecaux is the City\u001as coordinated street furniture franchisee and has the right to install bus stop shelters throughout the New York City. The Franchise Agreement states that the bus stop shelters are at all times during the term of the agreement the property of JCDecaux and the city has no ownership interest with respect to the bus stop shelters.\nThe New York City Department of Transportation (NYCDOT) is seeking to display real time passenger information (RTPI) regarding New York City Transit bus routes on certain JCDecaux bus shelters throughout the City of New York. This requires installation of a digital panel on the side of the bus shelter, a text to speech button to provide audible information for the visually impaired and a communications feed to access the information.\n\nOn February 2, 2026, the ACCO\u001as office determined, in accordance with Section 3-05(b) of the Procurement Policy Board Rules, that JCDecaux Street Furniture New York, LLC, is the only entity authorized to own and operate bus shelters on the City\u001as public right-of-way. Therefore, JCDecaux is the sole source provider of the RTPI displays for the bus stop shelters.\n\nVendors may express interest in providing a comparable good by responding to the RFI EPIN: 84126Y0833 in PASSPort no later than August 26, 2026, by 2:00 pm.  Any questions should be directed to the authorized agency contact, Kathy Cornwall-Wilson (kcornwallwilson@dot.nyc.gov), at 212-839-9276.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a40b24d7b10c4e1716f2be30bf0040288c30f304b5699252d6c961b1767af0af",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

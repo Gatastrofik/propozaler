@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260821017",
+  "source": "crol",
+  "source_id": "20260821017",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821017",
+  "title": "Engineering Consulting for Brooklyn and Queensboro Bridges",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-27",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-27",
+  "solicitation_number": "84126W0066001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 1243369,
+  "contacts": [
+    {
+      "name": "Irina Yanovskaya",
+      "email": "iyanovskaya@dot.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "ff3a48bd9632ea8936a71441f129337f0e07fdc088dd9ce0225a66534141e6d6",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

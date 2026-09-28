@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260818033",
+  "source": "crol",
+  "source_id": "20260818033",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818033",
+  "title": "Notice of Award to Joehanne Ice Cream Co Inc. for the operation of a mobile food truck at Captain Rivera, Pontiac, Abigail Fountain & Youth Playground",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-25",
+  "solicitation_number": "X194-207-216-233-235",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 5811,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The City of New York Department of Parks & Recreation ('Parks') has awarded a concession to Joehanne Ice Cream Co Inc., of 631 E 170th Street, Bronx, NY 10456 for the operation of a processing mobile truck for the sale of Parks approved items at Captain Rivera, Pontiac, Abigail, Fountain, Youth Playground, Bronx. The concession, which was solicited by a Request for Bids, will operate pursuant to a permit agreement for one (1) five (5) year term.  Compensation to the City will be as follows: Year 1: $1,050; Year 2: $1,103; Year 3: $1,160; Year 4: $1,218; Year 5: $1,280.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "1ee552129e08f2ebc431e936187e827472d6390f48c791dae8bb355b5f56d0da",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

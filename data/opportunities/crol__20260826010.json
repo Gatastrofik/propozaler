@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260826010",
+  "source": "crol",
+  "source_id": "20260826010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826010",
+  "title": "BWT OEM Centrisys Dewatering Centrifuge Parts for NYC DEP",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-01",
+  "solicitation_number": "82626S0009001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 1028800,
+  "contacts": [
+    {
+      "name": "Fenglin Guo",
+      "email": "feguo@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "defb4a8a6a06e6e313f31870ae0e587c36d40e963761aadb9a42dce4cc1a953c",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260908009",
+  "source": "crol",
+  "source_id": "20260908009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908009",
+  "title": "BACK-UP OFFICE CLEANING SERVICES, CITYWIDE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-14",
+  "solicitation_number": "85721B0098001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 4133000,
+  "contacts": [
+    {
+      "name": "Dawn Smith",
+      "email": "dawsmith@dcas.nyc.gov",
+      "phone": "(212) 386-0425"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "9604d1445fda50692c7e4a710c28650fd69cf9f57344ee86717dc64e92ff1440",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

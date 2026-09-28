@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825014",
+  "source": "crol",
+  "source_id": "20260825014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825014",
+  "title": "Immigration Oppty Initiative Low Wage Worker Legal Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "06925P0009002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 28818604,
+  "contacts": [
+    {
+      "name": "Cornelia Branzan",
+      "email": "branzanc@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Office of Civil Justice was created at DSS/HRA in 2015 when Local Law 61 of 2015 established it as a permanent city governmental office tasked with launching, managing, monitoring, and reporting on the City\u001as civil legal services programs and the civil legal needs experienced by New Yorkers. The Office of Civil Justice works with nonprofit legal services organizations and partners across the five (5) boroughs to provide access to legal assistance to thousands of New Yorkers in need, critical services that provide low-income and other vulnerable residents the ability to access and preserve necessities of life, such as stable and affordable housing, legal immigration status, a fair and safe workplace, and access.\n\nThis procurement is under the competitive sealed proposal method pursuant to Section 3-03 of the New York City Procurement Policy Board Rules. Judgment is required in evaluating competing proposals, and it is in the best interest of the City to require a balancing of price, quality and other factors.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "11172b04d0bec59a82c5f6dc0f0630eb72a40d4c5f9a757f936b6d99772b2ec1",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

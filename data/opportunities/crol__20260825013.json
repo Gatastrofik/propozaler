@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825013",
+  "source": "crol",
+  "source_id": "20260825013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825013",
+  "title": "Promise Pay",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "26026N0043001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 2760000,
+  "contacts": [
+    {
+      "name": "Sophia Easy",
+      "email": "seasyclarke@dycd.nyc.gov",
+      "phone": "(646) 343-6327"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Fiscal Year 2027. Two (2) year Negotiated Acquisition Extension for CMS Promise Pay. Through promise pay, the vendor will provide program provider support, support DYCD's audit and finance team, conduct pre-audit review and document collection and retention. 1. Program provider support: providers may opt to engage Promise to answer questions and review budget and invoice materials prior to submission to DYCD. This support aids providers in preparing the submission materials and helps them avoid future consequences arising from adverse audit findings, which can result in recoupment or limitations on future funding. 2. Design sessions with DYCD audit and finance teams: Promise will work with DYCD\u001as audit and finance teams to create a pre-audit risk mitigation plan, including determinations about the proactive collection of required documentation, ongoing sampling of submission materials to ensure compliance with DYCD fiscal standards and real-time adjustments to sampling processes if non-compliance thresholds are exceeded. 3. Pre-audit reviews: Promise will execute the risk-mitigation plan agreed upon with DYCD\u001as audit and finance teams in collaboration with the providers in the program. 4. Document collection and retention: Promise will collect and retain in a secure manner the provider documents agreed upon with the DYCD audit and finance teams. LL63 Plan ID: FY26NDYCD15\n\nExtending the contract will allow for there to be no disruption supporting the Crisis Management System (CMS) providers as the fiscal manager. The services provided through Promise Pay is essential to provide technical assistance and financial management assistance to the CMS contractors, as well as provide support to DYCD to execute a risk-mitigation plan together these services ensures a smooth transition for the new direct relationships between DYCD and respective CMS Contractors.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "450fef434dacd7b3a760ad3ad9e459a6b9cd506988234a7ceebef447e239c9bd",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260819032",
+  "source": "crol",
+  "source_id": "20260819032",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819032",
+  "title": "BEDC EHSM-05: Environmental Health and Safety Management Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-27",
+  "due_at": "2026-09-30T16:30:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-27",
+  "solicitation_number": "82626P0029",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This Request for Proposal (\u001aRFx) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN: 82626P0029 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their inquiry Submission Form:? https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "b0a31854e8c9db6d128417923bddcc94af71bf5f0c005ba0982f0268e68c8e47",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

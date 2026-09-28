@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260820018",
+  "source": "crol",
+  "source_id": "20260820018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260820018",
+  "title": "BCS UNIFORMS 7040001X",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": "2026-09-04T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-28",
+  "solicitation_number": "7040001X",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Krystal Castle",
+      "email": "kcastle@dep.nyc.gov",
+      "phone": "(718) 595-3190"
+    }
+  ],
+  "submit_to": "59-17 Junction Boulevard, Elmhurst, NY 11373",
+  "attachments": [],
+  "description_text": "DEP intends to enter into an MWBE Non-Competitive Small Purchase agreement with Heredia Gozalez Inc for the purchase of Uniforms for Water Use Inspectors.\n \nThe contract is necessary to provide uniforms for Water Use Inspectors. Inspectors are required to wear DEP issued uniforms daily with no exceptions. Water Use Inspectors must be clearly identifiable to the public, as they are required to enter private properties to inspect, repair, or replace metering equipment. Water Use Inspectors perform their duties during various weather conditions, as result, the uniforms shall be suited for all weather scenarios: heat, cold, rain, wind, etc.  \n \nAny firm which believes it can also provide the required service IN THE FUTURE is invited to so, indicated by letter which must be received no later than September 4, 2026, 2:00 PM at: Department of Environmental Protection, Agency Chief Contracting Officer, 59-17 Junction Boulevard, 17th Floor, Flushing NY 11373, ATTN: Krystal Castle, kcastle@dep.nyc.gov .",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "3391e7e0aaec74b1f406c4d98e6821c66685e4a9be8ed0ab3902015d5fa6f8ff",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:title:uniforms",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

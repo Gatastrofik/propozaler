@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260904017",
+  "source": "crol",
+  "source_id": "20260904017",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904017",
+  "title": "SMD_A&CM_RFQ #517985 - Elevator Rehabilitation at Cassidy Lafayette/Woodson Houses",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": "2026-10-08T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-10",
+  "solicitation_number": "517985",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Shane Clark",
+      "email": "shane.clark@nycha.nyc.gov",
+      "phone": "(212) 230-6455"
+    }
+  ],
+  "submit_to": "90 Church street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Scope of Work\n\n * The Work under this Contract (RFQ No. 517985 \u001a Elevator Package) consists of the rehabilitation, modernization, maintenance, and service of twelve (12) elevators across six (6) residential buildings, including eight (8) elevators in four (4) buildings at Cassidy-Lafayette Houses and four (4) elevators in two (2) buildings at Woodson Houses. The Contractor shall provide all labor, materials, equipment, supervision, and incidental services necessary to complete the Work in accordance with the Contract Documents.\n * The scope includes, but is not limited to, the removal and replacement of existing elevator systems and the furnishing and installation of new elevator equipment, including machines, controls, hoistway components, car enclosures, doors, rails, communication systems, safety devices, and associated electrical components. The Work also includes testing, inspection, commissioning, training, and coordination with NYCHA and other trades, including a separate electrical package.\n * The Work shall be performed in phased construction to maintain building operations, with coordination requirements intended to minimize service interruptions and impacts to residents. The Contractor shall comply with all scheduling, outage duration, and performance requirements established in the Contract Documents.\n * In addition to construction and modernization activities (Part A), the Contractor shall enter into a separate Maintenance and Service Agreement (Part B) to provide ongoing elevator maintenance and support services following completion of modernization.\n\n \n\nRFQ Solicitation Timetable\n\nA non-mandatory virtual pre-bid conference will be held on 09/23/2026 at 11:00 am, via Microsoft Teams. Pre bid Teams Meeting information: (646) 838-1534 Conference ID: (232 863 912 982 698) Passcode: nx9B2q4T. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend.\n\nhttps://teams.microsoft.com/meet/232863912982698?p=fwqq9XfVdWnGivNGMi\n\nAll questions related to this RFQ are to be submitted via email to the A&CM Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 09/25/2026 on 2:00PM Bidders will be permitted to ask additional questions at the Pre-bid Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ.\n\nBid Submission Requirements\n\nVendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail.\nInstructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page\n\nAfter Bidder registers for iSupplier, it typically takes 24 to 72 hours for Bidder\u001as iSupplier profile to be approved.\n\nSite Visits - September 24, 2026\nRFQ Question Deadline - September 25, 2026 - 02:00 PM\nQuestion and Answer Release Date - October 01, 2026 \n\nIt is Vendors\u001a sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.\n\nFor assistance regarding iSupplier please email Procurement@nycha.nyc.gov",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "75805b547352f3a2af451fdf8ab9dacacd6af69f62d95d094074526ef6362e07",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

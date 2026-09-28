@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260904021",
+  "source": "crol",
+  "source_id": "20260904021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904021",
+  "title": "Request for Proposals (RFP) for the Renovation, Operation and Maintenance of a Snack Bar at the John Street Service Building at the East River Waterfront Esplanade, Manhattan",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-10-21T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": "M391-SB-2026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jeremy Holmes",
+      "email": "jeremy.holmes@parks.nyc.gov",
+      "phone": "(212) 360-3455"
+    }
+  ],
+  "submit_to": "830 5th Avenue, Room 407, New York, NY 10065",
+  "attachments": [],
+  "description_text": "In accordance with Section 1-13 of the Concession Rules of the City of New York, New York City Department of Parks and Recreation (\u001aParks\u001a) is issuing a non-significant Request for Proposals (\u001aRFP\u001a) for the Renovation, Operation and Maintenance of a Snack Bar at the John Street Service Building at the East River Waterfront Esplanade, Manhattan. \n\nThere will be a recommended remote proposer meeting on September 29,2026, at 11:00am EST. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting.\n\n \n\nThe link for the remote proposer meeting is as follows: https://teams.microsoft.com/meet/251615211667922?p=uPR0R16C3QFE9uPYU3\n\nMeeting ID: 251 615 211 667 922\n\nPasscode: Mj2oZ92w\n\nYou may also join the remote proper meeting by phone using the following information:\n\nDial in by phone\n\n+1 646-893-7101,  United States, New York City\n\nPhone conference ID: 649 758 43#\n\nSubject to availability and by appointment only, we may set up a meeting at the proposed concession site (Block #73 & Lot #2), which is located at the intersection of John Street and South Street on the East River Waterfront Esplanade in the South Street Seaport, Manhattan. (\u001aLicensed Premises\u001a).\n\nAll proposals submitted in response to this RFP must be submitted no later than October 21, 2026, at 3:00pm EST.\n\nHard copies of the RFP can be obtained at no cost, commencing September 15, 2026, through October 21, 2026, by contacting Jeremy Holmes, Deputy Director of Concession Compliance at (212)360-3455 or at Jeremy.Holmes@parks.nyc.gov.\n\nThe RFP is also available for download, September 15, 2026, through October 21, 2026, on Parks\u001a website. To download the RFP, visit  http://www.nyc.gov/parks/businessopportunities and click on the \u001aConcessions Opportunities at Parks\u001a link. Once you have logged in, click on the \u001adownload\u001a link that appears adjacent to the RFP\u001as description.\n\nFor more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Jeremy Holmes, Deputy Director of Concession Compliance at (212)360-3455 or at Jeremy.Holmes@parks.nyc.gov.\n\nDeaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user. Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2d39bf24fb68e7183ff440618ecdcab399c380149a3d7c649c5153944f713242",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

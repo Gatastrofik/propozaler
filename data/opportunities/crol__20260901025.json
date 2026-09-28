@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260901025",
+  "source": "crol",
+  "source_id": "20260901025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901025",
+  "title": "SMD_A&CM_RFQ #517934 Basketball Court at Clinton Houses - Manhattan",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": "2026-10-15T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-10",
+  "solicitation_number": "517934",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Cheryl Barr",
+      "email": "cheryl.barr@nycha.nyc.gov",
+      "phone": "(212) 306-6487"
+    }
+  ],
+  "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Scope of Work:\n\nThe scope of work includes two new playgrounds, both featuring new play structures and spray shower areas, as well as a new adult fitness station-all 3 areas have new safety surfacing. The project also includes a basketball court, a walking track with a colored wearing surface, a community garden, and new passive recreation areas with artificial turf and updated seating. \u001aAll improved areas will be underlaid with an improved stormwater management system, including subsurface rainwater storage tanks and new or upgraded drainage conveyance system.\u001a\n\n \n\nLocations:\n\nThree (3) open space areas and 2 parking lots:\n\nOpen Space #1- Located between buildings #3 and 4 - 110 East 109th Street, New York, NY 10029\n\nOpen Space #2- Located near buildings #6 107 East 105th Street, New York, NY 10029\n\nOpen Space #3 Located near building #5 1405 Park Avenue, New York, NY 10029\n\nParking lot #1-121East 105th Street, New York, NY 10029\n\nParking lot #2-139 East 108th Street, New York, NY 10029\n\n \n\nRFQ Solicitation Timetable:\n\nA non-mandatory virtual pre-bid conference will be held on 09/16/2026 at 11:00 am, via Microsoft Teams. Pre bid Teams Meeting information: (646) 838-1534 Conference ID: (284 477 497 008 619) Passcode: 6W3pr2nq. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend.; it is strongly recommended that all interested vendors attend. In order to RSVP to the Pre-Bid Conference and obtain the Teams Meeting link to view the virtual conference email acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line to confirm attendance.\n\nhttps://teams.microsoft.com/meet/284477497008619?p=JRMPcipC1msCSYguCY\n\nAll questions related to this RFQ are to be submitted via email to the A&CM Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 10/01/2026 on 2:00PM Bidders will be permitted to ask additional questions at the Pre-Bid Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ. \n\nBid Submission Requirements:\n\nVendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail.\n\n \n\nPre-Bid Conference: September 16, 2026, 11:00 A.M.\n\nSite Visit: September 24, 2026, 11:00 A.M.\n\nRFQ Question Deadline Date: October 01, 2026, 2:00 P.M.\n\nQuestion and Answer Release Date: October 05, 2026\n\n \n\nProject Labor Agreement (PLA):\n\nThis solicitation is subject to NYCHA\u001as PLA., A completed Letter of Assent for both the bidder as the prime and all subcontractors identified on the sealed subcontractor list must be submitted with bid at time of RFQ closure.\n\n \n\nInstructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page.\n\nAfter Proposer registers for iSupplier, it typically takes 24 to 72 hours for Proposer\u001as iSupplier profile to be approved.\n\nIt is Vendors\u001a sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.\n\nFor assistance regarding iSupplier please email procurement@nycha.nyc.gov",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "7b9d177e3fe1a2725bd1ac6b0eca0f05195c24065fa0af2eeafe318fa5701af2",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

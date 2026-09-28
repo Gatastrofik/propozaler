@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260825032",
+  "source": "crol",
+  "source_id": "20260825032",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825032",
+  "title": "80126P0020-Commercial Corridor Resilience Program RFP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-10-15T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "80126P0020",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Small Business Services (SBS) is seeking a qualified vendor to provide, in coordination with SBS, capacity building services to community-based development organizations (CBDOs) in eligible low- and moderate -income (LMI) neighborhoods in NYC, with a specific focus on disaster/emergency preparedness, burnout identification and prevention and resiliency for MID neighborhoods. The selected vendor will be responsible for developing a cohort program with services that provide disaster resilience training and capacity building based on data-driven research and the current needs of CBDO participants and selected neighborhoods. The services should be designed to empower local CBDOs to face potential disasters. This Competitive Sealed Proposal procurement is being solicited to the vendors listed on the Citywide Bidders List. The minimum requirements are listed in the solicitation document. Any questions regarding this procurement can be sent to Kelly Taylor at procurementhelpdesk@sbs.nyc.gov. Solicitation documents can be found in PASSPort. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in PASSPort no later than the response due date indicated in PASSPort.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "b3ad52f079b10fa28e9a8ac52fcb73d9800a9e99950265e3f1436169e9bd106f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

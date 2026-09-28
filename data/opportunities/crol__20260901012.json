@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260901012",
+  "source": "crol",
+  "source_id": "20260901012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901012",
+  "title": "SMPD_PS_RFP 523121_ Personal Injury and Claims Investigation and Adjustment Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-10-13T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": "523121",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Mariela  Maldonado",
+      "email": "professionalservices.procurement@nycha.nyc.gov",
+      "phone": "(212) 306-4537"
+    }
+  ],
+  "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The New York City Housing Authority (\u001aNYCHA\u001a), by issuing this RFP, seeks proposals from investigation firms to provide NYCHA with investigative services to investigate claims for personal injury (\u001aPersonal Injury Claims\u001a) and claims for property damage (\u001aProperty Damage Claims\u001a) against NYCHA, and to adjust certain Property Damage Claims and claims arising under Regulation 68 of the New York State Insurance Law (the \u001aNo-Fault Law\u001a), as detailed more fully within Section II of this RFP.\n\nThe release date of this RFP is September 15, 2026 (the \u001aRelease Date\u001a).\n\nA non-mandatory Proposers\u001a conference (\u001aProposers\u001a Conference\u001a) will be hosted online via Microsoft Teams on September 22, 2026, at 10:00 a.m.  Although attendance is not mandatory at the Proposers\u001a Conference, it is strongly recommended that all interested Proposers attend, and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below:  \n\nOption 1: Copy and paste the below into your browser. \n\n     https://teams.microsoft.com/meet/295393770688456?p=vA2ihRlrS9VFl6udXz\n\nMeeting ID:  295 393 770 688 456         \n\nPasscode: Mr3sg7H2\n\n Option 2: call in (audio only) \n\n  +1 646-838-1534,, 295 393 770 688 456# \n\n  Phone Conference ID: 295 393 770 688 456# \n\n  Option 3: Access the document \u001aTEAMS Meeting Link RFP 523121\u001a and click on the embedded link to join. \n\nProposals must be successfully submitted into iSupplier in final form no later than 2 p.m. on October 13, 2026 (the \u001aProposal Submission Deadline\u001a).  Proposals which are saved in iSupplier as a \u001adraft\u001a but not successfully submitted will not be considered.  Proposers should refer to Section IV(2) of this RFP for details on Proposal submission requirements.\n\nThe anticipated award date of the Agreement(s) to the Selected Proposer(s) is on or about January 2027.\n\nAll times stated above are Eastern Standard Time (EST).\n\nInterested firms are invited to obtain a copy of the RFP on NYCHA\u001as website. To conduct a search for the RFP number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page\n\nProposers should refer to Section IV(2) of this RFP for details on Proposal packaging and submission requirements.\n\nProposer shall electronically upload the Cost Proposal in Excel and a single .pdf containing ALL components of the Proposal into iSupplier by 2:00 P.M. on the Proposal Submission Deadline. NYCHA will NOT accept hardcopy Proposals. The Proposal shall not include embedded documents or proprietary file extensions. NYCHA will not accept Proposals via e-mail, fax, or mail.\n\nInstructions for registering  for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page\n\nAfter Proposer\u001as register for iSupplier, it typically takes 24 to 72 hours for Proposer\u001as iSupplier profile to be approved. It is Proposer\u001as sole responsibility to complete iSupplier registration and submit its Proposal before the Proposal Submission Deadline.\n\nNYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2982ca8332da8d6f6d560bb4654d2696e2a4ee5bf2d6309266112417713bc4e0",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260904020",
+  "source": "crol",
+  "source_id": "20260904020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904020",
+  "title": "Homemaker Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-09-28T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Keshia Wyllie",
+      "email": "keshia.wyllie@acs.nyc.gov",
+      "phone": "(212) 676-9103"
+    }
+  ],
+  "submit_to": "110 William Street, 7th Floor, New York, NY 10038",
+  "attachments": [],
+  "description_text": "Pursuant to Section 4 04 of the Procurement Policy Board Rules, the Administration for Children\u001as Services intends to renew its human services contracts with the vendors listed below for the continued provision of Homemaker Services. The proposed renewal term for these contracts is January 1, 2027, through December 31, 2029. Vendor names, business addresses, and contract EPINs are provided below.\n\nThis notice is for informational purposes only. Anyone who would like to share comments or concerns regarding the provider\u001as performance and other factors relevant to the renewals, may contact Keshia Wyllie via email at Keshia.Wyllie@acs.nyc.gov.\n\n \n\nContractors & Business Address\n\nContract EPIN\n\nCHDFS Inc\n\n307 West 38th Street,\n\n6th Floor\n\nNew York NY 10018\n\n \n\n6821P8324KXLR002\n\n \n\nSelfhelp Community Services, Inc.\n\n520 Eight Avenue,\n\n5th Floor\n\nNew York, NY 10018\n\n06821P8325KXLR002\n\nThe Children\u001as Aid Society\n\n117 West 124th Street,\n\n3rd Floor\n\nNew York, NY 10027\n\n06821P8326KXLR002\n\nRichmond Home Need Services Inc\n\n3155 AMBOY ROAD\n\nStaten Island, NY 10306\n\n06821P8327KXLR002\n\nThe Dennelisse Corp\n\n460 Willis Ave,\n\n2nd Floor\n\nBronx, NY 10455\n\n06821P8329KXLR002\n\nHome Health Care Services of NY\n\n1989 Coney Island Ave,\n\nBrooklyn, NY 11223\n\n06825X8005KXLR001",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "17c48aec153905a437d4ec8e9fc72dc8f736a673b994ff47c5821b7ed0019cc6",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

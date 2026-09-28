@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260817002",
+  "source": "crol",
+  "source_id": "20260817002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817002",
+  "title": "Request for Proposals for the Renovation, Operation, and Maintenance of an Amusement Park at 1824 Shore Parkway, Brooklyn",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-21",
+  "due_at": "2026-10-02T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-21",
+  "solicitation_number": "B280-AP-2026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Lindsay Schott",
+      "email": "lindsay.schott@parks.nyc.gov",
+      "phone": "(212) 360-3405"
+    }
+  ],
+  "submit_to": "830 Fifth Avenue, Room 407, New York, NY 10065",
+  "attachments": [],
+  "description_text": "In accordance with Section 1-13 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation (Parks) intends to issue a significant Request for Proposals (\u001aRFP\u001a) for the renovation, operation, and maintenance of an amusement park at 1824 Shore Parkway, Brooklyn.\n\nThere will be a recommended remote proposer meeting on Tuesday, September 1, 2026, at 12:00 pm. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting.\n\nThe link for the remote proposer meeting is as follows:\n\nhttps://teams.microsoft.com/meet/291442465219555?p=uPd4Q8CsRRKCVUt8VG\n\nMeeting number: 291 442 465 219 555\n\nPassword: mN6Yq2F7\n\nYou may also join the remote proper meeting by phone using the following information:\n\n+1-646-893-7101\n\nAccess code: 182 074 003#\n\nSubject to availability and by appointment only, we may set up a meeting at the proposed concession site, (Block #6943 & Lot #2) (\u001aLicensed Premises\u001a), 1824 Shore Pkwy, Brooklyn, NY 11214.\n\nAll proposals submitted in response to this RFP must be submitted no later than Friday, October 2, 2026, at 3:00 p.m.\n\nHard copies of the RFP can be obtained at no cost, by contacting Lindsay Schott, Senior Project Manager at (212)360-3405 or at lindsay.schott@parks.nyc.gov, commencing August 21, 2026, through October 2, 2026, between the hours of 9:00 a.m. and 5:00 p.m., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065.\n\nThe RFP is also available for download, commencing Friday, August 21, 2026 through Friday, October 2, 2026, on Parks\u001a website. To download the RFP, visit  http://www.nyc.gov/parks/businessopportunities and click on the \u001aConcessions Opportunities at Parks\u001a link. Once you have logged in, click on the \u001adownload\u001a link that appears adjacent to the RFP\u001as description.\n\nFor more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Lindsay Schott, Senior Project Manager at (212)360-3405 or at lindsay.schott@parks.nyc.gov   \n\nTelecommunication Device for The Deaf (TDD) 212-504-4115",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "739224eb18fe1c57b3cc854e64e0b07a1e9ecd90b94db52d304f0f5801101117",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

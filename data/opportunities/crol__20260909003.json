@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260909003",
+  "source": "crol",
+  "source_id": "20260909003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909003",
+  "title": "Brooklyn Bridge Park Pier 1 Pavilion Stair Replacement",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Brooklyn Bridge Park",
+  "agency_path": "City of New York > Brooklyn Bridge Park",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": "2026-10-05T16:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-15",
+  "solicitation_number": "BBP Pier 1 Pavilion",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "John Zhang",
+      "email": "proposals@bbp.nyc"
+    }
+  ],
+  "submit_to": "334 Furman Street, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "Brooklyn Bridge Park (the \u001aPark\u001a) is an eighty-five (85) acre waterfront park in Brooklyn, NY. The Pier 1 Pavilion (20 Furman Street) is the newest addition to the Park and has three (3) sets of stairs that require remediation due to inconsistent stair tread & riser dimensions. The Park is seeking proposals for a general contractor to remove and chip out all existing concrete to expose the rebar, verify the condition of the rebar and replace if needed, create formwork to pour new concrete, and verify that the newly poured stairs comply with the requirements of BC 1011.5.4.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "bc4ce0444c4a4ade4dc9930f6f8149529c4278220019353a5fd6f3fba54719bf",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

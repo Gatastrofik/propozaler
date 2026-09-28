@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260812011",
+  "source": "crol",
+  "source_id": "20260812011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260812011",
+  "title": "Affordable Housing DSS Referred Households Hollis Garden",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-18",
+  "solicitation_number": "06923P0027014",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 20169810,
+  "contacts": [
+    {
+      "name": "Cornelia Branzan",
+      "email": "branzanc@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration  is seeking qualified vendors to operate and maintain permanent affordable housing for single individuals, adult families, and families with children experiencing homelessness.  The housing can consist of an entire building or a substantial number of units within one building; HRA anticipates the contractor would propose a minimum of fifty (50) units or not less than 80% of the residential units in a building, whichever is greater. Housing for singles may be SRO, studio or one- bedroom units. Family units should be at minimum one-bedroom. Monthly tenant rent will be inclusive of utilities.\nRound 13 Help Hollis Garden Apartments in St. Albans Queens (202-04 Hollis Ave., 202-14 Hollis Ave., 202-24 Hollis Ave., 203-04 Hollis Ave., 203-14 Hollis Ave., 203-24 Hollis Ave., St. Albans, NY 11412. 72 studios and 48 one-bedroom units.\n\nThe preferred method of procurement for Human Service contracts is the competitive sealed proposal method as discussed in Section 3-01(c) of the PPB rules. This is an open-ended RFP to procure affordable housing services. Proposals need to be evaluated and scored to determine whether viable.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "6c4d97ef292b652118266accfa37e15d4b537305966fb423cadd230299497027",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

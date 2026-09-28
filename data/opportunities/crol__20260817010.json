@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260817010",
+  "source": "crol",
+  "source_id": "20260817010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817010",
+  "title": "Analytical Laboratory Services for Legionella Testing",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-21",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-21",
+  "solicitation_number": "81626P0008002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": 1500000,
+  "contacts": [
+    {
+      "name": "Beatrice Gaston",
+      "email": "bgaston@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The contractor will perform primary testing of Legionella in environmental samples collected during routine cooling tower inspections and during public health investigations. The contractor will perform Legionella testing using culture and rapid quantitative Polymerase Chain Reaction (qPCR) methods for non-potable and potable water and swab samples. The contractor will also be required to conduct secondary testing for microbiological, physical and chemical parameters from environmental samples, which may be from drinking water, non-potable water, recreational water, or other environmental sources.\n\nCompetitive Sealed Proposals - judgment is required in evaluating competing proposals, and it is in the best interest of the City to require a balancing of price, quality and other factors.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "0dd11a831919047e8f062f02ea46db27b35da779fa59f7d0a8b711fa493d7aca",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

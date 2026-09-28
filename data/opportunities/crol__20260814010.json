@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260814010",
+  "source": "crol",
+  "source_id": "20260814010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260814010",
+  "title": "05627Y0261-Perimeter Security System",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-21",
+  "due_at": "2026-09-02T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-21",
+  "solicitation_number": "05627Y0261",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the New York City Police Department (\u001aNYPD\u001a) intends to enter into negotiations with Firstline Civil Construction LLC (\u001aFirstline\u001a) to provide comprehensive Maintenance and Repair Services of NYPD\u001as Perimeter Security System located at 1 Police Plaza, New York, NY.\n\nNYPD has determined that Firstline is the sole source vendor for these services because Firstline is the only authorized vendor that has necessary training certifications, authorized technicians, and access to the intellectual property to make the necessary repairs, services and installations on the Barrier One products located at 1 Police Plaza.  Due to the proprietary nature of the NYPD\u001as Perimeter Security System, NYPD believes that only Firstline can legally provide the required services.\n\nAny vendor besides Firstline that believes that it can provide the services is invited to do so. Complete specifications are found in Passport.  To respond in PASSPort, please upload a Capability Statement in the Documents Submission Section of the Manage Responses tab. If you have any questions about the details of the RFx, please submit them through the Discussion with Buyer tab and e-mail Jordan Glickstein and Margaret Budzinska at jordan.glickstein@nypd.org and margaret.budzinska@nypd.org.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "6c8078432516015949668d32be508a09cd6b6e86b3d0bd21c2bba673581bfdf2",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

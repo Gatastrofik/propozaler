@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260903030",
+  "source": "crol",
+  "source_id": "20260903030",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903030",
+  "title": "SMPD_PS for ACM_RFI# 528310 - Master Equipment Supply Agreement",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-11",
+  "due_at": "2026-10-30T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-11",
+  "solicitation_number": "528310",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Mariela Maldonado",
+      "email": "capital.vendor@nycha.nyc.gov",
+      "phone": "(212) 306-4537"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "The New York City Housing Authority\u001as (\u001aNYCHA\u001a) Asset and Capital Management Division is seeking input (\u001aResponses\u001a) from manufacturers and suppliers of auger compactors and interior compactors on a proposed Master Equipment Supply Agreement.\n\n \n\nUnder this new procurement approach, NYCHA would enter into an agreement with a qualified manufacturer or supplier, establishing pre-negotiated terms, conditions, and unit pricing for equipment to be supplied across multiple NYCHA developments. NYCHA\u001as project-specific installation contractors would issue Purchase Orders against the agreement as equipment is needed, while payment obligations to the supplier would remain with NYCHA.\n\nThis RFI is available online through NYCHA\u001as Oracle iSupplier system (\u001aiSupplier\u001a). Instructions for registering for iSupplier can be found at  http://www1.nyc.gov/site/nycha/business/vendors.page. Through this RFI, NYCHA is seeking industry Responses to help refine the proposed agreement and procurement approach before proceeding with a future solicitation.\n\n \n\nThis document is not a solicitation. NYCHA will not award a contract based on the responses to this RFI and a response to this RFI is not required in order to respond to any subsequent solicitation issued by NYCHA. A response to this RFI will not result in any preference or advantage in any subsequent competitive procurement.\n\n \n\nRFI Timetable:\n\n \n\n 1. The release date of this RFI is 9/11/2026.\n\n \n\n 2. Questions or requests for clarification regarding this RFI must be submitted via email before 3:00 p.m. on 9/25/2026, to capital.vendor@nycha.nyc.gov. \n\n \n\n 3.  NYCHA will provide responses in an addendum to this RFI, which will be issued via iSupplier no later than 10/9/2026. \n\n \n\n 4. Responses  to this RFI  must be received by  NYCHA\u001as Asset & Capital Management Division no later than 3:00 p.m. EST on 10/30/2026. \n\n \n\nNYCHA will not accept Responses by fax, or in hardcopy.\n\n \n\nInterested applicants should follow submission instructions included in the RFI.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2eed4d3e1306160f1ce2eee7ca798515256cc2c7bc75234d8373c79c56e6f0eb",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

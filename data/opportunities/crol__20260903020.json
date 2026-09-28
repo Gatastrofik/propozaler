@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260903020",
+  "source": "crol",
+  "source_id": "20260903020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903020",
+  "title": "Printing Press Equipment Maintenance and Repair",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-11",
+  "due_at": "2026-09-22T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-11",
+  "solicitation_number": "05627Y0260",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules, it is the intent of the New York City Police Department (\u001aNYPD\u001a), to enter into sole source negotiations with Mark Andy, Inc, located at PO Box 300, 1 Riverside Avenue, Somerset, Massachusetts 02726.\n\nNYPD has determined that Mark Andy Inc is the sole source vendor for Mark Andy Inc printing press equipment and maintenance services because Mark Andy Inc is the only authorized vendor that has necessary training certifications and authorized technicians to service the Presstek printing press equipments to make the necessary repairs, services and installations.\n\nAny vendor besides Mark Andy Inc that believes that it can provide the services is invited to do so.  Complete specifications are found in Passport.  To respond in PASSPort, please upload a Capability Statement in the Documents Submission Section of the Manage Responses tab. If you have any questions about the details of the RFx, please submit them through the Discussion with Buyer tab and e-mail contracts@nypd.org.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "f98dd4958303e1dfb8a7542fc3d7e61c4fb08d613c2aa6c64c55d6bf34576411",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

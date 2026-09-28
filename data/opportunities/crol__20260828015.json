@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260828015",
+  "source": "crol",
+  "source_id": "20260828015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828015",
+  "title": "BPM037041 - 06327N0001-DUALS NA 2027. Contract Opportunity for Legal Services to assist Veterans with upgrading their discharge status.",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Veterans' Services",
+  "agency_path": "City of New York > Veterans' Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-08",
+  "due_at": "2026-09-22T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-08",
+  "solicitation_number": "06327N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Negotiated Acquisition/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jon Ortiz",
+      "email": "jonortiz@veterans.nyc.gov",
+      "phone": "(646) 584-1606"
+    }
+  ],
+  "submit_to": "1 Centre Street, 22nd Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "New York City Department of Veterans\u001a Services (DVS) is seeking a non-competitive Negotiated Acquisition pursuant to PPB Rule Section 3-04(b)(2)(ii) since there is a limited pool of vendors capable of providing specialized discharge upgrade legal assistance focused on the Veteran community in New York City, for its Discharge Upgrade Assistance Legal Services (DUALS) program.\n\nDVS seeks 1-2 vendors with the ability to service the NYC Veteran population through coordinated legal services. For specifics, please refer to the attached Justification Memo.\n\nDVS has determined, through targeted market research conducted in January 2026 and review of its DUALS program and prior veteran legal services procurements, that clients and providers desire highly specialized, Veteran-specific legal representation for discharge upgrades.\n\nDue to our finding via our market research we will be directly negotiating with the following vendors:\n\n* New York Legal Assistance Group\n\u001a Veteran Advocacy Project\n\u001a City Bar Justice Center\u001as Veteran Assistance Project\n\u001a Legal Services NYC-Veteran Justice Project\n\u001a NYU Veteran Legal Service\n\u001a National Veterans Legal Services Program\n\u001a The Veteran Consortium Pro Bono Program\n\u001a New York County Lawyers Association Pro Bono Programs\n\nIn addition to the above named vendors, DVS will is open to and will accept expressions of interest from other vendors and we plan to negotiate with them as well.\n\nPlease email Jon Ortiz at JonOrtiz@veterans.nyc.gov if you are interested in being part of the negotiations. Negotiations will be conducted on September 23rd. The last day to respond will be September 22nd at 5:00 P.M.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "1d9e0ee32c939841ed07c9f7a1aba31b3bc10da6aca7738944413e6e431b4793",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

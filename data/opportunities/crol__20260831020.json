@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260831020",
+  "source": "crol",
+  "source_id": "20260831020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831020",
+  "title": "Clarke Bronx Family Criminal Courthouse Roof Upgrade",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-04",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-04",
+  "solicitation_number": "85026B0088001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 18930819,
+  "contacts": [
+    {
+      "name": "Anika Barrington",
+      "email": "barringan@ddc.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This project consists of full replacement of the existing roofing systems at all roof levels to provide a system with an associated long-term warranty and complying with current energy efficiency standards. A total of 45,300SF roof area, in 26 separate roofs at nine different floor levels will receive a new roofing system of two types: cold-applied liquid roofing and paver-protected cold-applied liquid roofing. The concrete deck cracks, delamination, and any other form of deterioration will be repaired from the exterior and interior sides. A new roof rail guard will be installed, and all existing roof guard rails will be reinforced. All existing roof drains will be retrofitted with new retrofit roof drains. The limited mechanical work scope includes replacing two existing RTUs with two new similar units. Electrical scope includes reconnection of the two new RT units and replacement of exterior light fixtures at the Cooling Tower Courtyard. CB: Bronx 4\n\nAs per PPB Rule 3-01 (d) Special Case (1)(i) Competitive sealed bidding from prequalified vendors, except as provided in Section 3-10 (a). Section 3-10 (a) reads: Except for procurements for construction, a procurement using a PQL shall be considered a 'special case' under these Rules.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a63166541d6bc36e2f0538cc7e6701536de92c7acfafddfdc7128d6608775cac",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "exclude:title:roof",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

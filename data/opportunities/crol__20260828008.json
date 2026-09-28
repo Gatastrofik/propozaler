@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260828008",
+  "source": "crol",
+  "source_id": "20260828008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828008",
+  "title": "05727Y0653-Pin # 712 - ASAP Unit",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-04",
+  "due_at": "2026-09-15T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-04",
+  "solicitation_number": "05727Y0653",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Anthony Chan",
+      "email": "anthony.chan@fdny.nyc.gov",
+      "phone": "(718) 999-1235"
+    }
+  ],
+  "submit_to": "PASSPort",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules the New York City Fire Department (FDNY) intends to enter into sole source negotiations with Alternative Support Apparatus LLC (ASAP) to provide FDNY ASAP Off-Road Ambulance Vehicles. Please note that further information can be found in the Documents tab.\n\nAny vendor besides Alternative Support Apparatus LLC (ASAP) that believes they can supply FDNY ASAP Off-Road Ambulance Vehicles is invited to express their interest by submitting a response in PASSPort. Please complete the Acknowledgement tab and submit a response in the Manage Responses Questionnaire tab. If you have questions about the details of the RFx please submit them through the Discussion with buyer tab.\n\nThis Request for Information (RFI) is being released through PASSPort. Responses to this RFI shall only be submitted via PASSPort. To access the RFI visit PASSPort and click on the \u001aProcurement Navigator' button. To locate the RFI, insert EPIN 05727Y0653 into the Keywords search field.\n\nInstructions on how to submit your responses in PASSPort can be found at the link below:\nhttps://www.nyc.gov/site/mocs/passport/articles/respond-opportunities.page\n\nIf you need additional assistance, please contact MOCS Service desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 for your questions or issues.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "96fbc28a927dd0519c0fa2fb7b23e52b51d45ef29b2ad285f4cb3ad43213f3e3",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

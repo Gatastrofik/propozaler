@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260825031",
+  "source": "crol",
+  "source_id": "20260825031",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825031",
+  "title": "City Housing Assistance Program (CHAP)",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": "2026-09-10T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-28",
+  "solicitation_number": "80627N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Shauntay Cherry",
+      "email": "cherrysh@hpd.nyc.gov",
+      "phone": "(212) 863-6652"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "The Department of Housing Preservation and Development (HPD) seeks services for a new rental assistance voucher program as required by the Stipulation of Settlement between Vincent, et al. v. Adams, The Council of the City of New York v. Mayor Eric Adams and Preconsidered Int. No. 966, which amended Title 26 of the NYC Administrative Code to add a new Chapter 39 from Nan McKay and Associates Inc. (NMA) through a negotiated acquisition, pursuant to Sections 3 04(b)(2)(i)(A) and 3-04(b)(2)(i)(D) of the NYC Procurement Policy Board Rules. Legislation, codified in the NYC Administrative Code Title 26, added a new Chapter 39 which requires the establishment of a New York City Housing Assistance Program (CityHAP) to be operated by HPD. The new program will serve income-eligible populations that also meet the following criteria: tenants in rent-stabilized housing facing eviction proceedings, households in non-DSS shelters such as runaway and homeless youth, and households in DSS shelter whose income exceeds 200% of the federal poverty level or who cannot meet the work requirements of CityFHEPS. HPD is expected to receive applications from approximately 5000 applicants, determine eligibility, calculate and issue monthly rental assistance payments, oversee inspections and ensure apartments meet standards of habitability, and certify eligibility of program participants on an annual basis.\n\nThe City Council enacted legislation as part of the New York City Council\u001as adoption for the Fiscal Year 2027 Budget, including appropriations for implementation of the legislation. The legislation, codified in the NYC Administrative Code Title 26, added a new Chapter 39 which requires the establishment of a New York City Housing Assistance Program (CityHAP) to be operated by HPD. The legislation takes effect 180 days after July 30, 2026, which gives HPD an extremely limited timeframe to comply with the law and establish a new rental assistance program.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "d2e23f6fa23aa8a1c23bfab416e5e5c434d8746508e7427eb711a655c52a430e",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

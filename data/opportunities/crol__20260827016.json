@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260827016",
+  "source": "crol",
+  "source_id": "20260827016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827016",
+  "title": "Willo Alarms and Locking Mechanisms",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Correction",
+  "agency_path": "City of New York > Correction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-09-16T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "EPIN: 07227Y0408",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kareem Alibocas",
+      "email": "kareem.alibocas@doc.nyc.gov",
+      "phone": "(718) 546-0300"
+    }
+  ],
+  "submit_to": "7520 Astoria Blvd., Suite 320, East Elmhurst, NY 11370",
+  "attachments": [],
+  "description_text": "In accordance with Procurement Policy Board Rule Section 3-05, the New York City Department of Correction (DOC) intends to enter into a sole source agreement with Willo Products Company, LLC. The purpose of this agreement is to procure alarms and locking mechanisms vital to the ongoing maintenance and upgrade of the DOC\u001as detention locking systems.\n \n\nThe DOC is currently replacing and upgrading cell doors throughout its facilities to comply with modern correctional standards. This procurement will encompass high security locking systems, including the Wedge, Tamper Alarm, Gripper, and High-intensity LED light Lock Receivers.\n\nWillo Products Company LLC is the original developer and manufacturer of these patented systems.  Willo Products Company LLC does not authorize the production or supply of these products by any other manufacturer. Because this proprietary and only detention-grade system is compatible with the DOC\u001as current infrastructure, operational needs, and security mandates, no other vendor can supply an equivalent alternative.  Therefore, the Department's Agency Chief Contracting Officer has determined that proceeding with Willo Products Company LLC as the sole source provider serves the best interest of the City.\n\nThe amount of this sole source procurement shall not exceed $27,500,00.00.  The proposed contract will be for three years; the start date will be January 1, 2027, to December 31, 2030.\n \n\nAny vendor besides Willow Products Company LLC. that believes it can provide the above referenced product may submit an Express of Interest no later than September 16, 2026 at 11:00 AM to Kareem Alibocas, Deputy Agency Chief Contracting Officer.   \n\n \n\nPlease submit and upload your Expressions of Interests in the NYC PASSPort System under EPIN: 07227Y0408.  Please include examples of the proposed product, pricing, photos, and any other documentation that supports what's being offered.  Please adhere to the above-referenced deadline to ensure that the Department of Corrections reviews the product offered in a timely manner.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "b445606425e742e334170318f29327bbc222abf90c9374b34fb9e943b4d8dad0",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260901024",
+  "source": "crol",
+  "source_id": "20260901024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901024",
+  "title": "Capital Feasibility Planning for Nonprofit Cultural Organizations FY27",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Cultural Affairs",
+  "agency_path": "City of New York > Cultural Affairs",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-09",
+  "solicitation_number": "12626W0006001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 350000,
+  "contacts": [
+    {
+      "name": "Ingrid Salzman-Huie",
+      "email": "isalzman-huie@culture.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "9d217d6ef91b02ebbdaf2f4bc6ad2fc7f39963ddde32e02431c996dbbe463e83",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

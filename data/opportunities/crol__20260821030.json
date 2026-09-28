@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260821030",
+  "source": "crol",
+  "source_id": "20260821030",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821030",
+  "title": "Brooklyn Bridge Park 334 Furman St. FF&E Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Brooklyn Bridge Park",
+  "agency_path": "City of New York > Brooklyn Bridge Park",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": "2026-09-22T16:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-28",
+  "solicitation_number": "BBP 334 Furman St. F",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Lindsey Ross",
+      "email": "proposals@bbp.nyc"
+    }
+  ],
+  "submit_to": "334 Furman Street, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "Brooklyn Bridge Park (the \u001aPark\u001a) is an eighty-five (85) acre waterfront park in Brooklyn, NY. The 334 Furman Street Building renovation project consists of new office space for BBP\u001as administrative staff, as well as a state-of-the-art public Education Center. The program includes approximately 21,000 SF across three levels. The first floor includes the Education Center, with interactive learning spaces, classrooms, family restrooms, and support spaces. The second and third floors are programmed for the Park\u001as administration headquarters and include open work areas, private offices, small to large conference rooms, a work café, open collaboration areas, a wellness room, and all-gender restrooms.\n\nBBP is seeking a Furniture Contractor to supply new furniture for the offices, workstations, conference rooms, work café, and all the other spaces on the second and third floors, as well as the furniture for the first-floor Education Center program spaces. This scope excludes the museum-quality exhibition space, which is being separately designed and fabricated by Once Future and is not part of this RFP. Furniture selections shall be coordinated with the Architect (Gensler) and BBP to align with the overall design intent of the renovated building.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "f8b8b55eeb12f8aeee767b8d527ea101133c438b88301b73584c1fe0dcabb824",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

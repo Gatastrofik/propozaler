@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260812013",
+  "source": "crol",
+  "source_id": "20260812013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260812013",
+  "title": "Affordable Housing Program Services for DSS Referred Households",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-18",
+  "solicitation_number": "06923P0027026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 17124279,
+  "contacts": [
+    {
+      "name": "Cornelia Branzan",
+      "email": "branzanc@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration  is seeking qualified vendors to operate and maintain permanent affordable housing for single individuals, adult families, and families with children experiencing homelessness. Clients to be served are individuals and families who require social services support in order to succeed in permanent housing but are not in need of nor eligible for supportive housing. The housing can consist of an entire building or a substantial number of units within one building; HRA anticipates the contractor would propose a minimum of fifty (50) units or not less than 80% of the residential units in a building, whichever is greater. Housing for singles may be SRO, studio or one- bedroom units. Family units should be at minimum one-bedroom. Monthly tenant rent will be inclusive of utilities.\nProv of Affordable Housing Program Services for DSS Referred Households at 3677 White Plains Road, Bronx, NY 10457, Round 12.\n\nThe preferred method of procurement for Human Service contracts is the competitive sealed proposal method as discussed in Section 3-01(c) of the PPB rules. This is an open-ended RFP to procure affordable housing services. Proposals need to be evaluated and scored to determine whether viable.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "3816260be1d3e6826910d625f614b63ddf92324584ca584d213fe6f90a83d907",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

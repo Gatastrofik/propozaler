@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260908025",
+  "source": "crol",
+  "source_id": "20260908025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908025",
+  "title": "NOTICE OF AWARD TO STATEN ISLAND BAGEL CAFE, INC. TO PROVIDE FOR THE OPERATION AND MAINTENANCE OF THE CAFETERIA AT THE NEW YORK CITY POLICE DEPARTMENT POLICE ACADEMY",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-15",
+  "solicitation_number": "177-22-0322",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": 0,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Police Department has awarded a concession agreement to Staten Island Bagel Café, Inc. (\u001aConcessionaire\u001a), whose address is 3579 Victory Blvd, Staten Island, New York 10314, to provide for the operation and maintenance of the cafeteria at the New York City Police Department\u001as Police Academy, located at 130-30 28th Avenue, College Point, New York 11354, in the borough of Queens. This concession contract was solicited through a Competitive Sealed Proposals method, pursuant to Section 1-13 of the Concession Rules of the City of New York. The concessionaire shall pay to the City a monthly concession fee of 6% of gross receipts. Gross receipts shall mean all revenue derived from the sale of food, beverages, merchandise, catering services, and vending operations. The term of the Concession is four (4) years, from July 1, 2026, through June 30, 2030, with two (2) renewal options, each for a period of three (3) years.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "1aaaf1c910e80ce035f6d82576b00fdb922b12ab8906b58c49302e3e755c722a",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260813013",
+  "source": "crol",
+  "source_id": "20260813013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813013",
+  "title": "Integrated Commercial Hotels Program",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-19",
+  "solicitation_number": "07125P0010028",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 16454520,
+  "contacts": [
+    {
+      "name": "Lorna Hinds",
+      "email": "lhinds@dhs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Homeless Services  is seeking appropriately qualified contractors/vendors to contract for the provision of shelter services for families with children, adult families, and single adults who are temporarily housed in DHS contracted commercial hotels. The selected vendors will provide services as outlined in this RFP to assist clients with their daily needs and to help them move out of the shelter system as quickly as possible.\n\nThe mission of DHS is to prevent homelessness when possible and to provide short-term emergency shelter for individuals and families who have no other housing options available. DHS primarily meets this goal by providing services to clients in long-term contracted purpose-built shelters throughout the City. When there are not enough available shelter beds and units in traditional shelters, DHS temporarily uses commercial hotels to house clients while they transition to permanent housing.  \n\nOver the last 15 years, DHS has faced numerous crises which have forced DHS to rely on commercial hotels to temporarily house clients. Long term DHS is committed to phasing out the use of commercial hotels.  However, until such time that DHS can secure sufficient contracted purposed built shelters, DHS will continue to need commercial hotel capacity to meet the legally mandated requirement to provide shelter.\n\nA Special Case Determination not required since the preference to procure Human Services is through Competitive Sealed Proposals pursuant to PPB Rule Section 3-01(c); judgment is necessary in evaluating proposals to ensure appropriateness of vendor selection to render client services.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "8b61213619071423180dad74fd8ee9c0b225e1c8de9552bf9d51eef1601ad9d9",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

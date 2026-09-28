@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260826014",
+  "source": "crol",
+  "source_id": "20260826014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826014",
+  "title": "Richmond Elevator Renewal 1",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Sanitation",
+  "agency_path": "City of New York > Sanitation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-01",
+  "solicitation_number": "82721B0019001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 450000,
+  "contacts": [
+    {
+      "name": "James Manfredi",
+      "email": "jamesmanfredi@dsny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "4cd857da2c6e78816ec09c687b6721184c007866f757f40b05d0c45ea5cc1367",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

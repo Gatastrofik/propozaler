@@ -1,0 +1,60 @@
+{
+  "id": "crol:20260904018",
+  "source": "crol",
+  "source_id": "20260904018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904018",
+  "title": "HOSTING, LICENSING, UPGRADES, MAINTENANCE AND TECHNICAL SUPPORT OF THE ARCS HOSTED PREDICTIVE DIALER SYSTEM AND MOBILE APPLICATION",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": "2026-09-24T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-14",
+  "solicitation_number": "05726Y0613-057270000",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "David Holmes",
+      "email": "david.holmes@fdny.nyc.gov",
+      "phone": "(718) 999-8162"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the Fire Department of New York (FDNY), intends to enter into negotiations for an agreement with Vanguard Direct, Inc to provide ongoing hosting, licensing, upgrades, maintenance and technical support of the ARCS hosted predictive dialer system and mobile application required by the Department for a five (5) year term.\n\nThe FDNY has determined that Vanguard Direct Inc. (Vanguard) is the sole authorized provider of support services for the proprietary software program ARCS used by the Fire Department. Vanguard is the software developer of ARCS (Automated Recruitment Communication System) and are the only company qualified to offer comprehensive system maintenance and support for the system. \n\nThe RFI will be released in PASSport on September 14, 2026. Any firm that believes it is qualified to provide these services is invited to do so. Please indicate your interest by responding to this RFI EPIN:05726Y0613 in PASSport no later than September 24,2026, 2:00 P.M. The RFI will be released in PASSport on September 14, 2026.\n\nIf you have questions, please submit these through the Discussion Forum of the subject EPIN in the PASSport system. \n\nNo procurement award will result from this Expression of Interest (EOI).  \n\nIf you need additional assistance with PASSPort, please submit an inquiry to the MOCS Service Desk at the following URL:\nhttp://mocssupport.atlassian.net/servicedesk/customer/portal8\n\nPASSPort User Materials can be found at the following URL:\nhttps://www.nyc.gov/site/mocs/systems/passport-user-materials.page\n\nPursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the Fire Department of New York (FDNY), intends to enter into negotiations for an agreement with Vanguard Direct, Inc to provide ongoing hosting, licensing, upgrades, maintenance and technical support of the ARCS hosted predictive dialer system and mobile application required by the Department for a five (5) year term.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "5cfb4ef27e6d99329f269519cdb93d1324e06ae18dca1db3f1c62c75bb883de1",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:licensing",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

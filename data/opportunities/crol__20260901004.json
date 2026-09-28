@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260901004",
+  "source": "crol",
+  "source_id": "20260901004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901004",
+  "title": "FY26 - NA Non-Profit Partner for Federally Funded Projects",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-08",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-08",
+  "solicitation_number": "81626N0005001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 35000000,
+  "contacts": [
+    {
+      "name": "Yau Cheung Tsang",
+      "email": "ytsang@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "FPHNY is the sole nonprofit partner capable of rapidly and seamlessly supporting DOHMH in developing, funding, and implementing critical public-health initiatives that advance the agency\u001as mission and ensure continuity of essential services.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "c7929d9ecbaa39c6b41aa6ce5085a9dfa59ad01ec1aa4bc41d559c49549ed787",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260824046",
+  "source": "crol",
+  "source_id": "20260824046",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824046",
+  "title": "Notice of Intent to Enter into Negotiations for the operation, renovation, and maintenance of a restaurant and banquet facility at Clearview Park, Queens",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": "2026-09-14T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-31",
+  "solicitation_number": "Q10-A-R",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Lindsay Schott",
+      "email": "lindsay.schott@parks.nyc.gov",
+      "phone": "(212) 360-3405"
+    }
+  ],
+  "submit_to": "830 Fifth Avenue, Room 407, New York, NY 10065",
+  "attachments": [],
+  "description_text": "In accordance with the Section 1-14 of the Concession Rules of the City of New York (\u001aConcession Rules\u001a), the New York City Department of Parks and Recreation (\u001aParks\u001a) intends to enter into a negotiated concession for a license agreement for the operation, renovation, and maintenance of a restaurant and banquet facility at Clearview Park, Queens. The selected operator must be able to operate, renovate, and maintain the multi-level facility as a high-quality restaurant and banquet facility.\n\nThe concession will have a term not to exceed twenty (20) years. The concession will be operated pursuant to a license issued by Parks. The concession is projected to commence early 2027 and will expire no more than twenty (20) years from the commencement date. As compensation to the City, Parks anticipates receiving a license fee, expressed as the greater of a guaranteed annual minimum fee versus a percentage of gross receipts.\n\nAt this time, it is neither practical nor advantageous to award this concession by competitive sealed proposals or competitive sealed bids due to the existence of a time-sensitive situation as the existing concessionaire is repudiating their license agreement citing high labor and operational costs. Parks held off on amending the current license agreement to shorten the term and issuing a new RFP because the concessionaire expressed an interest in continuing operations under revised terms (new menu concept which didn't seem to work). Without a negotiated concession process, the facility will remain vacant while a new competitive solicitation will have to be conducted, which could take approximately a year to a year and a half from solicitation to award. During this time, Parks would be required to expend significant resources to maintain and secure the facility, while public service and concession revenue may be interrupted or lost. A negotiated concession process is therefore in the best interest of the City in order to ensure continuity of operations, continued maintenance and security of the facility, and minimize the interruption of service to the public, as well as improving/boosting the economic development of the City as well as potentially for small businesses. This is a significant concession.\n\nPotential concessionaires that would like to express interest in the proposed concession and/or obtain additional information concerning the concession may contact Lindsay Schott, Senior Project Manager at 212-360-3405 or via e-mail at Lindsay.Schott@parks.nyc.gov or Andrew Coppola, Deputy Director of Concessions at 212-360-3454 or via e-mail at Andrew.Coppola@parks.nyc.gov by September 14, 2026. Thereafter, there will be a process for submission of proposals. Parks will evaluate the proposals on the bases of capital investment, improvement and designs; operating experience and financial capability; planned operations; fee offer, and integrated sustainability by design. Where applicable, Parks may condition the award of this concession upon the successful completion of PASSPort (the Procurement and Sourcing Solutions Portal) Questionnaires and review of that information by the Department of Investigation. In addition, any person or entity with at least a 10% ownership interest in the submitting vendor (including a parent company), may be required to complete PASSPort Questionnaires (Principal Questionnaire for any person and Vendor Questionnaire for any entity with at least a 10% ownership interest in the submitting vendor).\n\nThis concession has been determined a non-major concession as defined by Chapter 7 of the Rules of the City Planning Commission. The concession has been determined to be a significant concession as defined by Section 1-02 of the Concession Rules of the City of New York.\nPlease note that the concession award is subject to applicable provisions of federal, State, and local laws and executive orders requiring affirmative action and equal employment opportunity.\n\nThe New York City Comptroller is charged with the audit of concession agreements in New York City. Any person or entity who believes that there has been unfairness, favoritism or impropriety in the proposal process should inform the Comptroller, Office of Contract Administration, 1 Centre Street, New York, New York 10007, telephone number (212) 669-2323.\nPlease address any questions and/or correspondence relating to the potential concession award to Lindsay Schott, Senior Project Manager at 212-360-3405 or via e-mail at Lindsay.Schott@parks.nyc.gov or Andrew Coppola, Deputy Director of Concessions at 212-360-3454 or via e-mail at Andrew.Coppola@parks.nyc.gov (Office of the Concessions Unit, City of New York Parks, The Arsenal-Central Park 830 Fifth Avenue- Room 407 New York, New York 10065).",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "fbce5391ab0f1064054f4566722cdd9d8261be72334212fecb998ba9d7d80d3f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

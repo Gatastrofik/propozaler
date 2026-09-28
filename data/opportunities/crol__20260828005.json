@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260828005",
+  "source": "crol",
+  "source_id": "20260828005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828005",
+  "title": "SI-OUTFALL-NA Design Services for 4 DEP Priority Coastal Stormwater Outfalls",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-09-17T21:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "82627N0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Environmental Protection is entering into a Negotiated Acquisition (NA) contract with Mott Macdonald NY Inc. The NA will allow the agency to retain the current contractor to deliver unique project specific expertise and the critical requirement to maintain federally driven project schedules. \n\nDEP in collaboration with the US Army Corps of Engineer's South Shore Staten Island Costal Resiliency Project the completion of final design and DSDC for the four priority outfalls. \n\nThe contract term will be 6/30/2027-6/28/2035. EPIN: 82627N0002\n\nVendors that are interested in expressing interest in similar procurements in the future may contact Vanessa Soto at vsoto@dep.nyc.gov",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "5d19ca56df121704479f0b6c8b66cc2df239ed7ac6aae4a5aff3889e89d3664f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

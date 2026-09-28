@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260828021",
+  "source": "crol",
+  "source_id": "20260828021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828021",
+  "title": "Correction: Strategic Planning for Community Safety in New York City RFP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Mayor's Fund to Advance New York City",
+  "agency_path": "City of New York > Mayor's Fund to Advance New York City",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-09-16T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": "202609",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Sean Kim",
+      "email": "mayorsfundtoadvancenyc@mayorsfund.nyc.gov",
+      "phone": "(212) 788-7792"
+    }
+  ],
+  "submit_to": "253 Broadway, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Under the direction of the Deputy Mayor for Community Safety (DMCS), the Office of Community Safety (OCS) develops citywide community safety strategies and coordinates the work of the Office of Crime Victims Services (OCVS), Office of Neighborhood Safety (ONS), Office to End Domestic and Gender-Based Violence (ENDGBV), Office for the Prevention of Hate Crimes (OPHC), and the Office of Community Mental Health (OCMH). OCS focuses on strengthening the social fabric that keeps communities safe, streamlining and expanding evidence-based and common-sense safety interventions, and strengthening wraparound services so no New Yorker is left behind. The creation of OCS is the first step toward fulfilling Mayor Mamdani\u001as pledge to create a Department of Community Safety, a city agency that advances a whole-of-government approach to building safer communities for all New Yorkers.  \n\nDMCS and OCS seek a strategic planning consultant to support two strands of interdependent and iterative strategic planning efforts:\n\n * The Safety Access and Fairness for Every Resident (SAFER NYC) Strategic Plan; and\n * The Office of Community Safety Organizational Strategy and Implementation Plan\n\nThese products will guide NYC\u001as safety system change agenda and be an inspiration and roadmap for communities across the country.\n\nThe Mayor\u001as Fund seeks proposals from qualified organizations with demonstrated expertise in strategic planning, organizational development, public sector facilitation, systems change, and community engagement to serve as the strategic planning advisor for the DMCS and OCS.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "db4b4aa5c5206cdbb3303784bf4c62f3c447c225b77a2758b0990425fcc33bb9",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260811025",
+  "source": "crol",
+  "source_id": "20260811025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811025",
+  "title": "Cost Allocation Assessment and Advisory Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Teachers' Retirement System",
+  "agency_path": "City of New York > Teachers' Retirement System",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": "2026-09-09T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-19",
+  "solicitation_number": "2123",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tariq Wahdat",
+      "email": "twahdat@trs.nyc.ny.us",
+      "phone": "("
+    }
+  ],
+  "submit_to": "55 Water Street, New York, NY 10038",
+  "attachments": [],
+  "description_text": "The purpose of this Request for Information (RFI) is to obtain information from qualified service providers with expertise in cost allocation methodologies and assessments for governmental organizations.\n\nTRS is seeking information regarding:\n\n * Best practices in cost allocation methodologies and governance\n * Industry approaches to evaluating existing cost allocation models\n * Emerging trends and technologies used in cost allocation\n * Service offerings and capabilities of responding firms\n * Estimated cost ranges for performing an assessment of an existing cost allocation process",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "e08eb675e7a9d111d7ea74318f49041cd06abd4c4be00e3e31fa51d59bad7775",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260813033",
+  "source": "crol",
+  "source_id": "20260813033",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260813033",
+  "title": "Existing Alertsite Licenses",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-20",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-20",
+  "solicitation_number": "81626W0032001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 430000,
+  "contacts": [
+    {
+      "name": "Damaris Sanders",
+      "email": "dsanders@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "K Systems LLC will provide, to New York City Department of Health and Mental Hygiene the renewal of existing AlertSite licenses and support. AlertSite UXM provides synthetic monitoring tools and monitoring services to proactively test the performance and availability of web, mobile, and Application Programming Interface (API) applications from the end-user's perspective.  NYC Health Department will use AlertSite to monitor websites and apps to ensure they are functioning properly and use the alert function for any performance errors.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "283edecebf0341a9bc041d1ff605b52d8ff1818972cc26c481e0b8011327c89b",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

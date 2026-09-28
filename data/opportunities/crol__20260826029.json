@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260826029",
+  "source": "crol",
+  "source_id": "20260826029",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826029",
+  "title": "EHS Occupational Health & Safety Training 6700005X 7700001X",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-01",
+  "solicitation_number": "82627W0007001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 463000,
+  "contacts": [
+    {
+      "name": "Noah Shieh",
+      "email": "noahs@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "5ccc45950f633abd0ba01fcc8215e3c689a71e48ab3bc156bf52a0fd56e54ac4",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

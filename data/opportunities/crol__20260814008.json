@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260814008",
+  "source": "crol",
+  "source_id": "20260814008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260814008",
+  "title": "Urban Pathways FY27 NAE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-20",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-20",
+  "solicitation_number": "07126N0021001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 2855457,
+  "contacts": [
+    {
+      "name": "Lorna Hinds",
+      "email": "lhinds@dhs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Department Homeless Services (DHS) intends to enter into a Negotiated Acquisition Extension (NAE) contract with Urban Pathways, Inc. for the 105th Street Safe Haven located at 54 West 105th Street, New York, NY 10025.\n\nThe proposed NAE term will be from July 1, 2026 through June 30, 2027 with a contract amount of $2,855,457. All Renewals and Amendment Extensions were exhausted before utilizing the NAE method.\n\nProcurement and award are in accordance with PPB Rule Section 3-04(b)(2)(iii) for the reasons set forth herein.\n\nThe proposed NAE is being pursued to maintain uninterrupted shelter operations while the new RFP is being processed. Procurement and award are in accordance with PPB Rules Section 3-04(b)(2)(iii) for the reasons set forth herein.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2e8ee0a1a07005748bb1b59368c903021d0fcb142762f54ad365cd0f99f6ec0c",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825023",
+  "source": "crol",
+  "source_id": "20260825023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825023",
+  "title": "Correction: Post Acute Care Debt Collection Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-09-30T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "2879",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Raffaella Glasser",
+      "email": "rfp_contacts@nychhc.org",
+      "phone": "(646) 815-3747"
+    }
+  ],
+  "submit_to": "50 Water Street, 5th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "This Request for Proposal ('RFP') is issued in order to obtain debt collection services for facilities of NYC Health + Hospitals Post-Acute Care (PAC) for delinquent accounts with balances owned by the Patient. The accounts with balances owed by the patient or responsible parties are accounts with balances remaining unpaid at least 180 days after the first self-pay statement date.\n\nThe vendor will be responsible for the successful collection of funds owed for:\n\n * Private Pay accounts\n * Patient copays \n * Patient deductibles \n * Net Available Monthly Income (\u001aNAMI\u001a) \n\nAny of these payments are to be collected from either the Resident, their power of Attorney or Court Appointed Guardian. NYC Health + Hospitals Post-Acute Care is seeking contingency based reimbursement for this RFP.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "aa81d606b46fd255d8219df7b0ed24c0f63fc4f19adf5947d256e75113fd5e75",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260825017",
+  "source": "crol",
+  "source_id": "20260825017",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825017",
+  "title": "Records Management Assessment",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "26026W0036001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 22950,
+  "contacts": [
+    {
+      "name": "Yolanda Flores",
+      "email": "yoflores@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This solicitation is being made pursuant to the M/WBE Noncompetitive Small Purchase Method, Section 3-08 of the New York City Procurement Policy Board (PPB) Rules, this procurement is exclusively for the City Certified Minority and Woman Owned Business (M/WBEs). Contracts awarded under this method may not exceed $1,500,000, inclusive of any and all change orders, overruns, amendments, renewals and extensions. Through this solicitation, the Department of Youth and Community Development (DYCD) seeks an MWBE vendor to conduct a needs assessment based on inventory of records and current records management processes.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "c57ebbff3cef40626a0d7d53ab73a17894190e23caa31bfc7e212d19b62b8e99",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

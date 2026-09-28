@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260812004",
+  "source": "crol",
+  "source_id": "20260812004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260812004",
+  "title": "Expressions of interest for Mattress Hauling and Recycling Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-18",
+  "due_at": "2026-09-22T23:59:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-18",
+  "solicitation_number": "526301",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Anita Chan",
+      "email": "anita.chan@nycha.nyc.gov",
+      "phone": "(718) 730-8253"
+    }
+  ],
+  "submit_to": "24-02 49th Avenue, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": "The Asset and Capital Management Sustainability Department of the New York City Housing (\u001aNYCHA\u001a or the \u001aAuthority\u001a) is excited to announce the Request for Expressions of Interest (\u001aRFEI\u001a) to seek proposals for Mattress Collection and Recycling Services.\n\nInterested applicants must submit their proposal by September 22, 2026 at 11:59 P.M. EDT.\n\nThe Pre-Submission Conference will be held virtually on September 1, 2026 at 2:30 P.M. to 3:30 P.M. EDT.\n\n \n\nOption 1: Copy and paste the below into your browser: \n\nhttps://teams.microsoft.com/meet/287096395013980?p=Hdawqw7mTkWX9k9v2I \n\n \n\nMeeting ID:287 096 395 013 980\n\nPasscode:4Sm3i5sY\n\n \n\nOption 2: call in (audio only)\n\n+1 646-838-1534,,99398211#\n\nPhone conference ID: 993 982 11#\n\nNYCHA additionally recommends that Applicants submit, via webform or email, written questions to following the instructions detailed within the RFEI by no later than 11:59 P.M. on September 8, 2026.  Applicants will be permitted to ask additional questions at the Pre-Submission Conference. All questions and answers will be posted September 15, 2026 11:59 P.M. EDT on NYCHA\u001as website after the deadline.\n\nInterested applicants should follow submission instructions in the RFEI. After submitting a webform on the NYCHA website, they will receive an e-mail with a link to upload submission materials. Any questions can be sent to anita.chan@nycha.nyc.gov",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "333aa032375515a9928bc5a7fb6dda8e485d940f728d86b7ccf124a5497e5cae",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

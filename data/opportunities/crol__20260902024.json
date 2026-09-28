@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260902024",
+  "source": "crol",
+  "source_id": "20260902024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902024",
+  "title": "Data Modeler- Alex Gorelik",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Employees' Retirement System",
+  "agency_path": "City of New York > Employees' Retirement System",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-10",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-10",
+  "solicitation_number": "NYCERS-Infojini-08-2",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Small Purchase",
+  "set_aside": null,
+  "estimated_value": 286056,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NYCERS has determined there is a need to hire a senior data analyst consultant with data modeling expertise to perform detailed field-level analysis, metadata analysis and profiling of internal and external sources as well as creation of conceptual, logical physical, and dimensional data models as part of NYCERS\u001a ongoing process improvement programs",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "d9859021cae3b9b29535b26f4ab27c562116f2164f74a6e72e90e8a9dd9c9b7d",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

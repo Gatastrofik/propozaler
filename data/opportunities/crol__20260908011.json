@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260908011",
+  "source": "crol",
+  "source_id": "20260908011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908011",
+  "title": "FY27-28 NeON Arts Contract NAE with RYC",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-14",
+  "solicitation_number": "78126N0019001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 1575000,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board (PPB) Rules, the Department of Probation (DOP) is requesting approval to extend the existing contract with Renaissance Youth Center, through a Negotiated Acquisition Extension (NAE) to support the continuation of services under the NeON Arts Program. The contract term is from July 1, 2026, to June 30, 2028, for an amount of $1,575,000.00 for this period.\n\nThe NeON Arts Program is a community-based initiative that integrates arts programming into the Department\u001as Neighborhood Opportunity Networks (NeONs), which serve as localized probation centers across New York City. In partnership with Renaissance Youth Center and a network of community-based arts organizations, the program engages justice-involved youth and other local young people in culturally relevant arts activities designed to support positive youth development, strengthen community connections, and enhance educational and employment outcomes.\n\nThrough structured workshops, public showcases, and collaborative projects, participants develop transferable skills such as creative collaboration, critical thinking, and communication, while building positive peer relationships and connections to their communities. Programming is tailored to reflect the interests and needs of each NeON community, with local stakeholders playing a role in shaping project selection. DOP is working to provide these services with Community Mediation Services, Inc.\n\nPursuant to Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, DOP intends to extend the subject contract for twenty-four (24) months via the negotiated acquisition extension procurement method. Extending this contract for additional time will prevent a disruption of these critical & mandated services. The RFP is anticipated to be released Late Spring 2027.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a2ee905de4e4192b73fc2b2389b8fe2ef9d9258a9d8846516275761c88685ad5",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260825004",
+  "source": "crol",
+  "source_id": "20260825004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825004",
+  "title": "LINAC SUITE RENOVATION AT KINGS COUNTY HOSPITAL",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-02",
+  "due_at": "2026-10-14T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-02",
+  "solicitation_number": "26202503",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Clifton S. McLaughlin",
+      "email": "mclaughc@nychhc.org",
+      "phone": "(212) 442-3658"
+    }
+  ],
+  "submit_to": "55 Water Street, 25th Floor, New York, NY 10041",
+  "attachments": [],
+  "description_text": "Mandatory Pre-Bid Meeting Information\n\nOnly bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for:\n\n            Wednesday, September 16, 2026 at 10:00 AM.\n\n            Thursday, September 17, 2026 at 10:00 AM.\n\n            Location:  Kings County Hospital, 451 Clarkson Avenue, Brooklyn, NY.  'E' Building, 2nd Floor, Room E-2236\n\nThe Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees.\n\nNYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H.\n\nCertified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\nBidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s).\n\nMWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive.\n\nRequired Trade Licenses where applicable.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "f3d686bfc80ed6f0693229c0c29d1367db7e9094806959c9b4ae7135499b1ed7",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260824051",
+  "source": "crol",
+  "source_id": "20260824051",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824051",
+  "title": "AvePoint DocAve Core",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-31",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-31",
+  "solicitation_number": "85027W0008001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 30600,
+  "contacts": [
+    {
+      "name": "Yolanda Perez",
+      "email": "perezy@ddc.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "AvePoint DocAve Core for SharePoint and Office 365, DocAve offers comprehensive backup, migration, and protection tools for on-prem SharePoint environments - DDC Hub, ensuring data integrity, regulatory compliance, and streamlined management. Its integrated features reduce administrative overhead and provide a cost-effective solution for maintaining business continuity and efficient data handling.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "4edcf03aee8a6da91f6292de699ae0736df09851f383f46418c8638d7e30da1d",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

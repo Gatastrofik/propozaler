@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260901019",
+  "source": "crol",
+  "source_id": "20260901019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901019",
+  "title": "PRINTER LEASE AND MAINTENANCE AGREEMENT",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Comptroller",
+  "agency_path": "City of New York > Comptroller",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-09",
+  "due_at": "2026-09-21T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-09",
+  "solicitation_number": "01527ADM76506",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kevin Chen",
+      "email": "opportunity@comptroller.nyc.gov",
+      "phone": "(212) 669-7396"
+    }
+  ],
+  "submit_to": "1 Centre Street, 7th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Pursuant to Procurement Policy Board Rule Section 3-05, the New York City Comptroller\u001as Office intends to enter into negotiations for a Sole Source agreement with Xerox Corporation, whose primary address is 201 Merritt 7, Norwalk, Connecticut 06851-1056, for lease and maintenance of a Xerox PX300 (Proficio 300 Press).\n\nXerox Corporation is the only source able to provide the PX300 device with the required Xerox-badged service technicians trained to provide maintenance services. The term of the agreement is estimated to commence on December 1, 2026 for a period of 5 years with two (2) 1-year renewal options, with the total value of the agreement undetermined at this stage.\n\nAny qualified vendor believing that at present or in the future it can also provide such product and its maintenance services is invited to do so by submitting an expression of interest, which must be received no later than September 21, 2026 at 5:00 P.M by Procurement Team at opportunity@comptroller.nyc.gov.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "e4803bdd7e536cf053155a267f4729d950001cdc6df881da029d39b4c9da85e8",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

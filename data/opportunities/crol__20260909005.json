@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260909005",
+  "source": "crol",
+  "source_id": "20260909005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909005",
+  "title": "Environmental Hazardous Training",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-15",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-15",
+  "solicitation_number": "85627U0016001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 45748,
+  "contacts": [
+    {
+      "name": "Albert Ruiz",
+      "email": "alruiz@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To maintain certification for environmental hazards for FMC in-house staff and employees for lead, asbestos, and mold.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "2959b815afc04ab4b9f58339fb226dbda60befa2984ccbff0fb33d91ce3ff81f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

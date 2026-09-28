@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260824027",
+  "source": "crol",
+  "source_id": "20260824027",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824027",
+  "title": "HOME DELIVERED MEALS",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Aging",
+  "agency_path": "City of New York > Aging",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-28",
+  "solicitation_number": "12524P0002004R002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 7033402,
+  "contacts": [
+    {
+      "name": "Erkan Solak",
+      "email": "esolak@aging.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NYC Aging ID:28Y\n(previous ID: 58Y)\n\nHome Delivered Meals - FY27 Renewal \u001a Renewing the contract until 9/30/2027 to continue providing home delivered meals to homebound older adults.\n\nCommunities Served: Brooklyn CDs 1, 2, 3, 4, 5, 6, 7",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "4207021e51d4168b060979e42104c7ced695c9eda692be585992d1016668836f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

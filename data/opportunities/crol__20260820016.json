@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260820016",
+  "source": "crol",
+  "source_id": "20260820016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260820016",
+  "title": "FTIR Microspectrometer",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-26",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-26",
+  "solicitation_number": "05626S0015003",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 219949,
+  "contacts": [
+    {
+      "name": "Tiana Urey",
+      "email": "tiana.urey@nypd.org"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The brand-specific Thermo Fisher Fourier Transform Infrared Microspectrometer Instrument will be utilized in the Criminalistics Section of the Police Laboratory to identify and compare the organic components in paint, chemical unknowns, explosives, fibers, plastic bags and tape.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "a259d93caf7efb6855836be447312fbb04d12b1f4766eaddfdcad4c0248be1d7",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

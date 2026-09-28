@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260828004",
+  "source": "crol",
+  "source_id": "20260828004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828004",
+  "title": "COMPASS Programs in Public Schools - Elemetary",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-03",
+  "solicitation_number": "26026P0003215",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 107415928,
+  "contacts": [
+    {
+      "name": "Sheann Wilson",
+      "email": "shwilson@dycd.nyc.gov",
+      "phone": "(646) 343-6354"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "COMPASS and SONYC is one of DYCD's largest programs, with over 820 programs collectively throughout the five boroughs. Families rely on these programs to provide elementary and middle school students, during after school hours, summer and on holidays, programing which includes educational support, recreation, enrichment, and cultural activities to support and strengthen the overall development of our youth. Programs are offered at no cost to youth and are purposefully located in public and private schools, community centers, religious institutions, public housing and parks recreational facilities throughout the City to help families find a place that best fits their youth's needs. BX3-09X042 P.S. 042 Claremont, BX3-09X055 P.S. 055 Benjamin Franklin, BX4-09X073 P.S. 073 Bronx, BX4-09X199 P.S. 199X The Shakespeare School, BX4-09X114 P.S. X114 Luis Llorens Torres Schools, BX6-09X058 P.S. 058,M11-04M171 P.S. 171 Patrick Henry, BX5-09X274 The New American Academy at Roberto Clemente State Park.\n\nDYCD has determined that Competitive Sealed Bidding is neither practicable nor advantageous to the City because this procurement necessitates the exercise of judgment in evaluating competing proposals and requires a balancing of price, quality, and programmatic factors to achieve the best outcomes. COMPASS programs are a critical part of the City\u001as effort to support working families by providing free, high-quality afterschool and summer childcare services. They offer a wide range of enrichment activities that help students in Kindergarten through Grade 8 develop academically, socially, and emotionally, both in and out of the classroom. Given the complex nature of this work requiring cultural competency, deep community engagement, and tailored programming to meet the diverse needs of NYC youth a proposal-based evaluation is essential. This approach allows DYCD to select providers not only based on cost, but also on their demonstrated experience, organizational capacity, staffing approach, and commitment to equitable service delivery. Therefore, the use of an RFP, rather than Competitive Sealed Bidding, is the most appropriate method to ensure the highest quality of services are delivered in alignment with the City\u001as goals for youth development and family support.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "99a1609adee59eecd81d35b5f16250d21f81b7e6ac85fa432b2d7b8db62c8067",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

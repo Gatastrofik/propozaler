@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260818022",
+  "source": "crol",
+  "source_id": "20260818022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818022",
+  "title": "82627B0007-BWS-CRO-643(R) Maintenance and Repair of Fire Systems at Croton Water Filtration Plant",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-26",
+  "due_at": "2026-09-29T10:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-26",
+  "solicitation_number": "82627B0007",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Inspection, Testing, Maintenance and Repair of Fire Alarm System and Fire Suppression System at Croton Water Filtration Plant (CFP).The Work under this Contract is to provide all necessary labor, parts, materials and equipment for Inspection, Testing, Maintenance, and Repair of Fire Alarm System and Fire Suppression System at Croton Filtration Plant in the Bronx, New York. This Competitive Sealed Bid (\u001aRFx') is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0007 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8\n\nPre bid conference location -Microsoft TEAMS call in (audio only) +1 585-484-8792,,Phone Conference ID: 649293642# To join via Microsoft TEAMS video please go to Passport link in attachments and download \u001aNotice to Bidders (E-Bidding)\u001a. Mandatory: noDate/Time - 2026-09-02 10:00:00",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "beb7572ad08ce6df98b097abbe32761b1e72bdf110a54d29ed59a3561007fd7f",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260904015",
+  "source": "crol",
+  "source_id": "20260904015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904015",
+  "title": "6 Month NAE with Safe Horizon Inc. for CVAP",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-14",
+  "due_at": "2026-09-21T19:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-14",
+  "solicitation_number": "06927N0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "On behalf of the Mayor\u001as Office to End Domestic and Gender-Based Violence (ENDGBV), the Department Social Services (DSS) intends to enter into a Negotiated Acquisition Extension (NAE) contract with Safe Horizon, Inc. to extend the contract for the Crime Victims Advocate Program (CVAP) by 6 months. CVAP places victim advocates for survivors of domestic violence and additional advocates for victims of every other category of crime in precincts and Housing Police Service Areas citywide. Advocates provide supportive counseling, connections to individual or group therapy, and help navigating the legal and financial challenges that can emerge after a crime has occurred. CVAP represents the City\u001as largest single investment in supportive services for victims of crime and regularly reaches more than 40,000 crime victims annually.\n\nThe proposed NAE term will be from 1/1/2027 through 6/30/2027 with a contract amount of $9,527,801.88.\n\nProcurement and award are in accordance with PPB Rule Section 3-04(b)(2)(iii) for the reasons set forth herein.\n\nThe proposed NAE is being pursued while the new RFP is being prepared for release.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "69f1b1b23f6f83f8717403de0edfce182fd3966c98c4c7af038a0187995b94da",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

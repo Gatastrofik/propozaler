@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260831032",
+  "source": "crol",
+  "source_id": "20260831032",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831032",
+  "title": "Vertical Hydroponic Farm",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Correction",
+  "agency_path": "City of New York > Correction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-08",
+  "due_at": "2026-09-21T11:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-08",
+  "solicitation_number": "07227Y0409",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Procurement Policy Board Rule Section 3-05, the New York City Department of Correction (DOC) intends to enter into a sole source agreement with FarmBox Foods LLC.  The purpose of this agreement is to procure a Vertical Hydroponic Farm for Persons-in-Custody (PICs) to develop a skill that can be utilized when being released from custody.\n\nThe Department of Correction seeks to revitalize its Workforce Development Unit to include new and innovative trades and skill building classes that directly relate to re-entry and reduced recidivism.  Based on an evaluation of potential trades and skills that are felony friendly, DOC believes that there is a gap in services as it pertains to urban agriculture, community gardening, local and small business entrepreneurship, local and small business prospectives, and culinary arts.  The investment in FarmBox Foods would allow the Department to build and develop two tracks of Workforce Development.  One is for participants who would tend to the literal garden and hydroponic farm, and the other is associated with our culinary arts program and allowing food that is grown to be used for staff and people in custody.\n\nFarmBox Foods is the sole manufacturer and exclusive source of its proprietary products.  All FarmBox Foods units are exclusively designed, engineered, and fabricated in the United States, and are sold directly by FarmBox Foods.  Therefore, the Department's Agency Chief Contracting Officer has determined that proceeding with FarmBox Foods LLC as the sole source provider is in the best interest of the City.\n\nThe amount of this sole source procurement shall not exceed $228,000.00.  The anticipated contract term for this procurement is 365 consecutive calendar days from the date of registration with a renewal option of one (1) year.\n \n\nAny vendor besides FarmBox Foods LLC. that believes it can provide the above referenced product may submit an Express of Interest no later than September 21, 2026 at 11:00 AM to Cristalie Colon, Contract Manager.   \n\n \n\nPlease submit and upload your Expressions of Interests in the NYC PASSPort System under EPIN: 07227Y0409.  Please include examples of the proposed product, pricing, photos, and any other documentation that supports what's being offered.  Please adhere to the above-referenced deadline to ensure that the Department of Corrections reviews the product offered in a timely manner.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "f4e4b41bdef1b39965e886af33d368f686c0e36a19605564f60795fb5d5d225b",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

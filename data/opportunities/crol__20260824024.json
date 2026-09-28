@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260824024",
+  "source": "crol",
+  "source_id": "20260824024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824024",
+  "title": "06827Y0516- SafetySignal Smartphone Safety Application",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-28",
+  "due_at": "2026-09-11T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-28",
+  "solicitation_number": "06827Y0516",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the Procurement Policy Board (PPB) rules, the New York City Administration for Children\u001as Services (ACS) intends to enter into a Sole Source contract with Alert Media, Inc. to continue using the AlertMedia\u001as Smartphone Safety App, which ACS has used since 2017 to support the safety of Child Protective Services (CPS) staff.\n\nThe contract term is 1/1/27 to 12/31/27, and the funding amount is $434,114.00. CPS staff work in the field and may encounter situations that can quickly become confrontational or unsafe. ACS-issued Samsung Android smartphones automatically lock after one minute of inactivity, which can create challenges during case interviews. Alert Media provides CPS staff with a quick and reliable way to request assistance in an emergency and provides GPS location monitoring.\n\nThe Alert Media Smartphone Safety Application is based on Alert Media\u001as proprietary software and intellectual property. Alert Media is therefore the only source available to provide, maintain, and enhance the existing application.\n\nEntities capable of providing these services may express interest and submit qualifications by responding to the RFI (EPIN #06827Y0516) in PASSPort or by emailing olga.amelyanchyk@acs.nyc.gov. Submissions are due September 11, 2026 at 2:00 PM (EST).",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "6539805052b25c0b9042f933ee4fff00c0a6ff8c36cb5a47aab2557167ad26db",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "crol:20260828018",
+  "source": "crol",
+  "source_id": "20260828018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828018",
+  "title": "SMD_Services_Indefinite Delivery Indefinite Quantity (IDIQ) Contract for Repair of Gravity Roof Tanks (Office of Water Quality) at Various NYCHA Buildings Citywide",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-03",
+  "due_at": "2026-10-08T10:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-03",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Frank Giammarino",
+      "email": "frank.giammarino@nycha.nyc.gov",
+      "phone": "(212) 306-4531"
+    }
+  ],
+  "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Scope of Work: The scope of work includes repairing any leaks, cracks, or damage found in wooden or steel gravity tanks, including but not limited to conical covers, flat decking, hatch doors, ladders, plugs, strainers, piping, plumbing components, valves, electrical systems, probes, control wiring, conduit, co applicable city, state, and federal codes, regulations, all materials, equipment, and workmanship used in these repairs shall comply with all relevant city, state, and federal codes, as well as applicable regulations and industry standards governing construction, safety, and domestic water systems.\n\nContract Term: three years from the award date on NYCHA\u001as Purchase Order.  NYCHA, in its sole discretion, shall have the option to extend the Term of this Contract for up to two one-year renewals.\n\nBid Security: 100% of Contract Minimum ($50,000). Payment & Performance Bond:100% of Minimum ($50,000).\n\nLabor Law 220i Public Work Registration Certificate/Certification: Pursuant to Article 8, Section 220-i of the New York State Labor Law .The Bidder and each subcontractor must be registered with the New York State Department of Labor. https://dol.ny.gov/contractor-and-subcontractor-landing.  For additional information refer to the \u001aImportant Bid Notice\u001a document attachment included in this RFQ.\n\nThis Solicitation is not subject to PLA.\n\nThis solicitation does not require PQL.\n\nSection 3 Resident Economic Opportunity Plan: Section 3 Resident Economic Opportunity (REO) Plan must be submitted via eComply, https://nycha.ecomply.us/. Do not include Section 3 documentation within bid submission via iSupplier. For eComply log-in assistance contact eComply Tech support, support@ecomplysolutions.com. For Section 3 submission assistance contact NYCHA\u001as SMP Vendor Support team at eComply.support@nycha.nyc.gov.\n\nPre-Bid Conference: A non-mandatory, but strongly recommended, MS Teams Pre-Bid Conference will be held on September 9, 2026, at 3:00 PM, and will be conducted remotely via Microsoft Teams meeting. To join us, please follow the instructions below:\n\nOption 1: Click the following link or copy, and \u001apaste and go\u001a it into a new web browser:\n\nJoin: https://teams.microsoft.com/meet/247843415108182?p=s7S895ctg6lwFXC4rX\n\nMeeting ID: 247 843 415 108 182\n\nPasscode: f4oN2E3n\n\nOption 2: Dial in by phone\n\n+1 646-838-1534,,168007653# United States, New York City\n\nPhone conference ID: 168 007 653#\n\nRFQ Question Submission Deadline: September 16, 2026\n\nQuestions regarding this RFQ should only be sent to the following email address: construction.procurement@nycha.nyc.gov. \n\nQuestion & Answer Release Date: September 23, 2026\n\nPrior to submitting a bid, confirm the bid response includes all required forms and documentation and that all are properly completed, signed, and notarized, where applicable. It is the bidder\u001as sole responsibility to complete and submit its bid via iSupplier to the corresponding RFQ prior the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.\n\nOnly electronic bids submitted online via iSupplier will be accepted. For assistance regarding iSupplier please email NYCHA Procurement at procurement@nycha.nyc.gov.\n\nPlease note that if NYCHA receives no responses to this RFQ, the bid submission deadline shall be automatically extended for seven (7) days. This does not limit NYCHA's right to extend the bid deadline for any other reason.\n\nCurrent Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier.  The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule.\n\nInterested vendors are invited to obtain a copy of the opportunity at NYCHA\u001as website by going to http://www.nyc.gov/nychabusiness. On the left side, click on \u001aiSupplier Vendor Registration/Login\u001a link. (1) If you have an iSupplier account, then click on the \u001aLogin for registered vendors\u001a link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on \u001aNew suppliers register in iSupplier\u001a to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option \u001aSourcing Supplier\u001a, then choose \u001aSourcing\u001a, then choose Sourcing Homepage\u001a; and conduct a search in the \u001aSearch Open Negotiations\u001a box for the applicable RFQ Number(s) 528305, 528306, 528307. Note: NYCHA only accepts electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at construction.procurement@nycha.nyc.gov for assistance.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "c29592e9a6f3fc29b885f37dd152e24df348cd9d5e53e36cef83b585bccf943e",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "exclude:title:roof",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

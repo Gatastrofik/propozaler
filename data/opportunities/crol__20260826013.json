@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260826013",
+  "source": "crol",
+  "source_id": "20260826013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826013",
+  "title": "Plastic Modular Bus Boarder Components",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-01",
+  "solicitation_number": "84124S0003001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 450000,
+  "contacts": [
+    {
+      "name": "David Maco",
+      "email": "dmaco@dot.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To maintain the upkeep of the Vectorial Bus Boarder System, the agency will enter into an agreement with El Almacen Del Producto Reciclado (ZICLA) to purchase Plastic Modular Bus Boarder components to replace those diminished and degraded through usage. Bus Boarders (also known as bus bulbs) are platforms that augment the speed and reliability benefits which dedicated bus lanes deliver, allowing buses operating in \u001aoffset\u001a bus lane configurations (i.e., one lane out from the curbside parking/loading lane) to load and unload passenger without having to pull over to the curb and then pull back out. Boarders are also effective in keeping vehicles from blocking bus stops. Bus Boarders are also deployed on routes where two-way bike paths run along the same curb where bus stops exist. Boarding platforms eliminate bus-bike \u001ahead-on\u001a conflict at stops, in which buses encroach the travel path of cyclists, causing bikes to merge into contraflow traffic to pass stopped buses. The bike paths ramp up to platform height where it becomes a shared space, and then ramp down after the bus stop.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "d1bc7ed030ad8c861380cf5c282dfe71b75776073ef601d55f7d562a74d34a15",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:platform",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260818006",
+  "source": "crol",
+  "source_id": "20260818006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818006",
+  "title": "Maintenance and Repair of Roll Down Gates",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-24",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-24",
+  "solicitation_number": "06927W0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 200000,
+  "contacts": [
+    {
+      "name": "Thomas_HRA Tsang",
+      "email": "tsangtho@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "On an 'as needed' basis at HRA facilities, Citywide.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "abc3856606ea9ac05e99cf5cb3d8c8ca973dfc2b6cc3c72e6e77d12a8fd01a63",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

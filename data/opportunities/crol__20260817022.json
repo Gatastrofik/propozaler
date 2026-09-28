@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260817022",
+  "source": "crol",
+  "source_id": "20260817022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817022",
+  "title": "FY27 Renewal - SA Tillary Shelter (200 beds)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-24",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-08-24",
+  "solicitation_number": "PIN#07126X8002KXLR00",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 60001357,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Stand Alone Transitional Residence for Homeless Single Adults at 200 Tillary Street, Brooklyn, NY 11201.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "01940513510366b990af116f033486415d6be5ed5e7371d66bcda03e2dec965b",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260812024",
+  "source": "crol",
+  "source_id": "20260812024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260812024",
+  "title": "ADAPTIVE EQUIPMENT FOR STUDENTS WITH DISABILITIES",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Education",
+  "agency_path": "City of New York > Education",
+  "buyer_level": "school",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-08-19",
+  "due_at": "2026-08-20T16:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-08-19",
+  "solicitation_number": "B5962040",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Vendor Hotline",
+      "email": "vendorhotline@schools.nyc.gov",
+      "phone": "(718) 935-2300"
+    }
+  ],
+  "submit_to": "65 Court Street, 12th Floor, Room 1201, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "Corrections to previously posted notice of December 4, 2023\n\nThe New York City Department of Education (\u001aNYC DOE\u001a) consists of approximately 1,800 Public Schools and 200 Central Offices throughout the City. In accordance with our Procurement Policy and Procedures, the DOE seeks to negotiate with Control Bionics Inc to formalize a three-year sole source contract to supply adaptive equipment for students with disabilities. For more information on these products, visit https://www.controlbionics.com/.\n\nYou are invited! If you can source these products, then please provide the following: 1. Company\u001as Legal Name. 2. Company\u001as Contact Person information. 3. A brief description of the products you can source including the website address where these products are publicly available.\n\nIf interested, please reply to this Notice of Intent on or before December 15th, 2023, by 4:00 P.M. est. All information should be sent to Ryan Marron at rmarron2@schools.nyc.gov.\n\nThe New York City Department of Education (DOE) strives to give all businesses, including Minority and Women-Owned Business Enterprises (MWBEs), an equal opportunity to compete for DOE procurements. The DOE\u001as mission is to provide equal access to procurement opportunities for all qualified vendors, including MWBEs, from all segments of the community. The DOE works to enhance the ability of MWBEs to compete for contracts. DOE is committed to ensuring that MWBEs fully participate in the procurement process.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "429f5714653624213d074daf89a0340e836aa1a909a5dc8c68a1b9bba647ab05",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

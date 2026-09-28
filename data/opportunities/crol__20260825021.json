@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260825021",
+  "source": "crol",
+  "source_id": "20260825021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825021",
+  "title": "01727P0002-Strengthening Communities Database #2",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Emergency Management",
+  "agency_path": "City of New York > Emergency Management",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-01",
+  "due_at": "2026-09-21T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-01",
+  "solicitation_number": "01727P0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kristina Konopelko",
+      "email": "procurementmail@oem.nyc.gov",
+      "phone": "(347) 245-0404"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "New York City Emergency Management (NYCEM) is seeking an off-the-shelf, secure database to manage its Strengthening Communities program. This database should serve as a central communication hub between Community Preparedness staff and community coalitions/networks in the Strengthening Communities program. \n\nResponses to this CSP must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: \n\nhttps://a0333-passportpublic.nyc.gov/rfx.html\n\nTo locate this project, please enter EPIN 01727P0002 into the 'KEYWORD' field and select Office of Emergency Management from the 'AGENCY' field drop down.\n\nIf you have any issues or questions locating this project please reach out to Kristina Konopelko via email.",
+  "description_fetched_at": "2026-09-28T01:24:42.387Z",
+  "content_hash": "1e676676bd516b64b16c2ead751b8013b398e5df3b5334ef5ee3d37565cca8af",
+  "first_seen_at": "2026-09-28T01:24:42.387Z",
+  "last_seen_at": "2026-09-28T01:24:42.387Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -641,7 +641,7 @@ Snooze; "changed after you ignored"; stability check; county and town page adapt
 
 ### Decisions still open
 
-1. Does the routine push to `main`, or only to `claude/*` branches? Determines whether the state branch exists. Resolved in milestone 1 step 7.
+1. Does the routine push to `main`, or only to `claude/*` branches? Result 2026-09-28: pushing to `claude/state` works once the Claude GitHub App is installed on the repo; pushing to `main` was not retested and no longer matters. The state branch stays.
 2. Does SAM v2 accept a comma-separated `ptype` list? If not, four queries per run instead of one. Resolved in milestone 4.
 3. Actual SAM daily request ceiling for a non-federal personal key. Unknown until measured; the design assumes it could be as low as 10.
 4. Contract value floor and ceiling, bonding and insurance limits, and any set-asides we can or cannot claim. These belong in `criteria.md` and are blank until we know.
@@ -656,6 +656,10 @@ Snooze; "changed after you ignored"; stability check; county and town page adapt
 - **Stale CROL due dates.** The City Record keeps the originally published date; PASSPort addenda move it. Mitigation: provenance label on every CROL date, no skip on a CROL-only deadline, PIN shown for the PASSPort lookup.
 - **Prompt injection through source text.** Notice descriptions are public-web content that reaches an agent holding send and push tools. Mitigation: the prompt frames opportunity blocks as data; every model-written field is schema-validated and HTML-escaped; sending is CLI code with fixed recipients, and the routine may not edit code or config. Residual risk is accepted for an internal tool with two readers; a product would need the scorer isolated from any tool with side effects.
 - **Deadline.** Three and a half months for four milestones alongside the actual business. Mitigation: the deferred list in section 1, and milestone 3 explicitly ahead of SAM.
+
+### Deployment record, 2026-09-28
+
+Sandbox facts from the probe and the first two cloud runs: Node 22.22; outbound HTTPS works to allowlisted hosts (`data.cityofnewyork.us`, `hc-ping.com`, `sheets.googleapis.com` reachable once listed); raw TCP to `smtp.gmail.com:465` and `imap.gmail.com:993` is blocked; `git push` works through the Claude GitHub App. Run durations: 78 s and 197 s including `npm ci` and build. First run ingested 397 notices (2026-08-18 to 2026-09-16 window) with zero candidates, confirmed correct by a manual scan; the second run re-fetched 162 rows in the overlap window and wrote no new files. The connector send path delivered a digest (Gmail message id recorded in `digests.jsonl`) and `check` passed on both runs. Routine: `propozaler-daily`, cron `0 11 * * *`, next fire 2026-09-28 11:06 UTC.
 - **Pre-filter recall.** Keyword nets miss unusual wording. Mitigation: the monthly random sample of `filtered_out`, and `wording_notes`.
 - **Score variance between runs.** Mitigation: thresholds are treated as soft; the labeled-set eval is re-run after every criteria or prompt change; the stability check is deferred past the go/no-go.
 - **Outbound SMTP and IMAP from the sandbox.** Resolved 2026-09-27: both blocked; delivery moved to the Gmail REST API.

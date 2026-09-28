@@ -29,7 +29,7 @@ to the `claude/state` branch; code lives on `main`.
 
 Network allowlist on the environment: `data.cityofnewyork.us`, `hc-ping.com`.
 
-Routine URL: (fill in after creation)
+Routine: `propozaler-daily`, id `trig_01RAWimoR6XGZCnneH2w5Cho`, listed at https://claude.ai/code/routines. Healthchecks check: `propozaler-daily`.
 
 Before the first run: real addresses in `config/recipients.yaml`, the healthchecks.io check created, and
 the connectivity probe in `docs/superpowers/plans/2026-09-27-milestone-1-crol-digest.md` Task 15 step 4 done.

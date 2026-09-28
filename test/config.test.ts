@@ -15,6 +15,7 @@ describe("loadConfig", () => {
     expect(c.recipients.cap).toBe(10);
     expect(c.recipients.send_days).toContain("Mon");
     expect(c.recipients.to.length).toBeGreaterThan(0);
+    expect(c.recipients.transport).toBe("gmail_api");
   });
 
   it("fails loudly on a missing file", () => {

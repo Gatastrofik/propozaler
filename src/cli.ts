@@ -5,6 +5,8 @@ import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 import { evaluateChecks } from "./check/check.js";
 import { loadConfig } from "./config.js";
+import { GMAIL_SEND_SCOPE, createGmailApiMailer } from "./digest/gmail.js";
+import { runGmailAuth } from "./digest/gmail-auth.js";
 import { createSmtpMailer, type Mailer } from "./digest/mailer.js";
 import { toCsv } from "./export/csv.js";
 import { todayNewYork, weekdayNewYork } from "./model/time.js";
@@ -19,7 +21,7 @@ export interface CliIo {
   stdout?: (s: string) => void;
   fetchImpl?: typeof fetch;
   now?: () => Date;
-  mailerFactory?: (env: NodeJS.ProcessEnv) => Mailer;
+  mailerFactory?: (env: NodeJS.ProcessEnv, transport: "gmail_api" | "smtp") => Mailer;
 }
 
 const USAGE = `usage: propozaler <command>
@@ -30,6 +32,7 @@ const USAGE = `usage: propozaler <command>
   ingest <source> [--from YYYY-MM-DD]
   export csv [--out PATH]
   check-env
+  gmail-auth               one-time OAuth consent; prints a refresh token
   notify-failure --step N --log PATH
 `;
 
@@ -64,7 +67,7 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
   const { positional, flags } = parseFlags(argv);
   const cmd = positional[0];
   const httpFactory = () => createHttpClient(io.fetchImpl ? { fetchImpl: io.fetchImpl } : {});
-  const mailerFactory = io.mailerFactory ?? ((e: NodeJS.ProcessEnv) => createSmtpMailer(e));
+  const mailerFactory = io.mailerFactory ?? ((e: NodeJS.ProcessEnv, transport: "gmail_api" | "smtp") => transport === "smtp" ? createSmtpMailer(e) : createGmailApiMailer(e));
 
   try {
     switch (cmd) {
@@ -76,7 +79,7 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
       }
       case "post": {
         const config = loadConfig(configDir);
-        const mailer = flags["no-send"] ? null : mailerFactory(env);
+        const mailer = flags["no-send"] ? null : mailerFactory(env, config.recipients.transport);
         const res = await runPost({ store: new Store(dataDir), recipients: config.recipients, filters: config.filters, now, workDir, mailer, forceSend: flags["force-send"] === true });
         out(JSON.stringify(res) + "\n");
         return 0;
@@ -140,9 +143,22 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
         return 0;
       }
       case "check-env": {
-        const names = ["SMTP_USER", "SMTP_APP_PASSWORD", "HEALTHCHECKS_URL", "SOCRATA_APP_TOKEN"];
+        const config = loadConfig(configDir);
+        const transportNames = config.recipients.transport === "smtp"
+          ? ["SMTP_USER", "SMTP_APP_PASSWORD"]
+          : ["GMAIL_CLIENT_ID", "GMAIL_CLIENT_SECRET", "GMAIL_REFRESH_TOKEN"];
+        const names = ["HEALTHCHECKS_URL", "SOCRATA_APP_TOKEN", ...transportNames];
         for (const n of names) out(`${n}: ${env[n] ? "set" : "missing"}\n`);
-        return env.SMTP_USER && env.SMTP_APP_PASSWORD ? 0 : 1;
+        return transportNames.every((n) => env[n]) ? 0 : 1;
+      }
+      case "gmail-auth": {
+        const clientId = env.GMAIL_CLIENT_ID;
+        const clientSecret = env.GMAIL_CLIENT_SECRET;
+        if (!clientId || !clientSecret) { out("gmail-auth: GMAIL_CLIENT_ID and GMAIL_CLIENT_SECRET must be set\n"); return 2; }
+        const token = await runGmailAuth({ clientId, clientSecret, scopes: [GMAIL_SEND_SCOPE], out, fetchImpl: io.fetchImpl });
+        out(`GMAIL_REFRESH_TOKEN=${token}\n`);
+        out("Paste that into the routine environment and your local .env; it is not saved anywhere by this tool.\n");
+        return 0;
       }
       case "notify-failure": {
         const step = typeof flags.step === "string" ? flags.step : "?";
@@ -150,7 +166,7 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
         const tail = logPath && existsSync(logPath) ? readFileSync(logPath, "utf8").trim().split("\n").slice(-40).join("\n") : "(no log)";
         try {
           const config = loadConfig(configDir);
-          const mailer = mailerFactory(env);
+          const mailer = mailerFactory(env, config.recipients.transport);
           const subject = `propozaler run failed at step ${step} (${todayNewYork(now)})`;
           const text = `${subject}\n\nLast log lines:\n\n${tail}\n`;
           await mailer.send({ from: config.recipients.from, to: [...config.recipients.to], subject, text, html: `<pre>${text.replace(/&/g, "&amp;").replace(/</g, "&lt;")}</pre>` });

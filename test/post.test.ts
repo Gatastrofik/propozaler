@@ -11,7 +11,7 @@ import type { RecipientsConfig } from "../src/config.js";
 import { sampleNormalized } from "./helpers.js";
 
 const filters = loadFilters(readFileSync(new URL("../config/filters.yaml", import.meta.url), "utf8"));
-const recipients: RecipientsConfig = { from: "d@example.com", to: ["a@example.com", "b@example.com"], send_days: ["Mon", "Tue", "Wed", "Thu", "Fri"], cap: 10, min_net_score: 3, sheet_url: null, subject_prefix: "propozaler" };
+const recipients: RecipientsConfig = { from: "d@example.com", to: ["a@example.com", "b@example.com"], send_days: ["Mon", "Tue", "Wed", "Thu", "Fri"], cap: 10, min_net_score: 3, sheet_url: null, subject_prefix: "propozaler", transport: "gmail_api" };
 const monday = new Date("2026-09-28T11:00:00Z");
 const sunday = new Date("2026-09-27T11:00:00Z");
 

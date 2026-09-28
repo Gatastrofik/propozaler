@@ -69,11 +69,30 @@ describe("cli", () => {
   });
 
   it("check-env reports names only", async () => {
+    // Default transport is gmail_api; the SMTP pair alone is not enough.
     const out: string[] = [];
     const code = await main(["check-env"], { SMTP_USER: "secret@x", SMTP_APP_PASSWORD: "pw" }, project(), { stdout: (s) => out.push(s) });
-    expect(code).toBe(0);
-    expect(out.join("")).toContain("SMTP_USER: set");
+    expect(code).toBe(1);
+    expect(out.join("")).toContain("GMAIL_CLIENT_ID: missing");
+    expect(out.join("")).toContain("GMAIL_CLIENT_SECRET: missing");
+    expect(out.join("")).toContain("GMAIL_REFRESH_TOKEN: missing");
     expect(out.join("")).not.toContain("secret@x");
+
+    const out2: string[] = [];
+    const code2 = await main(
+      ["check-env"],
+      { GMAIL_CLIENT_ID: "id-value", GMAIL_CLIENT_SECRET: "secret-value", GMAIL_REFRESH_TOKEN: "token-value" },
+      project(),
+      { stdout: (s) => out2.push(s) },
+    );
+    expect(code2).toBe(0);
+    expect(out2.join("")).toContain("GMAIL_CLIENT_ID: set");
+    expect(out2.join("")).toContain("GMAIL_CLIENT_SECRET: set");
+    expect(out2.join("")).toContain("GMAIL_REFRESH_TOKEN: set");
+    expect(out2.join("")).not.toContain("id-value");
+    expect(out2.join("")).not.toContain("secret-value");
+    expect(out2.join("")).not.toContain("token-value");
+
     expect(await main(["check-env"], {}, project(), { stdout: () => {} })).toBe(1);
   });
 

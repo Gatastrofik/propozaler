@@ -22,10 +22,24 @@ Copy `.env.example` to `.env`, fill it in, then `set -a; source .env; set +a` an
 Production runs happen in a Claude Code cloud routine named `propozaler-daily`, cron `0 11 * * *` UTC
 (07:00 EDT), repo `https://github.com/Gatastrofik/propozaler`, model `claude-sonnet-5`, no connectors.
 Its prompt is `ROUTINE.md`, pasted verbatim. Environment variables live on the routine's cloud
-environment, never in the repo: `SMTP_USER`, `SMTP_APP_PASSWORD`, `HEALTHCHECKS_URL`, optional
-`SOCRATA_APP_TOKEN`. State is committed to the `claude/state` branch; code lives on `main`.
+environment, never in the repo: `GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`,
+`HEALTHCHECKS_URL`, optional `SOCRATA_APP_TOKEN`. State is committed to the `claude/state` branch; code
+lives on `main`.
+
+Network allowlist on the environment: `data.cityofnewyork.us`, `hc-ping.com`, `oauth2.googleapis.com`,
+`gmail.googleapis.com`.
 
 Routine URL: (fill in after creation)
 
 Before the first run: real addresses in `config/recipients.yaml`, the healthchecks.io check created, and
 the connectivity probe in `docs/superpowers/plans/2026-09-27-milestone-1-crol-digest.md` Task 15 step 4 done.
+
+### One-time Gmail consent
+
+Run this locally once to mint the refresh token the routine uses to send:
+
+    set -a; source .env; set +a
+    npm run propozaler -- gmail-auth
+
+Open the printed URL, sign in as `jobdigest0@gmail.com`, and grant consent. Copy the printed
+`GMAIL_REFRESH_TOKEN=<token>` line into the routine's cloud environment and into your local `.env`.

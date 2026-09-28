@@ -27,20 +27,33 @@ export async function exchangeCode(
   return { refresh_token: j.refresh_token };
 }
 
+export type CallbackOutcome =
+  | { kind: "ignore"; status: 404; body: "" }
+  | { kind: "error"; status: 400; body: string; error: string }
+  | { kind: "code"; code: string };
+
+export function classifyCallback(reqUrl: string): CallbackOutcome {
+  const url = new URL(reqUrl, "http://127.0.0.1");
+  const err = url.searchParams.get("error");
+  const code = url.searchParams.get("code");
+  if (err) return { kind: "error", status: 400, body: `Consent failed: ${err}`, error: err };
+  if (!code) return { kind: "ignore", status: 404, body: "" };
+  return { kind: "code", code };
+}
+
 export function runGmailAuth(opts: {
   clientId: string; clientSecret: string; scopes: string[]; fetchImpl?: typeof fetch; out: (s: string) => void; port?: number;
 }): Promise<string> {
   const fetchImpl = opts.fetchImpl ?? fetch;
   const pending = new Promise<string>((resolve, reject) => {
     const server = createServer((req, res) => {
-      const url = new URL(req.url ?? "/", "http://127.0.0.1");
-      const err = url.searchParams.get("error");
-      const code = url.searchParams.get("code");
-      if (err) {
-        res.writeHead(400, { "content-type": "text/plain" }); res.end(`Consent failed: ${err}`);
-        server.close(); reject(new Error(`gmail consent failed: ${err}`)); return;
+      const outcome = classifyCallback(req.url ?? "/");
+      if (outcome.kind === "ignore") { res.writeHead(outcome.status); res.end(outcome.body); return; }
+      if (outcome.kind === "error") {
+        res.writeHead(outcome.status, { "content-type": "text/plain" }); res.end(outcome.body);
+        server.close(); reject(new Error(`gmail consent failed: ${outcome.error}`)); return;
       }
-      if (!code) { res.writeHead(404); res.end(); return; }
+      const { code } = outcome;
       void (async () => {
         try {
           const addr = server.address();

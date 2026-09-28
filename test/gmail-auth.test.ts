@@ -1,5 +1,6 @@
+import { createServer } from "node:http";
 import { describe, it, expect } from "vitest";
-import { consentUrl, exchangeCode, runGmailAuth } from "../src/digest/gmail-auth.js";
+import { consentUrl, exchangeCode, runGmailAuth, classifyCallback } from "../src/digest/gmail-auth.js";
 
 function fakeFetch(body: unknown, status = 200) {
   const calls: Array<{ url: string; body: string }> = [];
@@ -39,8 +40,34 @@ describe("exchangeCode", () => {
   });
 });
 
-describe("runGmailAuth", () => {
-  it("prints the consent URL, accepts the loopback callback, and resolves the refresh token", async () => {
+describe("classifyCallback", () => {
+  it("returns the code on a successful callback", () => {
+    expect(classifyCallback("/?code=abc")).toEqual({ kind: "code", code: "abc" });
+  });
+  it("returns the error on a denied callback", () => {
+    const outcome = classifyCallback("/?error=access_denied");
+    expect(outcome.kind).toBe("error");
+    expect((outcome as { error: string }).error).toBe("access_denied");
+    expect((outcome as { status: number }).status).toBe(400);
+  });
+  it("ignores requests with neither code nor error", () => {
+    const outcome = classifyCallback("/favicon.ico");
+    expect(outcome.kind).toBe("ignore");
+    expect((outcome as { status: number }).status).toBe(404);
+  });
+});
+
+async function loopbackAllowed(): Promise<boolean> {
+  return new Promise((resolve) => {
+    const s = createServer();
+    s.once("error", () => resolve(false));
+    s.listen(0, "127.0.0.1", () => s.close(() => resolve(true)));
+  });
+}
+const canBind = await loopbackAllowed();
+
+describe("runGmailAuth (real loopback server)", () => {
+  it.skipIf(!canBind)("prints the consent URL, accepts the loopback callback, and resolves the refresh token", async () => {
     const printed: string[] = [];
     const f = fakeFetch({ access_token: "AT", refresh_token: "RT-from-flow" });
     const pending = runGmailAuth({ clientId: "cid", clientSecret: "csec", scopes: ["s1"], fetchImpl: f.impl, out: (s) => printed.push(s) });
@@ -55,7 +82,7 @@ describe("runGmailAuth", () => {
     expect(await pending).toBe("RT-from-flow");
     expect(printed.join("\n")).not.toContain("RT-from-flow"); // the token is returned, not printed by the flow itself
   });
-  it("rejects when the callback carries an error", async () => {
+  it.skipIf(!canBind)("rejects when the callback carries an error", async () => {
     const printed: string[] = [];
     const pending = runGmailAuth({ clientId: "cid", clientSecret: "csec", scopes: ["s1"], fetchImpl: fakeFetch({}).impl, out: (s) => printed.push(s) });
     let url = "";

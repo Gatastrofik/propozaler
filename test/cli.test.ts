@@ -8,9 +8,13 @@ import { main } from "../src/cli.js";
 const here = dirname(fileURLToPath(import.meta.url));
 const fx = (name: string) => JSON.parse(readFileSync(join(here, "fixtures", "crol", name), "utf8"));
 
-function project(): string {
+function project(opts: { transport?: "gmail_api" | "smtp" | "connector" } = {}): string {
   const dir = mkdtempSync(join(tmpdir(), "propozaler-cli-"));
   cpSync(join(here, "..", "config"), join(dir, "config"), { recursive: true });
+  if (opts.transport) {
+    const path = join(dir, "config", "recipients.yaml");
+    writeFileSync(path, readFileSync(path, "utf8").replace(/^transport:.*$/m, `transport: ${opts.transport}`));
+  }
   return dir;
 }
 
@@ -61,7 +65,7 @@ describe("cli", () => {
   });
 
   it("check exits 1 when the digest was expected and not sent", async () => {
-    const dir = project();
+    const dir = project({ transport: "smtp" });
     const io = { stdout: () => {}, fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
     await main(["pre"], {}, dir, io);
     await main(["post"], { SMTP_USER: "u", SMTP_APP_PASSWORD: "p" }, dir, { ...io, mailerFactory: () => ({ async send() { throw new Error("smtp down"); } }) });
@@ -69,9 +73,10 @@ describe("cli", () => {
   });
 
   it("check-env reports names only", async () => {
-    // Default transport is gmail_api; the SMTP pair alone is not enough.
+    // Explicitly gmail_api: config/recipients.yaml now defaults to connector, so this pins the
+    // Gmail API transport this test is exercising.
     const out: string[] = [];
-    const code = await main(["check-env"], { SMTP_USER: "secret@x", SMTP_APP_PASSWORD: "pw" }, project(), { stdout: (s) => out.push(s) });
+    const code = await main(["check-env"], { SMTP_USER: "secret@x", SMTP_APP_PASSWORD: "pw" }, project({ transport: "gmail_api" }), { stdout: (s) => out.push(s) });
     expect(code).toBe(1);
     expect(out.join("")).toContain("GMAIL_CLIENT_ID: missing");
     expect(out.join("")).toContain("GMAIL_CLIENT_SECRET: missing");
@@ -82,7 +87,7 @@ describe("cli", () => {
     const code2 = await main(
       ["check-env"],
       { GMAIL_CLIENT_ID: "id-value", GMAIL_CLIENT_SECRET: "secret-value", GMAIL_REFRESH_TOKEN: "token-value" },
-      project(),
+      project({ transport: "gmail_api" }),
       { stdout: (s) => out2.push(s) },
     );
     expect(code2).toBe(0);
@@ -93,7 +98,56 @@ describe("cli", () => {
     expect(out2.join("")).not.toContain("secret-value");
     expect(out2.join("")).not.toContain("token-value");
 
-    expect(await main(["check-env"], {}, project(), { stdout: () => {} })).toBe(1);
+    expect(await main(["check-env"], {}, project({ transport: "gmail_api" }), { stdout: () => {} })).toBe(1);
+  });
+
+  it("check-env under connector transport needs only HEALTHCHECKS_URL", async () => {
+    const dir = project({ transport: "connector" });
+    const out: string[] = [];
+    const code = await main(["check-env"], { HEALTHCHECKS_URL: "https://hc-ping.com/x" }, dir, { stdout: (s) => out.push(s) });
+    expect(code).toBe(0);
+    expect(out.join("")).toContain("HEALTHCHECKS_URL: set");
+    expect(out.join("")).toContain("SOCRATA_APP_TOKEN: missing");
+    expect(out.join("")).toContain("transport: connector (no mail credentials needed by the CLI)");
+    expect(out.join("")).not.toContain("GMAIL_");
+    expect(out.join("")).not.toContain("SMTP_");
+
+    expect(await main(["check-env"], {}, project({ transport: "connector" }), { stdout: () => {} })).toBe(1);
+  });
+
+  it("post under connector transport writes pending_send without touching the mailer factory", async () => {
+    const dir = project({ transport: "connector" });
+    const out: string[] = [];
+    const io = { stdout: (s: string) => out.push(s), fetchImpl: fakeFetch, now: () => new Date("2026-09-17T11:00:00Z") };
+    let factoryCalled = false;
+    const mailerFactory = (): never => { factoryCalled = true; throw new Error("mailerFactory must not be called for connector transport"); };
+
+    expect(await main(["pre"], {}, dir, io)).toBe(0);
+    expect(await main(["post"], {}, dir, { ...io, mailerFactory })).toBe(0);
+
+    const meta = JSON.parse(readFileSync(join(dir, "work", "digest.meta.json"), "utf8"));
+    expect(meta.pending_send).toBe(true);
+    expect(meta.digest_id).toBe("2026-09-17");
+    expect(factoryCalled).toBe(false);
+  });
+
+  it("notify-failure under connector transport writes work/failure.json instead of sending", async () => {
+    const dir = project({ transport: "connector" });
+    mkdirSync(join(dir, "work"), { recursive: true });
+    writeFileSync(join(dir, "work", "run.log"), "boom at step 6\n");
+    const out: string[] = [];
+    const code = await main(
+      ["notify-failure", "--step", "6", "--log", join(dir, "work", "run.log")],
+      {},
+      dir,
+      { stdout: (s) => out.push(s), now: () => new Date("2026-09-17T11:00:00Z") },
+    );
+    expect(code).toBe(0);
+    const failure = JSON.parse(readFileSync(join(dir, "work", "failure.json"), "utf8"));
+    expect(failure.to).toEqual(["anthony.olivence@gmail.com"]);
+    expect(failure.subject).toContain("propozaler run failed at step 6");
+    expect(failure.text).toContain("boom at step 6");
+    expect(out.join("")).toContain("failure notice written to work/failure.json for the routine to send");
   });
 
   it("export csv writes a file", async () => {

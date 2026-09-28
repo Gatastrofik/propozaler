@@ -6,4 +6,4 @@ cap: 10
 min_net_score: 4          # a watch-list-only match (police_detail weight 1 + home bonus 2) must not reach the digest until fit_score exists
 sheet_url: null           # milestone 2
 subject_prefix: propozaler
-transport: gmail_api      # smtp is the local fallback; the routine sandbox blocks port 465
+transport: connector      # interim: the routine sends via the Gmail connector; switch to gmail_api once a verified domain lets the OAuth app publish

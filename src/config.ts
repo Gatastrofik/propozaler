@@ -18,7 +18,7 @@ export const RecipientsConfigSchema = z.object({
   min_net_score: z.number().int().default(3),
   sheet_url: z.string().url().nullable().default(null),
   subject_prefix: z.string().default("propozaler"),
-  transport: z.enum(["gmail_api", "smtp"]).default("gmail_api"),
+  transport: z.enum(["gmail_api", "smtp", "connector"]).default("gmail_api"),
 });
 export type RecipientsConfig = z.infer<typeof RecipientsConfigSchema>;
 

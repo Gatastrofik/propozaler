@@ -20,8 +20,10 @@ when a decision changes. Go/no-go on the business is 2026-12-31; the build plan 
   cannot handle) happens inside the routine through file contracts in `work/`: `pending/NN.json` -> `scores/NN.json`,
   `alerts/unparsed/` -> `alerts/extracted/`. The CLI validates every file it reads back with zod.
 - All mail and sheet I/O is CLI code: send through the Gmail REST API over HTTPS as a dedicated account (SMTP
-  is the local development fallback), IMAP read from that account, Sheets API with a service account. The
-  routine has no connectors. The routine agent runs the CLI, scores batch files, runs the CLI.
+  is the local development fallback; interim: `transport: connector` hands the rendered digest to the
+  routine's Gmail connector), IMAP read from that account, Sheets API with a service account. Other than
+  that interim connector send, the routine has no connectors. The routine agent runs the CLI, scores batch
+  files, runs the CLI.
 - Deterministic things live in code with offline tests. The routine agent gets a numbered procedure
   (`ROUTINE.md`), not a goal. If the agent keeps improvising a step, move that step into the CLI.
 - Boring tech. Node 22 (the cloud environment's default; local may be newer), npm, strict TypeScript, ESM.

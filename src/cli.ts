@@ -79,7 +79,10 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
       }
       case "post": {
         const config = loadConfig(configDir);
-        const mailer = flags["no-send"] ? null : mailerFactory(env, config.recipients.transport);
+        const { transport } = config.recipients;
+        // The connector transport (interim, until a verified domain lets the Gmail OAuth app publish)
+        // hands the rendered digest to the routine's Gmail connector: same as --no-send, mailer null.
+        const mailer = flags["no-send"] || transport === "connector" ? null : mailerFactory(env, transport);
         const res = await runPost({ store: new Store(dataDir), recipients: config.recipients, filters: config.filters, now, workDir, mailer, forceSend: flags["force-send"] === true });
         out(JSON.stringify(res) + "\n");
         return 0;
@@ -144,6 +147,12 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
       }
       case "check-env": {
         const config = loadConfig(configDir);
+        if (config.recipients.transport === "connector") {
+          // No mail credentials: the routine's Gmail connector sends, not the CLI.
+          for (const n of ["HEALTHCHECKS_URL", "SOCRATA_APP_TOKEN"]) out(`${n}: ${env[n] ? "set" : "missing"}\n`);
+          out("transport: connector (no mail credentials needed by the CLI)\n");
+          return env.HEALTHCHECKS_URL ? 0 : 1;
+        }
         const transportNames = config.recipients.transport === "smtp"
           ? ["SMTP_USER", "SMTP_APP_PASSWORD"]
           : ["GMAIL_CLIENT_ID", "GMAIL_CLIENT_SECRET", "GMAIL_REFRESH_TOKEN"];
@@ -166,9 +175,15 @@ export async function main(argv: string[], env: NodeJS.ProcessEnv, cwd: string, 
         const tail = logPath && existsSync(logPath) ? readFileSync(logPath, "utf8").trim().split("\n").slice(-40).join("\n") : "(no log)";
         try {
           const config = loadConfig(configDir);
-          const mailer = mailerFactory(env, config.recipients.transport);
           const subject = `propozaler run failed at step ${step} (${todayNewYork(now)})`;
           const text = `${subject}\n\nLast log lines:\n\n${tail}\n`;
+          if (config.recipients.transport === "connector") {
+            mkdirSync(workDir, { recursive: true });
+            writeFileSync(join(workDir, "failure.json"), JSON.stringify({ to: [...config.recipients.to], subject, text }, null, 2) + "\n");
+            out("failure notice written to work/failure.json for the routine to send\n");
+            return 0;
+          }
+          const mailer = mailerFactory(env, config.recipients.transport);
           await mailer.send({ from: config.recipients.from, to: [...config.recipients.to], subject, text, html: `<pre>${text.replace(/&/g, "&amp;").replace(/</g, "&lt;")}</pre>` });
           out("failure notice sent\n");
           return 0;

@@ -98,7 +98,7 @@ propozaler eval prepare | eval compare DIR | report disagreements | export csv |
 - Do not tune scoring from feedback automatically. Feedback is reported; a human edits `criteria.md`.
 - Do not let the routine edit `src/`, `config/`, or `prompts/`.
 - Do not widen the pre-filter or add a source without a fixture and a legal note.
-- Do not send anything other than the rendered digest or the failure notice, and only from the CLI's sender.
+- Do not send anything other than the rendered digest or the failure notice. Under `transport: connector` the routine sends those two through its Gmail connector; otherwise only the CLI sends.
 - Do not commit generated views (CSV exports) to the state branch; regenerate on demand.
 
 ## Working with Claude Code on this repo

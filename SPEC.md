@@ -99,7 +99,7 @@ The routine agent does three things: run the CLI, score the batch files, run the
 
 ### 2.6 Runtime
 
-**Choice.** One Claude Code routine on a daily cron, model Sonnet 5, with the GitHub repo attached and no connectors. Local runs of the CLI are for development and for emergencies.
+**Choice.** One Claude Code routine on a daily cron, model Sonnet 5, with the GitHub repo attached and, while `transport: connector` is the interim path, the Gmail connector; no connectors once delivery returns to the Gmail API. Local runs of the CLI are for development and for emergencies.
 
 **Rationale.** Zero marginal cost and no server. The trade is that scoring shares the engineer's weekly Max quota and that runs are less deterministic than a cron job. Section 7 is about making those trades visible.
 
@@ -531,7 +531,7 @@ Checked into the repo and pasted into the routine verbatim. It is a numbered pro
 10. If step 8 exited 0 and step 9 succeeded, ping `$HEALTHCHECKS_URL`. Otherwise ping `$HEALTHCHECKS_URL/fail` with the check output and the git error as the body.
 11. On any unrecoverable failure: still attempt steps 8 to 10, then run `propozaler notify-failure --step N --log work/run.log`, which sends a short plain-text failure email through the configured transport, and stop. (Interim, `transport: connector`.) If `work/failure.json` exists, send it through the Gmail connector: `to`, `subject`, `text` as the plain body.
 
-The prompt also says what the agent must not do: no code edits, no criteria edits, no fetching sources by hand, no sending mail itself, no retrying SAM after a 429.
+The prompt also says what the agent must not do: no code edits, no criteria edits, no fetching sources by hand, no sending mail itself except step 7b and the step 11 failure notice under `transport: connector`, no retrying SAM after a 429.
 
 ### 7.3 Logging
 

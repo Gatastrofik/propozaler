@@ -18,14 +18,6 @@ Everything below runs from the repository root.
 5. (Milestone 2 will add scoring here. Nothing to do yet.)
 6. Build and send the digest:
    node dist/cli.js post > work/post.log 2>&1; POST=$?; cat work/post.log >> work/run.log; cat work/post.log
-
-   Only if the Task 15 probe showed SMTP is blocked from the sandbox, use this fallback instead of the
-   command above:
-   node dist/cli.js post --no-send > work/post.log 2>&1; POST=$?; cat work/post.log >> work/run.log; cat work/post.log
-   Read `work/digest.meta.json` for `to` and `subject`. Send `work/digest.html` (with `work/digest.txt` as
-   the plain-text part) through the Gmail connector on the dedicated account to that `to` list with that
-   `subject`. Then run:
-   node dist/cli.js sent --digest-id <digest_id from work/digest.meta.json> --message-id <the Gmail connector's message id>
 7. Evaluate the run:
    node dist/cli.js check > work/check.log 2>&1; CHECK=$?; cat work/check.log >> work/run.log; cat work/check.log
    Remember the exit code as CHECK.

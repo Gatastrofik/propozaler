@@ -19,15 +19,17 @@ when a decision changes. Go/no-go on the business is 2026-12-31; the build plan 
 - The CLI never calls an LLM in v1. Scoring (and, from milestone 3, extraction from alert emails the parser
   cannot handle) happens inside the routine through file contracts in `work/`: `pending/NN.json` -> `scores/NN.json`,
   `alerts/unparsed/` -> `alerts/extracted/`. The CLI validates every file it reads back with zod.
-- All mail and sheet I/O is CLI code: SMTP send and IMAP read from a dedicated Gmail account, Sheets API with a
-  service account. The routine has no connectors. The routine agent runs the CLI, scores batch files, runs the CLI.
+- All mail and sheet I/O is CLI code: send through the Gmail REST API over HTTPS as a dedicated account (SMTP
+  is the local development fallback), IMAP read from that account, Sheets API with a service account. The
+  routine has no connectors. The routine agent runs the CLI, scores batch files, runs the CLI.
 - Deterministic things live in code with offline tests. The routine agent gets a numbered procedure
   (`ROUTINE.md`), not a goal. If the agent keeps improvising a step, move that step into the CLI.
 - Boring tech. Node 22 (the cloud environment's default; local may be newer), npm, strict TypeScript, ESM.
   Runtime dependencies are `zod`, `yaml`, `html-to-text`, and `nodemailer`; dev tooling is `typescript`,
   `vitest`, and type packages. No framework, no ORM, no native modules (they will not build in the sandbox).
-- Secrets only in environment variables. Never in `data/`, `config/`, fixtures, or logs. `ctx.http` redacts
-  `api_key` and tokens from anything it logs.
+- Secrets only in environment variables: `GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`
+  (SMTP's `SMTP_USER`/`SMTP_APP_PASSWORD` locally only), `HEALTHCHECKS_URL`, optional `SOCRATA_APP_TOKEN`.
+  Never in `data/`, `config/`, fixtures, or logs. `ctx.http` redacts `api_key` and tokens from anything it logs.
 - Sources are used within their terms. Public APIs and our own alert emails only. No scraping of BidNet,
   DemandStar, or any site whose terms forbid it. See `SPEC.md` section 9.
 

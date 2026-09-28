@@ -557,7 +557,7 @@ The failure that matters most is the one that produces no output at all, so aler
 
 ### 7.5 Secrets
 
-- `SMTP_USER`, `SMTP_APP_PASSWORD`: the dedicated Gmail account and its app password (revocable, per-app, not the account password). `GOOGLE_SERVICE_ACCOUNT_JSON`: the service account key, base64, with Sheets scope only; the sheet is shared with the service account's address. `SAM_API_KEY` (milestone 4), `SOCRATA_APP_TOKEN` (optional), `HEALTHCHECKS_URL`. All set on the routine's cloud environment. Prefer the environment's "API credential" mechanism for the SAM key, bound to `api.sam.gov`; the others are plain environment variables.
+- `GMAIL_CLIENT_ID`, `GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`: the OAuth client and refresh token for the dedicated Gmail account, used to send through the Gmail REST API; the refresh token is minted once with `propozaler gmail-auth` and never printed again. `SMTP_USER`, `SMTP_APP_PASSWORD` are set only when `transport: smtp` (local development; an app password, revocable, per-app, not the account password). `GOOGLE_SERVICE_ACCOUNT_JSON`: the service account key, base64, with Sheets scope only; the sheet is shared with the service account's address. `SAM_API_KEY` (milestone 4), `SOCRATA_APP_TOKEN` (optional), `HEALTHCHECKS_URL`. All set on the routine's cloud environment. Prefer the environment's "API credential" mechanism for the SAM key, bound to `api.sam.gov`; the others are plain environment variables. Network allowlist on the routine environment: `data.cityofnewyork.us`, `hc-ping.com`, `oauth2.googleapis.com`, `gmail.googleapis.com`.
 - Milestone 3: alert services are subscribed from the dedicated account, and the CLI reads them over IMAP with the same app password. The engineer's personal Gmail is never read or used to send.
 - Locally: `.env`, gitignored. `propozaler check-env` prints which names are set, never values.
 - Nothing under `data/` may contain a secret; `ctx.http` redacts `api_key` and tokens from logged URLs; the pre-commit step greps `data/` for `api_key=` and for the SMTP user.
@@ -642,6 +642,7 @@ Snooze; "changed after you ignored"; stability check; county and town page adapt
 2. Does SAM v2 accept a comma-separated `ptype` list? If not, four queries per run instead of one. Resolved in milestone 4.
 3. Actual SAM daily request ceiling for a non-federal personal key. Unknown until measured; the design assumes it could be as low as 10.
 4. Contract value floor and ceiling, bonding and insurance limits, and any set-asides we can or cannot claim. These belong in `criteria.md` and are blank until we know.
+5. Milestone 3 alert reading needs a Gmail read scope, which Google classifies as restricted; an unverified external OAuth app may be limited to test users with 7-day refresh tokens. Options: publish and verify, forward alerts into a Sheet via a Gmail filter plus Apps Script, or a Workspace account. Decide before milestone 3.
 
 ### Risks
 
@@ -654,7 +655,7 @@ Snooze; "changed after you ignored"; stability check; county and town page adapt
 - **Deadline.** Three and a half months for four milestones alongside the actual business. Mitigation: the deferred list in section 1, and milestone 3 explicitly ahead of SAM.
 - **Pre-filter recall.** Keyword nets miss unusual wording. Mitigation: the monthly random sample of `filtered_out`, and `wording_notes`.
 - **Score variance between runs.** Mitigation: thresholds are treated as soft; the labeled-set eval is re-run after every criteria or prompt change; the stability check is deferred past the go/no-go.
-- **Outbound SMTP and IMAP from the sandbox.** Unverified whether the cloud environment allows ports 465 and 993 to Gmail. Mitigation: it is the first thing milestone 1 step 7 tests; the Gmail connector on the dedicated account is the documented fallback for both directions.
+- **Outbound SMTP and IMAP from the sandbox.** Resolved 2026-09-27: both blocked; delivery moved to the Gmail REST API.
 - **Sheet as a feedback surface.** A mistyped or deleted row is lost feedback. Mitigation: the CLI owns its columns and re-appends missing rows from `digests.jsonl`; decisions are recorded in `feedback.jsonl` the first time they are read, so a later sheet edit cannot erase history.
 - **DST.** UTC cron shifts the local send time by an hour twice a year. Accepted.
 

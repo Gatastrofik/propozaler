@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260916034",
+  "source": "crol",
+  "source_id": "20260916034",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916034",
+  "title": "TAP-25: Threat Assessment Program",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": "2026-10-20T16:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-22",
+  "solicitation_number": "82626P0013",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This Request for Proposal (\u001aRFx) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www1.nyc.gov/site/mocs/systems/about-go-to-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN: 82626P0013 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their inquiry Submission Form: https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "7cf697ebec78e6bed959558fb02ab754ba242bd78731d5ca5a3a894cf3596082",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

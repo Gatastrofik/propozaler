@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260908026",
+  "source": "crol",
+  "source_id": "20260908026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908026",
+  "title": "Request for Expressions of Interest (\u001aRFEI\u001a) for permanent or temporary and seasonal implementation of programming, amenities, events, and development that will enhance Ocean Breeze Park, Staten Island",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-18",
+  "due_at": "2026-11-13T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-18",
+  "solicitation_number": "R149-EX-2026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jeremy Holmes",
+      "email": "jeremy.holmes@parks.nyc.gov",
+      "phone": "(212) 360-3455"
+    }
+  ],
+  "submit_to": "830 5th Avenue, New York, NY, 10065",
+  "attachments": [],
+  "description_text": "The New York City Department of Parks and Recreation (\u001aParks\u001a) is seeking responses to this Request for Expressions of Interest (\u001aRFEI\u001a) for permanent or temporary and seasonal implementation of programming, amenities, events, and development that will enhance Ocean Breeze Park, Staten Island.\n\nThere will be a recommended remote informational meeting on Tuesday, October 6, 2026, at 11:00am. If you are considering responding to this RFEI, please make every effort to attend this recommended remote proposer meeting. The link for this remote site meeting is as follows:\n\n \n\nLINK - https://teams.microsoft.com/meet/245334517183900?p=UPHYe0ZnAuLliDlnTg\n\nYou may also join the remote proposer meeting by phone using the following information:\n\nMeeting ID: 245 334 517 183 900\n\nPasscode: RS9SL2US\n\nPhone conference: +1 646-893-7101\n\nPhone conference ID: 921 860 453#\n\n \n\nSubject to availability and by appointment only, we may set up a meeting at the potential concession site, located in Ocean Breeze Park, Staten Island.\n\n \n\nAll proposals submitted in response to this RFEI must be submitted no later than Friday, November 13, 2026, at 3:00pm.\n\n \n\nHard copies of the RFEI can be obtained, at no cost, commencing on Friday, September 18, 2026, by contacting Jeremy Holmes, Deputy Director of Concession Compliance at (212) 360-3455 or at Jeremy.Holmes@parks.nyc.gov.\n\nThe RFEI is also available for download, commencing on September 18, 2026, to November 13, 2026, on the Parks\u001a website.  To download the RFEI, visit www.nyc.gov/parks/businessopportunities, click on the link for \u001aConcessions Opportunities at Parks\u001a and, after logging in, click on the download\u001a link that appears adjacent to the RFEI\u001as description.\n\nFor more information, prospective proposers may contact Jeremy Holmes, Deputy Director of Concession Compliance at (212) 360-3455 or at Jeremy.Holmes@parks.nyc.gov.\n\nDeaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user.\n\nAlternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "e941bdcd6c1ee700317bf8b542464160401e78d263110e1c7c5041e96d3c4235",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

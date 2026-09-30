@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260921006",
+  "source": "crol",
+  "source_id": "20260921006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921006",
+  "title": "Citywide Voice and Data (TWC/Spectrum) Renewal 2",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Information Technology and Telecommunications",
+  "agency_path": "City of New York > Information Technology and Telecommunications",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-25",
+  "solicitation_number": "85818P8211KXLR002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 96500000,
+  "contacts": [
+    {
+      "name": "Brett Meaney",
+      "email": "bmeaney@oti.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "a099b77ac51e1a519917bc6123eeb6eac43d8253df7f6bcd273334c18e03b783",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

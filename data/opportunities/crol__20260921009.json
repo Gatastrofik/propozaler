@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260921009",
+  "source": "crol",
+  "source_id": "20260921009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921009",
+  "title": "Transportation Services for the Visiting Psychiatric Service (VPS)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-25",
+  "solicitation_number": "06926W0048001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 250000,
+  "contacts": [
+    {
+      "name": "Andre Fredericks",
+      "email": "fredericksa@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The services provided shall include picking up and/or returning staff from any point in New York City\u001as five (5) boroughs. The City of New York Human Resources Administration General Support Services Office of Contracts and Budget Management 375 Pearl Street, 24th Floor, New York, NY 10038",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "288c215ad6ca834c2549f98d2bc6f2858866d0d0bb144755d50478c74a67d538",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

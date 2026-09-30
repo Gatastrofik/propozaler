@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260915016",
+  "source": "crol",
+  "source_id": "20260915016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260915016",
+  "title": "NYCEEC-2025 Clean Energy Economy Development Program and Property Assessed Clean Energy Program",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": "2026-10-06T09:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-22",
+  "solicitation_number": "82625N0004",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Environmental Protection is entering into a Negotiated Acquisition (NA) contract with New York City Energy Efficiency Corporation. This NA will allow the greenhouse gas reduction plans of the City, including without limitation the provision of cost-effective funding and financing to property owners in New York City for the installation of renewable energy systems and energy efficiency improvements, the development and aggregation of demand for such funding and financing and the promotion of innovative energy initiatives that deliver short- and long-term economic and environmental benefits to City residents. \n\nNew York City Emery Efficiency Corporation with consultations with the Mayor's Office of Sustainability will undertake a number of activities designed to develop a Clean Energy Economy Development Program and Property Assessed Clean Energy Program.\n\nThe contract term will be from 1/1/2027-12/31/2029. EPIN: 82625N0004\n\nVendors that are interested in expressing interest in similar procurrent in the future may contact Glorivee Roman at glroman@dep.nyc.gov",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "d51380d0e909421225598fcce39d16d84d23e3e84b42dba01ba61845ba051f73",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

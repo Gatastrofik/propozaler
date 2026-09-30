@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260922012",
+  "source": "crol",
+  "source_id": "20260922012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922012",
+  "title": "WTC Data Center and Clinical Center of Excellence",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-28",
+  "solicitation_number": "05726R0002001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Required/Authorized Source",
+  "set_aside": null,
+  "estimated_value": 5448234,
+  "contacts": [
+    {
+      "name": "Huiyun Tseng",
+      "email": "huiyun.tseng@fdny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Fire Department responded to a Request for Proposal from the United States Department of Health and Human Services, Centers for Disease Control and Prevention (\u001aCDC\u001a), National Institute for Occupational Safety and Health (\u001aNIOSH\u001a) and was awarded contract for the continued provision of WTC Related Health Care Services. In the approved proposals submitted to the CDC/NIOSH, Research Triangle Institute (RTI) has been identified as a subcontractor to provide Data Center and Clinical Center of Excellence services in support of FDNY's performance of the contract requirements. The proposals are in cooperated into the CDC's contract.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "05ca2770aca05bc2bdec463def51854f33bde1ba62f17b43351a293e5de0b46b",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

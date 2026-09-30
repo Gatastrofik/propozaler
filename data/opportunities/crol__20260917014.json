@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260917014",
+  "source": "crol",
+  "source_id": "20260917014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917014",
+  "title": "FastTrac® NewVenture",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-23",
+  "solicitation_number": "80126W0004001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 510000,
+  "contacts": [
+    {
+      "name": "Marielis Martinez",
+      "email": "mmartinez@sbs.nyc.gov",
+      "phone": "(801)"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Consultant will be responsible for planning, managing, and delivering FastTrac® NewVenture - a series of free multiple-session entrepreneurship bootcamps for entrepreneurs planning to launch a business in New York City. These services are designed to help new businesses navigate opening their business and the early stages of operations",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "e11725c25aca3f80fba979d173addedf16d40468fdbd132df9f5087fd28bd3dc",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

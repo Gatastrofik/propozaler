@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260916004",
+  "source": "crol",
+  "source_id": "20260916004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916004",
+  "title": "122 Community Center Facade Reconstruction (Landmark PQL)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "85026B0089001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 4474128,
+  "contacts": [
+    {
+      "name": "Higgins Alexander",
+      "email": "higginsal@ddc.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This project consists of façade work on two primary facades, reconstruct brownstone trim, window surrounds and band courses. On 1st Avenue, reconstruct entrance portico and slate roof, reset stone coping stones and flashing at parapet and plaza pavers at rooftop. Correct rusted steel lintel conditions and reset window mullion beauty caps. CB: Manhattan 3\n\nAs per PPB Rule 3-01 (d) Special Case (1)(i) Competitive sealed bidding from prequalified vendors, except as provided in Section 3-10 (a). Section 3-10 (a) reads: Except for procurements for construction, a procurement using a PQL shall be considered a 'special case' under these Rules.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "4d2506aa5b771118214f85486edc14fe1fe803ba5bc180e96dbf6add7b6fa93c",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

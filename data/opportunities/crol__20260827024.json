@@ -3,7 +3,7 @@
   "source": "crol",
   "source_id": "20260827024",
   "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827024",
-  "title": "85727B0020-2700009-VANS, PASSENGER - NYPD",
+  "title": "Bid Extension: 85727B0020-2700009-VANS, PASSENGER - NYPD",
   "notice_type": "solicitation",
   "notice_type_raw": "Solicitation",
   "agency": "Citywide Administrative Services",
@@ -15,7 +15,7 @@
     "zip": null
   },
   "posted_at": "2026-09-08",
-  "due_at": "2026-10-01T10:00:00-04:00",
+  "due_at": "2026-10-08T10:00:00-04:00",
   "due_at_source": "crol",
   "archive_at": "2026-09-08",
   "solicitation_number": "85727B0020",
@@ -25,15 +25,29 @@
   "selection_method": "Competitive Sealed Bids",
   "set_aside": null,
   "estimated_value": null,
-  "contacts": [],
-  "submit_to": null,
+  "contacts": [
+    {
+      "name": "Anne-Sherley Almonor",
+      "email": "aalmonor@dcas.nyc.gov",
+      "phone": "(212) 386-0419"
+    }
+  ],
+  "submit_to": "1 Centre Street, 18th Floor",
   "attachments": [],
   "description_text": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for the procurement VANS, PASSENGER - NYPD Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881 #United States, New York City. Phone conference ID: 148 484 881#\n\nBid opening Location - 1 Centre Street, New York, NY 10007",
-  "description_fetched_at": "2026-09-28T01:24:42.387Z",
-  "content_hash": "e64c639f97f27e433cd07561972bfbc67b2e9cc492a5d456dab06862ee70456e",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "7135aaa9cbf5acfc744bfb3b568307bd3e3d1e3ad857eaa8e38ebfefae81757e",
   "first_seen_at": "2026-09-28T01:24:42.387Z",
-  "last_seen_at": "2026-09-28T01:24:42.387Z",
-  "changes": [],
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [
+    {
+      "at": "2026-09-30T11:07:07.833Z",
+      "fields": [
+        "title",
+        "due_at"
+      ]
+    }
+  ],
   "duplicate_of": null,
   "prefilter": {
     "net_score": 2,

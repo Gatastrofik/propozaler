@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260917012",
+  "source": "crol",
+  "source_id": "20260917012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917012",
+  "title": "Essential Parenting Supports-Parenting Skills",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-23",
+  "solicitation_number": "06823P0006001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 1798403,
+  "contacts": [
+    {
+      "name": "Danielle Mendelsohn",
+      "email": "danielle.mendelsohn@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "ACS will renew this contract for three (3) years from October 1, 2026, through September 30, 2029. This renewal is critical in preventing disruption of services to our youth and families.  The terms & conditions will remain the same as per the underlying contract.\n\nSpecial Case Determination not required because procurement is for Client/Human Services and is the preferred method under PPB Rule 3-01(c).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "185568c7b88efd471abc0f8485fc484bacfb5437b9dc09080db668633beba377",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

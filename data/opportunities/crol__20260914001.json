@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260914001",
+  "source": "crol",
+  "source_id": "20260914001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260914001",
+  "title": "Elevator Repair 308 West 150 St, MN",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-18",
+  "due_at": "2026-10-16T13:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-18",
+  "solicitation_number": "80626B0051",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Brian  Saunders",
+      "email": "saunderb@hpd.nyc.gov",
+      "phone": "(212) 863-6590"
+    }
+  ],
+  "submit_to": "100 Gold Street, Room 6-M3, New York, NY 10038",
+  "attachments": [],
+  "description_text": "NYC Department of Housing Preservation & Development ('HPD') is responsible to install and repair Elevators to ensure essential services. HPD has neither sufficient staff with the requisite expertise, nor the equipment necessary to perform this type of work. Qualified bidders must have three years' experience performing this type of work.\n\nProspective bidders are encouraged to engage with this procurement, access solicitation documents and submit bids through PASSPort: http://www.nyc.gov/BusinessOpportunities (search for '308 West 150'). Delivery of original bid security may be required as instructed in PASSPort.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "1eba48920be141bdc665387004c69cb290de603139e319a6eba4204365f9a026",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

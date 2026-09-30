@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260921021",
+  "source": "crol",
+  "source_id": "20260921021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921021",
+  "title": "84127P0001-TD/CSS for Crocheron Park Pedestrian Bridge Over BCIP, Borough of Queens",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-28",
+  "due_at": "2026-11-06T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-28",
+  "solicitation_number": "84127P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The services to be procured is TD/CSS for Crocheron Park Pedestrian Bridge Over BCIP, Borough of Queens. This Procurement is subject to participation goals for Minority-Owned Business Enterprises (MBEs) as required by Section 6-129 of the New York Administrative Code. The M/WBE goal for this project is 30%. A Pre-Proposal Conference (Optional) has been scheduled for October 7, 2026, at 10:00 AM through Zoom. Proposers who wish to attend the Zoom Conference meeting can access by using the Zoom Link provided in the 'Prepare RFX' Section - SETUP Tab - Pre-Proposal/Pre-Bid Conference Section in PASSPort. This Request for Proposals (RFP) is released through PASSPort, New York City's online procurement portal. Responses to this RFP must be submitted via PASSPort. To access the RFP, vendors should visit the PASSPort public Portal at https://a0333-passportpublic.nyc.gov/rfx.html Read the DISCLAIMER and Click on LOG IN link provided within the DISCLAIMER instructions to respond to a Released solicitation (RFx), Log in to PASSPort, go to the RFx tab, and choose Browse My RFx Responses or Browse Public RFx to locate the RFx to which you are looking to respond. Enter the EPIN: 84127P0001 or Procurement Name in the keyword search to find the RFx. Then, click the pencil icon next to the procurement Name of the RFx you are interested in viewing.\n\nPre bid conference location -Pre-Proposal Conference Zoom Link: https://zoom.us/j/93568789400?pwd=zDEM93vRW6f88sJOURGUenvYw9WavK.1 Meeting ID: 935 6878 9400 Passcode: 588072 One tap mobile: +16465189805,,93568789400#,,,,*588072# US (, New York), +19292056099,,93568789400#,,,,*588072# US (New York) Mandatory: noDate/Time - 2026-10-07 10:00:00",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "6b8fb53d95c206246c9b0dedab623f3b3e92384cfa2262c92cc91438a52e5653",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

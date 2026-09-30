@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260923007",
+  "source": "crol",
+  "source_id": "20260923007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923007",
+  "title": "Promega Genetic Identity Products - OCME",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-29",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-29",
+  "solicitation_number": "81625S0018001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 3790185,
+  "contacts": [
+    {
+      "name": "Brian Lee",
+      "email": "blee@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "5-Year Sole Source Requirements Contract (with 2 Two-Year Renewal Options, to be exercised at the sole discretion of the City). The sponsoring Agency is the OCME - Forensic Biology Laboratory.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "cec284b10ea36faf9eca806ff2546f67e4b0e2f47183f23872efa4f59985e57a",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

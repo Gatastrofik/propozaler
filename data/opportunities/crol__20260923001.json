@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260923001",
+  "source": "crol",
+  "source_id": "20260923001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923001",
+  "title": "Community and Stakeholder Mapping within Priority Neighborhoods",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Campaign Finance Board",
+  "agency_path": "City of New York > Campaign Finance Board",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-29",
+  "due_at": "2026-10-30T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-29",
+  "solicitation_number": "004202700003",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Michele Archbald",
+      "email": "contracts@nyccfb.info",
+      "phone": "(212) 409-1800"
+    }
+  ],
+  "submit_to": "100 Church Street, 12th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The NYC Campaign Finance Board (CFB) is seeking an update to the vendor response due date from Wednesday, September 30 to Friday, October 30 for a vendor to provide services covering market researching, neighborhood surveying and community and stakeholder mapping within the agency\u001as identified priority neighborhoods to strengthen the agency\u001as voter, contributor, and candidate engagement strategies required to support the CFB\u001as Community Stakeholder Mapping project.\n\nThis procurement will be utilizing the M/WBE Noncompetitive Small Purchase method, in accordance with PPB Rule Section § 3-08(c)(1)(iv), and is open to businesses certified as NYC Minority- or Women-Owned Business Enterprises (M/WBEs) pursuant to New York City Charter Section 311 (i)(1).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "08a59eab0ee72a98d3d835b6ea138162fcd14086496d5475b7450379c75550d9",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

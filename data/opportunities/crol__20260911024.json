@@ -1,0 +1,54 @@
+{
+  "id": "crol:20260911024",
+  "source": "crol",
+  "source_id": "20260911024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911024",
+  "title": "Housing Asset Management System",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-18",
+  "due_at": "2026-09-28T18:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-18",
+  "solicitation_number": "80626N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(i)(C),(D) and (ii) of the Procurement Policy Board Rules, the Department of Housing Preservation and Development  (HPD) intends to enter into a Negotiated Acquisition contract with MRI Software LLC, a corporation having its principal office at 28925 Fountain Parkway, Solon, OH 44139. This contract is for the provision of access to Software as a Service portal to  Investment Central for all managed Properties; In conjunction with the SaaS Services, MRI shall collect routine data from property owners or representatives on behalf of HPD and a contingency amount to address any bug fix or changes needed.\n\nThe contract term is 07/1/2025 - 12/31/2025. The ePIN for this award is 80626N001 and the proposed budget is $220,170.  \n\nTHIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY. Vendors can express interest in responding to a future procurement to provide these services by sending such request via email to channang@hpd.nyc.gov\n\nThe application hosted and maintained by MRI is a central source of record for HPD Assets and needs to be accessible to the business stakeholders. Any interruption in the MRI services will disrupt HPD\u001as ability to view as well as update the Asset portfolios, collect annual submissions, perform business functions such as fulfilling reserve and data request, view compliance data, project information and history. Any Interruption in service will disrupt the Asset Management\u001as ability to view and update the Asset Management portfolio, collect annual submissions, perform business functions such as fulfilling reserve and data requests, view compliance related data, as well as project information and history.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "5b662d98301bed7fa76b84d3f49425cb1b618446c7e8a65f0df95f06067ad51f",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:SaaS",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260915019",
+  "source": "crol",
+  "source_id": "20260915019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260915019",
+  "title": "84627P0002-LiDAR Based Street Tree Inventory for New York City",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-21",
+  "due_at": "2026-10-20T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-21",
+  "solicitation_number": "84627P0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Agency is seeking an appropriately qualified vendor to use ground-based LiDAR equipment to scan trees located on the city's rights-of-way and use a machine learning-based data processing approach to produce a street tree inventory as well as 3D digital model of the city's trees. This Request for Bids is released through PASSPort, New York City\u001as online procurement portal. Responses to this CSB must be submitted via PASSPort. To access the CSB, vendors should visit the PASSPort public Portal at https://www1.nyc.gov/site/mocs/systems/about-go-to-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. Doing so will take one to the public portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN, 84627P0002, into the Keyword search field. In order to respond to the CSB, vendors must create an account within the PASSPort system if they have not already done so. The pre-bid conference meeting will be on August 14th, 2026 at 3:00 P.M. The bid opening date will be on August 21st, 2026 at 3:00 P.M. and will be accessible through a Microsoft TEAMS call. Please go to Passport and download the attached Bid Opening Information for the link to attend the meeting.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "e70f2187fc9971ac22809b9371514a8dcf271afe8e81f5d62ec215a15b80a0a9",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

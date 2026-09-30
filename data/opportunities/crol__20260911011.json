@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260911011",
+  "source": "crol",
+  "source_id": "20260911011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911011",
+  "title": "BWT-1578-GEN: Maintenance and Repair of Diesel Generators",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-17",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-17",
+  "solicitation_number": "82622B0021001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 548538,
+  "contacts": [
+    {
+      "name": "Andrey Hauron",
+      "email": "ahauron@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This contract is necessary in order to maintain the diesel generators at various DEP facilities. This contract will provide a mean of repairing generators on an immediate basis and, through preventive maintenance services, will ensure that the generators operate reliably and efficiently. Without the service and repair contract, the generators are vulnerable to unexpected breakdowns which will impact the daily operation of the facilities.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "bc7c3f5859815a450569857413411dceaa1d0afe7254078b4fecd5fa4960eab8",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

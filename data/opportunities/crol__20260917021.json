@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260917021",
+  "source": "crol",
+  "source_id": "20260917021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917021",
+  "title": "NYC H+H/Queens - Dialysis Space Construction",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-24",
+  "due_at": "2026-11-12T11:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-24",
+  "solicitation_number": "34202301_Queens Dial",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Youngbar, Elizabeth",
+      "email": "elizabeth.youngbar@nychhc.org",
+      "phone": "(646) 532-9731"
+    }
+  ],
+  "submit_to": "55 Water Street, 25th Floor, New York, NY 10041",
+  "attachments": [],
+  "description_text": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE\n\n34202301 \u001a Dialysis Space Construction / November 12, 2026 @ 11:00AM\n\n \n\n2. LOCATION\n\nNYC Health + Hospitals Queens: 82-68 164th St., Queens, NY 11432\n\n \n\n 3. MANDATORY PRE-BID MEETING INFORMATION\n\n \n\nOnly bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for:\n\n \n\n * Wednesday, September 30, 2026 at 10:00 A.M.\n * Thursday, October 1, 2026 at 10:00 A.M.\n\n \n\n * Location: NYC H+H Queens - Facilities Management Office, Conference Room F2-05\n\n \n\n * Late attendees will not be accommodated. Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays.\n\n \n\n4. REQUESTS FOR INFORMATION (RFI)\n\n \n\n * Technical questions must be submitted in writing by email no later than Thursday, October 8, 2026 by 5:00PM to elizabeth.youngbar@nychhc.org.\n\n \n\n5. ADDITIONAL INFORMATION\n\n \n\n * Insurance: All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted.\n\n \n\n * NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H.\n\n \n\n * Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\n * Bidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings.\n\n \n\n * MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "f8a7644fa90a93a6ae7d6a07f871b12ff130618f23bef0f5834dbbd4109dd039",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

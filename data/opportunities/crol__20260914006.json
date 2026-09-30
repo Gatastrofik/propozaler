@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260914006",
+  "source": "crol",
+  "source_id": "20260914006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260914006",
+  "title": "Block Pruning in Manhattan",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-18",
+  "solicitation_number": "84626B0064001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 4894095,
+  "contacts": [
+    {
+      "name": "Michael Sciaraffo",
+      "email": "michael.sciaraffo@parks.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The work to be performed under this contract includes furnishing all labor, materials, travel time, equipment, and all other work incidental thereto necessary or required to provide the complete pruning of street and parkland trees in the borough of Manhattan for the City of New York, for the City of New York Parks & Recreation (\u001aAgency\u001a).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "e0afcb66f2b06fdb3c5931348a7c451adaaf1e729fa9c41ada14b70db85136dc",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

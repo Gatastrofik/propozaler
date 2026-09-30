@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260915023",
+  "source": "crol",
+  "source_id": "20260915023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260915023",
+  "title": "Medical Equipment purchase for Bronx Animal Care Center and Veterinary Clinic",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "81627W0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 1422474,
+  "contacts": [
+    {
+      "name": "Damaris Sanders",
+      "email": "dsanders@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "bb4e6757d19f2b3be1345ed8debfa7c3386bfa9c97359bf07a3e91d29856c23e",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260917011",
+  "source": "crol",
+  "source_id": "20260917011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917011",
+  "title": "Anti-Ligature Furniture Accessories for ACS Detention Sites",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-23",
+  "solicitation_number": "06827O0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 62844,
+  "contacts": [
+    {
+      "name": "Joyce Caballero",
+      "email": "joyce.caballero@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "ACS is purchasing Anti-Ligature clothing hooks and half-dome mirrors for the Crossroads and Horizon Detention Sites. This procurement is being process as an OGS contract referencing NYS contract for Norix Group Inc #PC70249 (Award #23295, Group #20915 -Furniture, All types -Except Hospital Room and Patient Handling - Statewide).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "814a3b66de211f43aa22020281b46958333d2d77f4418583913bfd4084f9729c",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

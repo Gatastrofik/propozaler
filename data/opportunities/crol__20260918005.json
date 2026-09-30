@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260918005",
+  "source": "crol",
+  "source_id": "20260918005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260918005",
+  "title": "College of Staten Island-Campus-Wide Flood Mitigation",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "City University",
+  "agency_path": "City of New York > City University",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-25",
+  "due_at": "2026-12-18T23:59:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-25",
+  "solicitation_number": "CSI-CUCF-11-26",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Procurement Services",
+      "email": "proposals@cuny.edu",
+      "phone": "(646) 664-2700"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "For information on this Solicitation, please visit www.cuny.edu/cunybuilds.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "79a0bdf40c5d47d10382b87a84726c5824eb8ea9f92eddf36c2eb0395c7eaaf8",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

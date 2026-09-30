@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260916013",
+  "source": "crol",
+  "source_id": "20260916013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916013",
+  "title": "FY27 Beacon Program NAE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "26026N0030006",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 2871724,
+  "contacts": [
+    {
+      "name": "Keith Bunch",
+      "email": "kbunch@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "DYCD\u001as Beacon programs are collaborative, school-based community centers designed to provide quality services to youth and adults after school, in the evenings, and on weekends. The Beacons represent a unique convergence of youth and community development, through an integrated range of services, provided in an educational environment, and tailored to local needs.\n\nThe extension of these contracts is crucial to ensure continuity of services. The ACCO has determined that an extension of these services will be beneficial to the City since the same terms and conditions remain. In addition, the current contractors are familiar with Community Center Programming and have been performing satisfactory and above on their current contract(s).",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "72c37d005c536a9f3f8012dd7c3d069b356ff09927fe3efcb71a95856d1cf3d5",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

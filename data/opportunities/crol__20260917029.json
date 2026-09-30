@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260917029",
+  "source": "crol",
+  "source_id": "20260917029",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917029",
+  "title": "Umad Attenuators & Genuine Repair/Replacement Parts",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-24",
+  "due_at": "2026-10-06T14:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-24",
+  "solicitation_number": "84127Y0889",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kathy Cornwall-Wilson",
+      "email": "kcornwallwilson@dot.nyc.gov",
+      "phone": "(212) 839-9276"
+    }
+  ],
+  "submit_to": "55 Water Street, New York, NY 10044",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the New York City Department of Transportation (NYCDOT) intends to enter into sole source negotiations with Work Zone Equipment NY Inc for an agreement to purchase Umad replacement truck mounted safety attenuators and parts for a term of three (3) years with an option to renew for one (1) year.\nNYCDOT has determined that Work Zone Equipment NY Inc is the sole distributor and has exclusive right for Lindsay Road Safety products who is the sole provider of Umad replacement truck mounted safety attenuators and parts. Work Zone Equipment NY Inc. have exclusive rights to distribute for New york, New Jersey, Delaware and Connecticut. The products are proprietary to Lindsay Road Safety have given exclusive rights only to Work Zone for the New York area. No alternate source exists to provide these products.\n\nOn August 24, 2026, the ACCO\u001as office determined, in accordance with Section 3-05(b) of the Procurement Policy Board Rules, that Work Zone Equipment NY Inc, is the only entity authorized to distribute Umad replacement truck mounted safety attenuators and parts for Lindsay in NY, Therefore, Work Zone Equipment NY Inc is the sole source provider for these products.\nAny firm that believes it is qualified to provide these products is invited to do so5by responding to the RFI EPIN: 84127Y0889 in PASSPort no later than October 6, 2026, by 2:00 pm. Any questions should be directed to the authorized agency contact, Kathy Cornwall-Wilson (kcornwallwilson@dot.nyc.gov), at 212-839-9276.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "91d20229184b7d2e09d1eebcf62b3f58a68003949fe58eb30e6c82be0195f72c",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

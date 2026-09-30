@@ -3,7 +3,7 @@
   "source": "crol",
   "source_id": "20260904001",
   "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904001",
-  "title": "02201602-Cumberland IDF MDF Upgrade",
+  "title": "Correction: 02201602-Cumberland IDF MDF Upgrade",
   "notice_type": "solicitation",
   "notice_type_raw": "Solicitation",
   "agency": "NYC Health + Hospitals",
@@ -34,12 +34,20 @@
   ],
   "submit_to": "55 Water Street, OFD 25th Floor, New York, NY 10041",
   "attachments": [],
-  "description_text": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE\n\n    02201602 - IDF MDF UPGRADE\n\n2. LOCATION\n\n    NYC Health + Hospitals Gotham / Cumberland D&TC, 1100 North Portland Avenue, Brooklyn NY, 11205\n\n 3. MANDATORY PRE-BID MEETING INFORMATION\n\n -Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for:\n\n * Tuesday, September 22, 2026 at 10:00 A.M.\n * Wednesday, September 23, 2026 at 10:00 A.M. \n\n * Location: NYC H+H Cumberland D&TC, Annex building conference room\n\n \n\n * Late attendees will not be accommodated. Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays.\n\n \n\n4. REQUESTS FOR INFORMATION (RFI)\n\n * Technical questions must be submitted in writing by email no later than Wednesday, September 30, 2026 on or before 5:00PM to Janet.Olivra@nychhc.org\n\n5. ADDITIONAL INFORMATION\n\n * Insurance: All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted.\n\n * NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H.\n\n \n\n * Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\n \n\n * Bidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings.\n\n \n\n * MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-  "description_fetched_at": "2026-09-28T01:24:42.387Z",
-  "content_hash": "51284b65d13d398a0200e019f9309d6fa129b0287a9587c8b8c32de5c6fff2df",
+  "description_text": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE\n\n    02201602 - IDF MDF UPGRADE\n\n2. LOCATION\n\n    NYC Health + Hospitals Gotham / Cumberland D&TC, 100 North Portland Avenue, Brooklyn NY, 11205\n\n 3. MANDATORY PRE-BID MEETING INFORMATION\n\n -Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for:\n\n * Tuesday, September 22, 2026 at 10:00 A.M.\n * Wednesday, September 23, 2026 at 10:00 A.M. \n\n * Location: NYC H+H Cumberland D&TC, Annex building conference room\n\n \n\n * Late attendees will not be accommodated. Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays.\n\n \n\n4. REQUESTS FOR INFORMATION (RFI)\n\n * Technical questions must be submitted in writing by email no later than Wednesday, September 30, 2026 on or before 5:00PM to Janet.Olivra@nychhc.org\n\n5. ADDITIONAL INFORMATION\n\n * Insurance: All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted.\n\n * NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H.\n\n \n\n * Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\n \n\n * Bidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings.\n\n \n\n * MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "7acdec866389112dc4d4700bf18095dd364d6900b26e66952200511a03bb75b6",
   "first_seen_at": "2026-09-28T01:24:42.387Z",
-  "last_seen_at": "2026-09-28T01:24:42.387Z",
-  "changes": [],
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [
+    {
+      "at": "2026-09-30T11:07:07.833Z",
+      "fields": [
+        "title",
+        "description_text"
+      ]
+    }
+  ],
   "duplicate_of": null,
   "prefilter": {
     "net_score": 2,

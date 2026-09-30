@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260922014",
+  "source": "crol",
+  "source_id": "20260922014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922014",
+  "title": "Computer equipment and telephone line communication systems",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-28",
+  "solicitation_number": "81626W0052001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 466916,
+  "contacts": [
+    {
+      "name": "Charisse Jones",
+      "email": "cjones18@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Including setup, configuration, and training for the equipment systems for the New Bronx Animal Care Center.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "e3249acf8f67e299b93f641f34313ad41b2fd52e07df7d872a75dae59b99470c",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260917008",
+  "source": "crol",
+  "source_id": "20260917008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917008",
+  "title": "NAHRO Subscription",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-23",
+  "solicitation_number": "80626U0003001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 125000,
+  "contacts": [
+    {
+      "name": "Naadhira Ali",
+      "email": "alin@hpd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NAHRO shall provide HPD with the full range of services available to its member organizations, including but not limited to: discounts on all NAHRO training products, certification exams and conferences, access to members only free webinars on the latest housing and community development topics, subscriptions to members only updates, emails and publications, access to participate in NAHRO awards and scholarship programs, and access to industry job board.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "a3199328ad8e6936942a82c795909eeb7d6cf6f0691d62f55da352e9e327c2f1",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:subscription",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

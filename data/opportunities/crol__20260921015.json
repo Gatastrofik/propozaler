@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260921015",
+  "source": "crol",
+  "source_id": "20260921015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921015",
+  "title": "82625B0045-BWT-BB-236 Replacement of the Cyclone Degritters and Grit Washers at the Bowery Bay WWTP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-28",
+  "due_at": "2026-10-28T10:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-28",
+  "solicitation_number": "82625B0045",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Replacement of the Cyclone Degritters and Grit Washers at the Bowery Bay Wastewater Treatment Plant. This Competitive Sealed Bid (\u001aRFx\u001a) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82625B0045 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov.\n\nBid opening Location - Microsoft TEAMSPre bid conference location -Microsoft TEAMS Mandatory: noDate/Time - 2026-10-05 10:00:00",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "a2d01cd7c598037a51db29279f386f77f2c11bad73acf95fc95b97c8dac7177a",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

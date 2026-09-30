@@ -3,7 +3,7 @@
   "source": "crol",
   "source_id": "20260901026",
   "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901026",
-  "title": "RFP 523138 - Construction Management Services",
+  "title": "Correction: RFP 523138 - Construction Management Services",
   "notice_type": "solicitation",
   "notice_type_raw": "Solicitation",
   "agency": "Housing Authority",
@@ -34,12 +34,20 @@
   ],
   "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
   "attachments": [],
-  "description_text": "Requirements Contract for RFP 523138 Construction Management Services. No Bid Security Required.\n\nThe Term of this Contract is five (5) years, with the option to extend, at NYCHA's sole discretion, for an additional five (5) year period.\n\nA non-mandatory Proposers\u001a conference (\u001aProposers\u001a Conference\u001a) will be hosted online via Microsoft Teams on September 09, 2026, at 10:00 A.M.  Although attendance is not mandatory at the Proposers\u001a Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: \n\nMicrosoft Teams meeting\n\nJoin on your computer, mobile app or room device \nOption 1: Copy and paste the below into your browser.\nhttps://teams.microsoft.com/meet/233854122354428?p=3hRHYXG9ZylbFS0sVb\n\nOption 2: call in (audio only)\n+1 646-838-1534,,689396785# United States, New York City \nPhone conference ID: 689 396 785#\n\nOption 3: Access the attached document \u001aTEAMS Meeting Link RFP 523138 and click on the embedded link to join.\n\nPlease note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason.\n\nPrior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.",
-  "description_fetched_at": "2026-09-28T01:24:42.387Z",
-  "content_hash": "5332e90dd15f4a8cf4b7ff2bcb94fe3333cdc4016b5ba5f6099750d05f01b7bb",
+  "description_text": "Requirements Contract for RFP 523138 Construction Management Services. No Bid Security Required.\n\nThe Term of this Contract is five (5) years, with the option to extend, at NYCHA's sole discretion, for an additional five (5) year period.\n\nA non-mandatory Proposers\u001a conference (\u001aProposers\u001a Conference\u001a) will be hosted online via Microsoft Teams on September 23, 2026, at 10:00 A.M.  Although attendance is not mandatory at the Proposers\u001a Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: \n\nMicrosoft Teams meeting\n\nJoin on your computer, mobile app or room device \nOption 1: Copy and paste the below into your browser.\nhttps://teams.microsoft.com/meet/233854122354428?p=3hRHYXG9ZylbFS0sVb\n\nOption 2: call in (audio only)\n+1 646-838-1534,,689396785# United States, New York City \nPhone conference ID: 689 396 785#\n\nOption 3: Access the attached document \u001aTEAMS Meeting Link RFP 523138 and click on the embedded link to join.\n\nPlease note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason.\n\nPrior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "ea547c9878096d3284d6a0022c003626b2da67065ee2213fe3df752671ccb261",
   "first_seen_at": "2026-09-28T01:24:42.387Z",
-  "last_seen_at": "2026-09-28T01:24:42.387Z",
-  "changes": [],
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [
+    {
+      "at": "2026-09-30T11:07:07.833Z",
+      "fields": [
+        "title",
+        "description_text"
+      ]
+    }
+  ],
   "duplicate_of": null,
   "prefilter": {
     "net_score": 2,

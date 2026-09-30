@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260916014",
+  "source": "crol",
+  "source_id": "20260916014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916014",
+  "title": "Written Translation Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "06925P0015001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": 3210500,
+  "contacts": [
+    {
+      "name": "Thomas_HRA Tsang",
+      "email": "tsangtho@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Human Resources Administration, and the Department of Homeless Services (DSS/HRA/DHS) prefers to communicate in a language other than English. To ensure that Agency written notices, compliance requests, brochures and informational materials are accessible to our diverse client population, the Agency is seeking to procure written translation servicesTo provide written translation services for HRA and DHS clients.\n\nA Special Case Determination is not required since the preference to procure Human Services is through Competitive Sealed Proposals pursuant to PPB Rule Section 3-01(c); judgment is necessary in evaluating proposals to ensure appropriateness of vendor selection to render client services.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "d7cfa4b1ffea92e3cd8f33c3388c99e7a2ec2954d86956ccc51b7ecb799ffecf",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

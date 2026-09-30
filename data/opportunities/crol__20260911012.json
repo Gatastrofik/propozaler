@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260911012",
+  "source": "crol",
+  "source_id": "20260911012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911012",
+  "title": "COMPASS Programs in Public Schools - Elementary",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-17",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-17",
+  "solicitation_number": "26026P0003004",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 24543983,
+  "contacts": [
+    {
+      "name": "Keith Bunch",
+      "email": "kbunch@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Brooklyn 3, Brooklyn 5 - Elementary School\n\nDYCD has determined that Competitive Sealed Bidding is neither practicable nor advantageous to the City because this procurement necessitates the exercise of judgment in evaluating competing proposals and requires a balancing of price, quality, and programmatic factors to achieve the best outcomes. COMPASS programs are a critical part of the City\u001as effort to support working families by providing free, high-quality afterschool and summer childcare services. They offer a wide range of enrichment activities that help students in Kindergarten through Grade 8 develop academically, socially, and emotionally, both in and out of the classroom. Given the complex nature of this work requiring cultural competency, deep community engagement, and tailored programming to meet the diverse needs of NYC youth a proposal-based evaluation is essential. This approach allows DYCD to select providers not only based on cost, but also on their demonstrated experience, organizational capacity, staffing approach, and commitment to equitable service delivery. Therefore, the use of an RFP, rather than Competitive Sealed Bidding, is the most appropriate method to ensure the highest quality of services are delivered in alignment with the City\u001as goals for youth development and family support.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "c3e42e8c27968f613ef6efba709eec5d5f2f2d8b041cc41e751814513cd6acab",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

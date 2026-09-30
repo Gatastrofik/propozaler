@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260915020",
+  "source": "crol",
+  "source_id": "20260915020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260915020",
+  "title": "NON-EXCLUSIVE USE OF CITY-OWNED TRADEMARKS ON MERCHANDISE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "NYCCO-2025-11",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 22000,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NYC Tourism + Conventions, Inc., on behalf of the New York City Department of Small Business Services (\u001aSBS\u001a), has awarded a Sole Source License Agreement (\u001aLicense\u001a), pursuant to Section 1-16 of the Concession Rules of the City of New York, to Chapter 4 Corp. d/b/a Supreme (\u001aLicensee\u001a), whose address is 62 King Street, 3rd Floor, New York, NY 10014, for the non-exclusive use of City-owned trademarks on merchandise. The Agreement shall commence January 1, 2026, and continue through December 31, 2028, unless sooner terminated pursuant to the terms and conditions of the License.\n\nDuring the initial term, Licensee shall pay to NYC Tourism + Conventions a royalty equal to six percent (6%) of Net Sales when sold at Retail, as well as a one-time guaranteed minimum royalty of twenty-two thousand dollars ($22,000), payable on or before December 31, 2028.\n\nThe City, in its sole discretion, shall have the option to renew the License Agreement on substantially the same terms and conditions for a period of two (2) additional years, from January 1, 2029 through December 31, 2030.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "57655371830db94ad278eebbd47065ebbcfacda123b751c9087849d8f24ac9a0",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

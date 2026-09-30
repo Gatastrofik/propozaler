@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260916007",
+  "source": "crol",
+  "source_id": "20260916007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916007",
+  "title": "PAYMENT AGENT VOUCHER INDIVIDUAL TRAINING GRANT",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "80126X8001KXLR001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 15629298,
+  "contacts": [
+    {
+      "name": "Dolly Del Rosario",
+      "email": "drosario@sbs.nyc.gov",
+      "phone": "(212) 513-6321"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The contractor acts as the payment agent to disburse Training and Trainee Voucher payments authorized by SBS to approved training providers and individual customers for its Individual Training Grants, Trade Adjustment Assistance Act, Trainee vouchers and Community Hiring Program, the pay agent will process 1099's to each eligible trainee.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "3479b78c516b625d63cba6380b4846bf210d635a7ad75d655ff3b2f179a6f070",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

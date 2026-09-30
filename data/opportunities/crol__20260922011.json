@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260922011",
+  "source": "crol",
+  "source_id": "20260922011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922011",
+  "title": "DSS-XEROX Nuvera MICR 100 & 144 Printers Service",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-28",
+  "solicitation_number": "06926S0006001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 185346,
+  "contacts": [
+    {
+      "name": "Michael Russell",
+      "email": "russellmich@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to PPB Rule 3-05(b), Xerox Nuvera MICR 100 & 144 Printers 3 & 5 are part of the group of production printers at DSS. These printers help with the printing needs that includes mandated mailing of various checks including Public Assistance, Adult Protection Services (APS), Foster Care and Methadone Maintenance Treatment Program (MMTP). ITS is requesting the maintenance for MICR machines because they are being utilized for the printing of MICR line on the checks and is expected to be on a certain guaranteed quality that is pre-approved by the banks. It is therefore very imperative that these printers are being serviced and maintained efficiently so that we do not have to manually program these machines in order to complete any printing task, this reduces the risk of error because of the necessary parameters (e.g., page imposition, page ordering and trimming) and these are set automatically when a job enters the workflow. It also maximizes productivity by enabling prints to be output to stack carts at full rates print speed and is also cost effective without the need for multiple, dedicated in-line finishing devices.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "5b878700d454ec9958c9478b03ba179582569ca49adddd3036b731d0834739aa",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

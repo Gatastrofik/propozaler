@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260923014",
+  "source": "crol",
+  "source_id": "20260923014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923014",
+  "title": "Technical Assistance Services for Literacy Support",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-29",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-29",
+  "solicitation_number": "26023P0007005R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 1711779,
+  "contacts": [
+    {
+      "name": "Anne Broomfield",
+      "email": "abroomfield@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "DYCD's capacity-building and technical assistance programs support DYCD\u001as contracted providers in the areas of Organization Development, Fiscal Management, Strength-Based Approaches to Service Delivery, Career Development, Developing a Safe and Supportive Environment, Adult Literacy Support, Mental Health Support and Case Management to enhance program services. These services have been determined to be of high need to support our contracted providers and the work they do for the City of New York.\n\nJudgment is required in evaluating competing proposals, and it is in the best interest of the City to require a balancing of price, quality and other factors to ensure the City is getting the best value.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "6e1c9b79112b31afa971aae36ef6dc32a8b16ffccb716e636f743155e33083dd",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

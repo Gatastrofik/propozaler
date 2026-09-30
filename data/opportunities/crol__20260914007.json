@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260914007",
+  "source": "crol",
+  "source_id": "20260914007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260914007",
+  "title": "NYC Parks Certified Playground Safety Inspector Certification (CPSI) Training in Flushing, NY",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-18",
+  "solicitation_number": "84627U0002001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 26730,
+  "contacts": [
+    {
+      "name": "Abdullah Zaman",
+      "email": "abdullah.zaman@parks.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "28ae466aea67894563d017bb7641065154cc0075adc5cd9d260fa079891ed4be",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

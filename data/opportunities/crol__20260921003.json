@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260921003",
+  "source": "crol",
+  "source_id": "20260921003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921003",
+  "title": "Legal Recruitment & Talent Sourcing for KCDA's Housing Justice Unit",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - Kings County",
+  "agency_path": "City of New York > District Attorney - Kings County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-25",
+  "due_at": "2026-09-25T23:59:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-25",
+  "solicitation_number": "9032027460194",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Christina Samedy",
+      "email": "samedyc@brooklynda.org",
+      "phone": "(718) 250-3025"
+    }
+  ],
+  "submit_to": "350 Jay Street, 10th Floor, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "County District Attorney\u001as Office (KCDA) intends to enter into negotiations for an agreement with Robert Half, Inc. KCDA seeks to retain Robert Half International, Inc. for the purpose of sourcing talent, screening, and referring potential candidates for the Deed Fraud Investigations and Prosecutions Unit. There is a compelling need for the services. The agency anticipates increased reporting, investigations, and prosecution in response to the Housing Justice initiative launched by the office, as well as coordination with the Mayor\u001as Office of Deed Theft Prevention. Additional staff with expertise in tenants\u001a rights, Deed fraud, and property law will be required to manage the workload. Other vendors that can provide these services are invited to submit an Expression of Interest.\n\nA compelling need for goods and services that cannot be met in a timely manner through the use of the CSB or CSP method.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "ef3c25cbb6bde7307f0fdb2dc47f411d3ea680333a01c684733ef0f199ff277a",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

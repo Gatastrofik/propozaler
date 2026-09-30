@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260915037",
+  "source": "crol",
+  "source_id": "20260915037",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260915037",
+  "title": "Prevention Services - Family Support - BK6",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-22",
+  "solicitation_number": "06820P8219KXLR001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 5732741,
+  "contacts": [
+    {
+      "name": "Allyson Grossman",
+      "email": "allyson.grossman@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "ACS will renew this contract for three (3) years from July 1, 2023, through June 30, 2026. This renewal is critical in preventing disruption of services to our youth. The terms & conditions will remain the same as per the underlying contract.",
+  "description_fetched_at": "2026-09-30T11:07:07.833Z",
+  "content_hash": "795e71051c4085b01307dca39560acc256521933392ef7d7681737838113412e",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

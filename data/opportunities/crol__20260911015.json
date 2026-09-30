@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260911015",
+  "source": "crol",
+  "source_id": "20260911015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911015",
+  "title": "BWT Goodyear Flexdock Hose 7030043X",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-17",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-17",
+  "solicitation_number": "82627W0009001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 112976,
+  "contacts": [
+    {
+      "name": "Noah Shieh",
+      "email": "noahs@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "449de417ddaf656d3da6d51b083bf5dfce8cf95dd48a130886ea206cf5fca9a4",
+  "first_seen_at": "2026-09-30T11:07:07.833Z",
+  "last_seen_at": "2026-09-30T11:07:07.833Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

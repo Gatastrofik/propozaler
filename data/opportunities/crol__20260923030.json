@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260923030",
+  "source": "crol",
+  "source_id": "20260923030",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923030",
+  "title": "VPS, VPS/TCPIP, DRS Software Maintenance and Support Renewal",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Financial Information Services Agency",
+  "agency_path": "City of New York > Financial Information Services Agency",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": "2026-10-02T09:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-30",
+  "solicitation_number": "127FY2700024",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Petroy Pryce",
+      "email": "ppryce@fisa-opa.nyc.gov",
+      "phone": "(212) 857-1123"
+    }
+  ],
+  "submit_to": "5 Manhattan West, 4th Floor, New York, NY 10001",
+  "attachments": [],
+  "description_text": "Pursuant to Section 4-04 of the Procurement Policy Board Rules (PPB), the Financial Information Services Agency (FISA) and Office of Payroll Administration (OPA) intends to exercise its renewal option for a Sole Source agreement with Levi, Ray and Shoup, Inc. for the contract term 01/01/2027 - 12/31/2029.",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "4b4139be08d64689e41499197389a56c4561eb839283baaf9d1747f5bf0db01e",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

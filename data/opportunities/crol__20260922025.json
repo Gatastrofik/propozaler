@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260922025",
+  "source": "crol",
+  "source_id": "20260922025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922025",
+  "title": "Truck Wrapping Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Public Library - Queens",
+  "agency_path": "City of New York > Public Library - Queens",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": "2026-10-22T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-30",
+  "solicitation_number": "0926-1",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "William R. Funk",
+      "email": "rfpcontact@queenslibrary.org",
+      "phone": "(718) 990-0782"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "The Queens Borough Public Library (the \u001aLibrary\u001a), hereby solicits proposals from experienced and qualified firms and individuals (hereinafter referred to as \u001aProposers\u001a) in response to this Request for Proposals for Truck Wrapping Services.\n\nTo facilitate communication between the Library and Proposers and to ensure that all Proposers have access to the same information, all information concerning this RFP, including how to submit a proposal, will be posted on the Library\u001as website at: https://www.queenslibrary.org/about-us/procurement-opportunities . All questions regarding this RFP must be submitted as set forth in the RFP. The Library will post questions and responses on the website.\n\nWe look forward to your interest and participation in this RFP.",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "7f9fd170304226f18a66525f9632aef877e2cdf79dfe0382b6f7abe6023de63a",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

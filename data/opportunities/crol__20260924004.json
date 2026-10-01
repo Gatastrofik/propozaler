@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260924004",
+  "source": "crol",
+  "source_id": "20260924004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924004",
+  "title": "Xerox printer rental",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "District Attorney - New York County",
+  "agency_path": "City of New York > District Attorney - New York County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-30",
+  "solicitation_number": "20271801001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 208787.04,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "75a8703f60c82e73c921565d9a2976b3263f783e280888ea95bc11fa87d27eaf",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

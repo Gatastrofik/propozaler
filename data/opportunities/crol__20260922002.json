@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260922002",
+  "source": "crol",
+  "source_id": "20260922002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922002",
+  "title": "NexGen Stenography Writers",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - New York County",
+  "agency_path": "City of New York > District Attorney - New York County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": "2026-10-09T12:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-30",
+  "solicitation_number": "PIN# 20271500010",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tracey M Robinson",
+      "email": "itbidsrfps@dany.nyc.gov",
+      "phone": "(212) 335-3910"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "The New York County District Attorney's Office (DANY) intends to enter into a Sole Source agreement with Stenograph pursuant to PPB Rule 3-05 for 20 NexGen writers for a term of one year plus two options to renew for one year each. Stenograph is the sole provider of the stenograph machines.  Any company, besides Stenograph, that believes it can also provide this product is invited to do so. Submissions are accepted via email by the due date to ITbidsRFPS@dany.nyc.gov.",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "dd1ae715c5b8875b313564af066df41fdedbd79ac479ad2e26415fb13ea31bcd",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

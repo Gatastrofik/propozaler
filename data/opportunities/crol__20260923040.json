@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260923040",
+  "source": "crol",
+  "source_id": "20260923040",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923040",
+  "title": "Bronx NAQE- Catholic Charities- Construction Site Safety Training",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": "2026-10-09T21:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-30",
+  "solicitation_number": "80127N0011",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a Negotiated Acquisition Extension Contract with Catholic Charities Community Services Archdiocese of NY, to provide site safety training in the borough of the Bronx. Local Law 196 (2017) establishes Site Safety Training requirements for workers at most construction sites in the City of New York. Local Law 196 also requires that an agency designated by the Mayor will develop a program to provide equal access to the training required by Section 3321 of the New York City Building Code. The New York City Department of Small Business Services (SBS) has been designated to provide such a training program and to ensure that these essential safety standards are in place to protect the lives of construction workers and the public consistent with the requirements outlined in the local law. The contract term will be from 7/1/2026 to 6/30/2027, in the amount of $347,034.00\n\nVendors interested in responding to this or other future solicitations for these types of services should contact Marielis Martinez at procurementhelpdesk@sbs.nyc.gov.\n\nThe services required under this contract are required to maintain the level of services required to be provided to construction site safety day laborer individuals until a new solicitation can be released and a new contract awarded",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "c8fdf02d85bd0c3d703a1ecf97c0970218c7d2b82d7ed67d90b824eb082ac5da",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260923039",
+  "source": "crol",
+  "source_id": "20260923039",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923039",
+  "title": "Men\u001as Wellness Initiative",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-30",
+  "solicitation_number": "26025W0024001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 54700,
+  "contacts": [
+    {
+      "name": "Kevin Best",
+      "email": "kbest@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To coordinate and implement citywide efforts aimed at reducing disparities related to the Social Determinants of Health (SDH) for African American and Latino males ages 14\u001a24. The initiative\u001aThe Men\u001as Wellness Initiative\u001awill focus on promoting mental health, increasing access to healthcare services, and fostering overall well-being among young men and their families throughout New York City. Contracts awarded under this method may not exceed $1,500,000.00, inclusive of any and all change orders, overruns, amendments, renewals and extensions.",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "041c7ec0e022531ed37b2f1165fef6733f02501491966237fbd180cf5d298d3d",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

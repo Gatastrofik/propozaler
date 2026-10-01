@@ -3,7 +3,7 @@
   "source": "crol",
   "source_id": "20260909021",
   "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909021",
-  "title": "SMPD Materials Plumbing Supplies such as pipes, elbows etc.",
+  "title": "Bid Extension: SMPD Materials Plumbing Supplies such as pipes, elbows etc.",
   "notice_type": "solicitation",
   "notice_type_raw": "Solicitation",
   "agency": "Housing Authority",
@@ -15,7 +15,7 @@
     "zip": null
   },
   "posted_at": "2026-09-17",
-  "due_at": "2026-09-30T12:00:00-04:00",
+  "due_at": "2026-10-08T12:00:00-04:00",
   "due_at_source": "crol",
   "archive_at": "2026-09-17",
   "solicitation_number": "528362",
@@ -35,11 +35,19 @@
   "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
   "attachments": [],
   "description_text": "The New York City Housing Authority (\u001aNYCHA\u001a), Supply Management and Procurement Department (\u001aSMPD\u001a), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMPD_Materials_Plumbing Supplies such as pipes, elbows etc. at various developments located in all five (5) boroughs of New York City.\n\nThe materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528362 Interested vendors are invited to obtain a copy of the opportunity at NYCHA\u001as website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on \u001aiSupplier Vendor Registration/Login\u001a link.\n\n(1) If you have an iSupplier account, then click on the \u001aLogin for registered vendors\u001a link and sign into your iSupplier account\n\n \n\n(2) If you do not have an iSupplier account you can Request an account by clicking on \u001aNew suppliers register in iSupplier\u001a to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option \u001aSourcing Supplier\u001a, then choose \u001aSourcing\u001a, then choose \u001aSourcing Homepage\u001a; and conduct a search in the \u001aSearch Open Negotiations\u001a box for RFQ Number 528362\n\nFor all inquiries regarding the scope of materials, please contact Magdalena Lucero by e-mail: Magdalena.Lucero@nycha.nyc.gov",
-  "description_fetched_at": "2026-09-30T11:07:07.833Z",
-  "content_hash": "e144c585f8bdd660d366992a2ef45176f882cc88f21ee1ce67a85f99eed2dbc5",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "1c7499e69759e4cf3792609fe49a75006ce16b7fd7798137bc9f38e84e0a5a75",
   "first_seen_at": "2026-09-30T11:07:07.833Z",
-  "last_seen_at": "2026-09-30T11:07:07.833Z",
-  "changes": [],
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [
+    {
+      "at": "2026-10-01T11:06:55.678Z",
+      "fields": [
+        "title",
+        "due_at"
+      ]
+    }
+  ],
   "duplicate_of": null,
   "prefilter": {
     "net_score": 2,

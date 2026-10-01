@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260924008",
+  "source": "crol",
+  "source_id": "20260924008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924008",
+  "title": "CITYWIDE CABLING SERVICES CONTRACT RENEWAL #2",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Information Technology and Telecommunications",
+  "agency_path": "City of New York > Information Technology and Telecommunications",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-09-30",
+  "solicitation_number": "85823X8001KXLR002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 42000000,
+  "contacts": [
+    {
+      "name": "Nikita Podlednov",
+      "email": "npodlednov@oti.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "f049ef6340277cb9fb971f83d411d46546df47e1aac4ef248681c7bdc0e5f2f3",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

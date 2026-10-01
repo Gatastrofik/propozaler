@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260922033",
+  "source": "crol",
+  "source_id": "20260922033",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922033",
+  "title": "GRYPS-DEMO: DEP Contractor Payments Process Improvement and Automation Program",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-09-30",
+  "due_at": "2026-10-14T16:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-09-30",
+  "solicitation_number": "82627D0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Demonstration Project",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jeanne Schreiber",
+      "email": "jschreiber@dep.nyc.gov",
+      "phone": "(718) 595-3456"
+    }
+  ],
+  "submit_to": "59-17 Junction Blvd, Flushing, NY 11373",
+  "attachments": [],
+  "description_text": "DEP intends to enter into a Demonstration agreement with the Gryps Inc. for contract GRYPS-DEMO: DEP Contractor Payments Process Improvement and Automation Program project to test and evaluate the feasibility of an approach to making contractor payments in a timely fashion, from bureau review to audit to payment, without resorting to increasing headcount, as invoices submitted to DEP increases year on year. The demonstration project will allow for the Agency to test and evaluate AI review capability processing approximately 2,400 invoices annually across capital and expense categories;  a realtime cashflow and encumbrance dashboard;  structured subcontractor approval workflow replacing manual email and spreadsheet coordination; and forward-deployed engineering support, ongoing agent training, and full platform management. The results of the demonstration project shall be documented and made publicly available upon its conclusion. Any firm which believes it can also provide the required service is invited to so indicate by email, which must be received no later than October 14, 2026 4pm, to Jeanne Schreiber at jschreiber@dep.nyc.gov.",
+  "description_fetched_at": "2026-10-01T11:06:55.678Z",
+  "content_hash": "97254471b5ddaa22839a04b9ff00827e0af9a4e85df3e8e101e4b4015b005ab3",
+  "first_seen_at": "2026-10-01T11:06:55.678Z",
+  "last_seen_at": "2026-10-01T11:06:55.678Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:platform",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260925010",
+  "source": "crol",
+  "source_id": "20260925010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260925010",
+  "title": "26SSEIT22001-Subscription of 3 Consumer Data Statara Licenses",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-01",
+  "solicitation_number": "06927W0004001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 99495,
+  "contacts": [
+    {
+      "name": "Michael Russell",
+      "email": "russellmich@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Statara consumer dataset provides information on over 5.5 million adult New Yorkers. This serves as a single data source that provides far broader coverage than PEU can get from various partner agency sources. Having this broad coverage is critical during emergencies and also helps PEU reach New Yorkers who have fewer existing touchpoints with the City. Without the consumer file in question, PEU\u001as efforts to reach out to underserved New Yorkers, especially during and after emergencies, will be greatly impaired. This procurement is therefore necessary for continuation of critical agency functions, a Mayoral Priority, and directly related to public health and safety. An annual license for a consumer detail analytics file install, including updated and refreshed cell phone contact data available for NYC to house in your internal analytics database. This will include NYC residents that may be overlooked on traditional publicly available and privately sourced data sets. An annual license for consumer details to house inside of your separately licensed CRM database.",
+  "description_fetched_at": "2026-10-02T11:07:11.140Z",
+  "content_hash": "6de7a6e835afa6bd79ee90c8f629bd4baf3bfcaa946c85d16aab13a51be7eedc",
+  "first_seen_at": "2026-10-02T11:07:11.140Z",
+  "last_seen_at": "2026-10-02T11:07:11.140Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:subscription",
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

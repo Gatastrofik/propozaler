@@ -1,0 +1,53 @@
+{
+  "id": "crol:20260925014",
+  "source": "crol",
+  "source_id": "20260925014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260925014",
+  "title": "Manhattan-NAQE-NYCOSH Construction Site Safety Training",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-01",
+  "due_at": "2026-10-09T20:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-01",
+  "solicitation_number": "80127N0009",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a Negotiated Acquisition Extension Contract with New York Committee for Occupational Safety and Health Inc to provide site safety training in the borough of Manhattan. Local Law 196 (2017) establishes Site Safety Training requirements for workers at most construction sites in the City of New York. Local Law 196 also requires that an agency designated by the Mayor will develop a program to provide equal access to the training required by Section 3321 of the New York City Building Code. The New York City Department of Small Business Services (SBS) has been designated to provide such a training program and to ensure that these essential safety standards are in place to protect the lives of construction workers and the public consistent with the requirements outlined in the local law. The contract term will be from 7/1/2026 to 6/30/2027, in the amount of $344,203.00\n\nThe services required under this contract are required to maintain the level of services required to be provided to construction site safety day laborer individuals until a new solicitation can be released and a new contract awarded.\n\nVendors interested in responding to this or other future solicitations for these types of services should contact Marielis Martinez at procurementhelpdesk@sbs.nyc.gov",
+  "description_fetched_at": "2026-10-02T11:07:11.140Z",
+  "content_hash": "b1a6990dc6089022632442be3730c61391cf325272b9a037a5d8800a5dd1d591",
+  "first_seen_at": "2026-10-02T11:07:11.140Z",
+  "last_seen_at": "2026-10-02T11:07:11.140Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

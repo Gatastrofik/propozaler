@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260925007",
+  "source": "crol",
+  "source_id": "20260925007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260925007",
+  "title": "BEPA Sustainability AMWA Membership 7060216X",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-01",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-01",
+  "solicitation_number": "82627U0004001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 47800,
+  "contacts": [
+    {
+      "name": "Noah Shieh",
+      "email": "noahs@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "43f8af75254bcb2ea8dca97fe825f919d4a3ef8f9defcc45cbc225c2cfe222ed",
+  "first_seen_at": "2026-10-02T11:07:11.140Z",
+  "last_seen_at": "2026-10-02T11:07:11.140Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

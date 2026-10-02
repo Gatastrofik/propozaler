@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260924014",
+  "source": "crol",
+  "source_id": "20260924014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924014",
+  "title": "Medical Malpractice Defense Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-01",
+  "due_at": "2026-11-02T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-01",
+  "solicitation_number": "2872",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Raffaella Glasser",
+      "email": "rfp_contacts@nychhc.org",
+      "phone": "(646) 815-3747"
+    }
+  ],
+  "submit_to": "50 Water Street, 5th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "NYC Health + Hospitals seeks to obtain proposals from law firms that specialize in the defense of medical malpractice claims. The successfully awarded firms will defend NYC Health + Hospitals and its medical staff in high exposure medical malpractice claims.  Defense counsel may also be assigned to represent physicians insured by NYC Health + Hospitals' captive insurance company, the HHC Insurance Company (HHCIC) and its medical staff in regulatory matters.  Defense counsel is also expected to provide legal assistance concerning NYC Health + Hospitals Risk Management and Quality Assurance programs, be available to consult on regulatory matters, assist hospital risk managers and conduct in-service lectures.\n\n \n\nNYC Health + Hospitals will award two types of contracts:\n \n\n(1) major defense firm contracts will be assigned a high volume of matters from the initial filing of the Notice of Claim through final disposition, including trial;\n \n\n(2) contracts will also be awarded to specialty firms with exceptional legal expertise in a particular area of trial practice, medical malpractice, health care law, insurance, or similar area.  Such firms will be assigned matters on an as needed basis. \n\n \n\nLaw firms participating in the RFP may ask to be considered in one or both categories",
+  "description_fetched_at": "2026-10-02T11:07:11.140Z",
+  "content_hash": "9709ae3f8d49ddb070fedfc345d185f75edf2ac7f5edd650e7ce92903d0f44f0",
+  "first_seen_at": "2026-10-02T11:07:11.140Z",
+  "last_seen_at": "2026-10-02T11:07:11.140Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

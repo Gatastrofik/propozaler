@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260924018",
+  "source": "crol",
+  "source_id": "20260924018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924018",
+  "title": "IDIQ General Plumbing Services at Various NYCHA Developments Citywide with Borough Focus (BX, BK, MN, AND QSI)",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-02",
+  "due_at": "2026-11-05T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-02",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Nicole Domino",
+      "email": "construction.procurement@nycha.nyc.gov",
+      "phone": "(212) 306-4505"
+    }
+  ],
+  "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Scope of Work: Plumbing Services\n\nContract Term: 3 years from the award date on NYCHA\u001as Purchase Order.  NYCHA, in its sole discretion, shall have the option to extend the Term of this Contract for up to two one-year extensions.\n\nBid Security: 100% of the Contract Minimum. Payment & Performance Bonds: 100% of the Contract Minimum.\n\nLabor Law 220i Public Work Registration Certificate/Certification: Pursuant to Article 8, Section 220-i of the New York State Labor Law. The Bidder and each subcontractor must be registered with the New York State Department of Labor. See https://dol.ny.gov/contractor-and-subcontractor-landing.  \n \nPre-Qualification List (PQL): To be considered for award, bidders must be approved on NYCHA\u001as PLUMBING SERVICES PQL prior to the bid closing date. Vendors not included on the approved PQL list may apply for consideration no less than 15 days prior to the RFQ close date.  For additional information on PQL applications, please refer to https://www1.nyc.gov/site/nycha/business/nycha-pql.pag  \n\nSection 3 REO & OEO plans: Section 3 REO & OEO Plans must be submitted via eComply, https://nycha.ecomply.us/. Do not include Section 3 within bid submission via iSupplier. For eComply log-in assistance contact eComply Tech support, support@ecomplysolutions.com. For Section 3 submissions assistance contact NYCHA\u001as SMP Vendor Support team at eComply.support@nycha.nyc.gov. \n\nPre-Bid Conference: \nA non-mandatory, but strongly recommended, MS Teams Pre-bid Conference will be held on Thursday, October 8, 2026 @ 11 a.m.\n\nTo attend the Pre-Bid Conference either:\n\n1. Access via the following Teams Meeting Link:\n\nhttps://teams.microsoft.com/meet/276507669231228?p=Zqf2Uj4o6LNthl4YH8\n\nMeeting ID: 276 507 669 231 228        Passcode: ad3rc7DV\n\n2. Dial in by calling +1 646-838-1534 Meeting ID: 278 022 381#\n\nRFQ Question Submission Deadline: Tuesday, October 13, 2026 at 11am\n\nPlease send your questions regarding this RFQ to construction.procurement@nycha.nyc.gov (include RFQ number in subject field) prior to the Question Deadline.\n\nQuestion & Answer Release Date: Tuesday, October 20, 2026 \n\nPrior to submitting a bid, confirm the bid response includes all required forms and documentation and that all are properly completed, signed, and notarized, where applicable. It is the bidder\u001as sole responsibility to complete and submit its bid via iSupplier to the corresponding RFQ prior the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. \n\nOnly electronic bids submitted online via iSupplier will be accepted. For assistance regarding iSupplier please email NYCHA Procurement at procurement@nycha.nyc.gov. \n\nPlease note that if NYCHA receives no responses to this RFQ, the bid submission deadline shall be automatically extended for seven (7) days. This does not limit NYCHA's right to extend the bid deadline for any other reason. \n\nCurrent Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier.  The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule.\n\nInterested vendors are invited to obtain a copy of the opportunity at NYCHA\u001as website by going to http://www.nyc.gov/nychabusiness. On the left side, click on \u001aiSupplier Vendor Registration/Login\u001a link. (1) If you have an iSupplier account, then click on the \u001aLogin for registered vendors\u001a link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on \u001aNew suppliers register in iSupplier\u001a to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option \u001aSourcing Supplier\u001a, then choose \u001aSourcing\u001a, then choose Sourcing Homepage\u001a; and conduct a search in the \u001aSearch Open Negotiations\u001a box for RFQ Number(s) 528385, 528386, 528387 and 528388. Note: NYCHA only accepts electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at construction.procurement@nycha.nyc.gov for assistance.",
+  "description_fetched_at": "2026-10-03T11:06:56.465Z",
+  "content_hash": "99e0f294828a997cbeab96570a6c3467cd8ae9d2c48d03a086d8c2b4e900a250",
+  "first_seen_at": "2026-10-03T11:06:56.465Z",
+  "last_seen_at": "2026-10-03T11:06:56.465Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

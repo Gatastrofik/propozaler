@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260928012",
+  "source": "crol",
+  "source_id": "20260928012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928012",
+  "title": "FY27 MANHATTAN INDUSTRIAL BUSINESS ZONE NEGOTIATED ACQUISITION EXTENSION CONTRACT - NEXT STREET FINANCIAL , LLC",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-02",
+  "due_at": "2026-10-16T19:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-02",
+  "solicitation_number": "80127N0002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a Negotiated Acquisition Extension Contract with Next Street Financial LLC, to continue Industrial Business Zone services in Manhattan to reinforce the City\u001as efforts to support the industrial and manufacturing sector by responding to current and evolving needs while providing the conditions and resources to enable the sector to further grow and advance. The contract term will be from 7/1/2026 to 6/30/2027, in the amount of $130,000.00. EPIN: 80127N0002.\n\nThe negotiated acquisition extension will allow the agency adequate time to release a new solicitation for this program and enable the current IBSP provider to continue to deliver a suite of business services.\n\nVendors interested in responding to this or other future solicitations for these types of services should contact Dolly Del Rosario at procurementhelpdesk@sbs.nyc.gov.",
+  "description_fetched_at": "2026-10-03T11:06:56.465Z",
+  "content_hash": "67dde4797422fb1d52b08b1c1ac312bff5126988e6ba98a1917387b1c72a424d",
+  "first_seen_at": "2026-10-03T11:06:56.465Z",
+  "last_seen_at": "2026-10-03T11:06:56.465Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

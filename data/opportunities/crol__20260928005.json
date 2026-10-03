@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260928005",
+  "source": "crol",
+  "source_id": "20260928005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928005",
+  "title": "DOP FY27-28 AIM Program Contract with USA",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-02",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-02",
+  "solicitation_number": "78126N0017001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 1083500,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board (PPB) Rules, the Department of Probation (DOP) is requesting approval to extend the existing contract with Union Settlement Association, Inc., (USA) through a Negotiated Acquisition Extension (NAE) to support the continuation of services under the Advocate, Intervene, Mentor (AIM) Program. The contract term is from July 1, 2026 to June 30, 2028 for an amount of $1,083,500.26 for this period. \n\nThe AIM Program is an Alternative to Placement (ATP) intervention designed for high-risk, justice-involved youth on probation. The program provides intensive, community-based mentoring through a one-on-one model that pairs participants with paid advocate-mentors who are available around the clock and serve as consistent, trusted supports. Advocate-mentors are credible messengers with strong ties to the communities served and lived experience that enables effective engagement with participants. Over an approximately six- to nine-month, court-mandated period, youth receive individualized support focused on improving decision-making, strengthening family and community connections, and reducing further justice system involvement. DOP is working to provide these services with Good Shepherd Services, Urban Youth Alliance International., Union Settlement Association, Inc., Justice Innovation, Inc., Community Mediation Services, Inc.,\n\nPursuant to Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, DOP intends to extend the subject contract for twenty-four (24) months via the negotiated acquisition extension procurement method. Extending this contract for additional time will prevent a disruption of these critical & mandated services. The RFP is anticipated to be released Late Spring 2027.",
+  "description_fetched_at": "2026-10-03T11:06:56.465Z",
+  "content_hash": "86f77c6ad8023ad29c2433acd48406500ce094eafd50026fdca96f28fa6e10e5",
+  "first_seen_at": "2026-10-03T11:06:56.465Z",
+  "last_seen_at": "2026-10-03T11:06:56.465Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260928010",
+  "source": "crol",
+  "source_id": "20260928010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928010",
+  "title": "FY27 NYC Business Solution Center Upper Manhattan / Washington Heights - Negotiated Acquisition Extension",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-02",
+  "due_at": "2026-10-16T19:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-02",
+  "solicitation_number": "80127N0005",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The NYC Department of Small Business Services is entering into a Negotiated Acquisition Extension contract with Harlem Commonwealth Council Inc to provide outcome focused services and assistance to small businesses and entrepreneurs including but not limited to recruitment, training, financing, business courses, legal advising, navigating government, M/WBE Certification, Business Incentives, and selling to government. This will allow the agency to extend the current contract with the existing vendor to continue to support businesses and entrepreneurs in Upper Manhattan and Washington Heights. The term will be 7/1/2026 to 6/30/2027, in the amount of $793,006.00. EPIN: 80127N0005.\n\nVendors interested in responding to future solicitations for these types of services should contact Dolly Del Rosario at procurementhelpdesk@sbs.nyc.gov.",
+  "description_fetched_at": "2026-10-03T11:06:56.465Z",
+  "content_hash": "adb4583ebd5fa76e56f113487b8e5d64011ec82ee2b46156c73e0cca6e741062",
+  "first_seen_at": "2026-10-03T11:06:56.465Z",
+  "last_seen_at": "2026-10-03T11:06:56.465Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260921012",
+  "source": "crol",
+  "source_id": "20260921012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921012",
+  "title": "Coney Island Cyclone roller coaster and Coney Island Parachute Jump RFP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-02",
+  "due_at": "2026-11-13T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-02",
+  "solicitation_number": "B368-O-2026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Andrew  Coppola",
+      "email": "andrew.coppola@parks.nyc.gov",
+      "phone": "(212) 360-3454"
+    }
+  ],
+  "submit_to": "830 Fifth Avenue, Room 407, New York, NY 10065",
+  "attachments": [],
+  "description_text": "In accordance with Section 1-13 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation (\u001aParks\u001a) is issuing, as of the date of this notice, a significant Request for Proposals (\u001aRFP\u001a) for the renovation, operation & maintenance of the Coney Island Cyclone roller coaster and the management and maintenance of the Coney Island Parachute Jump, in Coney Island, Brooklyn.\n\nThere will be a recommended remote proposer meeting on Friday, October 9, 2026 at 1:00pm. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting.\n\nMicrosoft Teams meeting Join on your computer, mobile app or room device: https://teams.microsoft.com/meet/232210368477101?p=g7WCLL6noXl4oeapAI\nMeeting ID: 232 210 368 477 101\nPasscode: fD2Sn7dB\nOr call in (audio only)\n+1 646-893-7101,,7354639# United States, New York City\nPhone Conference ID: 735 463 9#\n\nSubject to availability and by appointment only, we may set up a meeting at the proposed concession site, (Block #8697 & Lot #4) (\u001aLicensed Premises\u001a), at Surf Avenue and West 10th Street, Brooklyn.\n\nAll proposals submitted in response to this RFP must be submitted no later than Friday, November 13, 2026 at 3:00 pm.\n\nHard copies of the RFP can be obtained at no cost, by contacting Andrew Coppola, Deputy Director of Concessions at (212) 360-3454 or at Andrew.Coppola@parks.nyc.gov, commencing Friday, October 2, 2026 through Friday, November 13, 2026, between the hours of 9:00 a.m. and 5:00 p.m., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065.\n\nThe RFP is also available for download, Friday, October 2, 2026 through Friday, November 13, 2026, on Parks\u001a website. To download the RFP, visit \nhttp://www.nyc.gov/parks/businessopportunities and click on the \u001aConcessions Opportunities at Parks\u001a link. Once you have logged in, click on the \u001adownload\u001a link that appears adjacent to the RFP\u001as description.\n\nFor more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Andrew Coppola, Deputy Director of Concessions at (212) 360-3454 or at Andrew.Coppola@parks.nyc.gov. Deaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user. Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+  "description_fetched_at": "2026-10-03T11:06:56.465Z",
+  "content_hash": "cc7d41d141e941793a40551a55f2769b0669bc307a38ee60df6fb142ec2e1758",
+  "first_seen_at": "2026-10-03T11:06:56.465Z",
+  "last_seen_at": "2026-10-03T11:06:56.465Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

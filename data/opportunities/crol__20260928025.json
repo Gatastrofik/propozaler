@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260928025",
+  "source": "crol",
+  "source_id": "20260928025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928025",
+  "title": "NOTICE OF INTENT \u001a PRE-EMPLOYMENT PSYCHOLOGICAL EXAMINATION SERVICES",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-05",
+  "due_at": "2026-10-16T17:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-05",
+  "solicitation_number": "78127N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Probation (\u001aDOP\u001a) intends to enter into a Negotiated Acquisition with Institute for Forensic Psychology (\u001aIFP\u001a) for the provision of specialized pre-employment psychological examination and evaluation services for Probation Officer candidates.\n\nThe anticipated contract term is July 1, 2025 through September 30, 2026, with a total not-to-exceed amount of $110,350.00.\n\nDOP is utilizing the Negotiated Acquisition method pursuant to PPB Rule § 3-04(b)(2)(i)(D) due to a time-sensitive and compelling need for these specialized services that could not timely be met through competitive sealed bidding or competitive sealed proposals. DOP requires continued access to qualified psychological professionals with specialized experience conducting law-enforcement and public-safety suitability assessments in order to timely evaluate Probation Officer candidates and support agency staffing and operations.\n\nOrganizations that believe they are qualified to provide the same or similar services may express interest in this procurement, or in future solicitations for these services, by contacting Chairon Jeffrey, Deputy ACCO, at CJeffrey@probation.nyc.gov.\n\nDOP is seeking to enter into negotiations with the **Institute for Forensic Psychology (IFP)** pursuant to Section **3-04(b)(2)(i)(D)** of the Procurement Policy Board Rules. DOP has an immediate and ongoing need to recruit and appoint qualified Probation Officers to maintain adequate staffing and effectively manage agency caseloads. As part of the hiring process, Probation Officer candidates must undergo specialized pre-employment psychological examinations to assess their suitability for law-enforcement and public-safety responsibilities. DOP requires a provider with demonstrated knowledge of psychological standards applicable to law-enforcement personnel, experience conducting public-safety suitability assessments, and the capacity to timely evaluate incoming candidates. IFP has previously provided these services to DOP and has experience providing comparable psychological clearance services to the NYPD and other law-enforcement jurisdictions. Given the specialized nature of the services and DOP\u001as time-sensitive need to evaluate candidates and maintain adequate staffing, DOP has determined that these services cannot be timely met through competitive sealed bidding or competitive sealed proposals.",
+  "description_fetched_at": "2026-10-06T11:07:05.651Z",
+  "content_hash": "6966ee1e9d30118d024e85ad798e3c17a0b8226813297c9f74168e16fe74a111",
+  "first_seen_at": "2026-10-06T11:07:05.651Z",
+  "last_seen_at": "2026-10-06T11:07:05.651Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

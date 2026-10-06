@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260929006",
+  "source": "crol",
+  "source_id": "20260929006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929006",
+  "title": "DOP FY27-28 AIM Program Contract with UYAI",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-05",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-05",
+  "solicitation_number": "78126N0018001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 2068000,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board (PPB) Rules, the New York City Department of Probation (DOP) has extended its contract with Urban Youth Alliance International, Inc. (UYAI) through a Negotiated Acquisition Extension (NAE) for continued services under the Advocate, Intervene, Mentor (AIM) Program. The contract term is July 1, 2026 through June 30, 2028, in the amount of $2,068,000.00.\n\nThe AIM Program is an Alternative to Placement (ATP) intervention for high-risk, justice-involved youth on probation. AIM provides intensive, community-based, one-on-one mentoring through paid advocate-mentors who serve as consistent supports to participants. Services focus on improving decision-making, strengthening family and community connections, and reducing further justice system involvement.\n\nPursuant to Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, DOP intends to extend the subject contract for twenty-four (24) months via the negotiated acquisition extension procurement method. Extending this contract for additional time will prevent a disruption of these critical & mandated services. The RFP is anticipated to be released Late Spring 2027.",
+  "description_fetched_at": "2026-10-06T11:07:05.651Z",
+  "content_hash": "1b182add3f6b9dfb6606f0f33e6e7ef3d3be4e816a722969f319c87c49bf779c",
+  "first_seen_at": "2026-10-06T11:07:05.651Z",
+  "last_seen_at": "2026-10-06T11:07:05.651Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

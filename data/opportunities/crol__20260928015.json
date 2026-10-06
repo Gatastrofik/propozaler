@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260928015",
+  "source": "crol",
+  "source_id": "20260928015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928015",
+  "title": "Brooklyn Navy Yard Building 203 Boiler Plant and Building 365 Substation & Boiler Projects",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Brooklyn Navy Yard Development Corp.",
+  "agency_path": "City of New York > Brooklyn Navy Yard Development Corp.",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-05",
+  "due_at": "2026-12-04T12:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-05",
+  "solicitation_number": "000351",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "David Magdich",
+      "email": "bid@bnydc.org",
+      "phone": "(718) 907-5900"
+    }
+  ],
+  "submit_to": "Building 77, 141 Flushing Avenue, Suite 801, Brooklyn, NY 11205",
+  "attachments": [],
+  "description_text": "Bid documents will be available as of October 7th, 2026. Link: BNYDC website https://brooklynnavyyard.org/contract-opportunities\n\nA Mandatory pre-bid conference will be held at 8:30 AM on Tuesday, October 20th, at the Brooklyn Navy Yard Offices, 141 Flushing Avenue, Building 77, Suite 801, Brooklyn, NY 11205. Failure to attend will result in disqualification. Anyone wishing to submit a bid must attend the meeting. All attendees must R.S.V.P. using the pre-registration link available in the bid documents. Contact David Magdich via email at bid@bnydc.org with any questions regarding this conference and site visit.",
+  "description_fetched_at": "2026-10-06T11:07:05.651Z",
+  "content_hash": "c841303195f253ccac732e0f4beea349919f076796db777721e958ae6f0f1a66",
+  "first_seen_at": "2026-10-06T11:07:05.651Z",
+  "last_seen_at": "2026-10-06T11:07:05.651Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

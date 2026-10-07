@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260930009",
+  "source": "crol",
+  "source_id": "20260930009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930009",
+  "title": "NDA Healthy Families NAQ",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-06",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-06",
+  "solicitation_number": "26026N0035002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 276578,
+  "contacts": [
+    {
+      "name": "Renise Ferguson",
+      "email": "referguson@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Youth and Community Development (DYCD), as the designated Community Action Agency for New York City, administers the federal Community Services Block Grant (CSBG) program to combat poverty and provide services that empower low-income individuals and families to achieve self-sufficiency. To maximize the impact of CSBG funding, DYCD targets funds to low-income neighborhoods designated as Neighborhood Development Areas (NDAs). The NDA Initiative promotes community-level engagement to ensure that services address the most pressing needs within each community. Programs use a strength-based approach, partnering with participants to build upon existing assets and capacities to achieve personal and community goals. Given the specialized nature of these services and the need for continuity and responsiveness to local community conditions, DYCD seeks approval to use the Negotiated Acquisition method in accordance with PPB Rule §3-04(b)(2)(i)(D). This approach allows the agency to negotiate directly with qualified community-based organizations (CBOs) that have demonstrated experience, trust, and engagement within their respective NDAs.\n\nThe continuation of these programs are critical to combat poverty and provide services that empower low-income individuals and families to achieve self-sufficiency. DYCD is in the process of completing its solicitation for COMPASS and once that RFP has been approved and awarded, DYCD will work on the RFP for Neighborhood Development Area programs. DYCD will negotiate with providers with records of satisfactory performance on City contracts of similar scope and nature.",
+  "description_fetched_at": "2026-10-07T11:07:25.740Z",
+  "content_hash": "5b6d2bad6e741483fa6822329b38c39051c8d3a193f6ab350945468b442aa922",
+  "first_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

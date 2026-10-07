@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260929027",
+  "source": "crol",
+  "source_id": "20260929027",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929027",
+  "title": "Gender Affirming Care",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-06",
+  "due_at": "2026-10-16T18:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-06",
+  "solicitation_number": "81627N0004",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tamala Watson",
+      "email": "twatson2@health.nyc.gov",
+      "phone": "(347) 396-6230"
+    }
+  ],
+  "submit_to": "42-09 28th Street,17th Floor, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": "Pursuant to PPB Rule 3-04(b)(2)(i)(D), the NYC Health Department intends to process a Negotiated Acquisition solicitation as there is a compelling need for gender-affirming care services that cannot be met timely by competitive sealed proposals. NYC Health will contract with organizations providing or facilitating the provision of gender-affirming care to patients under age 18. This includes the prescription and administration of puberty-blockers and hormone replacement therapy to all minor patients for whom such services are medically necessary based on the prevailing standards of care. Services will be performed by qualified medical providers with current New York State licensure, and will be provided consistent with state laws governing parental consent. \n\nThe proposed contract term for each contract is three (3) years, with a proposed start date of February 01, 2027 to June 30, 2029, with one three-year option to renew. The total estimated procurement value?is $8,879,218.00.\n\nNYC Health identified two potential vendors with which to negotiate: Callen-Lorde and Nonprofit Organization for Philanthropic Initiatives (NOPI). Vendors who believe they may be able to provide these services are invited to submit an expression of interest via email by 2:00 pm on 10/16/2026 to Tamala Watson at twatson2@health.nyc.gov. Be sure to include EPIN 81627N0004 in your message.",
+  "description_fetched_at": "2026-10-07T11:07:25.740Z",
+  "content_hash": "22cfacb5d490b934555aec2b3fec1009a6440a9a67519b9047c89adea932f7f1",
+  "first_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

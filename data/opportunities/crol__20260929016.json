@@ -1,0 +1,52 @@
+{
+  "id": "crol:20260929016",
+  "source": "crol",
+  "source_id": "20260929016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929016",
+  "title": "82627B0018-BPS-HELIMNT: SERVICE, REPAIR AND MAINTENANCE OF AGUSTAWESTLAND A119 AND A119MKLL HELICOPTERS",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-06",
+  "due_at": "2026-10-27T10:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-06",
+  "solicitation_number": "82627B0018",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "For New York City\u001as Department of Environmental Protection, Bureau of Police and Security, Aviation Unit. This Competitive Sealed Bid (\u001aRFx') is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0018 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8\n\nPre bid conference location -Microsoft Teams Meeting To join via Microsoft TEAMS video, please go to PASSPort RFx Documents and download \u001aNotice to Bidders (E-Bidding)\u001a for information.Date/Time - 2026-10-13 10:00:00",
+  "description_fetched_at": "2026-10-07T11:07:25.740Z",
+  "content_hash": "3de37df3d9318c9873d008892b0423da78f6521e270acc9bd412fad367a27928",
+  "first_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

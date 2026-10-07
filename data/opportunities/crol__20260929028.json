@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260929028",
+  "source": "crol",
+  "source_id": "20260929028",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929028",
+  "title": "BMC Control-M Software and Managed Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Finance",
+  "agency_path": "City of New York > Finance",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-06",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-06",
+  "solicitation_number": "83627W0002001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 345486,
+  "contacts": [
+    {
+      "name": "Deon Rampersaud",
+      "email": "rampersaudd@finance.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "608504b321f3b45c29477087e3c79d04768f7b6d70c9118a8336eb01e75d29c1",
+  "first_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

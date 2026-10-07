@@ -1,0 +1,57 @@
+{
+  "id": "crol:20260929026",
+  "source": "crol",
+  "source_id": "20260929026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929026",
+  "title": "Unarmed Guard Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administrative Trials and Hearings",
+  "agency_path": "City of New York > Administrative Trials and Hearings",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-06",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-06",
+  "solicitation_number": "82026W0012001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 948119,
+  "contacts": [
+    {
+      "name": "Stela Tartari",
+      "email": "startari@oath.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Term: 6/1/2026-5/31/2029",
+  "description_fetched_at": "2026-10-07T11:07:25.740Z",
+  "content_hash": "c72dc94c039d3f281ddd428a50e81a425c8855af23b481cf6e6a4462f3897ce6",
+  "first_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

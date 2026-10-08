@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260930019",
+  "source": "crol",
+  "source_id": "20260930019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930019",
+  "title": "Strategic Planning Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Teachers' Retirement System",
+  "agency_path": "City of New York > Teachers' Retirement System",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-07",
+  "due_at": "2026-12-09T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-07",
+  "solicitation_number": "2145",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tariq Wahdat",
+      "email": "twahdat@trs.nyc.ny.us",
+      "phone": "(212) 612-5969"
+    }
+  ],
+  "submit_to": "55 Water Street, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The Teachers\u001a Retirement System of the City of New York (TRS) is seeking a qualified consultant to develop a practical strategic plan for the next three to five years. The consultant will work with TRS leadership and key stakeholders to assess organizational needs, establish priorities, and define measurable goals to improve member service and operational effectiveness.",
+  "description_fetched_at": "2026-10-08T11:07:24.709Z",
+  "content_hash": "ec2ed8c39b348baa1c6786a2b90860b76f67b39089305745c6b9d8cda8720fef",
+  "first_seen_at": "2026-10-08T11:07:24.709Z",
+  "last_seen_at": "2026-10-08T11:07:24.709Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

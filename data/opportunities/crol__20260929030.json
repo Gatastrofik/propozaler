@@ -1,0 +1,58 @@
+{
+  "id": "crol:20260929030",
+  "source": "crol",
+  "source_id": "20260929030",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929030",
+  "title": "NYSID_ Landscaping Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-07",
+  "due_at": "2026-10-14T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-07",
+  "solicitation_number": "07126R0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Required Method (including Preferred Source)",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Olga Komarova",
+      "email": "komarovao@dss.nyc.gov",
+      "phone": "(929) 221-6367"
+    }
+  ],
+  "submit_to": "150 Greenwich Street, 37th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Pursuant to PPB Rule 1.02(d)(1), the NYC Department of Homeless Services (DHS) intends to enter into a three-year contract with the New York State Industries for the Disabled, Inc. (NYSID/AHRC). NYSID/AHRC is a Preferred Source vendor. This contract is for NYSID to provide grounds keeping and lawn maintenance services at the DHS' shelter facilities citywide. Proposed contract term is 4/01/2027 - 3/31/2030 with a two-year renewal option. Approval for the proposed contract is granted by NYS Office of General Services.",
+  "description_fetched_at": "2026-10-08T11:07:24.709Z",
+  "content_hash": "bc9023a2e33c00ebd8ebbaf141d76be875dc238525338ddb67021e5e8b85e9df",
+  "first_seen_at": "2026-10-08T11:07:24.709Z",
+  "last_seen_at": "2026-10-08T11:07:24.709Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

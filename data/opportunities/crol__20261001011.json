@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261001011",
+  "source": "crol",
+  "source_id": "20261001011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001011",
+  "title": "DOP FY27-28 AIM Program Contract with GSS",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-07",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-07",
+  "solicitation_number": "78126N0014001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 2145204,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board (PPB) Rules, the Department of Probation (DOP) is requesting approval to extend the existing contract with Good Shepherd Services, (GSS) through a Negotiated Acquisition Extension (NAE) to support the continuation of services under the Advocate, Intervene, Mentor (AIM) Program. The contract term is from July 1, 2026 to June 30, 2028 in the amount of 2,145,203.52 for this period. \n\nThe AIM Program is an Alternative to Placement (ATP) intervention designed for high-risk, justice-involved youth on probation. The program provides intensive, community-based mentoring through a one-on-one model that pairs participants with paid advocate-mentors who are available around the clock and serve as consistent, trusted supports. Advocate-mentors are credible messengers with strong ties to the communities served and lived experience that enables effective engagement with participants. Over an approximately six- to nine-month, court-mandated period, youth receive individualized support focused on improving decision-making, strengthening family and community connections, and reducing further justice system involvement. DOP is working to provide these services with Good Shepherd Services, Urban Youth Alliance International., Union Settlement Association, Inc., Justice Innovation, Inc., Community Mediation Services, Inc.,\n\nPursuant to Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, DOP intends to extend the subject contract for twenty-four (24) months via the negotiated acquisition extension procurement method. Extending this contract for additional time will prevent a disruption of these critical & mandated services. The RFP is anticipated to be released Late Spring 2027.",
+  "description_fetched_at": "2026-10-08T11:07:24.709Z",
+  "content_hash": "26ff01f7c2a0f273456d062b144dd1de5ea1148edbf77dd679a80c1423a94b25",
+  "first_seen_at": "2026-10-08T11:07:24.709Z",
+  "last_seen_at": "2026-10-08T11:07:24.709Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

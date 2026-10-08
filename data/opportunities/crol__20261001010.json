@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261001010",
+  "source": "crol",
+  "source_id": "20261001010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001010",
+  "title": "Interior Painting, Plastering and Patching RC",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-07",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-07",
+  "solicitation_number": "85621B0008001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 3108900,
+  "contacts": [
+    {
+      "name": "Andrew Dworjan",
+      "email": "adworjan@dcas.nyc.gov",
+      "phone": "(212) 386-5028"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Requirements contract (the \u001aContract \u001aLabor\u001a, \u001aMaterials\u001a and equipment necessary for interior painting, plastering, and patching at various \u001aFacilities\u001a throughout the five (5) boroughs of the City of New York.\n\nWe are using the Competitive Sealed Bidding Method",
+  "description_fetched_at": "2026-10-08T11:07:24.709Z",
+  "content_hash": "8e34cdca56c98485b869d43b2bc3d9094e29ceb6b5eb6a4af70baa7d4ab87656",
+  "first_seen_at": "2026-10-08T11:07:24.709Z",
+  "last_seen_at": "2026-10-08T11:07:24.709Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20260930015",
+  "source": "crol",
+  "source_id": "20260930015",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930015",
+  "title": "RFP: Neighborhood Navigator Initiative",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "District Attorney - New York County",
+  "agency_path": "City of New York > District Attorney - New York County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-07",
+  "due_at": "2026-11-24T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-07",
+  "solicitation_number": "2027NNRFP001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Migdalia Veloz",
+      "email": "bidsrfps@dany.nyc.gov; velozm@dany.nyc.gov",
+      "phone": "(212) 335-9702"
+    }
+  ],
+  "submit_to": "1 Hogan Place, New York, NY 10013",
+  "attachments": [],
+  "description_text": "The Office of the District Attorney of New York county (DANY) seeks proposals from qualified organizations to continue and expand its Neighborhood Navigator Initiative which has had a positive impact on the Manhattan Neighborhoods currently served. DANY seeks a single organization to: (1) deliver client and community engagement and coordination teams across five designated Manhattan neighborhoods and (2) respond to areas in Manhattan outside of the five designated neighborhoods in response to emerging or immediate areas of concern as requested by DANY, which may include coordinated outreach in the outdoor spaces around select New York City Housing Authority (NYCHA) developments.\n\nDANY will hold a Pre-proposal Conference via Microsoft Teams on October 29, 2026 at 12:00pm. Attendance by proposers is optional but recommended by the Department.\n\nQuestions about this RFP may be submitted in writing to bidsrfps@dany.nyc.gov with a copy to velozm@dany.nyc.gov no later than October 21st, 2026. Questions submitted after the Q&A due date will not receive a response. Answers to questions received will be made available as an addendum to this RFP.",
+  "description_fetched_at": "2026-10-08T11:07:24.709Z",
+  "content_hash": "9526e1a247b0d9efcdef0026b14827ced3f6b02d79264784b5c073624cc81f7c",
+  "first_seen_at": "2026-10-08T11:07:24.709Z",
+  "last_seen_at": "2026-10-08T11:07:24.709Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

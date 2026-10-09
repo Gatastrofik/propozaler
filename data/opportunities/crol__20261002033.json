@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261002033",
+  "source": "crol",
+  "source_id": "20261002033",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261002033",
+  "title": "85727B0025-2600092 - Apparatus, 2000GPM Pumper - FDNY",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-08",
+  "due_at": "2026-11-19T10:30:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-08",
+  "solicitation_number": "85727B0025",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for 2000 GPM Pumper Apparatuses. This will be a 5-Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk: nyc.gov/mocshelp Vendor Resources: https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.pagehttps://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on November 19th at 10:30 A.M EST via Microsoft Teams. Please Visit the PASSPort solicitation page for the link to the meeting.\n\nBid opening Location - DCAS 1 Centre Street, New York, NY 10007.",
+  "description_fetched_at": "2026-10-09T11:07:04.743Z",
+  "content_hash": "aa181a2d8acf6bf7c139d524566d12382da01baebc815646d7bfdd08ced5c073",
+  "first_seen_at": "2026-10-09T11:07:04.743Z",
+  "last_seen_at": "2026-10-09T11:07:04.743Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

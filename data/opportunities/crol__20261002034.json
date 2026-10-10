@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261002034",
+  "source": "crol",
+  "source_id": "20261002034",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261002034",
+  "title": "On-Call Environmental Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Brooklyn Navy Yard Development Corp.",
+  "agency_path": "City of New York > Brooklyn Navy Yard Development Corp.",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-09",
+  "due_at": "2026-11-13T12:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-09",
+  "solicitation_number": "000352",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Shani Leibowitz",
+      "email": "planning@bnydc.org",
+      "phone": "(718) 907-5900"
+    }
+  ],
+  "submit_to": "Building 77, 141 Flushing Avenue, Suite 801, Brooklyn, NY 11205",
+  "attachments": [],
+  "description_text": "BNYDC is seeking a qualified environmental consulting firm (the \u001aConsultant\u001a) to perform requisite environmental tasks related to projects under the purview of the Planning & Real Estate Development and Facilities and Maintenance departments. BNYDC website https://brooklynnavyyard.org/contract-opportunities\n\nA mandatory pre-submission conference will be held virtually at 10 A.M. Friday, October 16, 2026. Please contact Ben Wallen via email (Bwallen@bnydc.org) for meeting log in instructions.",
+  "description_fetched_at": "2026-10-10T11:06:59.608Z",
+  "content_hash": "e8bb8c2746ce0305c6b99c5f6aabe06c8dc7d7336cfcb7131c9c43b029943eee",
+  "first_seen_at": "2026-10-10T11:06:59.608Z",
+  "last_seen_at": "2026-10-10T11:06:59.608Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

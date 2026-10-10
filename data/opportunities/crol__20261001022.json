@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261001022",
+  "source": "crol",
+  "source_id": "20261001022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001022",
+  "title": "CPM Services in Connection with Real Estate Advisory and Tenant Representative Consulting",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "School Construction Authority",
+  "agency_path": "City of New York > School Construction Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-09",
+  "due_at": "2026-10-15T12:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-09",
+  "solicitation_number": "27-00027R",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Keely Guallpa",
+      "email": "kguallpa@nycsca.com, rfp@nycsca.org",
+      "phone": "(718) 752-5092"
+    }
+  ],
+  "submit_to": "25-01 Jackson Avenue, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": "This solicitation is to obtain services in connection with Real Estate Advisory and Tenant Representative Consulting. The SCA anticipates awarding up to 2 contracts to firms that are prequalified by the SCA at the time of contract award. To assist you with your request, the following is a brief summary of services that will be required:\n\nGeneral Information/Brief Summary:\n\nThe firms selected under this RFP will provide the SCA with services in connection with assist in the site identification process, the negotiation of new leases and lease renewals, if necessary, and the purchase of new school construction sites, among various other duties arising out of, or related to, such services.",
+  "description_fetched_at": "2026-10-10T11:06:59.608Z",
+  "content_hash": "9b07658b59ac7aeeaaff4ec09d163f8c5d5755e2ff90f39bc2fdb44141d99f03",
+  "first_seen_at": "2026-10-10T11:06:59.608Z",
+  "last_seen_at": "2026-10-10T11:06:59.608Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

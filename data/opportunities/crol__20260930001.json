@@ -3,7 +3,7 @@
   "source": "crol",
   "source_id": "20260930001",
   "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930001",
-  "title": "Upgrade IDF MDF Rooms",
+  "title": "Correction: Upgrade IDF MDF Rooms",
   "notice_type": "solicitation",
   "notice_type_raw": "Solicitation",
   "agency": "NYC Health + Hospitals",
@@ -35,11 +35,18 @@
   "submit_to": "55 Water Street, OFD 25th Floor, New York, NY 10041",
   "attachments": [],
   "description_text": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE\n\n02201602-North Central Bronx (NCB) Upgrade IDF & MDF Rooms / November 19, 2026 at 11:00AM\n\n \n\n2. LOCATION\n\nNYC Health + Hospitals North Central Bronx (NCB): 3424 Kossuth Ave, Bronx, NY 10467\n\n \n\n3. MANDATORY PRE-BID MEETING INFORMATION\n\n \n\n * Only bidders who attended at least one of the following mandatory pre-bid meetings will be allowed to bid. The mandatory pre-bid meetings took place on:\n\n \n\n * * Wednesday, October 14, 2026 at 10:00AM \n   * Thursday, October 15, 2026 at 10:00AM\n\n \n\n * Location: NYC H+H North Central Bronx (NCB) 17th Floor, Conference Room 1715\n\n \n\n * Late attendees will not be accommodated. Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays.\n\n \n\n4. REQUESTS FOR INFORMATION (RFI)\n\n \n\n * Technical questions must be submitted in writing by email no later than Friday, October 23, 2026 by 5:00PM to Janet.olivera@nychhc.org.\n\n \n\n5. ADDITIONAL INFORMATION\n\n \n\n * Bidder\u001as Minimum Qualifications: Please note that eligibility to bid is subject to the minimum qualifications outlined in the contract documents. Review these requirements carefully to confirm your eligibility before submitting a bid proposal.\n\n \n\n * Insurance: All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted.\n\n \n\n * NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H.\n\n \n\n * Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\n \n\n * Bidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings.\n\n \n\n * MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 36%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-  "description_fetched_at": "2026-10-08T11:07:24.709Z",
-  "content_hash": "cc1d1dfba302ccab02cfa7b5b3db42c8e8404e843a0093c82866a6b0632d033d",
+  "description_fetched_at": "2026-10-10T11:06:59.608Z",
+  "content_hash": "4affa2d50926e359fa694ca62e8f86aaed10e5200ccd13f2f778fcefa7be241a",
   "first_seen_at": "2026-10-08T11:07:24.709Z",
-  "last_seen_at": "2026-10-08T11:07:24.709Z",
-  "changes": [],
+  "last_seen_at": "2026-10-10T11:06:59.608Z",
+  "changes": [
+    {
+      "at": "2026-10-10T11:06:59.608Z",
+      "fields": [
+        "title"
+      ]
+    }
+  ],
   "duplicate_of": null,
   "prefilter": {
     "net_score": 2,

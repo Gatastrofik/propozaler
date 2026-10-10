@@ -34,10 +34,10 @@
   "submit_to": null,
   "attachments": [],
   "description_text": "The Statara consumer dataset provides information on over 5.5 million adult New Yorkers. This serves as a single data source that provides far broader coverage than PEU can get from various partner agency sources. Having this broad coverage is critical during emergencies and also helps PEU reach New Yorkers who have fewer existing touchpoints with the City. Without the consumer file in question, PEU\u001as efforts to reach out to underserved New Yorkers, especially during and after emergencies, will be greatly impaired. This procurement is therefore necessary for continuation of critical agency functions, a Mayoral Priority, and directly related to public health and safety. An annual license for a consumer detail analytics file install, including updated and refreshed cell phone contact data available for NYC to house in your internal analytics database. This will include NYC residents that may be overlooked on traditional publicly available and privately sourced data sets. An annual license for consumer details to house inside of your separately licensed CRM database.",
-  "description_fetched_at": "2026-10-02T11:07:11.140Z",
+  "description_fetched_at": "2026-10-10T11:06:59.608Z",
   "content_hash": "6de7a6e835afa6bd79ee90c8f629bd4baf3bfcaa946c85d16aab13a51be7eedc",
   "first_seen_at": "2026-10-02T11:07:11.140Z",
-  "last_seen_at": "2026-10-02T11:07:11.140Z",
+  "last_seen_at": "2026-10-10T11:06:59.608Z",
   "changes": [],
   "duplicate_of": null,
   "prefilter": {

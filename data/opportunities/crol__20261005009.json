@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261005009",
+  "source": "crol",
+  "source_id": "20261005009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261005009",
+  "title": "Renewal #1 - VIEWPOINT & M-ARIS Maintenance & Service",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-09",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-09",
+  "solicitation_number": "05623S0008001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 2554342,
+  "contacts": [
+    {
+      "name": "Anish Koshy",
+      "email": "anish.koshy@nypd.org"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "NYPD will continue to receive Maintenance & Support Service for ViewPoint and M-ARIS Systems at NYPD's Counter Terrorism Bureau. These services are offered directly as a Sole Source by Thermo Eberline LLC - DCMB# 177-22-0149\nOriginal Contract: EPIN# 05623S0008001 , CT1-056-20248803903 with Two 2-Year Renewal Options. NYPD is excersing the first 2-Year renewal option per DCMB# #177-26-0134\n\nThe sole source method is the most competitive method that is appropriate under the circumstances since there is only one source available",
+  "description_fetched_at": "2026-10-10T11:06:59.608Z",
+  "content_hash": "0a0e57dc805c8f73d46d89e38fafafc5f34b0da3f395c0c227c5232d2a05c55e",
+  "first_seen_at": "2026-10-10T11:06:59.608Z",
+  "last_seen_at": "2026-10-10T11:06:59.608Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

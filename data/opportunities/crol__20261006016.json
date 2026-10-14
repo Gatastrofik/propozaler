@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261006016",
+  "source": "crol",
+  "source_id": "20261006016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006016",
+  "title": "Jackie's Place NAE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-13",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-13",
+  "solicitation_number": "07126N0022001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 4435575,
+  "contacts": [
+    {
+      "name": "Lorna Hinds",
+      "email": "lhinds@dhs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Homeless Services (DHS) intends to enter into a Negotiated Acquisition Extension (NAE) contract with Bronx Parent Housing Network, Inc. for Jackie's Place, a Families with Children shelter site located at 1138 Teller Avenue, Bronx, NY 10456.\n \n\nThe proposed NAE term will be from July 1, 2026 through June 30, 2027 with a contract amount of $4,435,575. All Renewals and Amendment Extensions were exhausted before utilizing the NAE method.\n\nThe proposed NAE is being pursued to maintain uninterrupted shelter operations while the new RFP is being processed. Procurement and award are in accordance with PPB Rules Section 3-04(b)(2)(iii) for the reasons set forth herein.",
+  "description_fetched_at": "2026-10-14T11:07:15.872Z",
+  "content_hash": "35f48bb025418356df996db627d64107dc6b6cec0f18598ce9e3d040d96ba49f",
+  "first_seen_at": "2026-10-14T11:07:15.872Z",
+  "last_seen_at": "2026-10-14T11:07:15.872Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

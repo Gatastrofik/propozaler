@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261006002",
+  "source": "crol",
+  "source_id": "20261006002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006002",
+  "title": "Fiscal Agent Services NAE",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-13",
+  "due_at": "2026-10-14T09:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-13",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Marshalee Pinto",
+      "email": "mcunningham@dycd.nyc.gov",
+      "phone": "(646) 343-6529"
+    }
+  ],
+  "submit_to": "2 Lafayette Street, 14th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board rules, the Department of Youth and Community Development, intends to negotiate the Fiscal Agent Services. The Contractor maintain an automated system that would enable DYCD\u001as contracting organizations to receive high quality; efficient fiscal agent services and ensure that stipend/fee payments are timely. The term of this contract shall be July 1, 2026 through June 30, 2027.\n\nThe contractor\u001as name, PIN number, contract amount and address are as follows.\n\nDYCD ID: 88459C     Amount: $1,403,735.00\n\nContractor: YMS Management Associates Inc.\n\nAddress: 160 Broadway, 5th Floor, New York, NY 10038\n\n \n\nPlease be advised that this ad is for informational purposes only. If you wish to contact DYCD for further information, please send an email to ACCO@dycd.nyc.gov.\n\nNegotiated Acquisition Extension, In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board rules",
+  "description_fetched_at": "2026-10-14T11:07:15.872Z",
+  "content_hash": "34b35f46a872c064818ad7f970a887154520fddb7878bba9819dcdcd1ecf53e2",
+  "first_seen_at": "2026-10-14T11:07:15.872Z",
+  "last_seen_at": "2026-10-14T11:07:15.872Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261006031",
+  "source": "crol",
+  "source_id": "20261006031",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031",
+  "title": "RFP for Provider Data Management services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-13",
+  "due_at": "2026-11-06T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-13",
+  "solicitation_number": "MHP-1125",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kathleen Nolan",
+      "email": "nolank@metroplus.org",
+      "phone": "(212) 908-8730"
+    }
+  ],
+  "submit_to": "50 Water Street, New York, NY 10004",
+  "attachments": [],
+  "description_text": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
+  "description_fetched_at": "2026-10-14T11:07:15.872Z",
+  "content_hash": "535e8b2a4926d5155a45889d2d6aad3a1d06cfc5a30cbc91930fb03f407577da",
+  "first_seen_at": "2026-10-14T11:07:15.872Z",
+  "last_seen_at": "2026-10-14T11:07:15.872Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

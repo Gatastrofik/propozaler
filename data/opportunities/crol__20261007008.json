@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261007008",
+  "source": "crol",
+  "source_id": "20261007008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007008",
+  "title": "BWT-1529-FMMG: Repair and Service of Franklin Miller Grinders and Muffin Monster Grinders",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-14",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-14",
+  "solicitation_number": "82622B0001001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 2130399,
+  "contacts": [
+    {
+      "name": "Anna Zieba",
+      "email": "azieba@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Located in Wastewater Resource Recovery facilities, pumping stations, and associated DEP facilities.",
+  "description_fetched_at": "2026-10-15T11:06:41.557Z",
+  "content_hash": "4ae64f64f832a5d7d9159cc065e4e294424e496a0696d2d1da5a03c28ddaa923",
+  "first_seen_at": "2026-10-15T11:06:41.557Z",
+  "last_seen_at": "2026-10-15T11:06:41.557Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

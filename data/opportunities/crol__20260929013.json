@@ -29,10 +29,10 @@
   "submit_to": null,
   "attachments": [],
   "description_text": "NYCERS had determined there is a need to hire a senior data analyst consultant with Extract, Transform, Load be responsible for detailed field level analysis, metadata analysis, profiling, and mapping of VSAM files into relational/dimensional SQL tables as well as conversion/validation efforts as part of an enterprisewide Legacy Replacement program; the senior data analyst will create and maintain the master data dictionary, and assist in database design of NYCERS mission-critical applications and inventory of its components.",
-  "description_fetched_at": "2026-10-07T11:07:25.740Z",
+  "description_fetched_at": "2026-10-15T11:06:41.557Z",
   "content_hash": "28be95d4a28d3119b18d12d9a7d7961c461d5a9f5c6eb0933205e9cd6616245e",
   "first_seen_at": "2026-10-07T11:07:25.740Z",
-  "last_seen_at": "2026-10-07T11:07:25.740Z",
+  "last_seen_at": "2026-10-15T11:06:41.557Z",
   "changes": [],
   "duplicate_of": null,
   "prefilter": {

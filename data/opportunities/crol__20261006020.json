@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261006020",
+  "source": "crol",
+  "source_id": "20261006020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006020",
+  "title": "82626B0051-MFP-2025 Preventative Maintenance, Inspection, Testing and Repair of Fire Protection Systems and Fire Alarm Systems at Various DEP Facilities",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-14",
+  "due_at": "2026-11-10T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-14",
+  "solicitation_number": "82626B0051",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Tawan Newton",
+      "email": "tawann@dep.nyc.gov",
+      "phone": "(718) 595-3252"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "This Competitive Sealed Bid (\u001aRFx\u001a) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0051 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov.\n\nPre bid conference location - Microsoft Teams meeting. To join via Microsoft TEAMS video, please go to PASSPort RFx Documents and download 'Notice to bidders (E-Bidding)' for information.Date/Time - 2026-10-21 10:00:00 AM",
+  "description_fetched_at": "2026-10-15T11:06:41.557Z",
+  "content_hash": "89e6e1c4580d5fec70a33e6d235e884d65f249295ef729603073f0300f11b2b4",
+  "first_seen_at": "2026-10-15T11:06:41.557Z",
+  "last_seen_at": "2026-10-15T11:06:41.557Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

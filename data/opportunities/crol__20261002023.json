@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261002023",
+  "source": "crol",
+  "source_id": "20261002023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261002023",
+  "title": "SMPD_PS_RFP 523229 - The Development and Implementation of Department of Housing and Urban Development Required Training for National Standards for the Physical Inspection of Real Estate (NSPIRE) and Housing Opportunity Through Modernization Act (HOTMA)",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-14",
+  "due_at": "2026-11-10T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-14",
+  "solicitation_number": "523229",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Mariela Maldonado",
+      "email": "mariela.maldonado@nycha.nyc.gov",
+      "phone": "(212) 306-4537"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "New York City Housing Authority (\u001aNYCHA\u001a) seeks proposals from firms with expertise in National Standards for the Physical Inspection of Real Estate (NSPIRE) and Housing Opportunity Through Modernization Act (HOTMA) training (the \u001aProposers\u001a) to provide NYCHA with NSPIRE and HOTMA specific training for NYCHA\u001as property management and central office staff, on both the Public Housing side and the Housing Choice Voucher side. This will consist of training sessions (each a \u001aSession\u001a) and testing materials for the sessions.  The topics for NSPIRE included in the Sessions must be customized to ensure NYCHA\u001as staff is able to (a) comply with the rules and regulations set forth in HUD\u001as NSPIRE program (b) conduct visual  inspections of Public Housing Developments in accordance with HUD\u001as Uniform Physical Condition Standards (\u001aUPCS\u001a), and (c) identify and repair deficiencies found pre, during, and post NSPIRE inspections in accordance with industry standards. The Sessions must also require participants to take an exam (the \u001aExam\u001a), the passing of which will provide the participant with a certification of completion and continuing education credits for specialized NSPIRE/UPCS courses related to public housing (collectively, the \u001aCertification of Completion and Credits\u001a). The topics for HOTMA must include all relevant topics for compliance and all updates from legislation passed  from HUD in relation to HOTMA (as described further in the RFP), which cover policy changes including, but not limited to: (a) asset limitation, (b) calculating income, (c) deduction and expenses, (d) income, and (e) income exclusions. Therefore, Proposers must have all required accreditations and certifications necessary to prepare and teach the Sessions, to administer the Exam to participants, and to grant participants who pass the Exam the Certification of Completion and Credits. The foregoing services that NYCHA seeks pursuant to this RFP are more fully described within Section II of this RFP .\n\nA non-mandatory Proposers\u001a conference (\u001aProposers\u001a Conference\u001a) will be hosted online via Microsoft Teams on October 21, 2026 at 10:00 a.m. Although attendance is not mandatory at the Proposers\u001a Conference, it is strongly recommended that all interested Proposers attend, and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below:  \n\nOption 1: Copy and paste the below into your browser.  \n\nhttps://teams.microsoft.com/meet/241738342674754?p=RzGX2E0yRXUAwcHfWf\n\n            Meeting ID: 241 738 342 674 754\n\n            Passcode: Vj2vb2DX\n\n \n\nOption 2: Call in (audio only) \n\n+1 646-838-1534,, 241738342674754# \n\nPhone Conference ID: 241 738 342 674 754#\n\n \n\nOption 3:  Access the document \u001aTEAMS Meeting Link RFP 523229\u001a and click on the embedded link to join. \n\nProposals must be successfully submitted into iSupplier in final form no later than 2:00 P.M. on November 10, 2026 (the \u001aProposal Submission Deadline\u001a). Proposals which are saved in iSupplier as a \u001adraft\u001a but not successfully submitted will not be considered. Proposers should refer to Section IV(B) of this RFP for details on Proposal submission requirements.\n\nThe anticipated award date of the Agreement(s) to the Selected Proposer(s) is on or about January 2027.\n\nAll times stated above are Eastern Standard Time (EST).\n\nInterested firms are invited to obtain a copy of the RFP on NYCHA\u001as website. To conduct a search for the RFP number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page\n\nProposers should refer to Section IV(2) of this RFP for details on Proposal packaging and submission requirements.\n\nProposer shall electronically upload the Cost Proposal in Excel and a single .pdf containing ALL components of the Proposal into iSupplier by 2:00 P.M. on the Proposal Submission Deadline. NYCHA will NOT accept hardcopy Proposals. The Proposal shall not include embedded documents or proprietary file extensions. NYCHA will not accept Proposals via e-mail, fax, or mail.\n\nInstructions for registering  for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page\n\nAfter Proposer\u001as register for iSupplier, it typically takes 24 to 72 hours for Proposer\u001as iSupplier profile to be approved. It is Proposer\u001as sole responsibility to complete iSupplier registration and submit its Proposal before the Proposal Submission Deadline.\n\nNYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.",
+  "description_fetched_at": "2026-10-15T11:06:41.557Z",
+  "content_hash": "11608fb45047a6972ca514dc5ada91d1074bcb1fd40a37a269df2dc4ec227984",
+  "first_seen_at": "2026-10-15T11:06:41.557Z",
+  "last_seen_at": "2026-10-15T11:06:41.557Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

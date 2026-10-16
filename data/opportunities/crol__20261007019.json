@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261007019",
+  "source": "crol",
+  "source_id": "20261007019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007019",
+  "title": "Rubrik Enterprise",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-15",
+  "due_at": "2026-10-23T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-15",
+  "solicitation_number": "RFB-110",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kathleen Nolan",
+      "email": "nolank@metroplus.org",
+      "phone": "(212) 908-8730"
+    }
+  ],
+  "submit_to": "50 Water Street, 7th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "MetroPlus is seeking qualified resellers capable of providing Rubrik an enterprise-wide backup solution that protects our virtual servers and Isilon file shares. There is also a ransomware detection piece that is utilized to inspect our backups for known malware. Support is required to keep our backup system and its components up to date and patched at the latest levels.",
+  "description_fetched_at": "2026-10-16T11:07:18.259Z",
+  "content_hash": "fe41bd922bf901c2a05ca14c7791b27dda763ec86fd6f507a8b72aeeef0e560f",
+  "first_seen_at": "2026-10-16T11:07:18.259Z",
+  "last_seen_at": "2026-10-16T11:07:18.259Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

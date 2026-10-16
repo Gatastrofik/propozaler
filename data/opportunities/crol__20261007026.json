@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261007026",
+  "source": "crol",
+  "source_id": "20261007026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007026",
+  "title": "Training in Fire Protection Codes, Regulations Safety Standards and Best Practices",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Buildings",
+  "agency_path": "City of New York > Buildings",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-15",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-15",
+  "solicitation_number": "81027U0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 18200,
+  "contacts": [
+    {
+      "name": "Marsha Paul-Bull",
+      "email": "mpaulbull@buildings.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "7d41ec374a426be63c69dece491b896e24b8ea54e156c88548e88c3b2e3ac08b",
+  "first_seen_at": "2026-10-16T11:07:18.259Z",
+  "last_seen_at": "2026-10-16T11:07:18.259Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

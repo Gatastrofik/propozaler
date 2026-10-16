@@ -1,0 +1,53 @@
+{
+  "id": "crol:20261007016",
+  "source": "crol",
+  "source_id": "20261007016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007016",
+  "title": "SmartBear ReadyAPI Test License Renewal",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Financial Information Services Agency",
+  "agency_path": "City of New York > Financial Information Services Agency",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-15",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-15",
+  "solicitation_number": "127FY2700026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 32595,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "CompCiti Business Solutions, Inc.'s bid is the lowest, and as a result, FISA-OPA deems the bid response fair and reasonable. Also, FISA-OPA has had extensive experience with CompCiti Business Solutions, Inc. and continues to be satisfied with their performance. Therefore, FISA-OPA has determined that CompCiti Business Solutions, Inc. has the requisite integrity to perform this contract.",
+  "description_fetched_at": "2026-10-16T11:07:18.259Z",
+  "content_hash": "84d30691b2f8d4b88f9a5f98433dcb7c159676d47f76cb661d6e76f962e11b82",
+  "first_seen_at": "2026-10-16T11:07:18.259Z",
+  "last_seen_at": "2026-10-16T11:07:18.259Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

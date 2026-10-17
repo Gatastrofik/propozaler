@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261008022",
+  "source": "crol",
+  "source_id": "20261008022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261008022",
+  "title": "Waste Containerization Pilots and Regulations for New Buildings",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Sanitation",
+  "agency_path": "City of New York > Sanitation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-16",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-16",
+  "solicitation_number": "82727W0008001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 191790,
+  "contacts": [
+    {
+      "name": "Sonny Chen",
+      "email": "sochen@dsny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "a35993b4af15f729dd26c4ad8ff0615f171b2a1e35b9819c3873fa31d5ec6c7b",
+  "first_seen_at": "2026-10-17T11:07:08.375Z",
+  "last_seen_at": "2026-10-17T11:07:08.375Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

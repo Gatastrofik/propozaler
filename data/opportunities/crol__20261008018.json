@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261008018",
+  "source": "crol",
+  "source_id": "20261008018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261008018",
+  "title": "Tailored Training on Appreciative Inquiry For Family Enrichment Centers Across NYC\u001as Five Boroughs",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-16",
+  "due_at": "2026-11-09T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-16",
+  "solicitation_number": "06827N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Lucy Clevenger",
+      "email": "training-na@acs.nyc.gov",
+      "phone": "(929) 670-0618"
+    }
+  ],
+  "submit_to": "110 William Street, New York, NY  10038",
+  "attachments": [],
+  "description_text": "The Administration for Children's Services, through this Competitive Negotiated Acquisition intends to award one qualified provider from ACS\u001as current network of contracted Family Enrichment Center's (FEC) providers to develop, tailor, and deliver an Appreciative Inquiry training and capacity-building program for the FEC Network.",
+  "description_fetched_at": "2026-10-17T11:07:08.375Z",
+  "content_hash": "3952304d6d83de6c04f4e19be032535b172b1130ade76afdd4105862c3285c89",
+  "first_seen_at": "2026-10-17T11:07:08.375Z",
+  "last_seen_at": "2026-10-17T11:07:08.375Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

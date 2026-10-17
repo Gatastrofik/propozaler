@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261009002",
+  "source": "crol",
+  "source_id": "20261009002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261009002",
+  "title": "Temporary Personnel Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Information Technology and Telecommunications",
+  "agency_path": "City of New York > Information Technology and Telecommunications",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-16",
+  "due_at": "2026-11-17T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-16",
+  "solicitation_number": "85827B0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Nikita Podlednov",
+      "email": "npodlednov@oti.nyc.gov",
+      "phone": "(718) 403-4185"
+    }
+  ],
+  "submit_to": "15 MetroTech Center, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "The Office of Innovation and Technology (\u001aOTI\u001a), on behalf of the Mayor's Office of Media and Entertainment (\u001aMOME\u001a or \u001athe Agency\u001a), is seeking an appropriately qualified vendor (\u001aContractor\u001a) to provide temporary personnel services as requested by MOME on an as-needed basis.\n\nThis solicitation is released through PASSPort, New York City\u001as online procurement portal, as an RFx. Responses to this solicitation must be submitted via PASSPort.\nTo reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned \u001aProcurement Navigator,\u001a whereupon you will arrive at the Portal.\n\nPlease visit https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and search by EPIN 85827B0001 to view all information and the documents of this solicitation.\n\nAll questions or inquiries regarding this solicitation must be submitted in the PASSPort Discussion Forum.",
+  "description_fetched_at": "2026-10-17T11:07:08.375Z",
+  "content_hash": "92857abadbd7bdb1c81cab4090917b7e1f58fb331a98de6f1e96c3696b979a20",
+  "first_seen_at": "2026-10-17T11:07:08.375Z",
+  "last_seen_at": "2026-10-17T11:07:08.375Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:title:temporary personnel",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

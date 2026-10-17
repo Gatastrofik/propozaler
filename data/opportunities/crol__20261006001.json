@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261006001",
+  "source": "crol",
+  "source_id": "20261006001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006001",
+  "title": "On Call HVACR Repair and Maintenance Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "District Attorney - New York County",
+  "agency_path": "City of New York > District Attorney - New York County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-16",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-16",
+  "solicitation_number": "20271800901",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 83335,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York County District Attorney\u001as Office (DANY) is awarding the contractor, Americare Appliance Repair LLC for On Call HVACR Repair and Maintenance Services with the contract amount of $83,335.00, The term is for two years from the date of registration, may renew for one additional year for a total term of three years. The contract was awarded under PIN 20271800901. The awarded vendor was selected pursuant to the M/WBE Small Purchase Method, Section 3-08(c)(1)(iv) of the New York City Procurement Policy Board (PPB) Rules, deemed responsible and able to meet all requirements of this contract.",
+  "description_fetched_at": "2026-10-17T11:07:08.375Z",
+  "content_hash": "ff28707d5addccfef1972e6258d5a1a0df6aecbda57d12d9417f168e24ae44ab",
+  "first_seen_at": "2026-10-17T11:07:08.375Z",
+  "last_seen_at": "2026-10-17T11:07:08.375Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

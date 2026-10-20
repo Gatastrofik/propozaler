@@ -1,0 +1,53 @@
+{
+  "id": "crol:20261009021",
+  "source": "crol",
+  "source_id": "20261009021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261009021",
+  "title": "85027P0001-PW348-91,-94_RC for CM/Design/Build for Petroleum Storage Tank Sumps, Citywide",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-19",
+  "due_at": "2026-12-03T12:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-19",
+  "solicitation_number": "85027P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The RFx will be accessible through the PASSPort Public Portal: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public Enter 85027P0001on the 'Keywords' field to search for the project. The New York City Department of Design and Construction (\u001aDDC\u001a), Division of Public Building, intends to enter into requirements contracts for the design and construction as described in the Request for Proposals (RFP). DDC is engaged in a major program to remove/upgrade/replace petroleum storage tanks in City facilities. Through this RFP, DDC is seeking to engage four (4) construction management firms for the provision of all services necessary and required to ensure petroleum storage tanks compliance with all local, state and federal laws, rules, and regulations,including without limitation, compliance with all protocols required by the New York State Department of Environmental Conservation.",
+  "description_fetched_at": "2026-10-20T11:11:23.731Z",
+  "content_hash": "415b3873787d66ba70e1fc69f231d8adca0eec84e742e620db25844fd956bb48",
+  "first_seen_at": "2026-10-20T11:11:23.731Z",
+  "last_seen_at": "2026-10-20T11:11:23.731Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

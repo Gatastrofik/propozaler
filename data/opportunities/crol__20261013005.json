@@ -1,0 +1,60 @@
+{
+  "id": "crol:20261013005",
+  "source": "crol",
+  "source_id": "20261013005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013005",
+  "title": "IT SOFTWARE SUBSCRIPTION AND HARDWARE MAINTENANCE",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "School Construction Authority",
+  "agency_path": "City of New York > School Construction Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-19",
+  "due_at": "2026-10-21T15:00:00-04:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-19",
+  "solicitation_number": "SCA-2701P",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Rookmin Singh",
+      "email": "rsingh@nycsca.org",
+      "phone": "(718) 752-5843"
+    }
+  ],
+  "submit_to": "25-01 Jackson Avenue, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "d1888eaaf9fc860b180b785a9b85812e772af6378c6e3610686960e168998eb7",
+  "first_seen_at": "2026-10-20T11:11:23.731Z",
+  "last_seen_at": "2026-10-20T11:11:23.731Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:subscription",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261013023",
+  "source": "crol",
+  "source_id": "20261013023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013023",
+  "title": "Professional Development Off-the-Shelf Training",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-19",
+  "solicitation_number": "85627U0006001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 99999,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "216b8c6f9ea01d8cdc72e241a55ba48f8c9788d63564c0354a48a1693b720355",
+  "first_seen_at": "2026-10-20T11:11:23.731Z",
+  "last_seen_at": "2026-10-20T11:11:23.731Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

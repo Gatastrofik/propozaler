@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261013010",
+  "source": "crol",
+  "source_id": "20261013010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013010",
+  "title": "FY27 Saturday Night Lights NAE",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-19",
+  "solicitation_number": "26026N0029002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 64286,
+  "contacts": [
+    {
+      "name": "Sophia Easy",
+      "email": "seasyclarke@dycd.nyc.gov",
+      "phone": "(646) 343-6327"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To combat gun violence funding has been allocated to Saturday Night Lights (SNL) programing in areas where there has been an increase in crime. SNL is a youth development program that activated spaces throughout the city to provide free high-quality sports and fitness training for youth aged 11-18. These New York City neighborhoods identified based on the analysis of crime data and TRIE neighborhood review. Some located near where the precinct is listed in the top 30 precincts with the highest shootings in New York City.\n\nThe extension of these contracts is crucial to ensure continuity of services. The ACCO has determined that an extension of these services will be beneficial to the City since the same terms and conditions remain. In addition, the current contractors are familiar with Community Center Programming and have been performing satisfactory and above on their current contract (s).",
+  "description_fetched_at": "2026-10-20T11:11:23.731Z",
+  "content_hash": "25fb1e86ada950950c7ce5bc5cba7d4a276a672977081586626852bf307acc61",
+  "first_seen_at": "2026-10-20T11:11:23.731Z",
+  "last_seen_at": "2026-10-20T11:11:23.731Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261009017",
+  "source": "crol",
+  "source_id": "20261009017",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261009017",
+  "title": "07227P0001-Modernized Commissary Operations",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Correction",
+  "agency_path": "City of New York > Correction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-20",
+  "due_at": "2026-12-07T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-20",
+  "solicitation_number": "07227P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Correction is requesting proposals for an all-purpose commissary vendor to supplement and modernize operations. The selected vendor would supply, store, fulfill, package, and deliver individualized commissary orders for Person-In Custody (hence forth referred to as PIC). There will be a Highly Recomended Pre-Proposal Conference for this solicitation on Monday, November 9, 2026 at 10:00 A.M. Please see invite below: Microsoft Teams meeting Join: https://teams.microsoft.com/meet/248131670663599?p=gJXWakX5VgJdOYQHAH Meeting ID: 248 131 670 663 599 Passcode: w4ps7YU6 Dial in by phone +1 646-893-7101,,181245563# United States, New York City Find a local number Phone conference ID: 181 245 563# Tenant key: cityofnewyork@m.webex.com Video ID: 112 085 897 3",
+  "description_fetched_at": "2026-10-21T11:12:02.535Z",
+  "content_hash": "a8aa9bbe3201c692f3363d6f8d5466b73ddac259730537826de799957f831bbf",
+  "first_seen_at": "2026-10-21T11:12:02.535Z",
+  "last_seen_at": "2026-10-21T11:12:02.535Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

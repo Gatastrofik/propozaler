@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261014042",
+  "source": "crol",
+  "source_id": "20261014042",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261014042",
+  "title": "Nicolet Apex FTIR Spectrometers",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-21",
+  "due_at": "2026-11-04T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-21",
+  "solicitation_number": "05627Y0267",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules, it is the intent of the New York City Police Department (\u001aNYPD\u001a) to enter into sole source negotiations with Fisher Scientific Company LLC (\u001aThermo Fisher\u001a) with the expectation that the vendor will be awarded a contract with the NYPD to provide eight (8) brand-specific Nicolet Apex Transform Infrared Spectrometers (\u001aApex FTIR Spectrometer\u001a).\n\nThe contract will provide for the manufacture and delivery of eight Apex FTIR Spectrometers.  This instruments will be utilized to analyze the cocaine caseload and training samples\n\nThermo Fisher is the sole manufacturer of Nicolet Apex FTIR Spectrometers. These instruments are proprietary equipment and Thermo Fisher owns the copyrights to its design specifications. The NYPD is of the belief that because the instrument is proprietary and copyrighted, Thermo Fisher is the only vendor legally authorized to provide this specialized item.\n\nAny vendor besides Thermo Fisher that believes that it can provide eight Apex FTIR Spectrometers to the NYPD is invited to do so.  Please respond in PASSPort to the Expression of Interest by answering the applicable Question in the Questionnaire Section of the Manage Responses tab and uploading a required response in the Document Submission Setup tab. \n\nIf you have questions about the details of the RFx, please submit them through the Discussion with Buyer tab or e-mail Jordan Glickstein and Tiana Urey at jordan.glickstein@nypd.org and tiana.urey@nypd.org.",
+  "description_fetched_at": "2026-10-22T11:08:08.324Z",
+  "content_hash": "d7f2aefa714ab2cb5298c17c519d02fe6c79a7136cf75a99330333b870177095",
+  "first_seen_at": "2026-10-22T11:08:08.324Z",
+  "last_seen_at": "2026-10-22T11:08:08.324Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

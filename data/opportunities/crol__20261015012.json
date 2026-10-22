@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261015012",
+  "source": "crol",
+  "source_id": "20261015012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261015012",
+  "title": "BLANKET ORDER FOR SAKURA BRAND ITEMS",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Chief Medical Examiner",
+  "agency_path": "City of New York > Chief Medical Examiner",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-21",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-21",
+  "solicitation_number": "81627W0013001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 100000,
+  "contacts": [
+    {
+      "name": "Ajala Olugbenga",
+      "email": "oajala@ocme.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "On 'as needed' basis, upon written request by the Forensic Laboratories Division of NYC OCME.",
+  "description_fetched_at": "2026-10-22T11:08:08.324Z",
+  "content_hash": "940ef5b1b61a1c600eb33c1b8ad807fd1b4783be4fd71cd11139abc2df61a4d2",
+  "first_seen_at": "2026-10-22T11:08:08.324Z",
+  "last_seen_at": "2026-10-22T11:08:08.324Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

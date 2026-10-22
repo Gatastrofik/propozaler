@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261015010",
+  "source": "crol",
+  "source_id": "20261015010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261015010",
+  "title": "84627B0012-Maintenance and Repair of Automated Logic WebCTRL and Carrier",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-21",
+  "due_at": "2026-11-09T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-21",
+  "solicitation_number": "84627B0012",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The work to be performed under this contract includes furnishing all labor, materials, travel time, equipment and all other work incidental thereto necessary or required to provide the complete testing, maintenance and repair of Automated Logic WebCTRL and Carrier I-Vu Building Automation systems and equipment (\u001asystems and equipment\u001a) at various NYC Parks facilities Citywide. This Request for Bids is released through PASSPort, New York City\u001as online procurement portal. Responses to this CSB must be submitted via PASSPort.\n\nTo access the CSB, vendors should visit the PASSPort public Portal at https://www1.nyc.gov/site/mocs/systems/about-go-to-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. Doing so will take one to the public portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN, 84627B0012, into the Keyword search field. In order to respond to the CSB, vendors must create an account within the PASSPort system if they have not already done so. The Bid Opening date will be on November 9th, 2026 at 3:00pm. The Bid Opening will be accessible through a Microsoft TEAMS call. Please go to Passport link and download the attached Bid Opening Information for links to attend.",
+  "description_fetched_at": "2026-10-22T11:08:08.324Z",
+  "content_hash": "400b7a989641c75b9e1b2272c6a4f85a9cae52dc3f7c4d627bf5eeae2a47234c",
+  "first_seen_at": "2026-10-22T11:08:08.324Z",
+  "last_seen_at": "2026-10-22T11:08:08.324Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

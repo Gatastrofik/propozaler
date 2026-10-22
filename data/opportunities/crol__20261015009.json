@@ -1,0 +1,53 @@
+{
+  "id": "crol:20261015009",
+  "source": "crol",
+  "source_id": "20261015009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261015009",
+  "title": "81627Y0873-Assays, reagents, and consumables for cobas® 5800, 6800v2, 8800v2, MagNa Pure96, and LightCycler systems",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-21",
+  "due_at": "2026-11-02T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-21",
+  "solicitation_number": "81627Y0873",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the Department of Health and Mental Hygiene (DOHMH) intends to enter into negotiations for a six-year Sole Source agreement with Roche Diagnostic Corporation to procure assays, reagents, and consumables for the cobas® 5800, 6800v2, 8800v2, MagNa Pure96, and LightCycler systems. The cobas® 5800, 6800 and 8800 systems are automated Polymerase Chain Reaction (PCR) test systems for high volume and high throughput molecular testing. Assays on these instruments include the only high-throughput HIV-1/2 qualitative nucleic acid amplification test, testing for STIs including Trichomonas, M. Gen and HPV, bloodborne pathogens like HBV and Hepatitis C Virus (HCV), and an expanding Research Use Only (RUO) panel.\n\nThe MagNA Pure96 is a high throughput DNA and RNA extraction platform that enables extraction of nearly 100 samples simultaneously. The LightCycler® system is a quantitative PCR system with associated reagents. This system allows for laboratory developed test creation for molecular detection of novel pathogens. These instruments and kits will be utilized by NYC Public Health Lab to reduce the time it takes to detect sexually transmitted infections and increase the number of individuals tested. This more efficient rapid testing will allow NYC Public Health Lab to combat the recent increase in HIV and sexually transmitted infectious diseases rates.\n\nDOHMH determined that Roche Diagnostic Corporation is the sole manufacturer and distributor for all assays, reagents and consumables used on the cobas® 5800, 6800v2, 8800v2, MagNa Pure96, and LightCycler systems. Only service engineers certified by Roche can perform service activities to these systems.\n\nAny firm that believes it can legally provide these services is invited to submit an Expression of Interest directly to this RFI no later than 11/2/2026 by 2:00PM. Communication outside of PassPort will not be considered or accepted.\n\nIf you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-10-22T11:08:08.324Z",
+  "content_hash": "cdb8abe2e3d93938d23a92a35b7c42e0782ec1c4dd4c70d4339336a1a3d27017",
+  "first_seen_at": "2026-10-22T11:08:08.324Z",
+  "last_seen_at": "2026-10-22T11:08:08.324Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:platform",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

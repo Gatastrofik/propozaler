@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261016007",
+  "source": "crol",
+  "source_id": "20261016007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261016007",
+  "title": "FY27 Renewal - NYNYIII Perm Supp Cong Housing CAMBA Gardens II",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-22",
+  "solicitation_number": "06917P9543KXLR002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 9328950,
+  "contacts": [
+    {
+      "name": "Anunciado Deo",
+      "email": "anunciadod@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "2nd Renewal - 50 Units.",
+  "description_fetched_at": "2026-10-23T11:12:45.866Z",
+  "content_hash": "5f4cc030b0d6e1d260a91b9c19230601675c196864908abe1fe106f2cc565c3f",
+  "first_seen_at": "2026-10-23T11:12:45.866Z",
+  "last_seen_at": "2026-10-23T11:12:45.866Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

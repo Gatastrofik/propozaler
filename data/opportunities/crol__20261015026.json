@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261015026",
+  "source": "crol",
+  "source_id": "20261015026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261015026",
+  "title": "FY' 26 Amendment + Allowance Increase  - BWS (229 Beds)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Homeless Services",
+  "agency_path": "City of New York > Homeless Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-22",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-22",
+  "solicitation_number": "07117P8277KXLR001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 52125596,
+  "contacts": [
+    {
+      "name": "Andy Marturin",
+      "email": "amarturin@dhs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Brooklyn Women's Shelter located at 116 Williams Avenue, Brooklyn NY 11207",
+  "description_fetched_at": "2026-10-23T11:12:45.866Z",
+  "content_hash": "eb27b1cf0b9cb295e3413f71d2935303b1a4f2794ea56b1131125517afd120b5",
+  "first_seen_at": "2026-10-23T11:12:45.866Z",
+  "last_seen_at": "2026-10-23T11:12:45.866Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

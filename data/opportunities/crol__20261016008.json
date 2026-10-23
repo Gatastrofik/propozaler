@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261016008",
+  "source": "crol",
+  "source_id": "20261016008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261016008",
+  "title": "82627B0022-BEDC-NR-107: Structural improvements to the North River WRRF",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-22",
+  "due_at": "2026-12-09T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-22",
+  "solicitation_number": "82627B0022",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Ping Zhi Chan",
+      "email": "pzchan@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The North River WRRF was originally constructed in 1986, was constructed above the Hudson River with a majority of the structure supported by steel caissons driven into the river soil. Numerous structural elements within the North River WRRF have shown signs of aging and significant degradation. The facility requires repair and upgrades to improve its compliance with DEP\u001as standard operating procedures and to continue to provide reliable wastewater treatment operations in accordance with wastewater treatment regulations. Contract NR-107 will implement structural improvements to the North River WRRF. Contract NR-107 comprises four main project elements: steel caisson protection, sludge barge loading dock fender replacement, underdeck repair and improvements, and ice breaker reconstruction. This Competitive Sealed Bid (\u001aRFx') is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0022 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8\n\nPre bid conference location -Microsoft TEAMS call in (audio only) +1 347-921-5612,,Phone Conference ID: 823847095# To join Bid Opening via Microsoft TEAMS video, please go to PASSPort RFx Documents and download \u001aNotice to Bidders (E-Bidding)\u001a for information.Mandatory: noDate/Time - 2026-10-29 10:00:00",
+  "description_fetched_at": "2026-10-23T11:12:45.866Z",
+  "content_hash": "e00ac3dc7fee1533864fc5d85bf23567a6acdffb719220df46e7d4106f8a802b",
+  "first_seen_at": "2026-10-23T11:12:45.866Z",
+  "last_seen_at": "2026-10-23T11:12:45.866Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

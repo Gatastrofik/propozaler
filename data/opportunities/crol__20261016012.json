@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261016012",
+  "source": "crol",
+  "source_id": "20261016012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261016012",
+  "title": "Pharmacy Benefit Management Consulting Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-23",
+  "due_at": "2026-11-16T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-23",
+  "solicitation_number": "MHP-1124",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Kathleen Nolan",
+      "email": "nolank@metroplus.org",
+      "phone": "(212) 908-8730"
+    }
+  ],
+  "submit_to": "50 Water Street, 7th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "MetroPlusHealth is seeking consultant services specializing in Pharmacy Benefit Management (PBM), to provide strategic, operational, financial, clinical, and regulatory expertise related to both pharmacy benefit and medical benefit drug management programs.The selected vendor will support MetroPlusHealth\u001as evaluation, optimization, oversight, and long-term strategic planning of pharmacy and provider-administered drug benefits across all lines of business.The selected vendor will serve as a strategic advisor to MetroPlusHealth providing independent expertise and analysis to support informed decision-making, effective vendor oversight, and the continued optimization of pharmacy and medical drug benefit programs.",
+  "description_fetched_at": "2026-10-24T11:06:35.233Z",
+  "content_hash": "a36b881e363c1141274eade42c796d79e6c6fa185a1fe396d34c8902b5f212f2",
+  "first_seen_at": "2026-10-24T11:06:35.233Z",
+  "last_seen_at": "2026-10-24T11:06:35.233Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261016013",
+  "source": "crol",
+  "source_id": "20261016013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261016013",
+  "title": "Zabbix Software Support and Maintenance",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-23",
+  "solicitation_number": "05727W0018001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 84083,
+  "contacts": [
+    {
+      "name": "Tetyana Sydoruk",
+      "email": "tetyana.sydoruk@fdny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "25e339a1d8cfa1f4fa2d87bed6788a4a979f3bffb7fd9b9b4d3e920830afca40",
+  "first_seen_at": "2026-10-24T11:06:35.233Z",
+  "last_seen_at": "2026-10-24T11:06:35.233Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

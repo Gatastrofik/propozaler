@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261019010",
+  "source": "crol",
+  "source_id": "20261019010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261019010",
+  "title": "Gas-Fired Heating Plants & Water Heaters Inst & Rpr - MX",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-23",
+  "solicitation_number": "80626B0060002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 900000,
+  "contacts": [
+    {
+      "name": "Janice Mancia",
+      "email": "manciaj@hpd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "HPD is charged with enforcing New York City\u001as Building Code and Multiple-Dwelling Law. The proposed contract will facilitate such enforcement with respect to Heat and Hot Water requirements by providing for the necessary installations, repairs and maintenance to Gas-Fired Heating Plants and Water Heaters.",
+  "description_fetched_at": "2026-10-24T11:06:35.233Z",
+  "content_hash": "fc5dd6c51b23f652127505f210c4496f846bff8c3fc7a8fea6905bf05309d9e7",
+  "first_seen_at": "2026-10-24T11:06:35.233Z",
+  "last_seen_at": "2026-10-24T11:06:35.233Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

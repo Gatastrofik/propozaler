@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261019031",
+  "source": "crol",
+  "source_id": "20261019031",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261019031",
+  "title": "LNXA20WKF, Wakefield Library \u001a ADA Renovation",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-26",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-26",
+  "solicitation_number": "85027W0011001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 102354,
+  "contacts": [
+    {
+      "name": "Jose Negron",
+      "email": "negronjo@ddc.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The Department of Design and Construction is seeking a Special Inspector to provide special inspection services for the LNXA20WKF - Wakefield Library \u001a ADA Renovation - Special Inspections project. This Project consists of adding an accessible ramp and plaza to the front entry, exterior lighting, making the vestibule and entry doors accessible, upgrading the first-floor toilet room to be accessible and making the cellar ramp accessible. A new sidewalk will be constructed at the front side of library for better accessibility. Please see RFI Form, project specific agreement, and bidset drawings for more information.",
+  "description_fetched_at": "2026-10-27T11:07:46.616Z",
+  "content_hash": "641a56542f3143369dc3992eceb520bef2fa6184e60d2fbb432c933b8d6b18f8",
+  "first_seen_at": "2026-10-27T11:07:46.616Z",
+  "last_seen_at": "2026-10-27T11:07:46.616Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

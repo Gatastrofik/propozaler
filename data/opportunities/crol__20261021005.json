@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261021005",
+  "source": "crol",
+  "source_id": "20261021005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261021005",
+  "title": "CSB 210 Joralemon St Sidewalk Elevator Replacement",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-27",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-27",
+  "solicitation_number": "85626B0011001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 1250000,
+  "contacts": [
+    {
+      "name": "Justine Woo",
+      "email": "juwoo@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "To provide all labor and materials necessary and required to service, maintain, repair, install components of and/or upgrade the sidewalk elevator at 210 Joralemon Street, Brooklyn, NY 11201.",
+  "description_fetched_at": "2026-10-28T11:17:20.046Z",
+  "content_hash": "8344831e7bdd5ab2c63a45eb2b5db10312aee8efea31110aa3111d5280243e53",
+  "first_seen_at": "2026-10-28T11:17:20.046Z",
+  "last_seen_at": "2026-10-28T11:17:20.046Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

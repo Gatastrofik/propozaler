@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261022002",
+  "source": "crol",
+  "source_id": "20261022002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022002",
+  "title": "ENS Mandates Intros 195_193_583A_5A_6A_434",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-28",
+  "solicitation_number": "80626G0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 8621289,
+  "contacts": [
+    {
+      "name": "Gaurav Channan",
+      "email": "channang@hpd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This project involves enhancing multiple systems across the Housing Preservation and Development (HPD) department to comply with six legislative initiatives (Intros 195-A, 434-A, 5-A, 6A-, 193-A, and 583-A). The project consolidates the business needs of multiple mandates aimed at improving the efficiency and regulatory compliance of HPD's operations. The mandates are related to the Heat Sensor Program, vacant unit inspections, lead-based paint hazard management, and addressing false certifications of violation corrections. This project addresses specific legislative mandates and operational inefficiencies within HPD.",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "1b93f418a7d21575dd127c4bb8d47a6a64fddaf6d6348f6d240946eb28e73ab7",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

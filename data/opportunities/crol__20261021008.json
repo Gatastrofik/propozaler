@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261021008",
+  "source": "crol",
+  "source_id": "20261021008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261021008",
+  "title": "81627Y0875-Purchase of Raboravel V-RG Vaccines",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": "2026-11-09T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-28",
+  "solicitation_number": "81627Y0875",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the New York City Procurement Policy Board Rules, the NYC Department of Health and Mental Hygiene (DOHMH) intends to enter into negotiations for a six-year agreement with Boehringer Ingelheim Animal Health USA Inc. for the purchase of RABORAL V-RG®, a licensed Oral Rabies Vaccine (ORV). NYC DOHMH utilizes RABORAL V-RG® as part of its Oral Rabies Vaccination (ORV) baiting program, which aims to immunize raccoons and reduce the transmission of rabies among raccoons and subsequently to other animals, including dogs, cats and humans in New York City.\n\nDOHMH has determined that Boehringer Ingelheim Animal Health USA Inc. is the sole source provider for this product. They are the only manufacturer and distributor of the USDA-approved oral rabies vaccine baits for use in raccoons and coyotes within the United States. No other company is authorized or licensed to produce or sell an equivalent oral rabies vaccine.\n\nAny firm that believes it can legally provide these goods, is invited to submit an Expression of Interest directly to this RFI- EPIN 81627Y0875 no later than 11/9/2026 by 2:00PM.\n\nIf you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "75bb683b5f4766763741737a6295c5f4286a82b6ebff06d6a712344fbb3adc9f",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

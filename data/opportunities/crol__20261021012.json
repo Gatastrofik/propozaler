@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261021012",
+  "source": "crol",
+  "source_id": "20261021012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261021012",
+  "title": "057270000423-License Plate Recognition Software (100 Rekor Scout)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-28",
+  "solicitation_number": "05727W0022001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 86526,
+  "contacts": [
+    {
+      "name": "Tetyana Sydoruk",
+      "email": "tetyana.sydoruk@fdny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "From November 1, 2026, through October 31, 2027.\n\nTo help Bureau of Fire Investigation Fire Marshals with investigations into auto fires and auto theft recovery. Rekor is the only company that allows integrations with the other 56 police departments and JTTF organizations that we are already sharing data with. Currently they are the only company that has been providing consistent and accurate data that we have used in our environment. Rekor is superior to other LPR platforms as it records and analyzes video data which allows the user to search for vehicle by make/model/color and type of automobile. Rekor is also part of the global user share group which allows partnering law enforcement agencies to search for vehicles globally that use Rekor.",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "203d8ff81e2f1014a44873faeb9f11a3dde0dc0c2af981d77aa42e93d36ad515",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:license",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

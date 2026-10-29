@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261022003",
+  "source": "crol",
+  "source_id": "20261022003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022003",
+  "title": "FY26-FY28 Bklyn Navy Yard Economic Development Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Small Business Services",
+  "agency_path": "City of New York > Small Business Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-28",
+  "solicitation_number": "80126S0004001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": 586840920,
+  "contacts": [
+    {
+      "name": "Dolly Del Rosario",
+      "email": "drosario@sbs.nyc.gov",
+      "phone": "(212) 513-6321"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "SBS has determined to enter into a three (3) year contract with the Brooklyn Navy Yard Development Corporation (\u001aBNYDC\u001a) to provide certain economic development services. The contract term will be from July 1, 2025 to June 30, 2028. The corporation shall serve as the City\u001as representative in connection with all industrial, commercial, waterfront, maritime and any other development projects in the Brooklyn Navy Yard, and shall use its best efforts to assist private developers or governmental or quasi-governmental entities in accomplishing such projects. It is in the best interests of the City to maintain a stable working relationship with \u001aBNYDC\u001a to ensure continuity of services that were determined reasonably fair in price and approved by OMB. This contract is procured via the sole source method as per PPB Rule section 3-05(b)(1).  LL63 ID # FY26NSBS3\n\nAlthough eight (8) expressions of interest were received, none of the entities had the experience, resources or capability to provide the full and immediate skills of economic development services currently provided by the Brooklyn Navy Yard Development Corporation. Many of the entities expressed interest to be a subcontractor to portions of work related to possible construction or construction related opportunities that may arise from the Brooklyn Navy Yard Economic Development services.",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "4afd77b53308b480511225a84eaf321e8d69aedef4938899bc5e2ef09853f95a",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

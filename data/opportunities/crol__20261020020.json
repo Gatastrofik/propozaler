@@ -1,0 +1,60 @@
+{
+  "id": "crol:20261020020",
+  "source": "crol",
+  "source_id": "20261020020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261020020",
+  "title": "DEL-465: OST Platform Enhancements",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": "2026-11-06T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-28",
+  "solicitation_number": "82627Y0899",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Fiorella E. Leal",
+      "email": "fleal@dep.nyc.gov",
+      "phone": "(718) 595-4719"
+    }
+  ],
+  "submit_to": "59-17 Junction Blvd., 17th Floor, Flushing, NY 11373",
+  "attachments": [],
+  "description_text": "DEP intends to enter into a Sole Source agreement with Hazen and Sawyer for DEL-465 to provide technical supporting services, training and knowledge transfer and implementation of additional OST platform enhancements. OST is a dynamic water supply system software that is designed to evolve with the addition of new water quality models or expand existing models with new water quality constituents as these became important and/or required to comply with regulations. Ultimately, DEL-465 will improve OST capabilities and flexibility and prepare DEP staff to more effectively, without or with limited external support, maintain and continue improve OST and provide technical/modeling support to NYC Water Supply daily operations, infrastructure repair projects, long-term planning and water supply climate change vulnerability and adaptation assessments, while being better prepared to take on emerging challenges related to NYC water supply. Any firm which believes it can also provide the required service IN THE FUTURE is invited to, so indicated by letter which must be received no later than November 6th , 2026, 5:00 pm at: Department of Environmental Protection, Agency Chief Contracting Officer, 59-17 Junction Blvd., 17th Floor, Flushing, New York 11373, Attention: Fiorella Leal, Fleal@dep.nyc.gov",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "a8966788ecaddab7efc383f8cfd7e86b98347480dae2df4e829260aab6dbc5be",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 4,
+    "matched": [
+      "bonus:software:software",
+      "bonus:software:platform",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

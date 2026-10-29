@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261022009",
+  "source": "crol",
+  "source_id": "20261022009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022009",
+  "title": "Request For Proposals For Outside Counsel Services With Respect To Landlord/Tenant Matters",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Brooklyn Navy Yard Development Corp.",
+  "agency_path": "City of New York > Brooklyn Navy Yard Development Corp.",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-28",
+  "due_at": "2026-11-18T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-28",
+  "solicitation_number": "000353",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Paul Kelly",
+      "email": "legalservicesrfp@bnydc.org",
+      "phone": "(718) 907-5900"
+    }
+  ],
+  "submit_to": "141 Flushing Avenue, Building 77, Suite 81, Brooklyn, NY 11205",
+  "attachments": [],
+  "description_text": "BNYDC is seeking a qualified law firm (s) to provide outside counsel services with respect to landlord/tenant matters as and when requested by BNYDC. The Request for Proposals will be available as of October 28, 2026 at https://brooklynnavyyard.org/contract-opportunities",
+  "description_fetched_at": "2026-10-29T11:10:09.236Z",
+  "content_hash": "882653b82aab2f47b155fcfad2a56cb436d31759ab6afccede0312800cdca914",
+  "first_seen_at": "2026-10-29T11:10:09.236Z",
+  "last_seen_at": "2026-10-29T11:10:09.236Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

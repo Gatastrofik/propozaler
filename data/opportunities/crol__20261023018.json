@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261023018",
+  "source": "crol",
+  "source_id": "20261023018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261023018",
+  "title": "06927P0001-APS Community Guardian Program (CGP) Training Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-29",
+  "due_at": "2026-12-11T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-29",
+  "solicitation_number": "06927P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Social Services (DSS)/Human Resources Administration (HRA), through Adult Protective Services (APS), seeks to procure a qualified vendor through a competitive Request for Proposal (RFP) to design, develop, and deliver Community Guardian Program (CGP) Training Services. The purpose of this procurement is to establish a standardized training program that equips Community Guardian staff with the knowledge, skills, and resources needed to effectively serve vulnerable adults under Article 81 of the New York State Mental Hygiene Law. This procurement will support APS\u001as ongoing commitment to workforce development by implementing a comprehensive training program that promotes consistent practices, strengthens professional competencies, and provides continuous learning opportunities for Community Guardian staff. The initiative will enhance operational effectiveness, promote program consistency across Community Guardian providers, and support the delivery of services to APS clients. The anticipated contract term is July 1, 2027 through June 30, 2029, with an estimated contract value of $578,011. Questions regarding this RFx must be transmitted in writing to the A Contact Person, Mohammed Bhuiyan at bhuiyanm@hra.nyc.gov. Questions received prior to the Pre-Proposal Conference will be answered at the conference. Responses to questions addressed at the conference and those received subsequently will shared in an addendum through the PASSPort System. To respond to this RFx, organizations must have an account. If you do not have a PASSPort account, please visitwww.nyc.gov/passport. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab of PASSPort. If you need additional technical assistance with PASSPort, please contact the MOCS Service Desk at www.nyc.gov/mocshelp.\n\nPre bid conference location -https://nyc-dss.webex.com/nyc-dss/j.php?MTID=mfe3eedc60b26e2e467d849716418d516 Meeting number: 2347 386 1829 Password: mqVJdTcG832Mandatory: noDate/Time - 2026-11-10 11:00:00",
+  "description_fetched_at": "2026-10-30T11:12:40.024Z",
+  "content_hash": "026ef72b14e36e90f76a22e061db22ac537bc27c9f45baf416d0078935d5b8ad",
+  "first_seen_at": "2026-10-30T11:12:40.024Z",
+  "last_seen_at": "2026-10-30T11:12:40.024Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

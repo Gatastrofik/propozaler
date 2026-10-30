@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261022011",
+  "source": "crol",
+  "source_id": "20261022011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022011",
+  "title": "Penlink Tangles & Webloc Software",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - Bronx County",
+  "agency_path": "City of New York > District Attorney - Bronx County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-29",
+  "due_at": "2026-11-05T16:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-10-29",
+  "solicitation_number": "90227S8001KXL",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jonathan Demera",
+      "email": "contractsbxda@bronxda.nyc.gov",
+      "phone": "(718) 664-1255"
+    }
+  ],
+  "submit_to": "198 East 161st Street, Bronx, NY 10461",
+  "attachments": [],
+  "description_text": "Pursuant to Procurement Policy Board Rules, Section 3-05, the Bronx County District Attorney intends to enter into a sole source agreement with Pen-Link, Ltd. for the Penlink Tangles & Webloc software-as-a service. Pen-Link, Ltd. has not issued any rights or licenses to others resellers. Any qualified vendor that wishes to express interest in providing such product and believes that at present or in the future it can also provide related software, and services is invited to do so by submitting an expression of interest to ContractsBXDA@bronxda.nyc.gov.",
+  "description_fetched_at": "2026-10-30T11:12:40.024Z",
+  "content_hash": "cf1f81c4bd7c79647d0d7b705732acf945850a3258c0f57c5d826cc44e46e671",
+  "first_seen_at": "2026-10-30T11:12:40.024Z",
+  "last_seen_at": "2026-10-30T11:12:40.024Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

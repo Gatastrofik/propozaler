@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261023013",
+  "source": "crol",
+  "source_id": "20261023013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261023013",
+  "title": "Programmable Paper Cutter and Five Year Maintenance",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Sanitation",
+  "agency_path": "City of New York > Sanitation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-10-30",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-10-30",
+  "solicitation_number": "82727W0012001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 57215,
+  "contacts": [
+    {
+      "name": "Nikolay Edelman",
+      "email": "nedelman@dsny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "18197daed4a0c10cde8046d879d4b929c96dd2f966f3d1d87ad4b7df9f52a162",
+  "first_seen_at": "2026-10-31T11:06:58.874Z",
+  "last_seen_at": "2026-10-31T11:06:58.874Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

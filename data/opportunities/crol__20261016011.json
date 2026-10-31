@@ -34,10 +34,10 @@
   "submit_to": null,
   "attachments": [],
   "description_text": "The Agency\u001as current SAN Storage Brocade Switches are no longer under maintenance support, meaning the vendor will not provide software updates, security patches, technical support, or hardware replacements for this model. This situation poses a significant risk and has the potential to impact our business operations, as 100% of the Agency\u001as production environment relies on these Brocade switches. To mitigate this risk, it is crucial for DSS ITS to secure break-fix support to ensure that our mission-critical enterprise applications remain operational. To maintain confidence in our ability to perform quick repairs and provide tracking reports and uptime for production we need this procurement as soon as possible.",
-  "description_fetched_at": "2026-10-23T11:12:45.866Z",
+  "description_fetched_at": "2026-10-31T11:06:58.874Z",
   "content_hash": "bd764b295a10c1029d191b96452e9cf2c44950b15d36ee2cfb386dd6ad8f0942",
   "first_seen_at": "2026-10-23T11:12:45.866Z",
-  "last_seen_at": "2026-10-23T11:12:45.866Z",
+  "last_seen_at": "2026-10-31T11:06:58.874Z",
   "changes": [],
   "duplicate_of": null,
   "prefilter": {

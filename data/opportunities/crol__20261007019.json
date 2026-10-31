@@ -35,10 +35,10 @@
   "submit_to": "50 Water Street, 7th Floor, New York, NY 10004",
   "attachments": [],
   "description_text": "MetroPlus is seeking qualified resellers capable of providing Rubrik an enterprise-wide backup solution that protects our virtual servers and Isilon file shares. There is also a ransomware detection piece that is utilized to inspect our backups for known malware. Support is required to keep our backup system and its components up to date and patched at the latest levels.",
-  "description_fetched_at": "2026-10-23T11:12:45.866Z",
+  "description_fetched_at": "2026-10-31T11:06:58.874Z",
   "content_hash": "fe41bd922bf901c2a05ca14c7791b27dda763ec86fd6f507a8b72aeeef0e560f",
   "first_seen_at": "2026-10-16T11:07:18.259Z",
-  "last_seen_at": "2026-10-23T11:12:45.866Z",
+  "last_seen_at": "2026-10-31T11:06:58.874Z",
   "changes": [],
   "duplicate_of": null,
   "prefilter": {

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261027010",
+  "source": "crol",
+  "source_id": "20261027010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027010",
+  "title": "Construction Management Services for the Rehabilitation of the Wallkill Blow-off Chamber",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-02",
+  "due_at": "2026-12-10T16:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-02",
+  "solicitation_number": "82627P0005",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Glorivee Roman",
+      "email": "glroman@dep.nyc.gov",
+      "phone": "(718) 595-3226"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "This Request for Proposal (\u001aRFx) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the \u001aSearch Funding Opportunities in PASSPort\u001a blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627P0005 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their Inquiry Submission Form:https://mocssupport.atlassian.net/servicedesk/customer/portal/8/group/29/create/157",
+  "description_fetched_at": "2026-11-03T11:08:34.868Z",
+  "content_hash": "f1f08fd6db87e36f7febb92d3b055b0fb8f0e9060bb905ea8f407fd2c88b295b",
+  "first_seen_at": "2026-11-03T11:08:34.868Z",
+  "last_seen_at": "2026-11-03T11:08:34.868Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

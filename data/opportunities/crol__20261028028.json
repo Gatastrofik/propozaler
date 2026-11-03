@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261028028",
+  "source": "crol",
+  "source_id": "20261028028",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261028028",
+  "title": "Code Blue/Code Red Negotiated Acquisition",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-02",
+  "due_at": "2026-11-17T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-02",
+  "solicitation_number": "EPIN: 07127N0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Cinnamon Warner",
+      "email": "accocontractplanning@dss.nyc.gov",
+      "phone": "(929) 221-6347"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "The New York City Department of Social Services (DSS) has adopted a new citywide approach to the Department of Homeless Services (DHS) response during Code Blue and Code Red weather emergencies. The new zone-based deployment model is designed to provide more consistent and comprehensive outreach coverage across areas with the highest likelihood of unsheltered individuals. Implementation of this model requires additional canvassing capacity beyond current DHS staffing levels. DSS/DHS is seeking to establish an on-demand staffing contract that can provide supplemental staff during emergency weather activations, particularly Code Blue and Red. These staffers would be responsible for going into the field, walking significant distances, engaging with street homeless individuals and encouraging them to come indoors. Staffers would also be assigned to cooling and warming buses to greet homeless individuals by accessing such buses, monitoring them, and offering connections to shelters. Moreover, DSS/DHS may add additional services and titles not included in this Negotiated Acquisition but necessary to complete services.\n\nUnder the model, outreach operations will focus on high need areas identified as having the highest likelihood of unsheltered individuals, collectively representing approximately 75% of known unsheltered locations across the city. During an activation, outreach teams will canvass these zones to engage unsheltered individuals, visit known hotspots and encampments, conduct wellness checks, provide weather-safety education and supplies, and connect individuals to shelter and other available services. Teams will also coordinate with the Joint Command Center (JCC) regarding client requests, placements, transportation, and other operational needs. The frequency of canvassing will be scaled based on the duration and severity of each activation to ensure priority areas receive repeated and consistent coverage throughout an extended weather emergency.",
+  "description_fetched_at": "2026-11-03T11:08:34.868Z",
+  "content_hash": "c11416c3b098500ec13af8e740e98c861f2e4d31d435da2c9909a10ccd186b6c",
+  "first_seen_at": "2026-11-03T11:08:34.868Z",
+  "last_seen_at": "2026-11-03T11:08:34.868Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

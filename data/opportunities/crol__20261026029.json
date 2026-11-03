@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261026029",
+  "source": "crol",
+  "source_id": "20261026029",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261026029",
+  "title": "BWS Lab Coat Rental & Cleaning 7018036X",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-02",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-02",
+  "solicitation_number": "82627W0016001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 81674,
+  "contacts": [
+    {
+      "name": "Noah Shieh",
+      "email": "noahs@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "0d5df11befbb46ad01f56aaab726b92df42c64ea3dc4c145c95433247f0e7f64",
+  "first_seen_at": "2026-11-03T11:08:34.868Z",
+  "last_seen_at": "2026-11-03T11:08:34.868Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

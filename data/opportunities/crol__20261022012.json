@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261022012",
+  "source": "crol",
+  "source_id": "20261022012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022012",
+  "title": "Legal Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Campaign Finance Board",
+  "agency_path": "City of New York > Campaign Finance Board",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-02",
+  "due_at": "2026-11-06T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-02",
+  "solicitation_number": "004202700006N",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Michelle Archbald",
+      "email": "purchasing@nyccfb.info",
+      "phone": "(212) 409-1800"
+    }
+  ],
+  "submit_to": "100 Church Street, 12th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "Pursuant to PPB Rule 3-04(b)(2)(iv) of the Procurement Policy Board Rules, The Campaign Finance Board (CFB) intends to enter a Negotiated Acquisition with Lankler Siffert & Wohl LLP to provide services covering legal services to support with advice on anticipated litigation, which includes advice to CFB on legal risk arising from campaign audits and enforcement processes and leading the efforts for an independent performance audit/review of these processes that is required to support the CFB\u001as Legal Services Support for Performance Audit of the CFB Campaign Audit Function and Process project. \n\nContractor Address: 1185 Avenue of the Americas, New York, NY 10036\n\nMaximum Value: $250,000\n\nContract Term: 12/1/2026 through 11/30/2027\n\nRenewal Clauses: One (1) renewal option for one (1) year, from 12/1/2027 through 11/30/2028.\n\nThere is a need to procure Legal services or consulting services in support of anticipated litigation, investigative, or confidential services. For further opportunities, please visit nyccfb.info/vendors.",
+  "description_fetched_at": "2026-11-03T11:08:34.868Z",
+  "content_hash": "61a46fdcfa2f474e3a35bfe705dd2b980b0f8a9b7a84b9c82062e281c2bc95a9",
+  "first_seen_at": "2026-11-03T11:08:34.868Z",
+  "last_seen_at": "2026-11-03T11:08:34.868Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

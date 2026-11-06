@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261029006",
+  "source": "crol",
+  "source_id": "20261029006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261029006",
+  "title": "B2300083 - 3M SCOTT Fire & Safety (Brand Spec) FDNY",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-05",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-05",
+  "solicitation_number": "85724B0008001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 947466,
+  "contacts": [
+    {
+      "name": "Brian Lee",
+      "email": "blee@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Bid 2300083 - 3M SCOTT Fire & Safety (Brand Specific) FDNY - Renewal 1 of 1.\n\n1-Year Renewal of originally a 3-Year Requirements Contract for a price list/catalog of BRAND SPECIFIC 3M Scott Fire & Safety Products. Sponsoring Agency is FDNY.",
+  "description_fetched_at": "2026-11-06T11:08:08.196Z",
+  "content_hash": "50aa829a2a3858dfaecc7b5295e5269a30c480aa43ec9fa192b6d30d014cb65f",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261027002",
+  "source": "crol",
+  "source_id": "20261027002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027002",
+  "title": "Homebase Homelessness Prevention Network",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Human Resources Administration",
+  "agency_path": "City of New York > Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-04",
+  "due_at": "2026-11-05T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-04",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Stacey Cedeno",
+      "email": "cedenos@dss.nyc.gov",
+      "phone": "(929) 221-5887"
+    }
+  ],
+  "submit_to": "150 Greenwich Street, 31st Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration through its Office of Homelessness Prevention Administration, intends to renew three (3) contracts with the HELP Social Service Corporation, 115 East 13th Street, New York, NY 10003 for the Provision of Homebase Homelessness Prevention Network.\n\n \n\n815 Burke Avenue\n\nBronx, NY 10467\n\n1981 Sedwick Avenue\n\nBronx, NY 10453\n\nEPIN 06924P0008002R001\n\nService Area: Bronx, Service Area 2\n\n \n\n \n\n1780 Grand Concourse\n\nBronx, NY 10457\n\nEPIN 06924P0008005R001\n\nService Area: Bronx, Service Area 6\n\n \n\n \n\n1860-1864 East Tremont Avenue\n\nBronx, NY 10460\n\nEPIN 06924P0008016R001\n\nService Area: Bronx, Service Area 7\n\n \n\nThe renewal term of the contract will be from 07/01/2027 \u001a 06/30/2030. Anyone who has comments on the performance of the contractor, or the proposed renewal of the contracts may contact Stacey Cedeno at (929)-221-5887. This Notice is for informational purposes only.",
+  "description_fetched_at": "2026-11-06T11:08:08.196Z",
+  "content_hash": "4d6d1600e531258cc49b3c73ed7b49c99e0f5608b9fed65c8b1eadd71746ac43",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

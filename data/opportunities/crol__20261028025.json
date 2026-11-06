@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261028025",
+  "source": "crol",
+  "source_id": "20261028025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261028025",
+  "title": "05627Y0269-Barnacle Vehicle Immobilization devices",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-05",
+  "due_at": "2026-11-19T00:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-05",
+  "solicitation_number": "05627Y0269",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules, it is the intent of the New York City Police Department (\u001aNYPD\u001a) to enter into sole source negotiations with ITSA Solutions, LLC d/b/a Barnacle Parking Enforcement with the expectation that ITSA Solutions, LLC will be awarded a five year contract with three, 3-Year renewal options for the Lease of Barnacle Vehicle Immobilization devices. The basis of this determination is that ITSA Solutions, LLC is the sole provider and uniquely qualified to provide these specialized services for NYPD\u001as Traffic Enforcement Division and other Bureau\u001as. Any vendor besides ITSA Solutions, LLC that believes it can provide these services is invited to do so.  To respond in PASSPort, please upload an Expression of Interest in the Documents Submission Section of the Manage Responses tab.  If you have questions about the details of the RFx, please submit them through the Discussion with Buyer tab.",
+  "description_fetched_at": "2026-11-06T11:08:08.196Z",
+  "content_hash": "85b93b6fdd6cfb92e5c77d3642dcb1bede09787ab1f77bd7accf1d09849a1030",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

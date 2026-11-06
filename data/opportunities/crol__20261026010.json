@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261026010",
+  "source": "crol",
+  "source_id": "20261026010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261026010",
+  "title": "Non-Emergency Permanent Congregate Housing Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-04",
+  "due_at": "2026-11-10T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-04",
+  "solicitation_number": "06918P8303KXLR002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jacqueline Dudley",
+      "email": "dudleyj@hra.nyc.gov",
+      "phone": "(929) 252-2872"
+    }
+  ],
+  "submit_to": "375 Pearl Street, 25th Floor, New York, NY 10038",
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration (HRA) through its HIV/AIDS Services Administration (HASA) intends to renew one (1) contract with Services for the Underserved Inc for the provision of non-emergency permanent congregate housing. The renewal term of the contract will be from 6/1/2027 to 5/31/2032.\n\nAnyone having comments on the performance of the contractors, or the proposed renewal of the contracts may contact Jacqueline Dudley.\n\nThis notice is for informational purposes only.",
+  "description_fetched_at": "2026-11-06T11:08:08.196Z",
+  "content_hash": "70b79dcbae9d399c289301b12bb41d0f1c56251b2d5f4188cc76ea278200068b",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

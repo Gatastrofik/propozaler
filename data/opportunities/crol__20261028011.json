@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261028011",
+  "source": "crol",
+  "source_id": "20261028011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261028011",
+  "title": "Immediate Emergency Demo 55A Jefferson Ave BK Statewide Demolition",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-04",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-04",
+  "solicitation_number": "80627E0013001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Emergency Purchase",
+  "set_aside": null,
+  "estimated_value": 502882,
+  "contacts": [
+    {
+      "name": "Janice Mancia",
+      "email": "manciaj@hpd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "0eb834f744451d3ce91196f37e23640cc17ec1f42ed17324be57c3d9cc7ccfa4",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "exclude:title:demolition",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

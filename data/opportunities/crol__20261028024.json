@@ -1,0 +1,53 @@
+{
+  "id": "crol:20261028024",
+  "source": "crol",
+  "source_id": "20261028024",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261028024",
+  "title": "82627B0020-BEDC-CAT-475 High Level Outlet Install Gilboa Dam and Crest Gate Removal",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-05",
+  "due_at": "2026-12-29T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-05",
+  "solicitation_number": "82627B0020",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This Competitive Sealed Bid (\u001aRFx') is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0020 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8\n\nPre bid conference location - Microsoft TEAMS call in (audio only) +1 585-484-8792,,Phone Conference ID: 715372091# To join via Microsoft TEAMS video please go to Passport link in attachments and download \u001aNotice to Bidders (E-Bidding)\u001a. Mandatory: noDate/Time - 2026-11-16 10:00:00",
+  "description_fetched_at": "2026-11-06T11:08:08.196Z",
+  "content_hash": "ebbd3db724d1f6eea92541797c7dd51089e0a9c310b60cbb040b4d9edcc4ad4e",
+  "first_seen_at": "2026-11-06T11:08:08.196Z",
+  "last_seen_at": "2026-11-06T11:08:08.196Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261030022",
+  "source": "crol",
+  "source_id": "20261030022",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261030022",
+  "title": "Request for Expressions of Interest for Broadway Malls, W96 Street Building",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-06",
+  "due_at": "2026-12-11T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-06",
+  "solicitation_number": "M96-EX-2026",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Katherine Cognata",
+      "email": "katherine.cognata@parks.nyc.gov",
+      "phone": "(212) 360-3407"
+    }
+  ],
+  "submit_to": "830 5th Avenue, Room 407, New York, NY 10065",
+  "attachments": [],
+  "description_text": "The City of New York Department of Parks & Recreation (\u001aParks\u001a) is seeking responses to this Request for Expressions of Interest (\u001aRFEI\u001a) for the repurpose of the Broadway Malls, W96 Street Building and surrounding park area for a parks-use at Broadway Malls, Manhattan.\n\nThere will be a recommended remote informational meeting on Friday, November 13, 2026 at 12:00 p.m. If you are considering responding to this RFEI, please make every effort to attend this recommended remote proposer meeting. The link for this remote site meeting is as follows:\n\nhttps://teams.microsoft.com/meet/2924741961106178?p=MsKHXb4op1oOize4Fo\n\nMeeting ID:\n\n292 474 196 110 617 8\n\nPasscode:\n\nsp2e5Ah7\n\nDial in by phone\n\n+1 646-893-7101,,899924325# United States, New York City\n\nPhone conference ID: 899 924 325#\n\nSubject to availability and by appointment only, we may set up a meeting at the proposed concession site (Block #1243 & Lot #55) (\u001aLicensed Premises\u001a), which is located at W96 Street and Broadway in Manhattan.\n\n \n\nAll proposals submitted in response to this RFEI must be submitted no later than Friday, December 11, 2026 at 2:00 p.m.\n\n \n\nHard copies of the RFEI can be obtained, at no cost, commencing on Friday, November 6, 2026 by contacting Kat Cognata, Senior Project Manager at (212) 360-3407 or at katherine.cognata@parks.nyc.gov.\n\n \n\nThe RFEI is also available for download, commencing on Friday, November 6, 2026 on the Parks\u001a website.  To download the RFEI, visit www.nyc.gov/parks/businessopportunities, click on the link for \u001aConcessions Opportunities at Parks\u001a and, after logging in, click on the download\u001a link that appears adjacent to the RFEI\u001as description.\n\n \n\nFor more information, prospective proposers may contact Kat Cognata, Senior Project Manager, at (212) 360-3407 or at Katherine.Cognata@parks.nyc.gov\n\nDeaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user.\n\nAlternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+  "description_fetched_at": "2026-11-07T11:06:30.459Z",
+  "content_hash": "f7b87a80129a516132114b1662b281b0fe6c761d11f91027249025680dd8849f",
+  "first_seen_at": "2026-11-07T11:06:30.459Z",
+  "last_seen_at": "2026-11-07T11:06:30.459Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

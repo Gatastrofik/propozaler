@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261007001",
+  "source": "crol",
+  "source_id": "20261007001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007001",
+  "title": "OPEN-ENDED \u001a JUSTICE INVOLVED SUPPORTIVE HOUSING (JISH) RFP",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-06",
+  "due_at": "2026-12-31T23:59:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-06",
+  "solicitation_number": "81622P0004",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Richard Cheung",
+      "email": "rfp@health.nyc.gov",
+      "phone": "(347) 396-6658"
+    }
+  ],
+  "submit_to": "42-09 28th Street, 17th Floor, WS 17-89, Long Island City, NY 11101-4132",
+  "attachments": [],
+  "description_text": "The New York City Department of Health and Mental Hygiene ('Health Department') continues to seek proposals for the Justice Involved Supportive Housing (Open-Ended) Request for Proposals (RFP) through the City's Procurement and Sourcing Solutions Portal ('PASSPort' system).\n\nThis RFP is intended to procure and make available permanent supportive housing units for adults (18+); initially, the Health Department anticipates that the population would be comprised mainly of individuals who are frequently cycling through jail and shelter who have a mental illness and/or substance use disorder. The Health Department anticipates that the population matches may expand to include individuals who, in addition to having frequent contact with the criminal justice system and the homeless system, have also had frequent contact with the mental health treatment system.\n\nRFP documents and additional details can be found by visiting the PASSPort Procurement Navigator at https://nyc.gov/businessopportunities and searching by EPIN: '81622P0004'. For the latest information regarding any changes to the RFP be sure to read all released addenda.\n\nThis RFP is issued and remains available through the PASSPort system only to those organizations that have an account and an Approved HHS Accelerator PQL qualification status in PASSPort. Proposals and prequalification applications will be accepted on an on-going basis ONLY through PASSPort. If you do not have a PASSPort account or Approved PASSPort HHS Accelerator PQL Application, please visit https://nyc.gov/passport to get started. If you have any questions about your HHS Accelerator Prequalification status or for assistance with creating a PASSPort account, please visit https://nyc.gov/mocshelp.\n \n\nThis is an open-ended RFP. Therefore, proposals will be accepted and reviewed on an ongoing basis until the City\u001as needs are met.",
+  "description_fetched_at": "2026-11-07T11:06:30.459Z",
+  "content_hash": "070a5af11fc004025edf40f7782038992724b840264d188648a89498bfbfb314",
+  "first_seen_at": "2026-11-07T11:06:30.459Z",
+  "last_seen_at": "2026-11-07T11:06:30.459Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

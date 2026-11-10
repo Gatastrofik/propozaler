@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261102010",
+  "source": "crol",
+  "source_id": "20261102010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102010",
+  "title": "PEAK Drop In Centers Program NAE with CASES",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-09",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-09",
+  "solicitation_number": "78125N0002001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": 989808,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "PEAK (Pathways to Excellence, Achievement and Knowledge) is an intensive, education-focused Alternative to Placement (ATP) program for youth involved in the juvenile justice system. The program combines educational enrichment, behavioral and therapeutic supports, and ongoing probation supervision to improve academic and behavioral outcomes and help youth remain safely in the community rather than enter residential placement.\n\nPursuant to Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, DOP intends to extend the subject contract for one (1) year via the negotiated acquisition extension procurement method. Extending this contract for an additional year will prevent a disruption of these critical & mandated services. RFP is anticipated to be released Early 2025.",
+  "description_fetched_at": "2026-11-10T11:07:51.294Z",
+  "content_hash": "b84beccdc189a789775898f8d0ba91a7dc2b7184d94a8d19c8f7af43e5aa9e37",
+  "first_seen_at": "2026-11-10T11:07:51.294Z",
+  "last_seen_at": "2026-11-10T11:07:51.294Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

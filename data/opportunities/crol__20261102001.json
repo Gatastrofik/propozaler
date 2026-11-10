@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261102001",
+  "source": "crol",
+  "source_id": "20261102001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102001",
+  "title": "NYCHA Neighborhood Employment Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Probation",
+  "agency_path": "City of New York > Probation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-09",
+  "due_at": "2026-11-10T00:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-09",
+  "solicitation_number": "78126N0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Chairon Jeffrey",
+      "email": "cjeffrey@probation.nyc.gov",
+      "phone": "(212) 510-3797"
+    }
+  ],
+  "submit_to": "33 Beaver Street, 21st Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "Corrected Notice\n\nPursuant to Section 3-04(b)(2)(iii) of the New York City Procurement Policy Board (PPB) Rules, the New York City Department of Probation (DOP) intends to extend its existing contract with Center for Employment Opportunities, Inc. (CEO) through a Negotiated Acquisition Extension (NAE) for the continued provision of Neighborhood Employment Services.\n\nUnder this agreement, CEO will provide DOP clients and other justice-involved young adults with job readiness services, contractor-supervised transitional work opportunities at New York City Housing Authority (NYCHA) locations, and subsequent job placement and retention services.\n\nDOP has determined that a negotiated acquisition extension is necessary to address a compelling need for the continued provision of these essential employment services without interruption. The extension will allow DOP to maintain services with the existing provider while addressing its longer-term contracting needs. The proposed extension period represents the minimum time necessary to maintain service continuity.\n\nThe proposed extension term is March 1, 2025, through February 28, 2027, for a total not-to-exceed amount of $8,549,814.70. This notice updates and supersedes the previously published Notice of Intent dated November 26, 2025, to reflect the revised contract term and amount.\n\nVendors interested in expressing interest in this procurement or future opportunities to provide similar services may contact the Department of Probation at CJeffrey@probation.nyc.gov, referencing EPIN 78126N0001001.",
+  "description_fetched_at": "2026-11-10T11:07:51.294Z",
+  "content_hash": "5e4791be189f5436af483725ed3add41885c5e315596045225d57cc55c619e86",
+  "first_seen_at": "2026-11-10T11:07:51.294Z",
+  "last_seen_at": "2026-11-10T11:07:51.294Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

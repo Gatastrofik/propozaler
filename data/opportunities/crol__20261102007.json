@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261102007",
+  "source": "crol",
+  "source_id": "20261102007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102007",
+  "title": "Homebase Homelessness Prevention Network - Brooklyn, Service Area 4",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Human Resources Administration",
+  "agency_path": "City of New York > Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-09",
+  "due_at": "2026-11-10T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-09",
+  "solicitation_number": "06924P0008013R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Stacey Cedeno",
+      "email": "cedenos@dss.nyc.gov",
+      "phone": "(929) 221-5887"
+    }
+  ],
+  "submit_to": "150 Greenwich Street, 31st Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration through its Office of Homelessness Prevention Administration intends to renew one (1) contract with the contractor listed below for Homebase Homelessness Prevention Network, 1900 Ralph Avenue, Brooklyn, NY 11234\n\nThe renewal term of the contract will be from 07/01/2027 \u001a 06/30/2030. Anyone who has comments on the performance of the contractor, or the proposed renewal of the contracts may contact Stacey Cedeno at (929)-221-5887. This Notice is for informational purposes only.\n\nCatholic Charities Neighborhood Services Inc\n191 Joralemon Street, 3rd and 14th Floor \nBrooklyn, NY 11201",
+  "description_fetched_at": "2026-11-10T11:07:51.294Z",
+  "content_hash": "94c8b6a04be94a514b3923cbbc48d54eb5b39719ac0753ae5211ec2f82d98272",
+  "first_seen_at": "2026-11-10T11:07:51.294Z",
+  "last_seen_at": "2026-11-10T11:07:51.294Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

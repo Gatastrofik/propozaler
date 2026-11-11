@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261102018",
+  "source": "crol",
+  "source_id": "20261102018",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102018",
+  "title": "Keysight Equipment and Related Training",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - Kings County",
+  "agency_path": "City of New York > District Attorney - Kings County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-10",
+  "due_at": "2026-11-25T12:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-10",
+  "solicitation_number": "2027199263",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Sole Source",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Sukhjeet Singh",
+      "email": "singhsu@brooklynda.org",
+      "phone": "(718) 250-2257"
+    }
+  ],
+  "submit_to": "350 Jay Street, Brooklyn, NY 11201",
+  "attachments": [],
+  "description_text": "Keysight Technologies Inc is the only provider of equipment and training in electromagnetic fault injection and side channel analysis techniques. We have determined this sole source award is in the best interest of the KCDA because Keysight Technologies Inc is the sole source seller and provider of maintenance in the United States. We have established the vendor has no other authorized re-sellers, a signed letter from Keysight Technologies Inc contracts specialist confirming Keysight is the sole source supplier for various Keysight Equipment and Trainings in the United States.",
+  "description_fetched_at": "2026-11-11T11:14:04.517Z",
+  "content_hash": "57723d9185ef363f12bb4c796853c6fa5199885e7eb1e0da67484bbd545db2ed",
+  "first_seen_at": "2026-11-11T11:14:04.517Z",
+  "last_seen_at": "2026-11-11T11:14:04.517Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

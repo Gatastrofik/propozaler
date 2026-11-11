@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261102031",
+  "source": "crol",
+  "source_id": "20261102031",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102031",
+  "title": "FY28 - NYNYIII Permanent housing and services to HIV/AIDS Services Administration (HASA) clients",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Human Resources Administration",
+  "agency_path": "City of New York > Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-10",
+  "due_at": "2026-11-12T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-10",
+  "solicitation_number": "06922P0034009R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jacqueline Dudley",
+      "email": "dudleyj@hra.nyc.gov",
+      "phone": "(929) 252-2872"
+    }
+  ],
+  "submit_to": "375 Pearl Street, New York, NY 10019",
+  "attachments": [],
+  "description_text": "The New York City Human Resources Administration, through its Provision of NYNYIII Permanent housing and services to HIV/AIDS Services Administration (HASA) clients, who have a history of mental illness, substance abuse disorder, or mental illness with a co-occurring substance use disorder.\n\nThe renewal term of the contract will be from 07/01/2027 \u001a 06/30/2032. Anyone who has comments on the performance of the contractor, or the proposed renewal of the contracts may contact Jacqueline Dudley at (929)-252-2872. This Notice is for informational purposes only.\n\nBronxWorks, Inc.\n60 East Tremont Avenue\nBronx, NY 10453",
+  "description_fetched_at": "2026-11-11T11:14:04.517Z",
+  "content_hash": "2950c27eb50b65cc4443185f04bbf421386041ad53dbef519be3189f4544bc24",
+  "first_seen_at": "2026-11-11T11:14:04.517Z",
+  "last_seen_at": "2026-11-11T11:14:04.517Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

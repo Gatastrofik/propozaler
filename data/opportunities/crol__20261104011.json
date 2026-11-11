@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261104011",
+  "source": "crol",
+  "source_id": "20261104011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261104011",
+  "title": "Xerox Docushare Support for FY27",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-10",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-10",
+  "solicitation_number": "06827O0002001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 57600,
+  "contacts": [
+    {
+      "name": "Wayne Coger",
+      "email": "wayne.coger@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "13986481d5d22b6661b34e44fa1ccfe656f1d2a78ecd4fd64c797dca3adaac3d",
+  "first_seen_at": "2026-11-11T11:14:04.517Z",
+  "last_seen_at": "2026-11-11T11:14:04.517Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

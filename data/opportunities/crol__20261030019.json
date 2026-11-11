@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261030019",
+  "source": "crol",
+  "source_id": "20261030019",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261030019",
+  "title": "SMD_A&CM_ RFQ'S 523158 & 523159 - IDIQ CONTRACT FOR JOC ENVIRONMENTAL SERVICES CITYWIDE",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-10",
+  "due_at": "2026-12-22T23:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-10",
+  "solicitation_number": null,
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Cheryl Barr",
+      "email": "cheryl.barr@nycha.nyc.gov",
+      "phone": "(212) 306-6487"
+    }
+  ],
+  "submit_to": "90 Church Street, 6th Floor, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The Contractor shall provide all labor, supervision, materials, equipment, and incidentals necessary to identify, manage, and remediate environmental hazards including, but not limited to, lead, asbestos, mold, and other hazardous materials in compliance with all applicable federal, state, and local regulations.\n\nWork shall include site assessments and testing; regulatory compliance and permitting; establishment of containment measures; abatement, removal, or encapsulation of hazardous materials; proper handling and disposal of waste; air monitoring and clearance testing; emergency response services; and complete documentation and reporting.\n\nThe Contractor shall coordinate all activities with the Owner and relevant stakeholders to ensure safe execution and minimal disruption. All work shall be performed in a safe, timely, and professional manner in accordance with JOC contract requirements.\n\nRFQ Solicitation Timetable:\n\nA conference will be held on 11/18/2026 at 11:00 A.M., via Microsoft Teams. Pre-bid Teams Meeting information: (646) 838-1534 Conference ID: (265 241 740 225 185 6) Passcode: dz6kX98T. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend. In order to RSVP to the Pre-Bid Conference and obtain the Teams Meeting link to view the virtual conference email\n\nacm.procurement@nycha.nyc.gov with the RFQ number as the Subject line to confirm attendance.\n\nhttps://teams.microsoft.com/meet/2652417402251856?p=1XrYLH5wcW1xZssYrq\n\nAll questions related to this RFQ are to be submitted via email to the CPD Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 12/01/2026 on 2:00 P.M. Bidders will be permitted to ask additional questions at the Bidders\u001a Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ.\n\nBid Submission Requirements:\n\nVendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail.\n\nPre-Bid Conference: November 18, 2026, 11:00 A.M.\n\nSite Visit: November 20, 2026, 11:00 A.M.\n\nRFQ Question Deadline: December 01, 2026, 2:00 P.M.\n\nQuestion and Answer Release Date: December 10, 2026\n\nInstructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page. After Bidder registers for iSupplier, it typically takes 24 to 72 hours for Bidder\u001as iSupplier profile to be approved.\n\nIt is Vendors\u001a sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.\n\nFor assistance regarding iSupplier please email procurement@nycha.nyc.gov",
+  "description_fetched_at": "2026-11-11T11:14:04.517Z",
+  "content_hash": "0f1f6bc91cda292a41f341cb34485df953b4b4e8d191fecf9ed381dcc0549e5c",
+  "first_seen_at": "2026-11-11T11:14:04.517Z",
+  "last_seen_at": "2026-11-11T11:14:04.517Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

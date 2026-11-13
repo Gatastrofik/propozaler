@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261105023",
+  "source": "crol",
+  "source_id": "20261105023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261105023",
+  "title": "When & Where Structural and Miscellaneous Repair Brooklyn, Bronx and Staten Island",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-12",
+  "due_at": "2026-12-16T11:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-12",
+  "solicitation_number": "84126B0029",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": ".",
+      "email": "."
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "This Competitive Sealed Bid (CSB) is being released through PASSPort, New York City\u001as online procurement portal. Responses to this CSB must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the \u001aProcurement Navigator.\u001a This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN 84126B0029 into the Keywords search field. In order to respond to the Competitive Sealed Bid, vendors must create an account within the PASSPort system if they have not already done so. This procurement is subject to MBE 2% and WBE 2% participation goals. A Pre-bid Conference (Optional) has been scheduled for 11/18/26 at 10:00 A.M. through Zoom/Teams. Those who wishing to attend must email the authorized agency contact for a Zoom/Teams link. Any inquiries concerning this Competitive Sealed Bid should be directed by email to agency contact nkumar@dot.nyc.gov, under the subject line EPIN: 84126B0029.",
+  "description_fetched_at": "2026-11-13T11:07:34.150Z",
+  "content_hash": "0a86c704ca849d92deb2741e6fe22f4a7f6e257784c187e0f28c912668151a78",
+  "first_seen_at": "2026-11-13T11:07:34.150Z",
+  "last_seen_at": "2026-11-13T11:07:34.150Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261104013",
+  "source": "crol",
+  "source_id": "20261104013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261104013",
+  "title": "SMD_A&CM_RFQ #518113 - Elevator Rehabilitation and Maintenance for Haber Houses, Coney Island Site 8 and O\u001aDwyer Gardens",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-12",
+  "due_at": "2026-12-16T11:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-12",
+  "solicitation_number": "518113",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Shane Clark",
+      "email": "shane.clark@nycha.nyc.gov",
+      "phone": "(212) 306-4558"
+    }
+  ],
+  "submit_to": "90 Church Street, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The Work under this Contract (RFQ No. 518113 \u001a Elevator Package) consists of the rehabilitation, modernization, maintenance, and service of six (6) elevators at Haber Houses, thirteen (13) elevators at O'Dwyer Gardens, and two (2) elevators at Coney Island I Site 8. The Contractor shall provide all labor, materials, equipment, supervision, and incidental services necessary to complete the Work in accordance with the Contract Documents.\n\nThe scope includes, but is not limited to, the removal and replacement of existing elevator systems and the furnishing and installation of new elevator equipment, including machines, controls, hoistway components, car enclosures, doors, communication systems, safety devices, and associated electrical components. The Work also includes testing, inspection, commissioning, training, and coordination with NYCHA and other trades, including separate electrical and abatement packages.\n\nThe Work shall be performed in phased construction to maintain building operations, with coordination requirements intended to minimize service interruptions and impacts to residents. The Contractor shall comply with all scheduling, outage duration, and performance requirements established in the Contract Documents.\n\nIn addition to construction and modernization activities (Part A), the Contractor shall enter into a separate Maintenance and Service Agreement (Part B) to provide ongoing elevator maintenance and support services during and following the completion of modernization.\n\nRFQ Solicitation Timetable\n\n A non-mandatory virtual pre-bid conference will be held on 11/18/2026 at 10:00 AM, via Microsoft Teams. Pre bid Teams Meeting information: (646) 838-1534 Conference ID: (280 858 634 432 1552 Passcode: oM6d5wx2. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend.\n\nhttps://teams.microsoft.com/meet/2808586344321552?p=eRQjwwSPdDWuS6r0Av\n\nAll questions related to this RFQ are to be submitted via email to the A&CM Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 12/02/2026 on 2:00PM Bidders will be permitted to ask additional questions at the Pre-bid Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ.\n\nBid Submission Requirements\n\nVendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail.\n\nSite Visits - November 19, 2026 - 09:00 AM\n\nRFQ Question Deadline December 02, 2026 - 02:00 PM\n\nQuestion and Answer Release Date - December 09, 2026\n\nInstructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendorregistration.page\n\nAfter Bidder registers for iSupplier, it typically takes 24 to 72 hours for Bidder\u001as iSupplier profile to be approved. It is Vendors\u001a sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. For assistance regarding iSupplier please email procurement@nycha.nyc.gov",
+  "description_fetched_at": "2026-11-13T11:07:34.150Z",
+  "content_hash": "5d9b48afd9fa97b2315c204308cad215f20a2ea2c666d6fd0b3a3fb5e89f9ec3",
+  "first_seen_at": "2026-11-13T11:07:34.150Z",
+  "last_seen_at": "2026-11-13T11:07:34.150Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

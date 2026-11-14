@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261106006",
+  "source": "crol",
+  "source_id": "20261106006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106006",
+  "title": "102(f) Professional Development Off-the-Shelf Training",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-13",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-13",
+  "solicitation_number": "85627U0017001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 99999,
+  "contacts": [
+    {
+      "name": "Alison Chen",
+      "email": "alichen@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "ea56fca2a8acc4b9fb665e090386693e4ea621dcf80a3b3ca385376ae360eaab",
+  "first_seen_at": "2026-11-14T11:06:51.209Z",
+  "last_seen_at": "2026-11-14T11:06:51.209Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

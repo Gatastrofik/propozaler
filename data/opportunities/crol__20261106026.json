@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261106026",
+  "source": "crol",
+  "source_id": "20261106026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106026",
+  "title": "FMC-ROLLUP DOOR-2027 - Installation and Repair of overhead roll up doors, Citywide",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-13",
+  "due_at": "2026-12-10T10:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-13",
+  "solicitation_number": "82627B0008",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction Related Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Fabian Heras",
+      "email": "fheras@dep.nyc.gov",
+      "phone": "(718) 595-4472"
+    }
+  ],
+  "submit_to": ".",
+  "attachments": [],
+  "description_text": "This Competitive Sealed Bid (\u001aRFx') is being released through PASSPort, New York City\u001as online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0008 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8\n\nBid opening Location - Microsoft TEAMS Pre bid conference location -Microsoft TEAMS Mandatory: no Date/Time - 2026-11-23 10:00:00",
+  "description_fetched_at": "2026-11-14T11:06:51.209Z",
+  "content_hash": "499eeda7e6096debc7ac18aa62f2e4de58645bde6a4df058f3b975f4ff5cf623",
+  "first_seen_at": "2026-11-14T11:06:51.209Z",
+  "last_seen_at": "2026-11-14T11:06:51.209Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction Related Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

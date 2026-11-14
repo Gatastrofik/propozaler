@@ -1,0 +1,60 @@
+{
+  "id": "crol:20261106020",
+  "source": "crol",
+  "source_id": "20261106020",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106020",
+  "title": "Jacobi Building 1 Roof 2",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-13",
+  "due_at": "2027-01-07T11:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-13",
+  "solicitation_number": "21202604",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jannet Olivera",
+      "email": "janet.olivera@nychhc.org",
+      "phone": "(212) 442-3680"
+    }
+  ],
+  "submit_to": "55 Water Street, 25th Floor, New York, NY 10041",
+  "attachments": [],
+  "description_text": "LOCATION: Jacobi Medical Center, 1400 Pelham Parkway South, Bronx, NY 10461\n\nMANDATORY PRE-BID MEETING INFORMATION\n\n-    Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for:\n\no    Tuesday, November 17, 2026, at 11:30 A.M.\no    Wednesday, November 18, 2026, at 11:30 A.M.\n\n-    LOCATION: 1400 Pelham Parkway South, Bronx, NY 10461, Building #4, 1st Fl, Cafeteria (Tower Cafe)\n\nREQUESTS FOR INFORMATION (RFI)\n\n-    Technical questions must be submitted in writing by email no later than Wednesday, December 1, 2026, by COB to Janet.olivera@nychhc.org, Elizabeth.Youngbar@nychhc.org and Clifton.Mclaughlin@nychhc.org\n\nADDITIONAL INFORMATION\n\n-    NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. \n\n-    Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply.\n\n-    Bidder\u001as List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings.\n\n-    MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 31%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+  "description_fetched_at": "2026-11-14T11:06:51.209Z",
+  "content_hash": "b624b45a5f440f638e0d5c5aaf6fb436060b6012e302caa6d0c62d3aa930bf32",
+  "first_seen_at": "2026-11-14T11:06:51.209Z",
+  "last_seen_at": "2026-11-14T11:06:51.209Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "exclude:title:roof",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

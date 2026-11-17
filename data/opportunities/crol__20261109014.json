@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261109014",
+  "source": "crol",
+  "source_id": "20261109014",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261109014",
+  "title": "Community Partnerships East Harlem Manhattan 11",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Administration for Children's Services",
+  "agency_path": "City of New York > Administration for Children's Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-16",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-16",
+  "solicitation_number": "06826P0001008",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals/Pre-Qualified List",
+  "set_aside": null,
+  "estimated_value": 1537500,
+  "contacts": [
+    {
+      "name": "Onajite Edah",
+      "email": "onajite.edah@acs.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "This Request for Proposals (RFP) is seeking qualified contractors to run Community Partnership programs. Partnerships elevate resident leadership and voice, creating inclusive spaces for residents, organizations, and government partners (including ACS) to connect, share information and design and advance well-being strategies shaped by local priorities and are responsive to community and family wants and needs. Total cost includes 25% allowance. There will be a total of 11 awards in 11 community districts across the City from this RFP.\n\nSpecial Case Determination not required because procurement is for Client/Human Services and is the preferred method under PPB Rule 3-01 (c)",
+  "description_fetched_at": "2026-11-17T11:06:42.885Z",
+  "content_hash": "54160d5f5e636880bb07c7ede4829e9acb69b91f3fbb684187d926ae646be0e7",
+  "first_seen_at": "2026-11-17T11:06:42.885Z",
+  "last_seen_at": "2026-11-17T11:06:42.885Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

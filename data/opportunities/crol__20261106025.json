@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261106025",
+  "source": "crol",
+  "source_id": "20261106025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106025",
+  "title": "Electrical System Replacement - 156 South 9th Street, Brooklyn",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Preservation and Development",
+  "agency_path": "City of New York > Housing Preservation and Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-16",
+  "due_at": "2026-12-02T13:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-16",
+  "solicitation_number": "80626B0039",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Brian C Saunders",
+      "email": "saunderb@hpd.nyc.gov",
+      "phone": "(212) 863-6590"
+    }
+  ],
+  "submit_to": "100 Gold Street, Room 6-M3, New York NY 10038",
+  "attachments": [],
+  "description_text": "NYC Department of Housing Preservation & Development ('HPD') is responsible to install and repair electrical systems to ensure essential services. HPD has neither sufficient staff with the requisite expertise, nor the equipment necessary to perform this type of work. Qualified bidders must have three years' experience performing this type of work.\n\nProspective bidders are encouraged to engage with this procurement, access solicitation documents and submit bids through PASSPort: http://www.nyc.gov/BusinessOpportunities (search for '156 S 9 St BK'). Delivery of original bid security may be required as instructed in PASSPort.",
+  "description_fetched_at": "2026-11-17T11:06:42.885Z",
+  "content_hash": "a457bf257fa6d9c74b2784c4853361500c7ef14f529e4f74ff36da18b2c9c132",
+  "first_seen_at": "2026-11-17T11:06:42.885Z",
+  "last_seen_at": "2026-11-17T11:06:42.885Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

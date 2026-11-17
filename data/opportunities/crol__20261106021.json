@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261106021",
+  "source": "crol",
+  "source_id": "20261106021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106021",
+  "title": "82727Y0465-Handheld Radionuclide Identification Devices (RIDs)",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Sanitation",
+  "agency_path": "City of New York > Sanitation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-16",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-16",
+  "solicitation_number": "82727W0014001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 500000,
+  "contacts": [
+    {
+      "name": "Julianne DeGirolarmo",
+      "email": "jdegirolarmo@dsny.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "7fa0121591c3d6e09bfe7ca4d52fef78cbffb523fb55b9460cbddcef3740d4ae",
+  "first_seen_at": "2026-11-17T11:06:42.885Z",
+  "last_seen_at": "2026-11-17T11:06:42.885Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

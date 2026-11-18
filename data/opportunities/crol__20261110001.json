@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261110001",
+  "source": "crol",
+  "source_id": "20261110001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261110001",
+  "title": "UPS Upgrades and Deployment at BXDA Data Center",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "District Attorney - Bronx County",
+  "agency_path": "City of New York > District Attorney - Bronx County",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-17",
+  "due_at": "2026-11-27T16:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-17",
+  "solicitation_number": "902NUPSDATACENTER1",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Jonathan Demera",
+      "email": "contractsbxda@bronxda.nyc.gov",
+      "phone": "(718) 664-1255"
+    }
+  ],
+  "submit_to": "198 East 161st Street, Bronx, NY 10451",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(i)(D) of the Procurement Policy Board Rules, the Bronx District Attorney\u001as Office (BXDA) intends to enter into a Negotiated Acquisition contract with Jones Lang La Salle Americas, Inc. (Skae) for the UPS Upgrades and Deployment for the Bronx DA Datacenter located at 198 E 161st Street. \n\nThe contract term will be from 01/18/2027 through 01/17/2030. The proposed budget is $781,258.91\n\nTHIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY. Vendors can express interest in responding to a future procurement to provide these services by sending such request via email to ContractsBXDA@bronxda.nyc.gov.",
+  "description_fetched_at": "2026-11-18T11:07:42.348Z",
+  "content_hash": "2359e4a79e6b51c3b9d48afd2c480bf2fd10d5fcd969746b40441dfd80a5e4c2",
+  "first_seen_at": "2026-11-18T11:07:42.348Z",
+  "last_seen_at": "2026-11-18T11:07:42.348Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

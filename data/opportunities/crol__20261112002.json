@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261112002",
+  "source": "crol",
+  "source_id": "20261112002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261112002",
+  "title": "Temporary Security Staffing",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": "2026-12-18T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-18",
+  "solicitation_number": "2886",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Bennett Mahler",
+      "email": "rfp_contacts@nychhc.org",
+      "phone": "(646) 584-4069"
+    }
+  ],
+  "submit_to": "50 Water Street, 5th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "NYC Health + Hospitals\u001a Hospital Police department is seeking qualified vendors to provide Temporary Security Staffing Services to support a range of needs across the enterprise. Staff will be provided upon request at all locations to include Acute Care Hospitals, Long Term Care facilities, Ambulatory Clinics, and office locations. \n\nThe objective of this RFP is to identify vendors to streamline the allocation of resources pertaining to the planning, procuring, and scheduling of temporary security staff as needs are identified at the System\u001as facilities. The awarded vendor will be expected to provide metrics in support of improved efficiencies around temporary security staff recruitment and placement.",
+  "description_fetched_at": "2026-11-19T11:06:34.738Z",
+  "content_hash": "885f50e9f41f58b6821ef08e9ad451d41b6fc9241d8abf62677025b10fab2d6b",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261112011",
+  "source": "crol",
+  "source_id": "20261112011",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261112011",
+  "title": "Sexual Harassment Prevention Train-the-Trainer Program",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Citywide Administrative Services",
+  "agency_path": "City of New York > Citywide Administrative Services",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-18",
+  "solicitation_number": "85627W0074001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 28000,
+  "contacts": [
+    {
+      "name": "Oscar Aston",
+      "email": "oaston@dcas.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "83abbd48691f128300d9f62b8ad3b3afc65e72efa4d6895345f570d0eff39e89",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

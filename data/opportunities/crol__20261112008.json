@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261112008",
+  "source": "crol",
+  "source_id": "20261112008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261112008",
+  "title": "NON-STANDARD PEDESTRIAN RAMP",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Design and Construction",
+  "agency_path": "City of New York > Design and Construction",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-18",
+  "solicitation_number": "85026B0061001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Construction/Construction Services",
+  "selection_method": "Competitive Sealed Bids",
+  "set_aside": null,
+  "estimated_value": 26893320,
+  "contacts": [
+    {
+      "name": "Chrisari Then",
+      "email": "thench@ddc.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "HWP21KRC Non-Standard Pedestrian Ramp Installations Including Curbs and Sidewalk Reconstruction, Pavement Markings, Street Lighting, and Traffic Signal Work. 730 ccds Brooklyn CBs: - BK-6, BK-7, BK-8, BK-10, BK-11, BK-12, BK-13, BK-14, BK-15, BK-16, BK-17 Staten Island CB - SI-1\n\nSpecial Case Determination not applicable - As per PPB Rule 3-01 (b) using Preferred Method - Competitive Sealed Bidding awarded to lowest bid",
+  "description_fetched_at": "2026-11-19T11:06:34.738Z",
+  "content_hash": "07abb88c741268042e191e2cdf13a72cade2646be607e2d58aa2b8db457fb6fb",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Construction/Construction Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261104004",
+  "source": "crol",
+  "source_id": "20261104004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261104004",
+  "title": "Supported SRO Housing Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": "2026-11-30T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-18",
+  "solicitation_number": "27AZ018501R0X00",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Yau Cheung Tsang",
+      "email": "ytsang@health.nyc.gov",
+      "phone": "(347) 396-6661"
+    }
+  ],
+  "submit_to": "42-09 28th Street, WS 17-85, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-04(b)(2)(ii) of the Procurement Policy Board (PPB) Rules, the Department of Health and Mental Hygiene (DOHMH) intends to enter into a Negotiated Acquisition with The Jericho Project to provide housing and support services for young adult individuals or parents in a congregate supportive housing setting.\n\nCompetitive Sealed Bidding or Competitive Sealed Proposals are neither practical nor advantageous due to the limited number of vendors available and qualified to perform these specialized services, as evidenced by the Human Resources Administration (HRA) RFP (EPIN 09617I0006). This open-ended RFP remains open because the City is attempting to increase supportive housing stock. Because the HRA RFP remains open, DOHMH does not anticipate receiving alternative expressions of interest for current supporting housing units.\n\nThe Jericho Project has demonstrated satisfactory performance. The proposed contract term is for 9 years, with an anticipated start date of January 1, 2027, and a total procurement value of $11,053,955.00\n\nThis notice is for informational purposes only.",
+  "description_fetched_at": "2026-11-19T11:06:34.738Z",
+  "content_hash": "98f840cb9317e7b3daf9f13376f5efb21c331feb659e25fcdc7296bd4ff15ea6",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

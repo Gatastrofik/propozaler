@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261110026",
+  "source": "crol",
+  "source_id": "20261110026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261110026",
+  "title": "05727Y0678-057270000505- Survival Systems USA Training Facility Use",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": "2026-12-01T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-18",
+  "solicitation_number": "05727Y0678",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules the New York City Fire Department (FDNY) intends to enter into sole source negotiations with Survival Systems USA to procure Training Tank Facility Use per Specification located in the Documents Tab of this RFI.\n\nAny vendor, besides Survival Systems USA, that believes they can provide Training Tank Facility Use is invited to express its interest by submitting a response in PASSPort. Complete the Acknowledgement tab and submit a response in the Document Submision Tab. If you have questions about the details of the RFx please submit them through the Discussion with buyer tab.\n\nVendor resources and materials can be found at the link below under the Findings and Responding to RFx (Solicitations) heading:https://www.nyc.gov/assets/mocs/downloads/PASSPort/learning-to-use-passport/Finding_and_Responding_to_RFx_Vendor_Manual.pdf\n\nIf you need additional assistance, please contact MOCS Service desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8, once there click on Request Assistance to Submit your question.",
+  "description_fetched_at": "2026-11-19T11:06:34.738Z",
+  "content_hash": "d1fd1dd55495778bcafdb19c88585a5f5bf9cb4ef19940e73aa4e8ce405be912",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

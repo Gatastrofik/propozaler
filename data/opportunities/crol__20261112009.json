@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261112009",
+  "source": "crol",
+  "source_id": "20261112009",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261112009",
+  "title": "City Map and Address Assignment - Document Digitization Project",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "City Planning",
+  "agency_path": "City of New York > City Planning",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-18",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-18",
+  "solicitation_number": "03027M0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Required Method (including Preferred Source)",
+  "set_aside": null,
+  "estimated_value": 99999,
+  "contacts": [
+    {
+      "name": "Shaena Wilson",
+      "email": "swilson@planning.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "813a2df0236cf20174112e43d079c36693071f7a3a72a376802e20fee1e5b0a8",
+  "first_seen_at": "2026-11-19T11:06:34.738Z",
+  "last_seen_at": "2026-11-19T11:06:34.738Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

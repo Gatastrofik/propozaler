@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261113010",
+  "source": "crol",
+  "source_id": "20261113010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261113010",
+  "title": "CGRTB-Outpost Model 50 Display Boards",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Parks and Recreation",
+  "agency_path": "City of New York > Parks and Recreation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-19",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-19",
+  "solicitation_number": "84627W0009001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "M/WBE Noncompetitive Small Purchase",
+  "set_aside": null,
+  "estimated_value": 23980,
+  "contacts": [
+    {
+      "name": "Yisqueiry maldonado",
+      "email": "y.maldonado@parks.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "dba7daa927d270b6ee9f2144cdc649f3108cc6c795f1980d7f69e2a7c35ede95",
+  "first_seen_at": "2026-11-20T11:07:41.085Z",
+  "last_seen_at": "2026-11-20T11:07:41.085Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

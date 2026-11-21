@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261116006",
+  "source": "crol",
+  "source_id": "20261116006",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261116006",
+  "title": "Public Sector Leadership Development Training",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-20",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-20",
+  "solicitation_number": "84122U0004001R002",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 97500,
+  "contacts": [
+    {
+      "name": "David Maco",
+      "email": "dmaco@dot.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": null,
+  "description_fetched_at": null,
+  "content_hash": "35e6da2601db68a28311b60a250a0600908add63d384f9bb7e446f1d636d1b81",
+  "first_seen_at": "2026-11-21T11:06:52.876Z",
+  "last_seen_at": "2026-11-21T11:06:52.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

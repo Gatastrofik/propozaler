@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261116026",
+  "source": "crol",
+  "source_id": "20261116026",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261116026",
+  "title": "83627Y0163-IXP-MDS Gateway Maintenance and Support Services",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Finance",
+  "agency_path": "City of New York > Finance",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-20",
+  "due_at": "2026-12-01T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-20",
+  "solicitation_number": "83627Y0163",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules, it is the intent of the New York City Department of Finance (\u001aDOF\u001a) to enter into sole source negotiations with IXP Corporation for the continuation of Mobile Data System (MDS) Gateway Maintenance and Support Services.\n\nAny vendor, who is an authorized reseller for IXP Corporation that provide the MDS Gateway Maintenance and Support Services is invited to express its interest by submitting a response in PASSPort. Please complete the Acknowledgment tab and submit a response in the Manage Responses tab. If you have questions about the details of the RFx, please submit through the Discussion with Buyer tab.\n\nVendor resources and materials can be found at the link below under the Finding and Responding to RFx (Solicitation) heading:\nhttps://www.nyc.gov/site/mocs/passport/getting-started-with-passport.page  \n\nIf you need additional assistance with PASSPort, please contact the MOCS Service Desk via:  https://mocssupport.atlassian.net/servicedesk/customer/portal/8\n(Click on Request Assistance)",
+  "description_fetched_at": "2026-11-21T11:06:52.876Z",
+  "content_hash": "075bc9557aec1253d0afcb4fa9d4a9d1a8558a187c10e14f3d87f23b791cae73",
+  "first_seen_at": "2026-11-21T11:06:52.876Z",
+  "last_seen_at": "2026-11-21T11:06:52.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

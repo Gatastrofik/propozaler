@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261116008",
+  "source": "crol",
+  "source_id": "20261116008",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261116008",
+  "title": "FY27-RQS-MHY #8325 Supported SRO",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-20",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-20",
+  "solicitation_number": "81627R0001001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Required/Authorized Source",
+  "set_aside": null,
+  "estimated_value": 6746524,
+  "contacts": [
+    {
+      "name": "Tamala Watson",
+      "email": "twatson2@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York State Office of Mental Health ('OMH') requires the NYC Department of Health and Mental Hygiene ('DOHMH') to contract with Unique People Services to support the continuation of supportive housing services (23 beds) for The James Bryant Program located at 2027 Madison Avenue, New York NY 10035. To provide individuals with access to permanent and supportive affordable housing in New York City and to assist tenants by preventing homelessness, incarceration, and medical and psychiatric hospitalization. This is accomplished by helping the tenants develop skills for independent living, positive social connections, parenting, obtain benefits, develop vocational and educational skills, pursue employment, create linkages for health/mental health care, and, where possible, family reunification.",
+  "description_fetched_at": "2026-11-21T11:06:52.876Z",
+  "content_hash": "b0809dd4b3c6e63e8d2d85985e689efc36b66dbc8f47403ea41e3f6ec8e4cfbc",
+  "first_seen_at": "2026-11-21T11:06:52.876Z",
+  "last_seen_at": "2026-11-21T11:06:52.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

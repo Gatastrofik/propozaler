@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261117007",
+  "source": "crol",
+  "source_id": "20261117007",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261117007",
+  "title": "PREVENTIVE MAINTENANCE AND REPAIR OF GODWIN PUMPS, VARIOUS",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Environmental Protection",
+  "agency_path": "City of New York > Environmental Protection",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-23",
+  "solicitation_number": "82623B0021001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 1242629,
+  "contacts": [
+    {
+      "name": "Andrey Hauron",
+      "email": "ahauron@dep.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "BWT-1595-GWN: The work under this contract is to provide all necessary labor, parts, materials and equipment for the maintenance and repair of Godwin pumps located at various Wastewater Resource Recovery Facilities and associated New York City Department of Environmental Protection (DEP) facilities. The Work under this Contract shall consist of Work on at least two (2) types of Godwin pumps: Dri-Prime self-priming pumps and Heidre hydraulic submersible pumps.",
+  "description_fetched_at": "2026-11-24T11:06:24.876Z",
+  "content_hash": "3d877a7eeb777b3524f4f67afd34d7eb57b3a2c42ed6a7df4f955afda2e62774",
+  "first_seen_at": "2026-11-24T11:06:24.876Z",
+  "last_seen_at": "2026-11-24T11:06:24.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

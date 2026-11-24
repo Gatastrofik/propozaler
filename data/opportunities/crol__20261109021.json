@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261109021",
+  "source": "crol",
+  "source_id": "20261109021",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261109021",
+  "title": "RFP 521197 - Environmental Investigations and Abatement Monitoring for Asbestos, Lead, Mold, and Soil Contaminant",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Housing Authority",
+  "agency_path": "City of New York > Housing Authority",
+  "buyer_level": "authority",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-23",
+  "due_at": "2027-01-05T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-23",
+  "solicitation_number": "521197",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Alexander Davila",
+      "email": "professionalservices.procurement@nycha.nyc.gov",
+      "phone": "(212) 306-4512"
+    }
+  ],
+  "submit_to": "90 church street 6th floor new york NY 10007",
+  "attachments": [],
+  "description_text": "NYCHA intends to enter up to four (4) agreements (the \u001aAgreement\u001a) with the selected Proposer(s) (the \u001aSelected Proposer(s)\u001a or the \u001aConsultant(s)\u001a) to provide the Services. Each Agreement will be an Indefinite Delivery, Indefinite Quantity (IDIQ) Agreement.\n\nIf a Proposer has separately been awarded an agreement by NYCHA for Services (similar to the Services or otherwise), such award shall not, in of itself, disqualify the Proposer from being awarded an Agreement pursuant to this RFP. Such award shall, however, be a factor in the evaluation criteria described in Section V of this RFP with respect to the Proposer\u001as staffing capacity and ability to perform the Services if the Proposer is awarded an Agreement.\n\nProposers may be awarded one of the following two (2) types of Agreements based on the qualifications submitted in their respective Proposals.\n\n        a.    Type \u001aA\u001a Environmental Agreement (4H):\n\nBeing selected for Type A Environmental Agreement will qualify the Consultant to perform Services for all four (4) environmental hazards: asbestos, lead, mold, and soil contaminants (including soil-related contaminants such as groundwater and vapor).\n\n           b.    Type \u001aB\u001a: Environmental Agreement (3H):\n\nBeing selected for the Type B Environmental Agreement will qualify the Consultant to perform Services for three (3) environmental hazards: asbestos, lead, and mold, but excludes soil contaminants and soil-related contaminants (including those found in soil, groundwater and vapor).\n\nThe Term of this Contract is five (5) years with no option to renew.\n\nA non-mandatory Proposers\u001a conference (\u001aProposers\u001a Conference\u001a) will be hosted online via Microsoft Teams on December 03, 2026, at 10:00 A.M.  Although attendance is not mandatory at the Proposers\u001a Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: \n\nMicrosoft Teams meeting \nJoin on your computer, mobile app or room device \nOption 1: Copy and paste the below into your browser.\nhttps://teams.microsoft.com/meet/2474993852436952?p=v5k7jvsH13Z5tOJq6X\n\nOption 2: call in (audio only)\n+1 646-838-1534,,361078412# United States, New York City\nPhone conference ID: 361 078 412#\n\nPlease note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason\n\nPrior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.\n\nRFP Question Deadline: 12/10/2026 at 2:00 P.M. \nQuestion and Answer Release Date: 12/17/2026 \nProposal Submission Deadline: 01/05/2027 at 2:00 P.M. \nAnticipated Agreement Award Date: May 2027 \n\nPlease note: An Up-to-Date Prevailing Wages Links are posted on iSupplier under Quick Links Section of Sourcing Supplier. The vendors are responsible for being informed of any updates to the Prevailing Wage Schedule.\n\nInterested firms are invited to obtain a copy of the RFQ on NYCHA`s website. To conduct a search for the RFQ number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page.",
+  "description_fetched_at": "2026-11-24T11:06:24.876Z",
+  "content_hash": "1d85cfb67c2629adf0235e65b5ceca6ee8d661225374dab16258d0fe3399e34a",
+  "first_seen_at": "2026-11-24T11:06:24.876Z",
+  "last_seen_at": "2026-11-24T11:06:24.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:title:asbestos",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

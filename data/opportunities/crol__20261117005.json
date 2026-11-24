@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261117005",
+  "source": "crol",
+  "source_id": "20261117005",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261117005",
+  "title": "NYC Educational Construction Fund RFP for Audit and Accounting Advisory Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Educational Construction Fund",
+  "agency_path": "City of New York > Educational Construction Fund",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-23",
+  "due_at": "2026-12-15T15:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-23",
+  "solicitation_number": "250116",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Elina Awadalla",
+      "email": "eawadalla@nycsca.org",
+      "phone": "(718) 472-8287"
+    }
+  ],
+  "submit_to": "25-01 Jackson Avenue, 16th Floor, Long Island City, NY 11101",
+  "attachments": [],
+  "description_text": "Email proposals by December 15, 2026, at 3:00 p.m. ET to Elina Awadalla at EAWADALLA@nycsca.org, with each Technical and Fee Proposal as a separate searchable PDF. ECF will confirm receipt. Late proposals will not be considered. Email questions to the same address by December 1, 2026. Answers will be issued to all firms (that have received the RFP or indicated they will be submitting a proposal) by December 7, 2026; only a written addendum binds ECF. Until award, firms may communicate about this RFP only with the designated contact.",
+  "description_fetched_at": "2026-11-24T11:06:24.876Z",
+  "content_hash": "f79765be29e76cf44aaf4dfc9a79383aea9ebf0baf4f774c24371f921996f50f",
+  "first_seen_at": "2026-11-24T11:06:24.876Z",
+  "last_seen_at": "2026-11-24T11:06:24.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

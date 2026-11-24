@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261117010",
+  "source": "crol",
+  "source_id": "20261117010",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261117010",
+  "title": "Consulting Services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Dept. of Social Svcs/Human Resources Administration",
+  "agency_path": "City of New York > Dept. of Social Svcs/Human Resources Administration",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-23",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-23",
+  "solicitation_number": "06924G0017001R001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Renewal",
+  "set_aside": null,
+  "estimated_value": 2608000,
+  "contacts": [
+    {
+      "name": "Huguette Beauport",
+      "email": "beauporth@dss.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "DSS/ITS has requested to utilize the two-year renewal option to the current contract with Prutech Solutions Inc (BID # DSS-ITS-C-20230810-1; PIN: 24GPMIT14710). The original contract expires on Dec 31, 2026. The renewal period is from Jan 1, 2027 to Dec 31, 2028 in the amount of $ 2,608,000.00. The vendor will provide consulting services for the Coordinated Assessment and Placement Systems/CAS, ACCESS HRA Releases and Public Engagement Unit Systems.",
+  "description_fetched_at": "2026-11-24T11:06:24.876Z",
+  "content_hash": "2cdac10e2e6ba31fbe6e6178f217ef7a9ee8238fe88b982a3d258d47fb5c41e7",
+  "first_seen_at": "2026-11-24T11:06:24.876Z",
+  "last_seen_at": "2026-11-24T11:06:24.876Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

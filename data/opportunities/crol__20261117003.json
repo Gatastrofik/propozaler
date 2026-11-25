@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261117003",
+  "source": "crol",
+  "source_id": "20261117003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261117003",
+  "title": "ELECTRONIC BALLOT ACCESSIBILITY",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Board of Elections",
+  "agency_path": "City of New York > Board of Elections",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-24",
+  "due_at": "2026-11-25T13:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-24",
+  "solicitation_number": "003202713",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Sherwin Suss",
+      "email": "ssuss@boenyc.gov",
+      "phone": "(212) 487-5300"
+    }
+  ],
+  "submit_to": "32 Broadway, 7th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "Pursuant to PPB Rule 3-04(b)(2)(iv) of the Procurement Policy Board Rules, the Board of Elections intends to enter into a Negotiated Acquisition with Democracy Live! to continue the provision of highly specialized services relating to the creation of accessible remote electronic ballots. For the Board of Elections, Democracy Live! converts ballots to an accessible digital format and through their NYC cyber approved Omni portal, makes the delivery and return of accessible ballots secure and safe. This contract is being continued to allow the New York State Board of Elections additional time to implement their digital ballot accessibility program for the state. This is for informational purposes only.Contract Term: 01/01/2027 - 12/31/2029Renewal Clauses: One (1) renewal option for one (1) year, from 01/01/2029 - 12/31/2030.",
+  "description_fetched_at": "2026-11-25T11:06:09.579Z",
+  "content_hash": "75bc39bfb9aa05e6a054ff5a0acaaccf71b7a41c10597a152ff1d403feb4c708",
+  "first_seen_at": "2026-11-25T11:06:09.579Z",
+  "last_seen_at": "2026-11-25T11:06:09.579Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261118001",
+  "source": "crol",
+  "source_id": "20261118001",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261118001",
+  "title": "Computer Technology Services OGS",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-24",
+  "due_at": "2026-11-25T00:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-24",
+  "solicitation_number": "26027N0053",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Marshalee Pinto",
+      "email": "mcunningham@dycd.nyc.gov",
+      "phone": "(646) 343-6529"
+    }
+  ],
+  "submit_to": "123 William Street, 17th Floor, New York, NY 10038",
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the Procurement Policy Board Rules, the Department of Youth and Community Development will negotiate with the following Software Developer services to augment the existing DYCD IT team in support of DYCD programs.\n\nThe term of this contract shall be 11/09/2026 to 11/08/2027 with no option to renew.\n\nBelow is the provider\u001as name, PIN number, address and the amount.\n\nEPIN: 26027N0053\n\nContractor Name: Computer Technology Services Inc\n\nContractor Adress: 200 Great Oaks Blvd, Suite 211, Albany, NY 12203\n\nContract Amount: $50,000.00\n\nPlease be advised that this is for information purposes only. If you wish to contact DYCD for further information, please send an email to ACCO@dycd.nyc.gov",
+  "description_fetched_at": "2026-11-25T11:06:09.579Z",
+  "content_hash": "1d56f2a2ad6971fed87da7ac541bea3216a659bdaa802fe5fda5e1b123dac006",
+  "first_seen_at": "2026-11-25T11:06:09.579Z",
+  "last_seen_at": "2026-11-25T11:06:09.579Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

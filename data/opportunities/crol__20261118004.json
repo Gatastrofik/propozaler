@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261118004",
+  "source": "crol",
+  "source_id": "20261118004",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261118004",
+  "title": "Critical Facility Management Purchasing Services",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-24",
+  "due_at": "2026-12-28T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-24",
+  "solicitation_number": "2877",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Bennett Mahler",
+      "email": "rfp_contacts@nychhc.org",
+      "phone": "(646) 584-4069"
+    }
+  ],
+  "submit_to": "50 Water Street, 5th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "The Office of Facilities Development is seeking proposals for a range of critical professional services to support the needs of its Facility Management Department in the areas of small-scale urgent sourcing and payments, provision of expert facility management as required, and provision of as-needed key staff to support facility operations.\n\n \n\nThe Vendor shall be responsible to provide: \n\n \n\n 1. Expedited procurement, payment and cost management services of urgent goods and services, all as described further in this SOW (the 'Services'').\n 2. Facilities maintenance support services with respect to certain healthcare facilities owned or occupied by NYC Health + Hospitals and identified by NYC Health + Hospitals.\n 3. As requested on-site professional services and expertise including regulatory and life safety consulting, project and program management, field and technical operational expertise for troubleshooting complex physical plant challenges in a healthcare setting as requested by NYC Health + Hospitals.",
+  "description_fetched_at": "2026-11-25T11:06:09.579Z",
+  "content_hash": "9c92bdda8bb77f1252b5849f842eadfdd4f540ef86b105e77a11e9f8199207d3",
+  "first_seen_at": "2026-11-25T11:06:09.579Z",
+  "last_seen_at": "2026-11-25T11:06:09.579Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

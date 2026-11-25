@@ -1,0 +1,59 @@
+{
+  "id": "crol:20261118002",
+  "source": "crol",
+  "source_id": "20261118002",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261118002",
+  "title": "Facility Maintenance Information System",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "NYC Health + Hospitals",
+  "agency_path": "City of New York > NYC Health + Hospitals",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-24",
+  "due_at": "2026-12-28T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-24",
+  "solicitation_number": "2848",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods and Services",
+  "selection_method": "Request for Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "Bennett Mahler",
+      "email": "rfp_contacts@nychhc.org",
+      "phone": "(646) 584-4069"
+    }
+  ],
+  "submit_to": "50 Water Street, 5th Floor, New York, NY 10004",
+  "attachments": [],
+  "description_text": "NYC Health + Hospitals consists of buildings and infrastructure of various ages and conditions across its many campuses. As the patient base has increased and the methods of delivering care has changed, the buildings, many of which are decades old, have to be constantly upgraded or replaced. This growth has driven the growth of the total square feet of the system to be maintained to over 20,000,000 sq. ft. The Office of Facilities Development (OFD) is responsible for maintenance and operations of all campuses and buildings to ensure the clinicians have the facilities needed to deliver care. Campuses within the network range in size from a few thousand to over a 1 million square feet emphasizing the need for a new and robust Facilities Management and Asset Information System (FMIS) with the capability and capacity to organize, identify, and manage all infrastructure assets. This project entails the procurement and implementation of an industry-standard FMIS solution that will fulfill the business requirements of the Health System.\n\nThis program is responsible for maintaining and upgrading all vertical transportation, life safety systems, HVAC systems, mechanical systems, electrical systems, plumbing systems, and potable water systems.  To manage and maintain all this equipment, OFD relies on an assortment of software applications, spreadsheets, shared files and emails which is very labor intensive. The FMIS will provide NYC Health + Hospitals:\n\n * The tools to successfully create standardized maintenance programs, space data, and issue and track work orders, increasing efficiencies by standardizing business processes and reporting data from a single source of truth, while also ensuring accountability and auditability of information. \n * A single source that systemically ingests data, guides users, mandates required information, drives review and approvals, manages schedules and provides clear summaries of tasks coming due. \n * Reliable and accurate reporting at the facility and system level for presentation to the Health System Leadership\n * The ability to better manage resources, ensure equipment is optimized and operating efficiently, and maintain an up to date asset and space inventory. \n * Provides trends on critical equipment by way of PMs and CMs in order to pre-determine failures in advance and allow for scheduled as well as budgeted repair or replacement.",
+  "description_fetched_at": "2026-11-25T11:06:09.579Z",
+  "content_hash": "f9fa9b2173e291d57f3ab8b4ff63377a777be457bc6873357eb531ab1536bb49",
+  "first_seen_at": "2026-11-25T11:06:09.579Z",
+  "last_seen_at": "2026-11-25T11:06:09.579Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 3,
+    "matched": [
+      "bonus:software:software",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

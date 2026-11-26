@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261113003",
+  "source": "crol",
+  "source_id": "20261113003",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261113003",
+  "title": "84126N0011-Bridge Grid Deck Panels at Grand Street Bridge",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Transportation",
+  "agency_path": "City of New York > Transportation",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": "2027-12-09T17:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-25",
+  "solicitation_number": "84126N0011",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "David Maco",
+      "email": "dmaco@dot.nyc.gov",
+      "phone": "(212) 839-9400"
+    }
+  ],
+  "submit_to": "55 Water Street, 8th Floor, New York, NY 10041",
+  "attachments": [],
+  "description_text": "The New York City Department of Transportation (NYCDOT) Division of Bridges seeks to procure and install Bridge Grid Deck Panels at the Grand Street Bridge, and has received approval from the New York City Mayor\u001as Office of Contract Services (MOCS) to use a Competitive Negotiated Acquisition (NA) pursuant to Section 3-04(b)(2)(ii) and Section 3-04(b)(2)(i)(D) of the New York City Procurement Policy Board Rules (\u001aPPB\u001a) Rules, as there are a limited number of vendors available and able to perform the work and it is not practical or advantageous to award a contract for these services by competitive sealed bidding or competitive sealed proposal. \n\nThe Division follows established industry standards in the use of open and partially filled steel grid decking systems for movable and fixed bridges. These systems must meet the performance, durability, and fabrication quality requirements defined by the BGFMA, which sets nationally recognized benchmarks for heavy-duty applications such as movable bridges, port facilities, and transportation infrastructure with standards that align with requirements from the American Institute of Steel Construction, as well as New York State Steel Construction Manual provisions and New York State ('NYS') Department of Transportation Standard Specifications (Sections 719-01 and 709-06, NYS Item 596.12201029).\n\nMinimum Qualifications: The work shall only be performed by a Fabrication Contractor who is certified by all of the following organizations: Bridge Grid Flooring Manufacturers Association (BGFMA), American Welding Society (AWS), and the American Institute of Steel Construction (AISC).\n\nFirms certified to meet BGFMA requirements are limited and highly specialized. Currently, there are only three fabricators that are certified by BGFMA:\n\n 1. Frontier Gratings LLC\n 2. Mission Critical Services LLC\n 3. Ohio Gratings, Inc.\n\nThe Agency is providing Notice of Intent to enter into Negotiations with firms identified as meeting the minimum qualifications for the purpose of selecting the vendor and awarding a contract to purchase the Bridge Grid Deck Panels (5-3/16' Open 4-Way Modified Steel Grid Decking A709 GR 50, Galvanized). The estimated quantity is 1560 (unit of measurement: Square Feet).\n\nThe term of the contract will be for one year, with a projected start date of March 1, 2027 and a projected end date of February 28, 2028.\n\nThe agency will consider expressions of interest from any firm that can prove it meets the above-referenced minimum qualifications.  A vendor wishing to \u001aexpress interest\u001a must respond to the RFx associated with this Notice of Intent by 5:00 pm on 12/9/2026.\n\nTo respond to this RFx, vendors wishing to \u001aexpress interest\u001a should visit the PASSPort Public Portal.  To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page  then click on the rectangle captioned \u001aProcurement Navigator,\u001a whereupon you will arrive at the Portal. To quickly locate the RFx, insert the following EPIN, 84126N0011, into the Keyword search field, then click search. In order to respond to the RFx, vendors must create an account within the PASSPort system if they have not already done so. Any inquiries concerning this RFx should be directed by e-mail under the subject line 'Bridge Grid Deck Panels at Grand Street Bridge\u001a to the email address of the Authorized Agency Contact, David Maco, at dmaco@dot.nyc.gov by 5:00 pm on 12/2/26. Responses/Expressions of Interest to this RFx must be submitted via PASSPort on or prior to the due date, 12/9/26 by 5:00 pm.\n\nThe specific elements of a special case applicable here are Section 3-04(b)(2)(i)(D) where there is a time-sensitive situation where a vendor must be retained quickly because: a compelling need for goods, services, construction, and/or construction-related services exists that cannot be timely met through competitive sealed bidding or competitive sealed proposals; and Section 3-04 (b) (2) (ii): there is a limited number of vendors available and able to perform the work. This city-funded procurement is subject to an M/WBE goal of 0%.",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "859adf53fd3d14fdc2709b103829f5a27f6845b9a4bd465f5b24ff3257b34319",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

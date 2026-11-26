@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261119012",
+  "source": "crol",
+  "source_id": "20261119012",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261119012",
+  "title": "FY27 New Contract   NY 15/15 Congregate Supportive Housing",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Health and Mental Hygiene",
+  "agency_path": "City of New York > Health and Mental Hygiene",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-25",
+  "solicitation_number": "81622P004007",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Human Services/Client Services",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": 34453125,
+  "contacts": [
+    {
+      "name": "Matthew Naumov",
+      "email": "mnaumov@health.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In November 2015 Mayor Bill de Blasio announced the NYC Supportive Housing Initiative to fund and develop 15,000 new units of supportive housing in New York City over the next fifteen years.  Supportive housing combines affordable housing with appropriate social services to help special populations, including individuals and families with serious mental (SMI) illness and substance use disorders (SUD).  The NYC Human Resources Administration (HRA) is the lead agency for procuring service awards for the 15,000 supportive housing units. This RFP will only provide support services and not rental assistance. Ongoing contract management will be provided by the NYC Department of Health and Mental Hygiene (DOHMH). The NYC Department of Housing Preservation and Development (HPD) may award rental assistance and capital to support the projects; however, providers may also secure other sources of funding for rental assistance or capital funding. HPD will work with supportive housing developers to obtain project-based rental assistance for all of its supportive housing projects. The City commitment is for both congregate and scattered-site models of supportive housing. This RFP will provide funding solely for the congregate model. Jerome Avenue, Bronx, NY 10453 (Round 24).\n\nThe preferred method of procurement for Human Service contracts is competitive sealed proposal method as discussed in Section 3-01(c) of the PPB Rules. This is an open ended RFP to procure supportive housing. Proposals need to be evaluated and score to determine whether viable.",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "f1eea9bf82aa4adb749196b626a09d7155dbb6eb85ea1b891f93ebbbdc76c05b",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "exclude:category:Human Services/Client Services",
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "crol:20261104023",
+  "source": "crol",
+  "source_id": "20261104023",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261104023",
+  "title": "Asset Management Services (AIMS)",
+  "notice_type": "solicitation",
+  "notice_type_raw": "Solicitation",
+  "agency": "Management and Budget",
+  "agency_path": "City of New York > Management and Budget",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": "2027-01-20T14:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-25",
+  "solicitation_number": "00227P0001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Competitive Sealed Proposals",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [
+    {
+      "name": "LacyAnn Dunkley",
+      "email": "contracts@omb.nyc.gov",
+      "phone": "(212) 788-3114"
+    }
+  ],
+  "submit_to": "255 Greenwich Street, New York, NY 10007",
+  "attachments": [],
+  "description_text": "The Office of Management and Budget (OMB) is seeking to award one (1) contract to an appropriately qualified architectural/engineering firm to provide Asset Management services on an as-needed basis.\n\nThe RFx will be accessible through the PASSPort Public Portal: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public Enter 00227P0001 on the 'Keywords' field to search for the project. A Pre-Proposal Conference will held via Teams. Please review the RFx in PASSPort for more details.",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "61f9b37477cdb8da2168a396202afdc598dab46fb7c50e847ce7b3e4051a3a01",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

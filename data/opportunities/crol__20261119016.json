@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261119016",
+  "source": "crol",
+  "source_id": "20261119016",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261119016",
+  "title": "IT consultant services",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Youth and Community Development",
+  "agency_path": "City of New York > Youth and Community Development",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-25",
+  "solicitation_number": "26026O0006001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Intergovernmental Purchase",
+  "set_aside": null,
+  "estimated_value": 370962,
+  "contacts": [
+    {
+      "name": "Kevin Best",
+      "email": "kbest@dycd.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "The New York City Department of Youth and Community Development (DYCD) is utilizing the HBITS OGS contract to provide IT consultant services to augment our existing IT team. These consultants will assist in the development, enhancement, and support of internal systems that underpin the programs. The consultants will work on building and enhancing DYCD\u001as internal systems.",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "be53aa45abde94691d2a088af67e12e5a942594d91b143dc10873804043f8fb2",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "crol:20261119013",
+  "source": "crol",
+  "source_id": "20261119013",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261119013",
+  "title": "Training for National & Local Standards for Sprinkler System",
+  "notice_type": "award",
+  "notice_type_raw": "Award",
+  "agency": "Buildings",
+  "agency_path": "City of New York > Buildings",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": null,
+  "due_at_source": null,
+  "archive_at": "2026-11-25",
+  "solicitation_number": "81027U0004001",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Other",
+  "set_aside": null,
+  "estimated_value": 89380,
+  "contacts": [
+    {
+      "name": "Marsha Paul-Bull",
+      "email": "mpaulbull@buildings.nyc.gov"
+    }
+  ],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Training for national & local standards for sprinkler systems, residential, 1-2 family dwellings and standpipe/hose systems - plan examiners, technical affairs and plumbing staff",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "2527e51825364f14800c606aab2c87d4f8ec4cb22a4923d7ecd314e4b730cfbf",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

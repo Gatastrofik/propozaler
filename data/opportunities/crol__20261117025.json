@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261117025",
+  "source": "crol",
+  "source_id": "20261117025",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261117025",
+  "title": "Barnacle Vehicle Immobilization Devices",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Police Department",
+  "agency_path": "City of New York > Police Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-25",
+  "due_at": "2026-12-07T00:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-25",
+  "solicitation_number": "05627Y0269",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Goods",
+  "selection_method": "Request for Information",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "Pursuant to Section 3-05 of the NYC Procurement Policy Board Rules, it is the intent of the New York City Police Department (\u001aNYPD\u001a), to enter into sole source negotiations with ITSA Solutions, LLC d/b/a Barnacle Parking Enforcement, located at 450 Raritan Center Pkwy, Edison, NJ 08837\n\nNYPD has determined that ITSA Solutions, LLC is the sole source vendor for the Lease of Barnacle Vehicle Immobilization devices because ITSA Solutions, LLC is the sole source vendor, distributor and provider for the Barnacle devices and is legally only available through ITSA Solutions, LLC\n\nAny vendor besides ITSA Solutions, LLC that believes that it can provide the services is invited to do so.  To respond in PASSPort, please upload a Capability Statement in the Documents Submission Section along with any concerns or expressions of interest. If you have any questions about the details of the RFx, please submit them through the Discussion Forum  and  e-mail: contracts@nypd.org",
+  "description_fetched_at": "2026-11-26T11:06:26.538Z",
+  "content_hash": "7ab418734f5c8aec69f2f8d7abd7c89ab151b454a4a28474bec2862d3d0b8cc6",
+  "first_seen_at": "2026-11-26T11:06:26.538Z",
+  "last_seen_at": "2026-11-26T11:06:26.538Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}

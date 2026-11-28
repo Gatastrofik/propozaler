@@ -1,0 +1,52 @@
+{
+  "id": "crol:20261119037",
+  "source": "crol",
+  "source_id": "20261119037",
+  "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261119037",
+  "title": "05727N0003 - NAE Genuine Hurst Rescue Tools and Accessories",
+  "notice_type": "intent_to_award",
+  "notice_type_raw": "Intent to Award",
+  "agency": "Fire Department",
+  "agency_path": "City of New York > Fire Department",
+  "buyer_level": "city",
+  "place": {
+    "state": "NY",
+    "city": "New York",
+    "zip": null
+  },
+  "posted_at": "2026-11-27",
+  "due_at": "2026-12-09T19:00:00-05:00",
+  "due_at_source": "crol",
+  "archive_at": "2026-11-27",
+  "solicitation_number": "05727N0003",
+  "naics": [],
+  "psc": null,
+  "category_raw": "Services (other than human services)",
+  "selection_method": "Negotiated Acquisition",
+  "set_aside": null,
+  "estimated_value": null,
+  "contacts": [],
+  "submit_to": null,
+  "attachments": [],
+  "description_text": "In accordance with Section 3-04(b)(2)(iii) of the New York City Procurement Policy Board Rules, the New York City Fire Department intends to enter into contract negotiations with Firematic Supply Co. INC. for continuity of inspection, maintenance and repair services for Hurst Heavy Duty Rescue Systems and Hurst Rabbit Tools critical to Department operations. The Negotiated Aquisition Extension Contract term is from December 15, 2026, through December 14, 2027. The ePIN for this proposed award is 05727N0003. The proposed total contract amount is $100000.00. This notice is for informational purposes only. Organizations that are interested in expressing interest in similar procurements in the future may contact contracts@fdny.nyc.gov.",
+  "description_fetched_at": "2026-11-28T11:06:06.729Z",
+  "content_hash": "546e0b328f1ae69c33a5c8beb5b9d62b45b367c74ae510b93d9d1f99a799bd6a",
+  "first_seen_at": "2026-11-28T11:06:06.729Z",
+  "last_seen_at": "2026-11-28T11:06:06.729Z",
+  "changes": [],
+  "duplicate_of": null,
+  "prefilter": {
+    "net_score": 2,
+    "matched": [
+      "bonus:home:NY"
+    ],
+    "stage": "filtered_out",
+    "filters_version": 2
+  },
+  "score": null,
+  "feedback": null,
+  "digest": {
+    "sent_in": [],
+    "sent_hash": null
+  }
+}
